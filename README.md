@@ -9,6 +9,10 @@
 
 This is the artifact for our paper "[Web3 × AI Agents: Landscape, Integrations, and Foundational Challenges](#)". This repository is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://opendatacommons.org/licenses/pddl/1.0/ - see the [LICENSE](./LICENSE) file for details.
 
+<div style="overflow: auto;">
+  <img src="./assets/ecosystem.jpg" alt="The ecosystem of Web3-AI Agent" width="1000" style="">
+</div>
+
 ## What is Web3-AI Agent?
 
 Web3-AI Agents represent the convergence of artificial intelligence and decentralized technologies, creating intelligent autonomous systems that operate within blockchain ecosystems. These agents leverage Large Language Models (LLMs) as their core reasoning engine and function as intelligent front-ends for Web3 interactions.
