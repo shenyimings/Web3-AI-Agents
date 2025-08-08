@@ -8,7 +8,7 @@
 <sup>4</sup> Kashi Institute of Electronics and Information Industry, Kashi, China  
 <sup>5</sup> The State Key Laboratory of Blockchain and Data Security, Zhejiang University, Hangzhou, China  
 
-This is the artifact for our paper "[Web3 × AI Agents: Landscape, Integrations, and Foundational Challenges](#)". This repository is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://opendatacommons.org/licenses/pddl/1.0/ - see the [LICENSE](./LICENSE) file for details.
+This is the artifact for our paper "[Web3 × AI Agents: Landscape, Integrations, and Foundational Challenges](https://arxiv.org/abs/2508.02773)". This repository is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://opendatacommons.org/licenses/pddl/1.0/ - see the [LICENSE](./LICENSE) file for details.
 
 <div style="overflow: auto;">
   <img src="./assets/ecosystem.jpg" alt="The ecosystem of Web3-AI Agent" width="1000" style="">
@@ -63,8 +63,8 @@ Each project entry includes the following **Data Fields:** project name, categor
 ```bibtex
 @article{shen2024web3ai,
   title={Web3 × AI Agents: Landscape, Integrations, and Foundational Challenges},
-  author={Shen, Yiming and Zhang, Jiashuo and Shao, Zhenzhe and Luo, Wenxuan and Wang, Yanlin and Chen, Ting and Chen, Jiachi},
-  journal={arXiv preprint arXiv:TBD},
+  author={Shen, Yiming and Zhang, Jiashuo and Shao, Zhenzhe and Luo, Wenxuan and Wang, Yanlin and Chen, Ting, Zheng Zibin and Chen, Jiachi},
+  journal={arXiv preprint arXiv:2508.02773},
   year={2025}
 }
 ```
