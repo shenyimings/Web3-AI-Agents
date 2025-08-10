@@ -1,12 +1,11 @@
 # Web3-AI Agent Artifact
 
-**Yiming Shen<sup>1</sup>**, **Jiashuo Zhang<sup>2</sup>**, **Zhenzhe Shao<sup>1</sup>**, **Wenxuan Luo<sup>3</sup>**, **Yanlin Wang<sup>1</sup>**, **Ting Chen<sup>3,4</sup>**, **Zibin Zheng<sup>1</sup>**, **Jiachi Chen<sup>5</sup>**
+**Yiming Shen<sup>1</sup>**, **Jiashuo Zhang<sup>2</sup>**, **Zhenzhe Shao<sup>1</sup>**, **Wenxuan Luo<sup>3</sup>**, **Yanlin Wang<sup>1</sup>**, **Ting Chen<sup>3</sup>**, **Zibin Zheng<sup>1</sup>**, **Jiachi Chen<sup>4</sup>**
 
 <sup>1</sup> School of Software Engineering, Sun Yat-sen University, Zhuhai, Guangdong, China  
 <sup>2</sup> School of Computer Science, Peking University, Beijing, China  
 <sup>3</sup> School of Computer Science and Engineering (School of Cyber Security), University of Electronic Science and Technology of China, Chengdu, China  
-<sup>4</sup> Kashi Institute of Electronics and Information Industry, Kashi, China  
-<sup>5</sup> The State Key Laboratory of Blockchain and Data Security, Zhejiang University, Hangzhou, China  
+<sup>4</sup> The State Key Laboratory of Blockchain and Data Security, Zhejiang University, Hangzhou, China  
 
 This is the artifact for our paper "[Web3 × AI Agents: Landscape, Integrations, and Foundational Challenges](https://arxiv.org/abs/2508.02773)". This repository is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://opendatacommons.org/licenses/pddl/1.0/ - see the [LICENSE](./LICENSE) file for details.
 
