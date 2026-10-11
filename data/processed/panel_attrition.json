@@ -1,0 +1,1332 @@
+[
+  {
+    "project": "NEAR Protocol",
+    "category": "infrastructure",
+    "coin_id": "near",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 2440934765.8,
+    "t2": 2505422803.031164,
+    "now": 3164297156
+  },
+  {
+    "project": "Fetch Ai/uAgents",
+    "category": "infrastructure, builder, digital-twin",
+    "coin_id": "fetch-ai",
+    "matched_by": "slug",
+    "status": "in category",
+    "t1": 1052161090.03,
+    "t2": 346721097.7298119,
+    "now": 386712761
+  },
+  {
+    "project": "Nexo",
+    "category": "analytics",
+    "coin_id": "nexo",
+    "matched_by": "name",
+    "status": "traded, left category",
+    "t1": 644767391.9,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Virtuals-Protocol",
+    "category": "infrastructure, launchpad",
+    "coin_id": "virtual-protocol",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 394089602.56,
+    "t2": 458683354.6952633,
+    "now": 425833774
+  },
+  {
+    "project": "SingularityNET",
+    "category": "builder",
+    "coin_id": "singularitynet",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 262355178.3,
+    "t2": 15998433.507663675,
+    "now": 17436632
+  },
+  {
+    "project": "OriginTrail",
+    "category": "trust, rwa",
+    "coin_id": "origintrail",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 188188985.73,
+    "t2": 143567291.9821841,
+    "now": 140400014
+  },
+  {
+    "project": "Eliza",
+    "category": "builder",
+    "coin_id": "ai16z",
+    "matched_by": "alias",
+    "status": "in category",
+    "t1": 152146919.65,
+    "t2": 575578.133316176,
+    "now": 562922
+  },
+  {
+    "project": "Alchemist AI",
+    "category": "builder",
+    "coin_id": "alchemist-ai",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 135986082.25,
+    "t2": 30187792.69222912,
+    "now": 31365980
+  },
+  {
+    "project": "Freysa",
+    "category": "digital-twin",
+    "coin_id": "freysa-ai",
+    "matched_by": "contract",
+    "status": "in category",
+    "t1": 126329134.55,
+    "t2": 20302232.775884997,
+    "now": 18895369
+  },
+  {
+    "project": "Paal AI",
+    "category": "defai, analytics, content-creation",
+    "coin_id": "paal-ai",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 107682596.0,
+    "t2": 6163908.827594809,
+    "now": 5618141
+  },
+  {
+    "project": "Humans.ai",
+    "category": "builder, trust",
+    "coin_id": "humans-ai",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 78771274.6,
+    "t2": 1721489.4272843376,
+    "now": 1645947
+  },
+  {
+    "project": "Delysium",
+    "category": "infrastructure",
+    "coin_id": "delysium",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 74766757.52,
+    "t2": 15951061.414574018,
+    "now": 13346419
+  },
+  {
+    "project": "Phala Network",
+    "category": "infrastructure, builder, trust",
+    "coin_id": "pha",
+    "matched_by": "contract",
+    "status": "in category",
+    "t1": 74580107.19,
+    "t2": 20935752.150699615,
+    "now": 22234680
+  },
+  {
+    "project": "Wayfinder",
+    "category": "defai",
+    "coin_id": "wayfinder",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 73140533.82,
+    "t2": 5523189.599470715,
+    "now": 4825493
+  },
+  {
+    "project": "Aixbt",
+    "category": "analytics",
+    "coin_id": "aixbt",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 64765720.09,
+    "t2": 20166338.015495647,
+    "now": 20648130
+  },
+  {
+    "project": "Venice.ai",
+    "category": "trust",
+    "coin_id": "venice-token",
+    "matched_by": "alias",
+    "status": "in category",
+    "t1": 63839240.68,
+    "t2": 798532281.1805948,
+    "now": 1171332649
+  },
+  {
+    "project": "ChainGPT",
+    "category": "copilot",
+    "coin_id": "chaingpt",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 57394072.8,
+    "t2": 18128469.27436246,
+    "now": 20361124
+  },
+  {
+    "project": "Propy",
+    "category": "rwa",
+    "coin_id": "propy",
+    "matched_by": "name",
+    "status": "traded, left category",
+    "t1": 55462672.31,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Artificial Liquid Intelligence",
+    "category": "infrastructure",
+    "coin_id": "alethea-artificial-liquid-intelligence-token",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 50478483.04,
+    "t2": 11189592.43549943,
+    "now": 11992869
+  },
+  {
+    "project": "Hey Anon",
+    "category": "defai",
+    "coin_id": "heyanon",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 46651860.8,
+    "t2": 4431064.526056354,
+    "now": 3473668
+  },
+  {
+    "project": "Clanker tokenbot",
+    "category": "launchpad",
+    "coin_id": "tokenbot-2",
+    "matched_by": "slug",
+    "status": "in category",
+    "t1": 46182910.61,
+    "t2": 12655025.967411531,
+    "now": 12117898
+  },
+  {
+    "project": "Autonolas",
+    "category": "launchpad, builder",
+    "coin_id": "autonolas",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 44284719.39,
+    "t2": 7409585.305977292,
+    "now": 8007908
+  },
+  {
+    "project": "Morphware",
+    "category": "infrastructure",
+    "coin_id": "morphware",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 44254609.07,
+    "t2": 122676.58701840212,
+    "now": 117236
+  },
+  {
+    "project": "Cookie DAO",
+    "category": "analytics",
+    "coin_id": "cookie",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 43926347.91,
+    "t2": 9601602.156007528,
+    "now": 8541088
+  },
+  {
+    "project": "AI Rig Complex",
+    "category": "builder",
+    "coin_id": "ai-rig-complex",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 38202816.8,
+    "t2": 69680672.3884751,
+    "now": 71946800
+  },
+  {
+    "project": "MyShell",
+    "category": "builder",
+    "coin_id": "myshell",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 37846470.66,
+    "t2": 6145448.667383231,
+    "now": 5740427
+  },
+  {
+    "project": "NodeAI",
+    "category": "infrastructure",
+    "coin_id": "nodeai",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 37153415.95,
+    "t2": 1070712.2829890111,
+    "now": 918744
+  },
+  {
+    "project": "Assemble AI",
+    "category": "analytics",
+    "coin_id": "assemble-protocol",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 35212323.56,
+    "t2": 7906501.238633806,
+    "now": 7651981
+  },
+  {
+    "project": "Solidus Ai Tech",
+    "category": "launchpad, builder",
+    "coin_id": "solidus-aitech",
+    "matched_by": "contract",
+    "status": "in category",
+    "t1": 31848141.16,
+    "t2": 9694457.948021377,
+    "now": 8592615
+  },
+  {
+    "project": "NetMind",
+    "category": "infrastructure",
+    "coin_id": "netmind-token",
+    "matched_by": "slug-id",
+    "status": "in category",
+    "t1": 30813212.09,
+    "t2": 3081997.288257053,
+    "now": 3179073
+  },
+  {
+    "project": "RSS3",
+    "category": "analytics",
+    "coin_id": "rss3",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 30012982.12,
+    "t2": 9034239.065413747,
+    "now": 3905696
+  },
+  {
+    "project": "Griffain",
+    "category": "defai",
+    "coin_id": "griffain",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 28847499.26,
+    "t2": 11488211.82004321,
+    "now": 11116719
+  },
+  {
+    "project": "Swarms",
+    "category": "builder",
+    "coin_id": "swarms",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 24164349.75,
+    "t2": 7813426.710508706,
+    "now": 6854126
+  },
+  {
+    "project": "Zerebro",
+    "category": "content-creation",
+    "coin_id": "zerebro",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 23349297.4,
+    "t2": 38346712.77853419,
+    "now": 35810957
+  },
+  {
+    "project": "Tars AI",
+    "category": "builder",
+    "coin_id": "tars-protocol",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 22194477.27,
+    "t2": 4325254.9122444345,
+    "now": 3594970
+  },
+  {
+    "project": "Spectral",
+    "category": "copilot",
+    "coin_id": "spectral",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 21214057.62,
+    "t2": 1827655.0455429011,
+    "now": 478307
+  },
+  {
+    "project": "OpenServ",
+    "category": "builder",
+    "coin_id": "openserv",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 18421119.43,
+    "t2": 15094644.841070378,
+    "now": 16187871
+  },
+  {
+    "project": "Spectre AI",
+    "category": "analytics",
+    "coin_id": "spectre-ai",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 18247895.89,
+    "t2": 3759832.3896548413,
+    "now": 3785274
+  },
+  {
+    "project": "Oort",
+    "category": "infrastructure",
+    "coin_id": "oort",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 17460000.0,
+    "t2": 1355441.612934518,
+    "now": 1610112
+  },
+  {
+    "project": "SwarmNode.ai",
+    "category": "infrastructure",
+    "coin_id": "swarmnode-ai-2",
+    "matched_by": "name",
+    "status": "traded, left category",
+    "t1": 12312586.7,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Empyreal",
+    "category": "infrastructure, builder",
+    "coin_id": "empyreal",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 11321802.31,
+    "t2": 1353080.0843940477,
+    "now": 845933
+  },
+  {
+    "project": "Botto",
+    "category": "content-creation",
+    "coin_id": "botto",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 10501067.01,
+    "t2": 2076645.268130002,
+    "now": 1957876
+  },
+  {
+    "project": "CreatorBid",
+    "category": "launchpad",
+    "coin_id": "creatorbid",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 10019396.59,
+    "t2": 2507703.0254373765,
+    "now": 2355609
+  },
+  {
+    "project": "Mind Network",
+    "category": "trust",
+    "coin_id": "mind-network",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 8805462.58,
+    "t2": 5260282.134795806,
+    "now": 5028527
+  },
+  {
+    "project": "ORBIT",
+    "category": "defai",
+    "coin_id": "orbit-3",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 8500898.63,
+    "t2": 180325.04413338724,
+    "now": 169465
+  },
+  {
+    "project": "tao.bot",
+    "category": "infrastructure, launchpad",
+    "coin_id": "tao-bot",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 8211994.26,
+    "t2": 3818490.936580363,
+    "now": 2996172
+  },
+  {
+    "project": "Luna",
+    "category": "game",
+    "coin_id": "luna-by-virtuals",
+    "matched_by": "slug-id",
+    "status": "in category",
+    "t1": 7978695.81,
+    "t2": 5597776.789508669,
+    "now": 5032978
+  },
+  {
+    "project": "Bad Idea AI",
+    "category": "content-creation",
+    "coin_id": "bad-idea-ai",
+    "matched_by": "name",
+    "status": "traded, left category",
+    "t1": 7644239.56,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Reploy",
+    "category": "copilot, builder, analytics",
+    "coin_id": "reploy",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 7512468.39,
+    "t2": null,
+    "now": 98065
+  },
+  {
+    "project": "LinqAI",
+    "category": "defai",
+    "coin_id": "linqai",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 7319175.58,
+    "t2": 2265003.109701839,
+    "now": 1803889
+  },
+  {
+    "project": "Sensay",
+    "category": "digital-twin",
+    "coin_id": "sensay",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 7159405.85,
+    "t2": 598708.6718690722,
+    "now": 592426
+  },
+  {
+    "project": "Strawberry AI",
+    "category": "analytics",
+    "coin_id": "strawberry-ai",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 6998136.5,
+    "t2": 947540.4027222013,
+    "now": 851007
+  },
+  {
+    "project": "HyperGPT",
+    "category": "builder",
+    "coin_id": "hypergpt",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 6597567.76,
+    "t2": 1394958.4343669016,
+    "now": 1737560
+  },
+  {
+    "project": "Trias",
+    "category": "infrastructure",
+    "coin_id": "trias-token",
+    "matched_by": "slug-id",
+    "status": "in category",
+    "t1": 6382839.83,
+    "t2": 1730487.6614417578,
+    "now": 1549442
+  },
+  {
+    "project": "HYTOPIA",
+    "category": "game",
+    "coin_id": "hytopia",
+    "matched_by": "slug-id",
+    "status": "traded, left category",
+    "t1": 6376656.86,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Botify",
+    "category": "builder",
+    "coin_id": "botify",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 6129527.68,
+    "t2": 48709.99327031916,
+    "now": 47767
+  },
+  {
+    "project": "DexCheck AI",
+    "category": "analytics",
+    "coin_id": "dexcheck",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 5007943.47,
+    "t2": 86462.57593149913,
+    "now": 78788
+  },
+  {
+    "project": "Super Champs",
+    "category": "game",
+    "coin_id": "super-champs",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 4992385.31,
+    "t2": 535301.1676649813,
+    "now": 652356
+  },
+  {
+    "project": "Max",
+    "category": "analytics",
+    "coin_id": "max-2",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 4689598.3,
+    "t2": 67174.65741516497,
+    "now": 69718
+  },
+  {
+    "project": "METAVERSE",
+    "category": "launchpad, trust",
+    "coin_id": "metaverse",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 4484733.95,
+    "t2": 2118429.281640184,
+    "now": 2063891
+  },
+  {
+    "project": "SubQuery",
+    "category": "infrastructure, builder",
+    "coin_id": "subquery-network",
+    "matched_by": "slug-id",
+    "status": "traded, left category",
+    "t1": 3960000.0,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Neuron (AI Arena)",
+    "category": "game",
+    "coin_id": "neuron",
+    "matched_by": "slug-id",
+    "status": "in category",
+    "t1": 3392666.03,
+    "t2": null,
+    "now": 139744
+  },
+  {
+    "project": "Cryptify AI",
+    "category": "analytics",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": 3281061.36,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Commune AI",
+    "category": "infrastructure",
+    "coin_id": "commune-ai",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 2743847.97,
+    "t2": null,
+    "now": 203753
+  },
+  {
+    "project": "TopHat",
+    "category": "launchpad, builder",
+    "coin_id": "top-hat",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 2297174.62,
+    "t2": 74705.50730493286,
+    "now": 66855
+  },
+  {
+    "project": "KEKE Terminal",
+    "category": "content-creation",
+    "coin_id": "keke-terminal",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 2252772.0,
+    "t2": 19320.49231956813,
+    "now": 13762.0
+  },
+  {
+    "project": "Sui Agents",
+    "category": "content-creation",
+    "coin_id": "sui-agents",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 1341737.0,
+    "t2": null,
+    "now": 15690.5
+  },
+  {
+    "project": "Orbofi AI",
+    "category": "game, digital-twin, content-creation",
+    "coin_id": "orbofi-ai",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 1322376.0,
+    "t2": 288934.0476728709,
+    "now": 287920
+  },
+  {
+    "project": "Sharpe Labs",
+    "category": "analytics",
+    "coin_id": "sharpe-ai",
+    "matched_by": "slug-id",
+    "status": "in category",
+    "t1": 811747.69,
+    "t2": 375379.43975295726,
+    "now": 406523
+  },
+  {
+    "project": "theoriq",
+    "category": "infrastructure",
+    "coin_id": "theoriq",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 727000.0,
+    "t2": 9287805.030698096,
+    "now": 9175478
+  },
+  {
+    "project": "AI Agent Layer",
+    "category": "launchpad, builder, digital-twin",
+    "coin_id": "ai-agent-layer",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 535999.84,
+    "t2": null,
+    "now": 53119
+  },
+  {
+    "project": "Pillzumi",
+    "category": "game",
+    "coin_id": "pillzumi",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": 52540.0,
+    "t2": null,
+    "now": 12138.95
+  },
+  {
+    "project": "G-Agents",
+    "category": "defai, game",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": 7310.35,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "IntentKit",
+    "category": "builder",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": 5680.0,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Numer.ai",
+    "category": "analytics",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": 4680.0,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "AIxBlock",
+    "category": "builder",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": 3720.0,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Agents Land",
+    "category": "launchpad",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": 3678.0,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "crypto-agent",
+    "category": "analytics",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "CryptoAgent: Real-Time Cryptocurrency Data Analysis Agent",
+    "category": "analytics",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "crypto-agent-llama",
+    "category": "analytics",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Multi-Agent Crypto Research Platform",
+    "category": "analytics",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Starknet-Txn-Simulator",
+    "category": "analytics",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "RAFA",
+    "category": "analytics",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Defi Lens",
+    "category": "analytics",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Beepo",
+    "category": "analytics",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "BlockSurvey",
+    "category": "analytics",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Genesis",
+    "category": "builder",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Nine",
+    "category": "builder",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "agentek",
+    "category": "builder",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Coinmarket MCP server",
+    "category": "builder",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "cryptopanic-mcp-server",
+    "category": "builder",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Cryo MCP",
+    "category": "builder",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "@brian-ai/langchain",
+    "category": "builder",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "AGI-Agent-v0",
+    "category": "builder",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Geneva",
+    "category": "builder",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Ergo Explorer MCP Server",
+    "category": "builder",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Mesh Agent MCP Server",
+    "category": "builder",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Crypto-kit",
+    "category": "builder",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Crypto Fear & Greed Index MCP Server",
+    "category": "builder, analytics",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "PumpChat",
+    "category": "builder, content-creation",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "goat",
+    "category": "builder, defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "OpenAgent Framework",
+    "category": "builder, defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "BNB Chain Agentkit",
+    "category": "builder, defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "ANUS-DREAMS",
+    "category": "builder, defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Free USDC Transfer MCP Server",
+    "category": "builder, defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "ZBD MCP Server",
+    "category": "builder, defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Lightning Network MCP Server",
+    "category": "builder, defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Web3 MCP",
+    "category": "builder, defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "NFTsWithBenefits",
+    "category": "builder, game",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "AI Powers",
+    "category": "content-creation",
+    "coin_id": "ai-powers",
+    "matched_by": "name",
+    "status": "traded, left category",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Aylab",
+    "category": "content-creation",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Titan-AI",
+    "category": "copilot",
+    "coin_id": "titan-ai",
+    "matched_by": "name",
+    "status": "traded, left category",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Decipher",
+    "category": "copilot",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Kvants AI",
+    "category": "defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "IntenX",
+    "category": "defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "AAVE DeFi Assistant",
+    "category": "defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Curve Protocol Chat Agent Guide",
+    "category": "defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "AI-OnChain-Agent",
+    "category": "defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Mamora",
+    "category": "defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "erc-onchain-agent",
+    "category": "defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Web3Agent",
+    "category": "defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "One Click Crypto: AI + DeFi",
+    "category": "defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Simulacrum",
+    "category": "defai",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "openserv-crypto-agent",
+    "category": "defai, analytics",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Sol Trader",
+    "category": "defai, analytics",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Ag3nts || Web3 AI Hackathon by Spectral",
+    "category": "defai, analytics, copilot",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Setheum: The Unified Web3 Base Layer - Globally Solving Web3\u2019s Fragmentation Problems.",
+    "category": "infrastructure",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Voltfin Crypto \u2013 Crypto AI Agents",
+    "category": "infrastructure",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Uniblock",
+    "category": "infrastructure",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Cortex",
+    "category": "infrastructure, builder",
+    "coin_id": "cortex",
+    "matched_by": "name",
+    "status": "in category",
+    "t1": null,
+    "t2": null,
+    "now": 185776
+  },
+  {
+    "project": "Balance.fun",
+    "category": "infrastructure, game",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Rentality",
+    "category": "rwa",
+    "coin_id": null,
+    "matched_by": null,
+    "status": "no token",
+    "t1": null,
+    "t2": null,
+    "now": null
+  },
+  {
+    "project": "Day By Day",
+    "category": "rwa",
+    "coin_id": "day-by-day",
+    "matched_by": "name",
+    "status": "traded, left category",
+    "t1": null,
+    "t2": null,
+    "now": null
+  }
+]

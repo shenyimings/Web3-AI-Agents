@@ -1,0 +1,258 @@
+{
+ "phi-protocol": {
+  "labels": ["defai"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Instantly deploy AI-powered onchain agents that aggregate & route liquidity via our powerful API\" -- an agent that executes liquidity routing, not just analysis",
+  "sibling": null
+ },
+ "generative-market-explorer": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label \"Analytics\"; \"AI-driven agent providing real-time signals and analysis of high-volume traders' on-chain perpetual trading activities\" -- the product is information, not execution",
+  "sibling": null
+ },
+ "sandy-codex": {
+  "labels": ["content-creation"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"CODEX is an AI-driven video framework... specializes in producing high-quality video content with branded characters\" -- media-producing agent",
+  "sibling": null
+ },
+ "maneki-ai-by-virtuals": {
+  "labels": ["defai"],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label \"DeFAI\"; \"assisting users in discovering, analyzing, and managing yield opportunities across multiple blockchains\" -- yield routing/management, not just signals",
+  "sibling": null
+ },
+ "sylvi-agent": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label \"Analytics\"; \"delivers short, data-driven insights about various topics, especially crypto markets\" via social listening and alerting -- information product, no execution",
+  "sibling": null
+ },
+ "lead-ai": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"AI-powered cryptocurrency education platform... deliver personalized learning experiences\" -- ordinary AI content product with a token, no agent and no Web3 product beyond crypto-themed subject matter",
+  "sibling": null
+ },
+ "kolz": {
+  "labels": ["content-creation"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"bringing digital replicas of top Web3 influencers directly to you... enables Key Opinion Leaders to create digital versions of themselves\" -- agent personas producing content, on the Chirpley precedent",
+  "sibling": null
+ },
+ "jojoworld": {
+  "labels": ["infrastructure"],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"critical provider of spatial 3D data, JojoWorld supports cutting-edge foundation models such as training Text-to-3D models and enabling embodied robotics\" -- a data resource the agent/model stack consumes",
+  "sibling": null
+ },
+ "athenax9": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"collect, sort, and process complex blockchain data into actionable insights\" and \"Real-time tracking of smart money movements\" -- an intelligence/insights product",
+  "sibling": null
+ },
+ "breakout-bro-by-virtuals": {
+  "labels": ["defai"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"BOB manages its own wallet and can trade on-chain autonomously\" -- executes trades, not just a meme persona with no other product",
+  "sibling": null
+ },
+ "mizuki": {
+  "labels": ["content-creation"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"the AI agent's role as a whistleblower in the Web3 space, exposing 'larp' AI agents\" -- a narrative/persona whose output is social commentary, no trading or analysis function described",
+  "sibling": null
+ },
+ "airight": {
+  "labels": ["content-creation"],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label \"NFT\"; \"Users can generate AI NFTs, protect origin with copyright issuance, trade and tokenize unique artworks\" -- AI-generated media/art",
+  "sibling": null
+ },
+ "mmocoin-2": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "description is entirely about a decade-old gaming/DEX/NFT-marketplace ecosystem migration with no AI or agent content anywhere, despite the CoinGecko \"DeFAI\"/\"AI Agents\" labels -- established on metacade/xterio/wfca",
+  "sibling": null
+ },
+ "cliza": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Token Launch Studio built for the ICM (Internet Capital Markets) era... strategic tokenomics design with sustainable launch frameworks\" -- no AI or agent content anywhere despite the \"AI\"/\"AI Agents\" labels",
+  "sibling": null
+ },
+ "dr-emma-sage": {
+  "labels": ["game"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"your always-available AI companion, supports you through stress, burnout, or crypto chaos with empathetic, expert care\" -- a conversational companionship agent, coded as virtual companion per the manual's science/law/medicine note",
+  "sibling": null
+ },
+ "eliza-finance": {
+  "labels": ["defai"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"integrating autonomous AI agents into its core architecture... these AI agents operate autonomously within the platform, ensuring that transactions are executed efficiently and securely\" -- executes financial transactions",
+  "sibling": null
+ },
+ "kogin-by-virtuals": {
+  "labels": ["game"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Kogin Tonic, the fiery NPC of the Web3 game Ronin Realms... interact with him to embark on daring quests and earn coveted $KOGIN rewards\" -- an in-game NPC, not a media-production persona",
+  "sibling": null
+ },
+ "basehoundbot-by-virtuals": {
+  "labels": ["defai"],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label \"DeFAI\"; \"They manage wallets, trade, monitor video streams, and execute tasks autonomously\" -- in_t1_cohort true but no t1_label supplied, coded fresh per handoff instructions",
+  "sibling": null
+ },
+ "golem-2": {
+  "labels": ["unclassifiable"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "description is only \"Deployed on https://rapidlaunch.io\" -- a bare launch-platform note carrying no functional information to classify",
+  "sibling": null
+ },
+ "corporate-audit-ai": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"multi-agent ai system, analyzing audio and text data to gauge sentiment, detect discrepancies, and benchmark companies\" -- the shipped product is analysis/insight, the AI-powered ETF is a stated future goal",
+  "sibling": null
+ },
+ "hiero-terminal": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "description covers only \"a robust and scalable decentralized finance (DeFi) solution that supports seamless token swaps, liquidity provision, and ecosystem growth\" with no AI or agent content anywhere despite the \"DeFAI\"/\"AI Agents\" labels; in_t1_cohort true but no t1_label supplied, coded fresh",
+  "sibling": null
+ },
+ "taolie-coin": {
+  "labels": ["infrastructure"],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label \"DePIN\"; \"Decentralized Compute Marketplace allows owners of idle GPUs to list their GPUs on TAOlie's Marketplace so they can be rented for a fee\" -- metered GPU-hour capacity",
+  "sibling": null
+ },
+ "agentcraft": {
+  "labels": ["game"],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "low",
+  "why": "CG label \"Gaming (GameFi)\"; description is only the tagline \"What happens when AI builds its own world?\", consistent with but too thin to confirm the label on its own",
+  "sibling": null
+ },
+ "xtal-2": {
+  "labels": ["infrastructure"],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"tokenizes verified GPU compute... buyers use $XTAL to mint and redeem GPU-hours\" -- no AI/agent wording, but a metered GPU marketplace admitted under the infrastructure exception (nosana precedent)",
+  "sibling": null
+ },
+ "anti-rug-agent": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label \"Analytics\"; \"analyze coins submitted by users and give them a score and analysis on its probability to be a scam/rug\" -- risk-scoring information product",
+  "sibling": null
+ },
+ "hashlink": {
+  "labels": ["infrastructure"],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "CG label \"AI Framework\" does not fit: \"The product does not execute trades, does not custody user funds... It functions as an informational layer and navigation layer only\" and \"provides machine-readable outputs for agent and CLI workflows through its data endpoint\" -- an index/discovery resource the agent stack reads from, not an agent builder",
+  "sibling": null
+ },
+ "xavi-by-virtuals": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"transforms fragmented data into actionable insights... track trends, analyze interactions, and generate profile summaries\" -- information product",
+  "sibling": null
+ },
+ "yieldfy-by-virtuals": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"The yield layer for your tokenized stocks and RWAs, always parked at the best paying venue.\" carries no AI or agent content anywhere; genuinely borderline given the Virtuals Protocol Ecosystem branding",
+  "sibling": null
+ },
+ "just-kira": {
+  "labels": ["game"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"a continuously running simulation that maintains state and context 24/7\" and \"Global Shared State: All users interact with the same Kira in the same timeline\" -- a persistent virtual companion, not an NFT-art product despite the \"NFT\" label",
+  "sibling": null
+ },
+ "pippin-s-friend": {
+  "labels": ["builder"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"A framework for building fully autonomous AI agents on Twitter... Describe your character in plain language. Our engine synthesizes a complete cognitive architecture and packages it as production-ready Python code\" -- a no-code agent builder",
+  "sibling": null
+ },
+ "build4": {
+  "labels": ["defai"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "CG label \"AI Agent Launchpad\" does not fit: \"turns any chat into a control panel for autonomous AI trading agents... deploy an agent, watch it trade across perps and prediction markets\" -- deploys trading agents for users, not a token-launch rail",
+  "sibling": null
+ },
+ "skainet": {
+  "labels": ["builder"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"empowers developers to monetize their expertise by deploying specialized agents, while users and businesses gain access to a diverse marketplace of AI services\" -- a builder/marketplace whose user is someone deploying agents",
+  "sibling": null
+ }
+}

@@ -1,0 +1,258 @@
+{
+  "gladius": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"Official AI companion available within The Arena app\" that searches posts, fetches token info and generates images — primary framing is virtual companion, not a builder tool or trading agent.",
+    "sibling": null
+  },
+  "poker44": {
+    "labels": ["infrastructure"],
+    "facet": "model",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"builds live benchmark environments where humans and bots share the table to evaluate and improve bot-detection models\" — a network coordinating participants to produce model evaluations, not metered hardware.",
+    "sibling": null
+  },
+  "strike-robot": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"SR Platform, a simulation-to-real training infrastructure that allows enterprises to train and deploy robots without building their own robotics stack\" — the product is a platform for others to build/deploy agents, the builder test.",
+    "sibling": null
+  },
+  "roko-network": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "description field reads \"Invalid 1st submission (Low social media engagement/ presence/ adoption/ audience growth rate.)\" — not a project description at all.",
+    "sibling": null
+  },
+  "cypher-tempre": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"a symbolic organism that possesses a persistent self... digital being with a stable identity\" hosted as a single Virtuals.io agent — closest fit is virtual companion/digital twin, not a builder framework for others.",
+    "sibling": null
+  },
+  "karma-by-virtuals": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"Trade across chains, spend with a crypto card, and receive euros, dollars, and pounds. Self-custodial, settled to one stablecoin balance.\" — no AI or agent content despite the Virtuals ecosystem tag.",
+    "sibling": null
+  },
+  "astraai": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"utilizes advanced AI algorithms to analyze blockchain projects... to provide users with comprehensive and actionable insights\" and \"helping traders identify potential trading setups\" — the product is information, not execution.",
+    "sibling": null
+  },
+  "whitebridge": {
+    "labels": ["trust", "infrastructure"],
+    "facet": "data",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "explicit dual sections: \"AI Agents... reputation management, digital footprint analysis, background checks... trust scoring for influencers (KOLs)\" (trust) and \"DePIN Backbone... aggregates raw data from authoritative sources and transforms it into structured, verified digital identities\" (infrastructure/data resource layer).",
+    "sibling": null
+  },
+  "storb": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"An object storage subnet on the Bittensor network\" — persistent storage is exactly the data facet.",
+    "sibling": null
+  },
+  "satori": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"merge deep AI companionship with authentic Digital Residency, creating a seamless bridge where virtual emotional connections unlock real-world value\" — virtual companion.",
+    "sibling": null
+  },
+  "slinky-layer": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"gives users private access to leading AI models by routing conversations through Tor... $SLINKY powers private chat bandwidth\" — metered access/bandwidth to model endpoints, not a model network itself.",
+    "sibling": null
+  },
+  "arai": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"a cutting-edge framework integrating AI Copilot technology... It empowers players and developers with intelligent, adaptive AI Agents\" — the user is a developer building agent-driven experiences, the builder test, despite the Gaming (GameFi) label.",
+    "sibling": null
+  },
+  "gaia-2": {
+    "labels": ["infrastructure"],
+    "facet": "model",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"A mixture-of-experts platform for geospatial data analysis on Bittensor\" — a coordinated network whose output is an analytical answer.",
+    "sibling": null
+  },
+  "solmev": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "description is unrelated gambling spam (\"Top 10 Game Xóc Đĩa Online...\") with no AI or agent content whatsoever.",
+    "sibling": null
+  },
+  "nodeai": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "rule",
+    "confidence": "medium",
+    "why": "T1 precedence: T1 coded infrastructure. Description confirms the facet — \"AI Nodes Rental, GPU Power Lending, On Demand Nodes, AI API Endpoints\" — metered hardware, so compute.",
+    "sibling": null
+  },
+  "cortensor": {
+    "labels": ["infrastructure"],
+    "facet": "model",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"decentralized AI inference network... powered by community-driven miners who contribute computational resources and are incentivized for their work\" — coordinated network rewarded for producing inference answers.",
+    "sibling": null
+  },
+  "caesar": {
+    "labels": ["copilot"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"delivers accurate, reliable research at scale... accessible via user interface or developer API\" — per manual's no-eleventh-subcategory rule, a research assistant is the nearest thing to a copilot.",
+    "sibling": null
+  },
+  "peak-2": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "description reads only \"PEAK token\" — no functional content to code from.",
+    "sibling": null
+  },
+  "verathos": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"Every inference generates a cryptographic proof over committed model weights, and validators verify random layers... eliminating the need to trust any individual operator\" — ZK/cryptographic proof of inference is the manual's trust test verbatim.",
+    "sibling": null
+  },
+  "effect-ai": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"decentralized P2P Network used to turbocharge human-driven AI tasks\" — a crowdsourced human-labor/training-data network, same shape as the Tagger/PublicAI/Reppo consistency pair coded infrastructure.",
+    "sibling": null
+  },
+  "taonado": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"A decentralized, 1.5x overcollateralized stablecoin backed by TAO for the Bittensor ecosystem\" — a stablecoin with no AI or agent function of its own beyond being on a Bittensor subnet.",
+    "sibling": null
+  },
+  "for-sale": {
+    "labels": ["infrastructure"],
+    "facet": "model",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Bittensor subnet that speeds up AI inference by shortening... sequences of natural language tokens into soft tokens\" — an inference-optimization layer, output is a processed model response rather than raw hardware time.",
+    "sibling": null
+  },
+  "dippy-speech": {
+    "labels": ["infrastructure"],
+    "facet": "model",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Best Open-Source Speech Model\" — a Bittensor subnet whose product is a model, terse description keeps confidence low.",
+    "sibling": null
+  },
+  "hermes-3": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"bridge between AI and on-chain data... SN82 enables AI agents to access any indexed network data\" — indexing/data resource layer the agent stack reads from.",
+    "sibling": null
+  },
+  "safe-scan": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "description is unrelated gambling/slot spam (\"APIGACOR88... slot gacor...\") with no usable AI or agent content, despite the github repo name suggesting a cancer-detection project.",
+    "sibling": null
+  },
+  "homebrew-robotics-club": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "rule",
+    "confidence": "low",
+    "why": "\"builds the last-mile infrastructure for humanoid robot deployment... middleware and task routing systems that coordinate work between humans, AI agents, and machines\" — DePIN-labeled metered physical/robot capacity, closest facet is compute.",
+    "sibling": null
+  },
+  "architex": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "\"decentralized ASIC & GPU hardware infrastructure\" targeting blockchains and AI networks — rented physical capacity, DePIN-labeled.",
+    "sibling": null
+  },
+  "c0mpute": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"AI powered by people, not data centers\" — implies a crowdsourced compute network as an alternative to centralized data centers; terse description keeps confidence low.",
+    "sibling": null
+  },
+  "brainedge": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"AI-powered, tokenised learning platform turning education into a rewarding, gamified, and globally accessible experience\" — an ordinary edtech company with an AI label and token, no agent or Web3-agent function described.",
+    "sibling": null
+  },
+  "reinforced-ai": {
+    "labels": ["copilot"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"AI-driven security reviews in Hardhat. Catch vulnerabilities before they hit mainnet with multi-model consensus\" — an auditing copilot for human developers, the manual's copilot example verbatim.",
+    "sibling": null
+  },
+  "panther-ai": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"a decentralized finance (DeFi) ecosystem that introduces both the PantherAI token and a user-friendly decentralized exchange (DEX)\" — no AI functionality is described despite the name.",
+    "sibling": null
+  },
+  "kizuna": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"a decentralized and autonomous perpetual community built upon the principles of unity, self-actualization, and collective self-accountability\" — community/DAO language only, no AI or agent content despite the AI Meme frame category.",
+    "sibling": null
+  }
+}

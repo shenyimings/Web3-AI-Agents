@@ -1,0 +1,326 @@
+{
+ "flyte-ai": {
+  "labels": [
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"It finds the best flight, books it, and handles payment using crypto\" -- an agent wallet that transacts on the user's behalf.",
+  "sibling": null
+ },
+ "0xcoral": {
+  "labels": [
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"AI crypto trading agent... Trades autonomously, announces every position on X\" -- autonomous trading.",
+  "sibling": null
+ },
+ "hyperbet-by-virtuals": {
+  "labels": [
+   "game"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "Primarily an iGaming casino platform; agent content is incidental -- \"supports automated interactions via agents that can execute gameplay actions programmatically.\" Borderline: mostly a gambling product with a thin agent feature bolted on.",
+  "sibling": null
+ },
+ "data-bot": {
+  "labels": [
+   "analytics"
+  ],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label \"Analytics\" settles it; description confirms -- \"employing AI, Data Bot delivers traders a unique perspective for their investment decisions.\"",
+  "sibling": null
+ },
+ "inferra": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"GPU compute is a market. Tokenise it, trade it, redeem it for live machine access\" -- metered hardware time, the compute facet test.",
+  "sibling": null
+ },
+ "i-r-i-s": {
+  "labels": [
+   "copilot"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"powered by AuditAgent, Nethermind's experimental platform for automated smart contract security... identifies emerging needs... by scanning conversations and code\" -- an auditing copilot for developers, not an agent product of its own.",
+  "sibling": null
+ },
+ "cloudland": {
+  "labels": [
+   "game"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"This virtual nation consists of 100 AI agents collaborating, creating value, and making decisions in real-time\" -- an autonomous virtual world of agent citizens.",
+  "sibling": null
+ },
+ "forecast-ai": {
+  "labels": [
+   "analytics"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Seven-agent forecasting for Polymarket, Kalshi and Robinhood Stock Tokens\" -- prediction-market analytics, explicit manual example.",
+  "sibling": null
+ },
+ "nuit": {
+  "labels": [
+   "builder"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Notte: The fast, reliable browser framework for AI Agents... Build smarter agents\" -- an SDK/framework whose user is someone building an agent.",
+  "sibling": null
+ },
+ "lester-by-virtuals": {
+  "labels": [
+   "copilot"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Our advanced AI system scans smart contracts for vulnerabilities, hidden backdoors, and malicious code\" and wallet-security scanning for human Web3 users -- auditing/dev tooling, artifact is a security report not an agent.",
+  "sibling": null
+ },
+ "mates": {
+  "labels": [
+   "builder",
+   "launchpad"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Moemate is the ecosystem for building, incubating, hosting, operating and trading AI agents\" -- both building and monetizing/trading agents are made explicit, so multi-assignment applies (CG label AI Agent Launchpad supports the second half).",
+  "sibling": null
+ },
+ "starkbot": {
+  "labels": [
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"crypto-native x402 agent with wallet authentication, micropayments, and autonomous agent capabilities\" -- an agent wallet that transacts.",
+  "sibling": null
+ },
+ "nuero": {
+  "labels": [
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label \"DeFAI\" settles it; description confirms -- \"Shop, book flights, swap tokens, trade, send payments -- all with USDC.\"",
+  "sibling": null
+ },
+ "wisdomise": {
+  "labels": [
+   "analytics",
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label \"Analytics\" fires; description makes execution explicit too -- \"Wisdomise Brain... forecasting market trends, and executing trades with precision\" -- so it is also defai per the manual's information-that-also-executes test.",
+  "sibling": null
+ },
+ "agnt-social": {
+  "labels": [
+   "content-creation"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"The Birthplace of AI Agents... The only home for agents to express themsleves\" -- a social/expression platform for agent personas; description is thin, verging on marketing copy.",
+  "sibling": null
+ },
+ "bink-ai": {
+  "labels": [
+   "builder",
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label \"AI Framework\" fires builder (\"Bink OS AI Framework simplifies DEFAI integration for developers\"); description also makes the product itself trade -- \"enabling effortless swaps, cross-chain bridging... yield optimization\" -- so defai is added.",
+  "sibling": null
+ },
+ "quain": {
+  "labels": [
+   "analytics"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "CG label \"Real World Assets (RWA)\" is present but the description is about market analysis, not physical/off-chain asset management -- \"scanning the Solana ecosystem, the entire cryptocurrency market, precious metals, and leading stock indices... provides its users with valuable insights\" -- so coded on content (analytics), not the mismatched label. No trade execution is described yet (\"will be shared soon\"), so defai is not added.",
+  "sibling": null
+ },
+ "owockibot": {
+  "labels": [
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"explore the future of machine-to-machine commerce and autonomous capital allocation... AI Bounty Board... claim and complete them for USDC rewards\" -- an autonomous agent transacting and managing a treasury.",
+  "sibling": null
+ },
+ "b-cube-ai": {
+  "labels": [
+   "defai",
+   "builder"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "Signals feed execution -- \"generate signals that are then executed on the clients' connected exchange account\" (defai) -- and it is explicitly also a bot marketplace -- \"built a marketplace of crypto trading bots... traders will be enabled to build their bots\" (builder).",
+  "sibling": null
+ },
+ "orgo": {
+  "labels": [
+   "builder"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"streamlines computer-use agent development, deployment, and scaling with a developer-friendly SDK\" -- the user is someone building an agent; the desktop/VM layer is not offered as a standalone metered marketplace.",
+  "sibling": null
+ },
+ "chirpley": {
+  "labels": [
+   "content-creation"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "Adjudicated: \"decentralized ecosystem powered by artificial intelligence and machine learning, which matches nano and micro-influencers with brands\" -- the description carries AI content, so the `out-of-scope` test (\"neither AI nor agent content anywhere\") does not apply; T1 admitted marketplaces under Content Creation and this is an AI-driven influencer-content marketplace.",
+  "sibling": null
+ },
+ "guru-network": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"can effectively serve as Multi Chain AI compute Layer 3 which allows apps and users to natively embed orchestrated AI Agents\" -- a compute/orchestration layer the agent stack runs on; CG label DeFAI present but the description does not describe the product itself moving money, so defai is not added.",
+  "sibling": null
+ },
+ "aion-5100": {
+  "labels": [
+   "unclassifiable"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "Description is a first-person time-travel narrative (\"I originate from your future... Save humanity\") with no product, feature, or function stated beyond invoking the Bittensor network's lore -- pure narrative marketing, not a description of what the project does.",
+  "sibling": null
+ },
+ "j3ff-by-virtuals": {
+  "labels": [
+   "content-creation"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"J3FF is an AI agent with a mission to become a first of its kind AI blockchain validator\" -- an agent persona with an aspirational narrative and no shipped product yet; per the manual, an agent persona with no other product belongs in content-creation, not builder or infrastructure.",
+  "sibling": null
+ },
+ "the-swarm": {
+  "labels": [
+   "analytics"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"delivers real-time insights, analytics, and actionable intelligence via platforms like X and Telegram\" built on \"CryptoSlam's unmatched blockchain data\" -- an on-chain research assistant.",
+  "sibling": null
+ },
+ "moltycash": {
+  "labels": [
+   "content-creation"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"Hire for tasks and run CPM content campaigns -- settled on-chain via x402\" -- the description's stated product is content campaigns; thin, single-line evidence.",
+  "sibling": null
+ },
+ "sleuthai": {
+  "labels": [
+   "analytics"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"onchain investigation platform... track suspicious crypto activity, follow wallet movements, and identify scammers, hackers, and risky token behavior\" -- an on-chain research assistant, the manual's own analytics example.",
+  "sibling": null
+ },
+ "flork-cto": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Flork is an SOLANA meme token inspired by a popular online webcomic... no taxes, no fees\" -- no AI or agent content anywhere in the description.",
+  "sibling": null
+ },
+ "universal-basic-compute": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"provides the computational \\\"fuel\\\" that AIs require to operate and evolve\" -- metered compute access for AI systems; CG label AI Agent Launchpad present but the description is not about token-launch rails for agents, so coded on content.",
+  "sibling": null
+ },
+ "y8u": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"combines content-addressable storage with smart contract-based consent management... protected data NFTs... processed by AI Miners\" -- a storage/consent resource layer the agent stack reads from.",
+  "sibling": null
+ },
+ "zaia-by-virtuals": {
+  "labels": [
+   "builder"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"the platform where entrepreneurs build and sell AI Agents like digital employees... no code needed\" -- a no-code agent builder and app store, the manual's exact Builder & Marketplace test.",
+  "sibling": null
+ },
+ "skynet-3": {
+  "labels": [
+   "builder"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Combine modular building blocks, deploy autonomous agents in few minutes. No coding\" -- despite the CG label AI Agent Launchpad, the described product is a no-code agent builder, not token-launch rails, so coded on content.",
+  "sibling": null
+ }
+}

@@ -1,0 +1,322 @@
+{
+ "near": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"NEAR Protocol is the blockchain for AI\" and \"a sharded blockchain architecture\" -- it ships the chain agents settle on; manual names NEAR under the chain facet.",
+  "sibling": null
+ },
+ "bittensor": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label DePIN plus \"an open-source protocol that powers a decentralized, blockchain-based machine learning network\" where \"machine learning models train collaboratively and are rewarded in TAO\" -- what is sold is intelligence, not machine time.",
+  "sibling": null
+ },
+ "internet-computer": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Sovereign frontier cloud for AI\" that runs \"entire software systems end-to-end on the network\" for \"AI agents and agentic organizations\"; it ships consensus, so chain dominates the cloud pitch. Manual names Internet Computer under chain.",
+  "sibling": "near"
+ },
+ "render-token": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"a leading decentralized GPU compute platform for applications ranging from 3D rendering to machine learning and generative AI\" -- metered GPU time. Read rather than ruled because its NFT and Metaverse labels would misfire.",
+  "sibling": "akash-network"
+ },
+ "grass": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "rule",
+  "confidence": "medium",
+  "why": "CG label DePIN; homepage blurb \"Grass turns the unused part of your internet into rewards\" is thin, but the manual names Grass explicitly under the data facet (crawling / data supply for AI).",
+  "sibling": null
+ },
+ "the-graph": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"The Graph is an indexing protocol and global API for organizing blockchain data\" -- the resource layer the stack reads from. Read, not ruled: its Analytics label would misfire on an indexing protocol.",
+  "sibling": "subsquid"
+ },
+ "theta-token": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label DePIN; \"the edge network provides vast amounts of GPU compute power for AI, video, rendering and other tasks\" -- metered throughput. Manual names Theta under compute despite the Theta Blockchain.",
+  "sibling": "aioz-network"
+ },
+ "akash-network": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label DePIN; \"an open-source, decentralized, marketplace for cloud computing\" where \"users can lease out their unused computing capacities\" -- rented machine time.",
+  "sibling": null
+ },
+ "arweave": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG labels DePIN and Storage; \"a new data storage blockchain protocol ... that creates truly permanent data storage\" -- persistent storage, the manual's data facet.",
+  "sibling": null
+ },
+ "permacast": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "Only \"The AI-Powered Permanent Media Network.\" -- permanent media hosting reads as a storage layer rather than a producer of media; coded with Arweave as sibling. Thin one-line blurb, hence low.",
+  "sibling": "arweave"
+ },
+ "golem": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label DePIN; \"an open-source, decentralized computing platform ... to provide computing power to the AI industry. A peer-to-peer marketplace for distributed computing resources.\"",
+  "sibling": "akash-network"
+ },
+ "chutes": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Deploy, run and scale any AI model in seconds. Try directly through our platform, or use our easy-to-use API\" -- what is sold is a model's answer through an API, not a rented pod, so model rather than compute. Bittensor subnet facet follows what the subnet does.",
+  "sibling": "targon"
+ },
+ "aethir": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label DePIN; \"Enterprise-grade AI-focused GPU-as-a-service provider ... decentralized cloud computing infrastructure allows GPU providers (containers) to meet Enterprise clients\".",
+  "sibling": "akash-network"
+ },
+ "sentient": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"an open-source intelligence network\" whose GRID is \"a decentralized fabric of specialized agents, models, datasets, tools, and compute ... working together as one to deliver high-quality results\" -- the output is the answer. Manual names Sentient under model.",
+  "sibling": "bittensor"
+ },
+ "celium": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Rent H100, B200, RTX 4090 and more GPU pods at marketplace prices, billed per second\" -- metered hardware time, so compute even though it is a Bittensor subnet.",
+  "sibling": "akash-network"
+ },
+ "pearl-2": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Pearl network -- a Proof-of-Useful-Work L1 protocol, where mining is produced natively from AI computations\" -- it ships consensus, so chain dominates the AI-compute side.",
+  "sibling": "qubic-network"
+ },
+ "arkham": {
+  "labels": [
+   "analytics"
+  ],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label Analytics; \"Arkham Intel provides traders with advanced analytics to inform their trading and risk management\" plus \"AI-powered market analysis\" -- the product shipped is information. Not also defai: Arkham Exchange is a human CLOB venue, not agent execution.",
+  "sibling": null
+ },
+ "kaito": {
+  "labels": [
+   "analytics"
+  ],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label Analytics; \"$KAITO is the native token and the fundamental building block of the AI-powered InfoFi network\" -- market intelligence, the product is information.",
+  "sibling": "arkham"
+ },
+ "targon": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Targon is a decentalized, frontier AI lab\" -- a network whose output is a model; manual names Targon under the model facet. One-line blurb, hence medium.",
+  "sibling": "bittensor"
+ },
+ "aioz-network": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label DePIN; \"AIOZ rewards you for sharing your computational resources for storing, transcoding, and streaming digital media content and powering decentralized AI computation\" -- metered throughput.",
+  "sibling": "livepeer"
+ },
+ "livepeer": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label DePIN; \"a live video streaming network protocol\" where \"nodes who contribute processing and bandwidth earn ETH\" -- rented capacity and bandwidth.",
+  "sibling": "aioz-network"
+ },
+ "story-2": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"a purpose-built layer 1 blockchain designed to facilitate registration of intellectual property (IP) of AI-related data\" -- it ships a chain, and the manual's chain test is that the project ships one (cf. ZIGChain). Borderline against the data facet, hence medium.",
+  "sibling": "zignaly"
+ },
+ "qubic-network": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Qubic is a decentralised Layer 1 network\" whose \"Useful Proof of Work ... channels computational power toward AI training\"; manual names Qubic under chain.",
+  "sibling": "pearl-2"
+ },
+ "zignaly": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"ZIGChain (ZIG) is a purpose-built Layer 1 blockchain for wealth generation\" -- it ships a chain; manual names ZIGChain under the chain facet, so the RWA wording does not move it to rwa.",
+  "sibling": "story-2"
+ },
+ "diem": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Each Diem token represents $1 per day of Venice API capacity\" and \"DIEM transforms AI compute from a service you rent into an onchain asset you own\" -- metered inference capacity. Tokenizing it is packaging, not a second function.",
+  "sibling": null
+ },
+ "io": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label DePIN; \"the world's largest decentralized computing network that allows machine learning engineers to access scalable distributed clusters\" -- rented cluster time.",
+  "sibling": "akash-network"
+ },
+ "score": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "Description is a repository summary only -- \"Subnet 44 on Bittensor - Validator and Miner base code\"; the manual names Score under the model facet. github-sourced blurb, hence low.",
+  "sibling": "targon"
+ },
+ "acurast": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG label DePIN; \"this verifiable, scalable, and confidential compute network enables developers to run secure applications\" and \"already powers ... LLM inference\" -- metered smartphone compute. Verifiability is a property of the capacity sold, not a second trust product.",
+  "sibling": "akash-network"
+ },
+ "subsquid": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"an innovative decentralized data lake and query engine ... optimized for blockchain indexing\" -- the manual's data facet; read rather than ruled because the Analytics label would misfire on an indexing network.",
+  "sibling": "the-graph"
+ },
+ "efficientfrontier": {
+  "labels": [
+   "analytics"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Revolutionizing Crypto Trading with Decentralized AI\" -- an AI-driven trading application whose shipped product is signals, coded analytics on the manual's Rift AI / Polymtrade pair; nothing in the blurb says it executes, so not defai.",
+  "sibling": "kaito"
+ },
+ "templar": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Templar is a decentralized AI training network. Market-driven incentives for loss reduction, enabling permissionless distributed deep learning\" -- the output is a set of weights.",
+  "sibling": "bittensor"
+ },
+ "ocean-protocol": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CG labels DePIN and Storage; \"an ecosystem for sharing data and associated services\" that \"helps to unlock data, particularly for AI\" -- a data marketplace, the manual's data facet.",
+  "sibling": "the-graph"
+ }
+}

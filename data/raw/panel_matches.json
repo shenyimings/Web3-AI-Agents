@@ -1,0 +1,302 @@
+{
+  "NEAR Protocol": {
+    "coin_id": "near",
+    "how": "name"
+  },
+  "Fetch Ai/uAgents": {
+    "coin_id": "fetch-ai",
+    "how": "slug"
+  },
+  "Nexo": {
+    "coin_id": "nexo",
+    "how": "name"
+  },
+  "Virtuals-Protocol": {
+    "coin_id": "virtual-protocol",
+    "how": "name"
+  },
+  "SingularityNET": {
+    "coin_id": "singularitynet",
+    "how": "name"
+  },
+  "OriginTrail": {
+    "coin_id": "origintrail",
+    "how": "name"
+  },
+  "Eliza": {
+    "coin_id": "ai16z",
+    "how": "alias"
+  },
+  "Alchemist AI": {
+    "coin_id": "alchemist-ai",
+    "how": "name"
+  },
+  "Paal AI": {
+    "coin_id": "paal-ai",
+    "how": "name"
+  },
+  "Humans.ai": {
+    "coin_id": "humans-ai",
+    "how": "name"
+  },
+  "Delysium": {
+    "coin_id": "delysium",
+    "how": "name"
+  },
+  "Wayfinder": {
+    "coin_id": "wayfinder",
+    "how": "name"
+  },
+  "Aixbt": {
+    "coin_id": "aixbt",
+    "how": "name"
+  },
+  "Venice.ai": {
+    "coin_id": "venice-token",
+    "how": "alias"
+  },
+  "ChainGPT": {
+    "coin_id": "chaingpt",
+    "how": "name"
+  },
+  "Propy": {
+    "coin_id": "propy",
+    "how": "name"
+  },
+  "Artificial Liquid Intelligence": {
+    "coin_id": "alethea-artificial-liquid-intelligence-token",
+    "how": "name"
+  },
+  "Hey Anon": {
+    "coin_id": "heyanon",
+    "how": "name"
+  },
+  "Clanker tokenbot": {
+    "coin_id": "tokenbot-2",
+    "how": "slug"
+  },
+  "Autonolas": {
+    "coin_id": "autonolas",
+    "how": "name"
+  },
+  "Morphware": {
+    "coin_id": "morphware",
+    "how": "name"
+  },
+  "Cookie DAO": {
+    "coin_id": "cookie",
+    "how": "name"
+  },
+  "AI Rig Complex": {
+    "coin_id": "ai-rig-complex",
+    "how": "name"
+  },
+  "MyShell": {
+    "coin_id": "myshell",
+    "how": "name"
+  },
+  "NodeAI": {
+    "coin_id": "nodeai",
+    "how": "name"
+  },
+  "Assemble AI": {
+    "coin_id": "assemble-protocol",
+    "how": "name"
+  },
+  "NetMind": {
+    "coin_id": "netmind-token",
+    "how": "slug-id"
+  },
+  "RSS3": {
+    "coin_id": "rss3",
+    "how": "name"
+  },
+  "Griffain": {
+    "coin_id": "griffain",
+    "how": "name"
+  },
+  "Swarms": {
+    "coin_id": "swarms",
+    "how": "name"
+  },
+  "Zerebro": {
+    "coin_id": "zerebro",
+    "how": "name"
+  },
+  "Tars AI": {
+    "coin_id": "tars-protocol",
+    "how": "name"
+  },
+  "Spectral": {
+    "coin_id": "spectral",
+    "how": "name"
+  },
+  "OpenServ": {
+    "coin_id": "openserv",
+    "how": "name"
+  },
+  "Spectre AI": {
+    "coin_id": "spectre-ai",
+    "how": "name"
+  },
+  "Oort": {
+    "coin_id": "oort",
+    "how": "name"
+  },
+  "SwarmNode.ai": {
+    "coin_id": "swarmnode-ai-2",
+    "how": "name"
+  },
+  "Empyreal": {
+    "coin_id": "empyreal",
+    "how": "name"
+  },
+  "Botto": {
+    "coin_id": "botto",
+    "how": "name"
+  },
+  "CreatorBid": {
+    "coin_id": "creatorbid",
+    "how": "name"
+  },
+  "Mind Network": {
+    "coin_id": "mind-network",
+    "how": "name"
+  },
+  "ORBIT": {
+    "coin_id": "orbit-3",
+    "how": "name"
+  },
+  "tao.bot": {
+    "coin_id": "tao-bot",
+    "how": "name"
+  },
+  "Luna": {
+    "coin_id": "luna-by-virtuals",
+    "how": "slug-id"
+  },
+  "Bad Idea AI": {
+    "coin_id": "bad-idea-ai",
+    "how": "name"
+  },
+  "Reploy": {
+    "coin_id": "reploy",
+    "how": "name"
+  },
+  "LinqAI": {
+    "coin_id": "linqai",
+    "how": "name"
+  },
+  "Sensay": {
+    "coin_id": "sensay",
+    "how": "name"
+  },
+  "Strawberry AI": {
+    "coin_id": "strawberry-ai",
+    "how": "name"
+  },
+  "HyperGPT": {
+    "coin_id": "hypergpt",
+    "how": "name"
+  },
+  "Trias": {
+    "coin_id": "trias-token",
+    "how": "slug-id"
+  },
+  "HYTOPIA": {
+    "coin_id": "hytopia",
+    "how": "slug-id"
+  },
+  "Botify": {
+    "coin_id": "botify",
+    "how": "name"
+  },
+  "DexCheck AI": {
+    "coin_id": "dexcheck",
+    "how": "name"
+  },
+  "Super Champs": {
+    "coin_id": "super-champs",
+    "how": "name"
+  },
+  "Max": {
+    "coin_id": "max-2",
+    "how": "name"
+  },
+  "METAVERSE": {
+    "coin_id": "metaverse",
+    "how": "name"
+  },
+  "SubQuery": {
+    "coin_id": "subquery-network",
+    "how": "slug-id"
+  },
+  "Neuron (AI Arena)": {
+    "coin_id": "neuron",
+    "how": "slug-id"
+  },
+  "Commune AI": {
+    "coin_id": "commune-ai",
+    "how": "name"
+  },
+  "TopHat": {
+    "coin_id": "top-hat",
+    "how": "name"
+  },
+  "KEKE Terminal": {
+    "coin_id": "keke-terminal",
+    "how": "name"
+  },
+  "Sui Agents": {
+    "coin_id": "sui-agents",
+    "how": "name"
+  },
+  "Orbofi AI": {
+    "coin_id": "orbofi-ai",
+    "how": "name"
+  },
+  "Sharpe Labs": {
+    "coin_id": "sharpe-ai",
+    "how": "slug-id"
+  },
+  "theoriq": {
+    "coin_id": "theoriq",
+    "how": "name"
+  },
+  "AI Agent Layer": {
+    "coin_id": "ai-agent-layer",
+    "how": "name"
+  },
+  "Pillzumi": {
+    "coin_id": "pillzumi",
+    "how": "name"
+  },
+  "AI Powers": {
+    "coin_id": "ai-powers",
+    "how": "name"
+  },
+  "Titan-AI": {
+    "coin_id": "titan-ai",
+    "how": "name"
+  },
+  "Cortex": {
+    "coin_id": "cortex",
+    "how": "name"
+  },
+  "Day By Day": {
+    "coin_id": "day-by-day",
+    "how": "name"
+  },
+  "Freysa": {
+    "coin_id": "freysa-ai",
+    "how": "contract"
+  },
+  "Phala Network": {
+    "coin_id": "pha",
+    "how": "contract"
+  },
+  "Solidus Ai Tech": {
+    "coin_id": "solidus-aitech",
+    "how": "contract"
+  }
+}

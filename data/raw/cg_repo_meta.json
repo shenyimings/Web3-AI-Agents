@@ -1,0 +1,7149 @@
+{
+  "repo:AdExNetwork/adex-market": {
+    "kind": "repo",
+    "full_name": "heyAuraDev/adex-market",
+    "owner": "heyAuraDev",
+    "stars": 7,
+    "forks": 10,
+    "created_at": "2019-01-03T14:37:01Z",
+    "pushed_at": "2023-02-28T13:00:33Z",
+    "archived": false,
+    "size": 2207,
+    "language": "JavaScript"
+  },
+  "repo:AdExNetwork/adex-platform": {
+    "kind": "repo",
+    "full_name": "heyAuraDev/adex-platform",
+    "owner": "heyAuraDev",
+    "stars": 60,
+    "forks": 24,
+    "created_at": "2017-11-29T14:47:15Z",
+    "pushed_at": "2024-04-18T11:48:13Z",
+    "archived": false,
+    "size": 133531,
+    "language": "JavaScript"
+  },
+  "repo:AdExNetwork/adex-protocol": {
+    "kind": "repo",
+    "full_name": "heyAuraDev/adex-protocol",
+    "owner": "heyAuraDev",
+    "stars": 51,
+    "forks": 27,
+    "created_at": "2018-09-12T23:59:07Z",
+    "pushed_at": "2024-05-09T10:03:11Z",
+    "archived": false,
+    "size": 3667,
+    "language": "CSS"
+  },
+  "repo:AdExNetwork/adex-protocol-eth": {
+    "kind": "repo",
+    "full_name": "heyAuraDev/adex-protocol-eth",
+    "owner": "heyAuraDev",
+    "stars": 56,
+    "forks": 35,
+    "created_at": "2018-09-23T01:29:13Z",
+    "pushed_at": "2026-08-30T18:28:15Z",
+    "archived": false,
+    "size": 5706,
+    "language": "JavaScript"
+  },
+  "repo:Ai-Layer-Labs/thinktoken": {
+    "kind": "repo",
+    "full_name": "Ai-Layer-Labs/ThinkToken",
+    "owner": "Ai-Layer-Labs",
+    "stars": 1,
+    "forks": 0,
+    "created_at": "2025-07-09T22:12:39Z",
+    "pushed_at": "2025-05-13T23:52:10Z",
+    "archived": false,
+    "size": 985,
+    "language": null
+  },
+  "repo:ArcBlock/ArcBlock-Token": {
+    "kind": "repo",
+    "full_name": "ArcBlock/ArcBlock-Token",
+    "owner": "ArcBlock",
+    "stars": 29,
+    "forks": 10,
+    "created_at": "2018-01-12T15:05:44Z",
+    "pushed_at": "2018-01-17T12:12:48Z",
+    "archived": false,
+    "size": 2,
+    "language": null
+  },
+  "repo:Cod3x-Labs/Whitepapers": {
+    "kind": "repo",
+    "full_name": "Cod3x-Labs/Whitepapers",
+    "owner": "Cod3x-Labs",
+    "stars": 1,
+    "forks": 0,
+    "created_at": "2024-10-16T22:45:22Z",
+    "pushed_at": "2024-11-22T15:52:50Z",
+    "archived": false,
+    "size": 6894,
+    "language": null
+  },
+  "repo:ComposableFi/mantis_sdk": {
+    "kind": "repo",
+    "full_name": "ComposableFi/mantis_sdk",
+    "owner": "ComposableFi",
+    "stars": 1,
+    "forks": 1,
+    "created_at": "2024-10-17T10:18:25Z",
+    "pushed_at": "2025-04-10T14:39:28Z",
+    "archived": false,
+    "size": 586,
+    "language": "Rust"
+  },
+  "repo:EveripediaNetwork/Everipedia": {
+    "kind": "repo",
+    "full_name": "IQIndustries/Everipedia",
+    "owner": "IQIndustries",
+    "stars": 151,
+    "forks": 48,
+    "created_at": "2018-03-20T02:47:31Z",
+    "pushed_at": "2023-02-28T16:37:38Z",
+    "archived": true,
+    "size": 3183,
+    "language": "C++"
+  },
+  "repo:Everlyn-Labs/Everlyn-1": {
+    "kind": "repo",
+    "full_name": "Everlyn-Labs/Everlyn-1",
+    "owner": "Everlyn-Labs",
+    "stars": 2892,
+    "forks": 486,
+    "created_at": "2024-10-13T18:19:10Z",
+    "pushed_at": "2024-10-14T08:09:10Z",
+    "archived": false,
+    "size": 60396,
+    "language": null
+  },
+  "repo:LiamVisionary/hivemindos": {
+    "kind": "repo",
+    "full_name": "LiamVisionary/hivemindos",
+    "owner": "LiamVisionary",
+    "stars": 10,
+    "forks": 3,
+    "created_at": "2026-05-18T08:45:28Z",
+    "pushed_at": "2026-08-31T08:20:42Z",
+    "archived": false,
+    "size": 151672,
+    "language": "TypeScript"
+  },
+  "repo:MPP32/MPP32": {
+    "kind": "repo",
+    "full_name": "MPP32/MPP32",
+    "owner": "MPP32",
+    "stars": 234,
+    "forks": 0,
+    "created_at": "2026-04-05T20:42:04Z",
+    "pushed_at": "2026-08-04T19:09:03Z",
+    "archived": false,
+    "size": 10277,
+    "language": "TypeScript"
+  },
+  "repo:MatrixAINetwork/WhitePaper": {
+    "kind": "repo",
+    "full_name": "MatrixAINetwork/WhitePaper",
+    "owner": "MatrixAINetwork",
+    "stars": 86,
+    "forks": 62,
+    "created_at": "2017-12-18T09:12:39Z",
+    "pushed_at": "2019-01-21T15:13:08Z",
+    "archived": false,
+    "size": 15312,
+    "language": null
+  },
+  "repo:MiroShark/MiroShark": {
+    "kind": "repo",
+    "full_name": "MiroShark/MiroShark",
+    "owner": "MiroShark",
+    "stars": 1446,
+    "forks": 299,
+    "created_at": "2026-03-20T18:45:54Z",
+    "pushed_at": "2026-08-31T12:46:37Z",
+    "archived": false,
+    "size": 69542,
+    "language": "Python"
+  },
+  "repo:NaturalSelectionLabs/RSS3-Protocol": {
+    "kind": "repo",
+    "full_name": "RSS3-Network/Protocol",
+    "owner": "RSS3-Network",
+    "stars": 317,
+    "forks": 21,
+    "created_at": "2021-05-09T11:12:17Z",
+    "pushed_at": "2024-10-25T20:05:43Z",
+    "archived": false,
+    "size": 188,
+    "language": "Python"
+  },
+  "repo:ORO-AI/oro": {
+    "kind": "repo",
+    "full_name": "ORO-AI/oro",
+    "owner": "ORO-AI",
+    "stars": 9,
+    "forks": 13,
+    "created_at": "2026-01-31T01:33:54Z",
+    "pushed_at": "2026-09-01T04:55:38Z",
+    "archived": false,
+    "size": 2197,
+    "language": "Python"
+  },
+  "repo:OriginTrail/ot-node": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:Talus-Network/nexus": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:aeonfun/aeon": {
+    "kind": "repo",
+    "full_name": "aeonfun/aeon",
+    "owner": "aeonfun",
+    "stars": 711,
+    "forks": 253,
+    "created_at": "2026-03-04T19:44:49Z",
+    "pushed_at": "2026-09-01T07:22:13Z",
+    "archived": false,
+    "size": 54526,
+    "language": "TypeScript"
+  },
+  "repo:bigdataprotocol/bdp-contracts": {
+    "kind": "repo",
+    "full_name": "bigdataprotocol/bdp-contracts",
+    "owner": "bigdataprotocol",
+    "stars": 11,
+    "forks": 2,
+    "created_at": "2021-03-04T20:24:39Z",
+    "pushed_at": "2021-03-04T20:28:10Z",
+    "archived": false,
+    "size": 295,
+    "language": "Solidity"
+  },
+  "repo:branchmanager69/dexter-mcp": {
+    "kind": "repo",
+    "full_name": "Dexter-DAO/dexter-mcp",
+    "owner": "Dexter-DAO",
+    "stars": 11,
+    "forks": 5,
+    "created_at": "2025-09-17T21:00:57Z",
+    "pushed_at": "2026-09-01T07:41:02Z",
+    "archived": false,
+    "size": 13168,
+    "language": "JavaScript"
+  },
+  "repo:bunnyos/base-agent": {
+    "kind": "repo",
+    "full_name": "bunnyos/base-agent",
+    "owner": "bunnyos",
+    "stars": 56,
+    "forks": 2,
+    "created_at": "2026-05-28T17:28:33Z",
+    "pushed_at": "2026-06-21T03:02:37Z",
+    "archived": false,
+    "size": 3091,
+    "language": "TypeScript"
+  },
+  "repo:chain-ml/theoriq-agent-sdk": {
+    "kind": "repo",
+    "full_name": "chain-ml/theoriq-agent-sdk",
+    "owner": "chain-ml",
+    "stars": 57,
+    "forks": 16,
+    "created_at": "2024-06-19T18:32:36Z",
+    "pushed_at": "2026-02-06T17:58:02Z",
+    "archived": false,
+    "size": 444,
+    "language": "Python"
+  },
+  "repo:daydreamsai/daydreams": {
+    "kind": "repo",
+    "full_name": "daydreamsai/daydreams",
+    "owner": "daydreamsai",
+    "stars": 616,
+    "forks": 133,
+    "created_at": "2024-12-20T22:17:20Z",
+    "pushed_at": "2026-03-01T20:20:26Z",
+    "archived": false,
+    "size": 60396,
+    "language": "TypeScript"
+  },
+  "repo:fetchai/agents-aea": {
+    "kind": "repo",
+    "full_name": "fetchai/agents-aea",
+    "owner": "fetchai",
+    "stars": 241,
+    "forks": 86,
+    "created_at": "2019-08-21T10:12:47Z",
+    "pushed_at": "2026-07-08T14:35:27Z",
+    "archived": false,
+    "size": 105681,
+    "language": "Python"
+  },
+  "repo:fetchai/cosmos-explorer": {
+    "kind": "repo",
+    "full_name": "fetchai/cosmos-explorer",
+    "owner": "fetchai",
+    "stars": 14,
+    "forks": 14,
+    "created_at": "2020-03-18T12:13:41Z",
+    "pushed_at": "2024-07-13T09:19:59Z",
+    "archived": false,
+    "size": 6697,
+    "language": "JavaScript"
+  },
+  "repo:fetchai/cosmos-sdk": {
+    "kind": "repo",
+    "full_name": "fetchai/cosmos-sdk",
+    "owner": "fetchai",
+    "stars": 15,
+    "forks": 20,
+    "created_at": "2020-03-17T16:33:47Z",
+    "pushed_at": "2026-08-07T02:47:40Z",
+    "archived": false,
+    "size": 258960,
+    "language": "Go"
+  },
+  "repo:fetchai/fetchd": {
+    "kind": "repo",
+    "full_name": "fetchai/fetchd",
+    "owner": "fetchai",
+    "stars": 127,
+    "forks": 45,
+    "created_at": "2020-06-10T16:02:35Z",
+    "pushed_at": "2026-05-27T12:35:19Z",
+    "archived": false,
+    "size": 10672,
+    "language": "Go"
+  },
+  "repo:fetchai/ledger": {
+    "kind": "repo",
+    "full_name": "fetchai/ledger",
+    "owner": "fetchai",
+    "stars": 87,
+    "forks": 42,
+    "created_at": "2018-01-15T16:15:05Z",
+    "pushed_at": "2021-11-18T10:45:38Z",
+    "archived": true,
+    "size": 37321,
+    "language": "C++"
+  },
+  "repo:fetchai/mettalex-market-maker": {
+    "kind": "repo",
+    "full_name": "fetchai/mettalex-market-maker",
+    "owner": "fetchai",
+    "stars": 16,
+    "forks": 7,
+    "created_at": "2020-09-21T08:14:15Z",
+    "pushed_at": "2022-06-28T08:17:42Z",
+    "archived": true,
+    "size": 4919,
+    "language": "Solidity"
+  },
+  "repo:frdel/agent-zero": {
+    "kind": "repo",
+    "full_name": "agent0ai/agent-zero",
+    "owner": "agent0ai",
+    "stars": 19050,
+    "forks": 3777,
+    "created_at": "2024-06-10T09:10:45Z",
+    "pushed_at": "2026-08-31T16:12:38Z",
+    "archived": false,
+    "size": 62268,
+    "language": "Python"
+  },
+  "repo:getbasedai/basedai": {
+    "kind": "repo",
+    "full_name": "getbasedai/basedai",
+    "owner": "getbasedai",
+    "stars": 32,
+    "forks": 11,
+    "created_at": "2024-03-12T19:15:57Z",
+    "pushed_at": "2024-12-01T03:53:24Z",
+    "archived": false,
+    "size": 299,
+    "language": "Python"
+  },
+  "repo:iExecBlockchainComputing/PoCo": {
+    "kind": "repo",
+    "full_name": "iExecBlockchainComputing/PoCo",
+    "owner": "iExecBlockchainComputing",
+    "stars": 33,
+    "forks": 13,
+    "created_at": "2017-10-25T12:30:00Z",
+    "pushed_at": "2026-09-01T10:13:41Z",
+    "archived": false,
+    "size": 57629,
+    "language": "TypeScript"
+  },
+  "repo:iExecBlockchainComputing/iexec-sdk": {
+    "kind": "repo",
+    "full_name": "iExecBlockchainComputing/iexec-sdk",
+    "owner": "iExecBlockchainComputing",
+    "stars": 423,
+    "forks": 49,
+    "created_at": "2017-07-20T12:48:58Z",
+    "pushed_at": "2026-07-09T14:55:03Z",
+    "archived": false,
+    "size": 11997,
+    "language": "JavaScript"
+  },
+  "repo:iExecBlockchainComputing/iexec-stack": {
+    "kind": "repo",
+    "full_name": "iExecBlockchainComputing/iexec-stack",
+    "owner": "iExecBlockchainComputing",
+    "stars": 18,
+    "forks": 0,
+    "created_at": "2018-06-18T15:36:37Z",
+    "pushed_at": "2024-09-09T15:08:52Z",
+    "archived": true,
+    "size": 315268,
+    "language": "Java"
+  },
+  "repo:iotexproject/iotex-core": {
+    "kind": "repo",
+    "full_name": "iotexproject/iotex-core",
+    "owner": "iotexproject",
+    "stars": 1612,
+    "forks": 382,
+    "created_at": "2018-04-19T22:56:20Z",
+    "pushed_at": "2026-08-31T09:47:50Z",
+    "archived": false,
+    "size": 87105,
+    "language": "Go"
+  },
+  "repo:kinecosystem/kin-devplatform-android": {
+    "kind": "repo",
+    "full_name": "kinecosystem/kin-devplatform-android",
+    "owner": "kinecosystem",
+    "stars": 6,
+    "forks": 3,
+    "created_at": "2018-07-29T12:15:17Z",
+    "pushed_at": "2019-05-22T12:52:07Z",
+    "archived": true,
+    "size": 2786,
+    "language": "Java"
+  },
+  "repo:kinecosystem/kin-ecosystem-android-sdk": {
+    "kind": "repo",
+    "full_name": "kinecosystem/kin-ecosystem-android-sdk",
+    "owner": "kinecosystem",
+    "stars": 30,
+    "forks": 11,
+    "created_at": "2018-02-05T07:56:03Z",
+    "pushed_at": "2019-10-25T16:32:30Z",
+    "archived": true,
+    "size": 4535,
+    "language": "Java"
+  },
+  "repo:korapilot-ai/sn71-kora": {
+    "kind": "repo",
+    "full_name": "korapilot-ai/sn71-kora",
+    "owner": "korapilot-ai",
+    "stars": 1,
+    "forks": 0,
+    "created_at": "2025-07-28T10:53:36Z",
+    "pushed_at": "2025-07-28T10:56:47Z",
+    "archived": false,
+    "size": 2,
+    "language": null
+  },
+  "repo:kyegomez/swarms": {
+    "kind": "repo",
+    "full_name": "kyegomez/swarms",
+    "owner": "kyegomez",
+    "stars": 7114,
+    "forks": 1009,
+    "created_at": "2023-05-11T01:09:00Z",
+    "pushed_at": "2026-09-01T02:17:11Z",
+    "archived": false,
+    "size": 187980,
+    "language": "Python"
+  },
+  "repo:modclub-app/modclub": {
+    "kind": "repo",
+    "full_name": "decide-ai/modclub",
+    "owner": "decide-ai",
+    "stars": 1,
+    "forks": 0,
+    "created_at": "2023-07-17T00:41:11Z",
+    "pushed_at": "2024-02-10T12:22:16Z",
+    "archived": false,
+    "size": 90,
+    "language": null
+  },
+  "repo:moonwell-fi/mamo-contracts": {
+    "kind": "repo",
+    "full_name": "moonwell-fi/mamo-contracts",
+    "owner": "moonwell-fi",
+    "stars": 19,
+    "forks": 6,
+    "created_at": "2025-03-06T15:12:42Z",
+    "pushed_at": "2026-08-31T16:59:44Z",
+    "archived": false,
+    "size": 16093,
+    "language": "Solidity"
+  },
+  "repo:multiversx/mx-chain-go": {
+    "kind": "repo",
+    "full_name": "multiversx/mx-chain-go",
+    "owner": "multiversx",
+    "stars": 952,
+    "forks": 228,
+    "created_at": "2018-08-17T09:42:40Z",
+    "pushed_at": "2026-09-01T11:03:17Z",
+    "archived": false,
+    "size": 413557,
+    "language": "Go"
+  },
+  "repo:niceberginc/agentipy": {
+    "kind": "repo",
+    "full_name": "niceberginc/agentipy",
+    "owner": "niceberginc",
+    "stars": 248,
+    "forks": 103,
+    "created_at": "2024-12-15T17:42:11Z",
+    "pushed_at": "2025-10-16T13:20:13Z",
+    "archived": false,
+    "size": 1346,
+    "language": "Python"
+  },
+  "repo:noahhaufer/SolRouter": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:singnet/singnet": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:soulgraph/soulscript-spec": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:stvol-official/basevol-contract": {
+    "kind": "repo",
+    "full_name": "stvol-official/basevol-contract",
+    "owner": "stvol-official",
+    "stars": 1,
+    "forks": 1,
+    "created_at": "2025-06-04T04:44:37Z",
+    "pushed_at": "2026-04-27T02:17:14Z",
+    "archived": false,
+    "size": 2227,
+    "language": "Solidity"
+  },
+  "repo:vitrioltoken/vitriol": {
+    "kind": "repo",
+    "full_name": "vitrioltoken/vitriol",
+    "owner": "vitrioltoken",
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2026-04-02T19:59:21Z",
+    "pushed_at": "2026-07-13T12:27:12Z",
+    "archived": false,
+    "size": 7,
+    "language": null
+  },
+  "repo:yoheinakajima/pippin_moves": {
+    "kind": "repo",
+    "full_name": "yoheinakajima/pippin_moves",
+    "owner": "yoheinakajima",
+    "stars": 16,
+    "forks": 5,
+    "created_at": "2024-11-11T19:22:44Z",
+    "pushed_at": "2024-11-11T19:29:57Z",
+    "archived": false,
+    "size": 14,
+    "language": "JavaScript"
+  },
+  "owner:0chain": {
+    "kind": "owner",
+    "owner": "0chain",
+    "repo_count": 39,
+    "stars": 259,
+    "pushed_at": "2026-08-28T18:09:22Z",
+    "created_at": "2017-12-21T02:03:56Z",
+    "top_repos": [
+      "0chain/run-blimp",
+      "0chain/gosdk",
+      "0chain/0chain",
+      "0chain/zcnwebappscripts",
+      "0chain/blobber"
+    ]
+  },
+  "owner:0glabs": {
+    "kind": "owner",
+    "owner": "0glabs",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:0xfunboy": {
+    "kind": "owner",
+    "owner": "0xfunboy",
+    "repo_count": 35,
+    "stars": 11,
+    "pushed_at": "2026-09-01T09:47:43Z",
+    "created_at": "2025-03-03T04:37:45Z",
+    "top_repos": [
+      "0xfunboy/KernAid",
+      "0xfunboy/llama.cpp-model-select",
+      "0xfunboy/0xfunboy",
+      "0xfunboy/GemRouterFE",
+      "0xfunboy/GoonersBot"
+    ]
+  },
+  "owner:AEON-Project": {
+    "kind": "owner",
+    "owner": "AEON-Project",
+    "repo_count": 14,
+    "stars": 6,
+    "pushed_at": "2026-08-17T01:47:15Z",
+    "created_at": "2025-04-28T10:03:36Z",
+    "top_repos": [
+      "AEON-Project/bnb-x402",
+      "AEON-Project/X402_SCAN",
+      "AEON-Project/aicard",
+      "AEON-Project/aigateway",
+      "AEON-Project/bna_contract"
+    ]
+  },
+  "owner:AI-Protocol-Official": {
+    "kind": "owner",
+    "owner": "AI-Protocol-Official",
+    "repo_count": 44,
+    "stars": 67,
+    "pushed_at": "2025-12-02T16:56:10Z",
+    "created_at": "2021-06-24T23:15:49Z",
+    "top_repos": [
+      "AI-Protocol-Official/.github",
+      "AI-Protocol-Official/ainews-docs",
+      "AI-Protocol-Official/dapps-docs",
+      "AI-Protocol-Official/swarm-agents-docs",
+      "AI-Protocol-Official/ai-swarms-docs"
+    ]
+  },
+  "owner:AITECH-Cloud-Network": {
+    "kind": "owner",
+    "owner": "AITECH-Cloud-Network",
+    "repo_count": 37,
+    "stars": 0,
+    "pushed_at": "2026-07-23T11:21:15Z",
+    "created_at": "2025-01-27T09:35:55Z",
+    "top_repos": [
+      "AITECH-Cloud-Network/Market-News-Broadcast",
+      "AITECH-Cloud-Network/Google-Calendar-Scheduler",
+      "AITECH-Cloud-Network/Study-Buddy-Assignment-Helper",
+      "AITECH-Cloud-Network/Human-in-the-Loop-Content-Generator",
+      "AITECH-Cloud-Network/News-to-Tweet-Engine"
+    ]
+  },
+  "owner:ChainGPT-org": {
+    "kind": "owner",
+    "owner": "ChainGPT-org",
+    "repo_count": 14,
+    "stars": 120,
+    "pushed_at": "2025-07-02T07:32:46Z",
+    "created_at": "2023-03-17T16:55:17Z",
+    "top_repos": [
+      "ChainGPT-org/circulating_supply_dashboard",
+      "ChainGPT-org/token-list",
+      "ChainGPT-org/CGPT-LOGO",
+      "ChainGPT-org/kima-transaction-widget-CGPT",
+      "ChainGPT-org/KIMA_ARB_circulating_supply_dashboard"
+    ]
+  },
+  "owner:Cod3x-Labs": {
+    "kind": "owner",
+    "owner": "Cod3x-Labs",
+    "repo_count": 8,
+    "stars": 28,
+    "pushed_at": "2026-03-03T14:08:39Z",
+    "created_at": "2024-05-31T23:57:59Z",
+    "top_repos": [
+      "Cod3x-Labs/Reliquary",
+      "Cod3x-Labs/Whitepapers",
+      "Cod3x-Labs/Cod3x-CDP",
+      "Cod3x-Labs/Options-Token",
+      "Cod3x-Labs/ToolChain-SDK"
+    ]
+  },
+  "owner:Concordium": {
+    "kind": "owner",
+    "owner": "Concordium",
+    "repo_count": 76,
+    "stars": 1043,
+    "pushed_at": "2026-08-31T19:49:59Z",
+    "created_at": "2020-09-10T11:30:18Z",
+    "top_repos": [
+      "Concordium/concordium.github.io",
+      "Concordium/concordium-node",
+      "Concordium/concordium-rust-smart-contracts",
+      "Concordium/concordium-base",
+      "Concordium/concordium-smart-contract-tools"
+    ]
+  },
+  "owner:Coral-Protocol": {
+    "kind": "owner",
+    "owner": "Coral-Protocol",
+    "repo_count": 24,
+    "stars": 837,
+    "pushed_at": "2026-08-25T23:44:39Z",
+    "created_at": "2025-03-21T11:46:43Z",
+    "top_repos": [
+      "Coral-Protocol/coral-skill-set",
+      "Coral-Protocol/coral-server",
+      "Coral-Protocol/coral-skills",
+      "Coral-Protocol/AgentRadio",
+      "Coral-Protocol/console"
+    ]
+  },
+  "owner:CryptoFamilyNFT": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:DappOSDao": {
+    "kind": "owner",
+    "owner": "DappOSDao",
+    "repo_count": 3,
+    "stars": 0,
+    "pushed_at": "2026-08-27T09:56:26Z",
+    "created_at": "2025-10-24T09:16:58Z",
+    "top_repos": [
+      "DappOSDao/AirdropNew",
+      "DappOSDao/DT",
+      "DappOSDao/dappos-staking"
+    ]
+  },
+  "owner:DeAgentAI": {
+    "kind": "owner",
+    "owner": "DeAgentAI",
+    "repo_count": 6,
+    "stars": 98,
+    "pushed_at": "2026-05-03T02:41:57Z",
+    "created_at": "2024-02-15T07:38:42Z",
+    "top_repos": [
+      "deagentAI/eliza-alphax",
+      "deagentAI/deagentai-front-end",
+      "deagentAI/deagentAI.github.io",
+      "deagentAI/alphax-exporters",
+      "deagentAI/deagent-alpha"
+    ]
+  },
+  "owner:EarnOrg": {
+    "kind": "owner",
+    "owner": "EarnOrg",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:EmblemCompany": {
+    "kind": "owner",
+    "owner": "EmblemCompany",
+    "repo_count": 31,
+    "stars": 93,
+    "pushed_at": "2026-08-18T16:17:31Z",
+    "created_at": "2019-12-31T16:05:41Z",
+    "top_repos": [
+      "EmblemCompany/solana-vanity-address-rs",
+      "EmblemCompany/emblem-vault-sdk",
+      "EmblemCompany/emblem-vault-solidity",
+      "EmblemCompany/vaultImages",
+      "EmblemCompany/hustle-incognito"
+    ]
+  },
+  "owner:FLock-io": {
+    "kind": "owner",
+    "owner": "FLock-io",
+    "repo_count": 38,
+    "stars": 246,
+    "pushed_at": "2026-08-31T16:31:35Z",
+    "created_at": "2022-11-16T20:04:57Z",
+    "top_repos": [
+      "FLock-io/testnet-training-node-quickstart",
+      "FLock-io/llm-loss-validator",
+      "FLock-io/FLock-validator",
+      "FLock-io/private_AI_experiment",
+      "FLock-io/FL-Alliance-Client"
+    ]
+  },
+  "owner:GaiaNet-AI": {
+    "kind": "owner",
+    "owner": "GaiaNet-AI",
+    "repo_count": 25,
+    "stars": 5244,
+    "pushed_at": "2026-05-05T15:31:21Z",
+    "created_at": "2024-03-06T10:57:45Z",
+    "top_repos": [
+      "GaiaNet-AI/celery-rs",
+      "GaiaNet-AI/docs",
+      "GaiaNet-AI/node-configs",
+      "GaiaNet-AI/gaianet-node",
+      "GaiaNet-AI/gaia-nexus-release"
+    ]
+  },
+  "owner:GamerHash": {
+    "kind": "owner",
+    "owner": "GamerHash",
+    "repo_count": 17,
+    "stars": 1,
+    "pushed_at": "2026-05-11T11:47:50Z",
+    "created_at": "2020-07-07T14:02:04Z",
+    "top_repos": [
+      "GamerHash/docs",
+      "GamerHash/nova-chartjs",
+      "GamerHash/nova-simple-repeatable",
+      "GamerHash/sanctum-tokens",
+      "GamerHash/Steam-Api"
+    ]
+  },
+  "owner:GeniusVentures": {
+    "kind": "owner",
+    "owner": "GeniusVentures",
+    "repo_count": 100,
+    "stars": 48,
+    "pushed_at": "2026-09-01T11:46:57Z",
+    "created_at": "2020-05-14T19:38:04Z",
+    "top_repos": [
+      "GeniusVentures/thirdparty",
+      "GeniusVentures/ipfs-pubsub",
+      "GeniusVentures/rlp_enodes",
+      "GeniusVentures/MNN",
+      "GeniusVentures/GeniusCognitiveSystem"
+    ]
+  },
+  "owner:GoxyRep": {
+    "kind": "owner",
+    "owner": "GoxyRep",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:GreyTokenTeam": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:HAiO-labs": {
+    "kind": "owner",
+    "owner": "HAiO-labs",
+    "repo_count": 4,
+    "stars": 0,
+    "pushed_at": "2026-01-15T15:16:55Z",
+    "created_at": "2025-07-10T10:54:58Z",
+    "top_repos": [
+      "HAiO-labs/HAiO-evm-contracts",
+      "HAiO-labs/HAiO-solana-programs",
+      "HAiO-labs/HAiO-vesting-program",
+      "HAiO-labs/HAiO-revenue-engine"
+    ]
+  },
+  "owner:HyperGPTai": {
+    "kind": "owner",
+    "owner": "HyperGPTai",
+    "repo_count": 1,
+    "stars": 2,
+    "pushed_at": "2023-12-20T21:57:00Z",
+    "created_at": "2023-05-30T08:37:50Z",
+    "top_repos": [
+      "HyperGPTai/Hypergpt_Token_V0.1Beta"
+    ]
+  },
+  "owner:Libertai": {
+    "kind": "owner",
+    "owner": "Libertai",
+    "repo_count": 32,
+    "stars": 81,
+    "pushed_at": "2026-09-01T11:08:31Z",
+    "created_at": "2024-02-09T16:27:44Z",
+    "top_repos": [
+      "Libertai/libertai-analytics",
+      "Libertai/libertai-api",
+      "Libertai/libertai-cli",
+      "Libertai/libertai-inference",
+      "Libertai/pi_agent_rust"
+    ]
+  },
+  "owner:LikeLabsGH": {
+    "kind": "owner",
+    "owner": "LikeLabsGH",
+    "repo_count": 2,
+    "stars": 0,
+    "pushed_at": "2023-08-03T04:14:24Z",
+    "created_at": "2021-11-29T00:32:41Z",
+    "top_repos": [
+      "LikeLabsGH/collection-gen",
+      "LikeLabsGH/discord-bot"
+    ]
+  },
+  "owner:Lumerin-protocol": {
+    "kind": "owner",
+    "owner": "Lumerin-protocol",
+    "repo_count": 19,
+    "stars": 10,
+    "pushed_at": "2026-09-01T11:58:42Z",
+    "created_at": "2021-08-26T21:01:27Z",
+    "top_repos": [
+      "Lumerin-protocol/hashprice-oracle",
+      "Lumerin-protocol/futures-marketplace",
+      "Lumerin-protocol/derivatives-marketplace",
+      "Lumerin-protocol/collateral-margin",
+      "Lumerin-protocol/spot-marketplace"
+    ]
+  },
+  "owner:MorpheusAIs": {
+    "kind": "owner",
+    "owner": "MorpheusAIs",
+    "repo_count": 62,
+    "stars": 503,
+    "pushed_at": "2026-09-01T09:14:44Z",
+    "created_at": "2023-09-20T15:44:19Z",
+    "top_repos": [
+      "MorpheusAIs/ga-analytics-reporter",
+      "MorpheusAIs/SmartContracts",
+      "MorpheusAIs/Morpheus-Marketplace-API",
+      "MorpheusAIs/dashboard-v2",
+      "MorpheusAIs/Morpheus-Lumerin-Node"
+    ]
+  },
+  "owner:Privasea": {
+    "kind": "owner",
+    "owner": "Privasea",
+    "repo_count": 16,
+    "stars": 45,
+    "pushed_at": "2025-07-14T05:46:36Z",
+    "created_at": "2022-08-31T02:50:32Z",
+    "top_repos": [
+      "Privasea/tl",
+      "Privasea/CrazyApi",
+      "Privasea/.github",
+      "Privasea/middleware",
+      "Privasea/PRAI-BNB"
+    ]
+  },
+  "owner:Rivalz-ai": {
+    "kind": "owner",
+    "owner": "Rivalz-ai",
+    "repo_count": 20,
+    "stars": 16,
+    "pushed_at": "2026-02-11T04:40:03Z",
+    "created_at": "2024-07-19T07:56:15Z",
+    "top_repos": [
+      "Rivalz-ai/worker.strategy-max-yield-avalanche",
+      "Rivalz-ai/proto",
+      "Rivalz-ai/rivalz-helm-chart",
+      "Rivalz-ai/test-biconomy",
+      "Rivalz-ai/framework-be"
+    ]
+  },
+  "owner:SentismAI": {
+    "kind": "owner",
+    "owner": "SentismAI",
+    "repo_count": 2,
+    "stars": 1,
+    "pushed_at": "2025-11-06T02:31:04Z",
+    "created_at": "2025-01-14T22:44:32Z",
+    "top_repos": [
+      "SentismAI/okx-dex-sdk",
+      "SentismAI/elizaos-s.a.f.u"
+    ]
+  },
+  "owner:Sharpelabs": {
+    "kind": "owner",
+    "owner": "Sharpelabs",
+    "repo_count": 16,
+    "stars": 19,
+    "pushed_at": "2025-05-24T20:17:05Z",
+    "created_at": "2023-04-19T11:30:51Z",
+    "top_repos": [
+      "Sharpelabs/ai-chatbot",
+      "Sharpelabs/langchain",
+      "Sharpelabs/dimension-adapters",
+      "Sharpelabs/couch-db",
+      "Sharpelabs/orderly-evm-broker-fee-admin"
+    ]
+  },
+  "owner:Spectral-Finance": {
+    "kind": "owner",
+    "owner": "Spectral-Finance",
+    "repo_count": 23,
+    "stars": 161,
+    "pushed_at": "2026-08-05T09:54:05Z",
+    "created_at": "2021-05-19T12:22:59Z",
+    "top_repos": [
+      "Spectral-Finance/commanded",
+      "Spectral-Finance/agentsea",
+      "Spectral-Finance/openrouter-rankings",
+      "Spectral-Finance/openrouter-rankings-dashboard",
+      "Spectral-Finance/lux"
+    ]
+  },
+  "owner:TreasureProject": {
+    "kind": "owner",
+    "owner": "TreasureProject",
+    "repo_count": 70,
+    "stars": 129,
+    "pushed_at": "2026-08-20T20:27:38Z",
+    "created_at": "2021-09-02T05:17:56Z",
+    "top_repos": [
+      "TreasureProject/ironclaw",
+      "TreasureProject/aifrens-openclaw-skill",
+      "TreasureProject/zkstack-omnichain-tokens",
+      "TreasureProject/Halo-Finance",
+      "TreasureProject/MemOS"
+    ]
+  },
+  "owner:TurboUSD": {
+    "kind": "owner",
+    "owner": "TurboUSD",
+    "repo_count": 7,
+    "stars": 0,
+    "pushed_at": "2026-09-01T09:36:25Z",
+    "created_at": "2026-01-27T18:39:58Z",
+    "top_repos": [
+      "TurboUSD/KELLY",
+      "TurboUSD/DRB",
+      "TurboUSD/CLAWD",
+      "TurboUSD/Treasury-Manager",
+      "TurboUSD/Node"
+    ]
+  },
+  "owner:Uomi-network": {
+    "kind": "owner",
+    "owner": "Uomi-network",
+    "repo_count": 35,
+    "stars": 92,
+    "pushed_at": "2026-06-22T12:44:01Z",
+    "created_at": "2024-06-12T16:09:42Z",
+    "top_repos": [
+      "Uomi-network/uomi-node",
+      "Uomi-network/huggingface.js",
+      "Uomi-network/hub-docs",
+      "Uomi-network/huggingface_hub",
+      "Uomi-network/huggingface.js-1"
+    ]
+  },
+  "owner:VAIoT": {
+    "kind": "owner",
+    "owner": "VAIoT",
+    "repo_count": 18,
+    "stars": 8,
+    "pushed_at": "2025-01-12T10:03:05Z",
+    "created_at": "2021-02-15T10:02:08Z",
+    "top_repos": [
+      "VAIOT/vaiot-resources",
+      "VAIOT/heimdall",
+      "VAIOT/bor",
+      "VAIOT/contractmanager",
+      "VAIOT/payback-contract"
+    ]
+  },
+  "owner:ZODs-Labs": {
+    "kind": "owner",
+    "owner": "ZODs-Labs",
+    "repo_count": 7,
+    "stars": 16,
+    "pushed_at": "2026-08-02T21:28:32Z",
+    "created_at": "2024-12-10T10:13:48Z",
+    "top_repos": [
+      "ZODs-Labs/cashcat-ai-kit",
+      "ZODs-Labs/cashcat-ai-node",
+      "ZODs-Labs/ZODSol",
+      "ZODs-Labs/swift-solana-kit",
+      "ZODs-Labs/solcli"
+    ]
+  },
+  "owner:agentcoinorg": {
+    "kind": "owner",
+    "owner": "agentcoinorg",
+    "repo_count": 9,
+    "stars": 1266,
+    "pushed_at": "2026-03-27T15:10:30Z",
+    "created_at": "2023-08-18T11:09:19Z",
+    "top_repos": [
+      "agentcoinorg/predictionprophet",
+      "agentcoinorg/aitv-contracts",
+      "agentcoinorg/dao-contracts",
+      "agentcoinorg/snapshot-strategies",
+      "agentcoinorg/evo.ninja"
+    ]
+  },
+  "owner:allora-network": {
+    "kind": "owner",
+    "owner": "allora-network",
+    "repo_count": 15,
+    "stars": 199,
+    "pushed_at": "2026-09-01T04:14:29Z",
+    "created_at": "2024-02-08T15:35:36Z",
+    "top_repos": [
+      "allora-network/docs",
+      "allora-network/allora-sdk-go",
+      "allora-network/allora-sdk-py",
+      "allora-network/allora-chain",
+      "allora-network/allora-forge-builder-kit"
+    ]
+  },
+  "owner:apriori-network": {
+    "kind": "owner",
+    "owner": "apriori-network",
+    "repo_count": 9,
+    "stars": 1,
+    "pushed_at": "2025-11-22T20:26:27Z",
+    "created_at": "2025-04-21T22:23:45Z",
+    "top_repos": [
+      "apriori-network/token-list",
+      "apriori-network/protocols",
+      "apriori-network/validator-info",
+      "apriori-network/v2-subgraph",
+      "apriori-network/v2-core"
+    ]
+  },
+  "owner:arguedotfun": {
+    "kind": "owner",
+    "owner": "arguedotfun",
+    "repo_count": 2,
+    "stars": 0,
+    "pushed_at": "2026-03-18T16:51:11Z",
+    "created_at": "2026-02-04T10:29:35Z",
+    "top_repos": [
+      "arguedotfun/skills",
+      "arguedotfun/vibeclaw"
+    ]
+  },
+  "owner:avm-codes": {
+    "kind": "owner",
+    "owner": "avm-codes",
+    "repo_count": 5,
+    "stars": 19,
+    "pushed_at": "2026-04-03T05:53:36Z",
+    "created_at": "2025-05-12T14:28:18Z",
+    "top_repos": [
+      "avm-codes/sandbox-sdk-ts",
+      "avm-codes/sandbox-sdk-python",
+      "avm-codes/avm-default-sandbox",
+      "avm-codes/avm-executor",
+      "avm-codes/avm-vercel-ai"
+    ]
+  },
+  "owner:axioma-ai-labs": {
+    "kind": "owner",
+    "owner": "axioma-ai-labs",
+    "repo_count": 15,
+    "stars": 107,
+    "pushed_at": "2026-08-29T13:31:53Z",
+    "created_at": "2024-08-04T09:46:07Z",
+    "top_repos": [
+      "axioma-ai-labs/whatsapp-mcp",
+      "axioma-ai-labs/python-template",
+      "axioma-ai-labs/neuroapi-cookbook",
+      "axioma-ai-labs/telegram-trading-bot",
+      "axioma-ai-labs/.github"
+    ]
+  },
+  "owner:bottoproject": {
+    "kind": "owner",
+    "owner": "bottoproject",
+    "repo_count": 4,
+    "stars": 9,
+    "pushed_at": "2026-08-25T15:44:13Z",
+    "created_at": "2021-10-08T08:35:34Z",
+    "top_repos": [
+      "bottoproject/smart-contracts",
+      "bottoproject/sr-auction-bot",
+      "bottoproject/raffle",
+      "bottoproject/subgraph"
+    ]
+  },
+  "owner:capminal": {
+    "kind": "owner",
+    "owner": "capminal",
+    "repo_count": 7,
+    "stars": 137,
+    "pushed_at": "2026-08-24T09:21:37Z",
+    "created_at": "2025-05-03T04:00:35Z",
+    "top_repos": [
+      "Capminal/capminal-gitbook",
+      "Capminal/capminal-contracts",
+      "Capminal/agent-skills",
+      "Capminal/acp-cli-demos",
+      "Capminal/.github"
+    ]
+  },
+  "owner:chainbase-labs": {
+    "kind": "owner",
+    "owner": "chainbase-labs",
+    "repo_count": 45,
+    "stars": 1423,
+    "pushed_at": "2026-08-24T16:55:44Z",
+    "created_at": "2023-02-22T13:43:40Z",
+    "top_repos": [
+      "chainbase-labs/Agentkey",
+      "chainbase-labs/manuscript-core",
+      "chainbase-labs/buildermaps.io",
+      "chainbase-labs/AgentkeyDocs",
+      "chainbase-labs/chainbase-docs"
+    ]
+  },
+  "owner:chasmnetwork": {
+    "kind": "owner",
+    "owner": "chasmnetwork",
+    "repo_count": 12,
+    "stars": 7,
+    "pushed_at": "2025-05-20T14:52:36Z",
+    "created_at": "2024-05-30T07:10:34Z",
+    "top_repos": [
+      "ChasmNetwork/Companion_App",
+      "ChasmNetwork/goat",
+      "ChasmNetwork/State-SDK-python",
+      "ChasmNetwork/channel",
+      "ChasmNetwork/digimon-engine"
+    ]
+  },
+  "owner:clawdbotatg": {
+    "kind": "owner",
+    "owner": "clawdbotatg",
+    "repo_count": 100,
+    "stars": 55,
+    "pushed_at": "2026-09-01T03:34:17Z",
+    "created_at": "2026-02-03T14:26:40Z",
+    "top_repos": [
+      "clawdbotatg/slop-computer-live",
+      "clawdbotatg/slop-computer-background",
+      "clawdbotatg/eth-evals",
+      "clawdbotatg/slop-computer-frontpage",
+      "clawdbotatg/leftclaw-services"
+    ]
+  },
+  "owner:commune-ai": {
+    "kind": "owner",
+    "owner": "commune-ai",
+    "repo_count": 100,
+    "stars": 117,
+    "pushed_at": "2026-01-07T15:48:34Z",
+    "created_at": "2022-06-21T13:43:38Z",
+    "top_repos": [
+      "commune-ai/subspace",
+      "commune-ai/commune",
+      "commune-ai/modules",
+      "commune-ai/HRM",
+      "commune-ai/hummingbot"
+    ]
+  },
+  "owner:cortexprotocol": {
+    "kind": "owner",
+    "owner": "cortexprotocol",
+    "repo_count": 2,
+    "stars": 0,
+    "pushed_at": "2026-04-19T22:36:22Z",
+    "created_at": "2025-05-02T01:46:33Z",
+    "top_repos": [
+      "cortexprotocol/mintlify-docs",
+      "cortexprotocol/eth-phishing-detect"
+    ]
+  },
+  "owner:crufro": {
+    "kind": "owner",
+    "owner": "crufro",
+    "repo_count": 17,
+    "stars": 4,
+    "pushed_at": "2026-08-29T03:00:39Z",
+    "created_at": "2021-08-18T22:57:54Z",
+    "top_repos": [
+      "Crufro/audio.cpp",
+      "Crufro/molt.space",
+      "Crufro/boxes",
+      "Crufro/moltspace_examples",
+      "Crufro/hyperscape"
+    ]
+  },
+  "owner:derivexyz": {
+    "kind": "owner",
+    "owner": "derivexyz",
+    "repo_count": 39,
+    "stars": 262,
+    "pushed_at": "2026-09-01T07:03:24Z",
+    "created_at": "2021-06-14T06:38:44Z",
+    "top_repos": [
+      "derivexyz/derive-ts",
+      "derivexyz/socket-plugs",
+      "derivexyz/derive-py",
+      "derivexyz/cockpit",
+      "derivexyz/derive-rs"
+    ]
+  },
+  "owner:distributeai": {
+    "kind": "owner",
+    "owner": "distributeai",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2025-09-12T01:29:02Z",
+    "created_at": "2025-09-12T01:27:36Z",
+    "top_repos": [
+      "distributeai/yellowstone-grpc"
+    ]
+  },
+  "owner:edwin-finance": {
+    "kind": "owner",
+    "owner": "edwin-finance",
+    "repo_count": 11,
+    "stars": 76,
+    "pushed_at": "2026-04-29T19:04:26Z",
+    "created_at": "2025-01-18T14:35:20Z",
+    "top_repos": [
+      "edwin-finance/website",
+      "edwin-finance/edwin",
+      "edwin-finance/docs",
+      "edwin-finance/capital-2027",
+      "edwin-finance/servers"
+    ]
+  },
+  "owner:empyrealapp": {
+    "kind": "owner",
+    "owner": "empyrealapp",
+    "repo_count": 23,
+    "stars": 41,
+    "pushed_at": "2026-07-05T03:54:13Z",
+    "created_at": "2023-03-30T06:33:03Z",
+    "top_repos": [
+      "empyrealapp/aedb",
+      "empyrealapp/azoth",
+      "empyrealapp/eth-packages",
+      "empyrealapp/homebrew-empyrealsdk",
+      "empyrealapp/default-token-list"
+    ]
+  },
+  "owner:germey": {
+    "kind": "owner",
+    "owner": "germey",
+    "repo_count": 100,
+    "stars": 2345,
+    "pushed_at": "2026-09-01T03:59:11Z",
+    "created_at": "2016-07-25T07:14:20Z",
+    "top_repos": [
+      "Germey/Blog",
+      "Germey/AwesomeWebScraping",
+      "Germey/Claude-Code",
+      "Germey/awesome-mcp-servers",
+      "Germey/qclaw-wechat-client"
+    ]
+  },
+  "owner:gizatechxyz": {
+    "kind": "owner",
+    "owner": "gizatechxyz",
+    "repo_count": 32,
+    "stars": 411,
+    "pushed_at": "2026-03-23T08:46:31Z",
+    "created_at": "2022-04-21T09:40:36Z",
+    "top_repos": [
+      "gizatechxyz/giza-hub",
+      "gizatechxyz/NumerAIR",
+      "gizatechxyz/DefiLlama-Adapters",
+      "gizatechxyz/giza-token",
+      "gizatechxyz/LuminAIR"
+    ]
+  },
+  "owner:gokite-ai": {
+    "kind": "owner",
+    "owner": "gokite-ai",
+    "repo_count": 39,
+    "stars": 29,
+    "pushed_at": "2026-09-01T09:23:11Z",
+    "created_at": "2022-09-02T22:37:25Z",
+    "top_repos": [
+      "gokite-ai/passport-skills",
+      "gokite-ai/a2a-coordination-extension",
+      "gokite-ai/sketch",
+      "gokite-ai/avalanche-faucet",
+      "gokite-ai/avalanchego"
+    ]
+  },
+  "owner:grixprotocol": {
+    "kind": "owner",
+    "owner": "grixprotocol",
+    "repo_count": 12,
+    "stars": 29,
+    "pushed_at": "2026-03-18T15:33:06Z",
+    "created_at": "2024-01-17T13:43:14Z",
+    "top_repos": [
+      "grixprotocol/landing-page",
+      "grixprotocol/interface",
+      "grixprotocol/options-perps-derivatives-mcp",
+      "grixprotocol/sdk",
+      "grixprotocol/.github"
+    ]
+  },
+  "owner:heurist-network": {
+    "kind": "owner",
+    "owner": "heurist-network",
+    "repo_count": 35,
+    "stars": 1098,
+    "pushed_at": "2026-08-28T19:18:22Z",
+    "created_at": "2024-01-01T15:58:08Z",
+    "top_repos": [
+      "heurist-network/heurist-agent-framework",
+      "heurist-network/heurist-mesh-x402",
+      "heurist-network/gpt-search-web",
+      "heurist-network/pondera",
+      "heurist-network/heurist-finance"
+    ]
+  },
+  "owner:heyAuraDev": {
+    "kind": "owner",
+    "owner": "heyAuraDev",
+    "repo_count": 21,
+    "stars": 269,
+    "pushed_at": "2026-08-30T18:28:15Z",
+    "created_at": "2017-11-05T21:49:14Z",
+    "top_repos": [
+      "heyAuraDev/adex-protocol-eth",
+      "heyAuraDev/adex-staking",
+      "heyAuraDev/heyAura-brand",
+      "heyAuraDev/clear-signing-erc7730-registry",
+      "heyAuraDev/aura"
+    ]
+  },
+  "owner:hpp-io": {
+    "kind": "owner",
+    "owner": "hpp-io",
+    "repo_count": 46,
+    "stars": 4,
+    "pushed_at": "2026-08-27T05:47:26Z",
+    "created_at": "2025-05-15T13:10:33Z",
+    "top_repos": [
+      "hpp-io/docs",
+      "hpp-io/ImmuKV",
+      "hpp-io/noosphere-agent-js",
+      "hpp-io/hpp-portal",
+      "hpp-io/x402-mcp-bridge"
+    ]
+  },
+  "owner:humanprotocol": {
+    "kind": "owner",
+    "owner": "humanprotocol",
+    "repo_count": 33,
+    "stars": 134,
+    "pushed_at": "2026-08-30T19:44:41Z",
+    "created_at": "2018-09-14T16:03:48Z",
+    "top_repos": [
+      "humanprotocol/human-protocol-btc",
+      "humanprotocol/human-protocol",
+      "humanprotocol/marketing-tasks",
+      "humanprotocol/governance",
+      "humanprotocol/inception-human-protocol"
+    ]
+  },
+  "owner:infinit-xyz": {
+    "kind": "owner",
+    "owner": "infinit-xyz",
+    "repo_count": 9,
+    "stars": 16,
+    "pushed_at": "2026-08-31T08:49:12Z",
+    "created_at": "2024-09-13T06:23:48Z",
+    "top_repos": [
+      "infinit-xyz/DefiLlama-Adapters",
+      "infinit-xyz/defillama-server",
+      "infinit-xyz/pendle-external-integration",
+      "infinit-xyz/yield-server",
+      "infinit-xyz/in-token-contract-audit"
+    ]
+  },
+  "owner:kairence_ai": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:kuviai": {
+    "kind": "owner",
+    "owner": "kuviai",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:layerx-labs": {
+    "kind": "owner",
+    "owner": "layerx-labs",
+    "repo_count": 59,
+    "stars": 88,
+    "pushed_at": "2026-07-30T08:59:55Z",
+    "created_at": "2019-03-19T10:19:43Z",
+    "top_repos": [
+      "layerx-labs/skills",
+      "layerx-labs/workshop-ceiia",
+      "layerx-labs/arena-runs",
+      "layerx-labs/arena-the-squad-graph-mistral",
+      "layerx-labs/arena-the-squad-graph-gemini"
+    ]
+  },
+  "owner:ldclabs": {
+    "kind": "owner",
+    "owner": "ldclabs",
+    "repo_count": 99,
+    "stars": 893,
+    "pushed_at": "2026-09-01T11:16:13Z",
+    "created_at": "2022-03-14T13:07:11Z",
+    "top_repos": [
+      "ldclabs/x402",
+      "ldclabs/1paying-kit",
+      "ldclabs/anda-cloud",
+      "ldclabs/ic-auth",
+      "ldclabs/ic-oss"
+    ]
+  },
+  "owner:leomercier": {
+    "kind": "owner",
+    "owner": "leomercier",
+    "repo_count": 28,
+    "stars": 81,
+    "pushed_at": "2026-07-21T10:15:01Z",
+    "created_at": "2017-04-26T17:39:43Z",
+    "top_repos": [
+      "leomercier/freeagent-mcp",
+      "leomercier/company-os",
+      "leomercier/trace",
+      "leomercier/agent-tripwire",
+      "leomercier/sigmaarena-vm"
+    ]
+  },
+  "owner:lucacadalora": {
+    "kind": "owner",
+    "owner": "lucacadalora",
+    "repo_count": 43,
+    "stars": 86,
+    "pushed_at": "2026-08-24T06:41:35Z",
+    "created_at": "2019-04-14T02:56:43Z",
+    "top_repos": [
+      "lucacadalora/oto123",
+      "lucacadalora/pixel-11-sale",
+      "lucacadalora/lucacadalora.github.io",
+      "lucacadalora/vantis-card",
+      "lucacadalora/jtvo-card"
+    ]
+  },
+  "owner:meshgateway": {
+    "kind": "owner",
+    "owner": "meshgateway",
+    "repo_count": 6,
+    "stars": 6,
+    "pushed_at": "2026-08-27T15:59:07Z",
+    "created_at": "2026-08-19T02:16:46Z",
+    "top_repos": [
+      "meshgateway/mesh-ecosystem-contracts",
+      "meshgateway/x402scan",
+      "meshgateway/x402",
+      "meshgateway/wallet",
+      "meshgateway/mpp-server"
+    ]
+  },
+  "owner:messyvirgo-coin": {
+    "kind": "owner",
+    "owner": "messyvirgo-coin",
+    "repo_count": 7,
+    "stars": 1,
+    "pushed_at": "2026-09-01T10:54:23Z",
+    "created_at": "2025-11-06T05:58:37Z",
+    "top_repos": [
+      "messyvirgo-coin/messyvirgo-com",
+      "messyvirgo-coin/messyvirgo-artwork-creator",
+      "messyvirgo-coin/.github",
+      "messyvirgo-coin/messyvirgo-org",
+      "messyvirgo-coin/messyvirgo-base-app"
+    ]
+  },
+  "owner:myshell-ai": {
+    "kind": "owner",
+    "owner": "myshell-ai",
+    "repo_count": 6,
+    "stars": 47486,
+    "pushed_at": "2026-05-12T10:49:01Z",
+    "created_at": "2023-10-16T01:51:14Z",
+    "top_repos": [
+      "myshell-ai/ComfyUI-ShellAgent-Plugin",
+      "myshell-ai/AIlice",
+      "myshell-ai/ShellAgent",
+      "myshell-ai/OpenVoice",
+      "myshell-ai/MeloTTS"
+    ]
+  },
+  "owner:nirholas": {
+    "kind": "owner",
+    "owner": "nirholas",
+    "repo_count": 100,
+    "stars": 9307,
+    "pushed_at": "2026-09-01T06:13:16Z",
+    "created_at": "2017-09-05T15:23:18Z",
+    "top_repos": [
+      "nirholas/pumpkit",
+      "nirholas/three.ws",
+      "nirholas/XActions",
+      "nirholas/cryptocurrency.cv",
+      "nirholas/3D-AR-Studio"
+    ]
+  },
+  "owner:nookprotocol": {
+    "kind": "owner",
+    "owner": "nookprotocol",
+    "repo_count": 2,
+    "stars": 16,
+    "pushed_at": "2026-06-11T09:54:44Z",
+    "created_at": "2026-02-24T22:51:36Z",
+    "top_repos": [
+      "nookprotocol/nookplot",
+      "nookprotocol/skills"
+    ]
+  },
+  "owner:octaspace": {
+    "kind": "owner",
+    "owner": "octaspace",
+    "repo_count": 23,
+    "stars": 65,
+    "pushed_at": "2026-07-23T10:02:49Z",
+    "created_at": "2019-12-29T20:37:12Z",
+    "top_repos": [
+      "octaspace/octa-cli",
+      "octaspace/go-sdk",
+      "octaspace/website",
+      "octaspace/octa-vpn-extension",
+      "octaspace/js-sdk"
+    ]
+  },
+  "owner:odei-ai": {
+    "kind": "owner",
+    "owner": "odei-ai",
+    "repo_count": 7,
+    "stars": 0,
+    "pushed_at": "2026-08-17T16:36:46Z",
+    "created_at": "2026-05-26T10:56:53Z",
+    "top_repos": [
+      "odei-ai/odei-ai.github.io",
+      "odei-ai/odei-sherlock-scope",
+      "odei-ai/directional-memory",
+      "odei-ai/research",
+      "odei-ai/.github"
+    ]
+  },
+  "owner:olaxbt": {
+    "kind": "owner",
+    "owner": "olaxbt",
+    "repo_count": 10,
+    "stars": 2151,
+    "pushed_at": "2026-08-20T14:00:25Z",
+    "created_at": "2025-05-02T00:31:10Z",
+    "top_repos": [
+      "olaxbt/ai-market-maker",
+      "olaxbt/serenity-skill",
+      "olaxbt/olaxbt-nexus-data",
+      "olaxbt/olaxbt-skills-hub",
+      "olaxbt/mcp-server"
+    ]
+  },
+  "owner:oort-tech": {
+    "kind": "owner",
+    "owner": "oort-tech",
+    "repo_count": 25,
+    "stars": 56,
+    "pushed_at": "2026-03-13T01:50:42Z",
+    "created_at": "2021-11-16T16:04:44Z",
+    "top_repos": [
+      "oort-tech/Olympus",
+      "oort-tech/gitbook-devhub",
+      "oort-tech/libevm",
+      "oort-tech/libdevcore",
+      "oort-tech/launchpad-contract"
+    ]
+  },
+  "owner:openserv-labs": {
+    "kind": "owner",
+    "owner": "openserv-labs",
+    "repo_count": 14,
+    "stars": 264,
+    "pushed_at": "2026-04-06T21:11:47Z",
+    "created_at": "2024-08-05T16:59:03Z",
+    "top_repos": [
+      "openserv-labs/skills",
+      "openserv-labs/client",
+      "openserv-labs/openclaw-voice-avatar",
+      "openserv-labs/sdk",
+      "openserv-labs/agent-examples"
+    ]
+  },
+  "owner:opus-genesis": {
+    "kind": "owner",
+    "owner": "opus-genesis",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:ora-io": {
+    "kind": "owner",
+    "owner": "ora-io",
+    "repo_count": 46,
+    "stars": 584,
+    "pushed_at": "2026-06-24T10:35:18Z",
+    "created_at": "2022-09-26T22:44:05Z",
+    "top_repos": [
+      "ora-io/ora-agent-sdk",
+      "ora-io/ora-tickets",
+      "ora-io/SmartFun",
+      "ora-io/ora-stack",
+      "ora-io/smart-fun-mediakit"
+    ]
+  },
+  "owner:oraichain": {
+    "kind": "owner",
+    "owner": "oraichain",
+    "repo_count": 100,
+    "stars": 175,
+    "pushed_at": "2026-08-27T07:57:32Z",
+    "created_at": "2020-08-19T15:01:17Z",
+    "top_repos": [
+      "oraichain/oraichain-sdk",
+      "oraichain/terminal_headless",
+      "oraichain/wasmd",
+      "oraichain/relayer",
+      "oraichain/discord-puppet"
+    ]
+  },
+  "owner:osobot-ai": {
+    "kind": "owner",
+    "owner": "osobot-ai",
+    "repo_count": 18,
+    "stars": 8,
+    "pushed_at": "2026-08-24T13:05:33Z",
+    "created_at": "2026-01-31T15:16:45Z",
+    "top_repos": [
+      "osobot-ai/the-caveat",
+      "osobot-ai/bear-trap",
+      "osobot-ai/awesome-megaeth-ai",
+      "osobot-ai/megaeth-ai-developer-skills",
+      "osobot-ai/counterfactual-research"
+    ]
+  },
+  "owner:paal-ai": {
+    "kind": "owner",
+    "owner": "paal-ai",
+    "repo_count": 4,
+    "stars": 8,
+    "pushed_at": "2025-03-25T00:53:49Z",
+    "created_at": "2023-10-07T01:21:20Z",
+    "top_repos": [
+      "paal-ai/tokenAssets",
+      "paal-ai/openai-agents-python",
+      "paal-ai/SuperBuySellTrend-TradingView-Trend-Indicator",
+      "paal-ai/twitter-reply-bot"
+    ]
+  },
+  "owner:qorechain": {
+    "kind": "owner",
+    "owner": "qorechain",
+    "repo_count": 16,
+    "stars": 125,
+    "pushed_at": "2026-08-31T20:06:47Z",
+    "created_at": "2025-07-30T20:01:31Z",
+    "top_repos": [
+      "qorechain/qorechain-docs",
+      "qorechain/qorechain-explorer",
+      "qorechain/qorechain-core",
+      "qorechain/qorechain-lightnode",
+      "qorechain/qorechain-rdk"
+    ]
+  },
+  "owner:quackai-labs": {
+    "kind": "owner",
+    "owner": "quackai-labs",
+    "repo_count": 4,
+    "stars": 5,
+    "pushed_at": "2026-06-03T08:49:18Z",
+    "created_at": "2025-05-10T10:35:16Z",
+    "top_repos": [
+      "quackai-labs/quackai-blog-assets",
+      "quackai-labs/Q402",
+      "quackai-labs/quackai-beta",
+      "quackai-labs/token-logo"
+    ]
+  },
+  "owner:shahruj": {
+    "kind": "owner",
+    "owner": "shahruj",
+    "repo_count": 15,
+    "stars": 1,
+    "pushed_at": "2026-06-10T05:53:06Z",
+    "created_at": "2019-11-15T13:53:42Z",
+    "top_repos": [
+      "shahruj/neetcode-submissions",
+      "shahruj/maritex",
+      "shahruj/ProjectManagementAPI",
+      "shahruj/dummyjson-app",
+      "shahruj/VTNet_Eyetracking"
+    ]
+  },
+  "owner:sibylcap": {
+    "kind": "owner",
+    "owner": "sibylcap",
+    "repo_count": 5,
+    "stars": 1,
+    "pushed_at": "2026-08-22T23:48:10Z",
+    "created_at": "2026-02-26T06:53:09Z",
+    "top_repos": [
+      "sibylcap/website",
+      "sibylcap/ping-sdk",
+      "sibylcap/awesome-x402",
+      "sibylcap/x402-dev",
+      "sibylcap/awesome-x402-1"
+    ]
+  },
+  "owner:sturdyfi": {
+    "kind": "owner",
+    "owner": "sturdyfi",
+    "repo_count": 15,
+    "stars": 46,
+    "pushed_at": "2025-10-24T01:51:22Z",
+    "created_at": "2022-03-14T03:24:19Z",
+    "top_repos": [
+      "sturdyfi/DefiLlama-Adapters",
+      "sturdyfi/defillama-yield-server",
+      "sturdyfi/v2-aggregator",
+      "sturdyfi/defillama-server",
+      "sturdyfi/bonsai-foundry-template"
+    ]
+  },
+  "owner:theneurahub": {
+    "kind": "owner",
+    "owner": "theneurahub",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:thirdfi": {
+    "kind": "owner",
+    "owner": "thirdfi",
+    "repo_count": 2,
+    "stars": 0,
+    "pushed_at": "2025-11-12T03:45:54Z",
+    "created_at": "2025-03-27T05:16:14Z",
+    "top_repos": [
+      "thirdfi/xp-token-contract",
+      "thirdfi/maiga-token-api"
+    ]
+  },
+  "owner:thirdfy": {
+    "kind": "owner",
+    "owner": "thirdfy",
+    "repo_count": 2,
+    "stars": 0,
+    "pushed_at": "2026-08-08T21:41:46Z",
+    "created_at": "2024-05-06T12:08:57Z",
+    "top_repos": [
+      "thirdfy/agentkit",
+      "thirdfy/token-lists"
+    ]
+  },
+  "owner:unibaseio": {
+    "kind": "owner",
+    "owner": "unibaseio",
+    "repo_count": 38,
+    "stars": 76,
+    "pushed_at": "2026-08-30T17:06:57Z",
+    "created_at": "2024-08-16T07:18:52Z",
+    "top_repos": [
+      "unibaseio/bitagent-bond-sdk",
+      "unibaseio/unibase-skills",
+      "unibaseio/bitagent-docs",
+      "unibaseio/unibase-docs",
+      "unibaseio/bitagent-cli"
+    ]
+  },
+  "owner:unifai-network": {
+    "kind": "owner",
+    "owner": "unifai-network",
+    "repo_count": 15,
+    "stars": 242,
+    "pushed_at": "2026-05-28T21:34:57Z",
+    "created_at": "2025-01-16T16:49:03Z",
+    "top_repos": [
+      "unifai-network/unifai-docs",
+      "unifai-network/unifai-sdk-js",
+      "unifai-network/skills",
+      "unifai-network/unifai-cli",
+      "unifai-network/homebrew-unifai-cli"
+    ]
+  },
+  "owner:vibeAIrFORCE": {
+    "kind": "owner",
+    "owner": "vibeAIrFORCE",
+    "repo_count": 2,
+    "stars": 0,
+    "pushed_at": "2026-05-12T18:00:48Z",
+    "created_at": "2026-04-11T07:58:21Z",
+    "top_repos": [
+      "vibeAIrFORCE/vibe-skills",
+      "vibeAIrFORCE/vibe-openclaw-skills"
+    ]
+  },
+  "owner:wagmigame": {
+    "kind": "owner",
+    "owner": "wagmigame",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:warden-protocol": {
+    "kind": "owner",
+    "owner": "warden-protocol",
+    "repo_count": 38,
+    "stars": 2295,
+    "pushed_at": "2026-08-31T12:25:36Z",
+    "created_at": "2024-02-13T13:55:43Z",
+    "top_repos": [
+      "warden-protocol/run-halo",
+      "warden-protocol/wardenprotocol",
+      "warden-protocol/warden-exporter",
+      "warden-protocol/tokenAssets",
+      "warden-protocol/ERCs"
+    ]
+  },
+  "repo:0xZentience/Zentience_Automaton-merge-ca-87qaShD91K66KaPD9esCc2TgP55fUFkW7PMyJEb8pump": {
+    "kind": "repo",
+    "full_name": "0xZentience/Zentience_Automaton-merge-ca-87qaShD91K66KaPD9esCc2TgP55fUFkW7PMyJEb8pump",
+    "owner": "0xZentience",
+    "stars": 4,
+    "forks": 0,
+    "created_at": "2026-03-07T20:13:59Z",
+    "pushed_at": "2026-05-02T05:54:45Z",
+    "archived": false,
+    "size": 2348,
+    "language": "TypeScript"
+  },
+  "repo:0xdevpro/deepcore": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:0xdirectping/app": {
+    "kind": "repo",
+    "full_name": "0xdirectping/app",
+    "owner": "0xdirectping",
+    "stars": 2,
+    "forks": 0,
+    "created_at": "2026-02-22T07:33:59Z",
+    "pushed_at": "2026-07-10T19:51:05Z",
+    "archived": false,
+    "size": 242,
+    "language": "TypeScript"
+  },
+  "repo:AetherFrameworkAI/aether-framework": {
+    "kind": "repo",
+    "full_name": "AetherFrameworkAI/aether-framework",
+    "owner": "AetherFrameworkAI",
+    "stars": 47,
+    "forks": 18,
+    "created_at": "2024-12-28T06:24:48Z",
+    "pushed_at": "2025-01-04T09:07:34Z",
+    "archived": false,
+    "size": 103,
+    "language": "Python"
+  },
+  "repo:AimedisBV/AIMX": {
+    "kind": "repo",
+    "full_name": "AimedisBV/AIMX",
+    "owner": "AimedisBV",
+    "stars": 0,
+    "forks": 1,
+    "created_at": "2021-11-21T15:40:59Z",
+    "pushed_at": "2023-03-10T10:01:18Z",
+    "archived": false,
+    "size": 62,
+    "language": "Solidity"
+  },
+  "repo:Apex-Traderclaw/traderclaw": {
+    "kind": "repo",
+    "full_name": "Apex-Traderclaw/traderclaw",
+    "owner": "Apex-Traderclaw",
+    "stars": 61,
+    "forks": 2,
+    "created_at": "2026-03-20T19:29:36Z",
+    "pushed_at": "2026-05-19T03:51:23Z",
+    "archived": false,
+    "size": 11271,
+    "language": "TypeScript"
+  },
+  "repo:Artasov/xexamai": {
+    "kind": "repo",
+    "full_name": "Artasov/xexamai",
+    "owner": "Artasov",
+    "stars": 46,
+    "forks": 6,
+    "created_at": "2025-10-04T05:14:07Z",
+    "pushed_at": "2026-08-27T17:42:52Z",
+    "archived": false,
+    "size": 10448,
+    "language": "TypeScript"
+  },
+  "repo:ArweaveTeam/arweave": {
+    "kind": "repo",
+    "full_name": "ArweaveTeam/arweave",
+    "owner": "ArweaveTeam",
+    "stars": 1074,
+    "forks": 231,
+    "created_at": "2017-08-02T16:22:19Z",
+    "pushed_at": "2026-09-11T01:02:41Z",
+    "archived": false,
+    "size": 417541,
+    "language": "Erlang"
+  },
+  "repo:Barbariandev/MANTIS": {
+    "kind": "repo",
+    "full_name": "Barbariandev/MANTIS",
+    "owner": "Barbariandev",
+    "stars": 19,
+    "forks": 18,
+    "created_at": "2025-06-13T16:50:33Z",
+    "pushed_at": "2026-08-17T17:37:41Z",
+    "archived": false,
+    "size": 3418,
+    "language": "Python"
+  },
+  "repo:BetterTherapy/bettertherapy-bittensor-subnet": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:Bink-AI/BinkOS": {
+    "kind": "repo",
+    "full_name": "Bink-AI/BinkOS",
+    "owner": "Bink-AI",
+    "stars": 37,
+    "forks": 22,
+    "created_at": "2025-02-19T04:40:57Z",
+    "pushed_at": "2025-08-01T06:31:09Z",
+    "archived": false,
+    "size": 3011,
+    "language": "TypeScript"
+  },
+  "repo:BitMind-AI/bitmind-subnet": {
+    "kind": "repo",
+    "full_name": "BitMind-AI/bitmind-subnet",
+    "owner": "BitMind-AI",
+    "stars": 48,
+    "forks": 30,
+    "created_at": "2024-06-11T18:44:48Z",
+    "pushed_at": "2026-09-09T13:03:28Z",
+    "archived": false,
+    "size": 140951,
+    "language": "Python"
+  },
+  "repo:Bitchemicaltech/Bitchemical-Token": {
+    "kind": "repo",
+    "full_name": "Bitchemicaltech/Bitchemical-Token",
+    "owner": "Bitchemicaltech",
+    "stars": 1,
+    "forks": 0,
+    "created_at": "2022-04-04T20:20:21Z",
+    "pushed_at": "2025-12-14T12:39:32Z",
+    "archived": false,
+    "size": 1616,
+    "language": "Solidity"
+  },
+  "repo:Bitsec-AI/subnet": {
+    "kind": "repo",
+    "full_name": "Bitsec-AI/subnet",
+    "owner": "Bitsec-AI",
+    "stars": 7,
+    "forks": 17,
+    "created_at": "2024-09-16T17:35:36Z",
+    "pushed_at": "2025-08-28T20:55:43Z",
+    "archived": false,
+    "size": 101069,
+    "language": "Python"
+  },
+  "repo:Coiin-Blockchain/coiin-smart-contracts": {
+    "kind": "repo",
+    "full_name": "Coiin-Blockchain/coiin-smart-contracts",
+    "owner": "Coiin-Blockchain",
+    "stars": 1,
+    "forks": 1,
+    "created_at": "2024-01-30T15:48:45Z",
+    "pushed_at": "2025-05-27T17:45:22Z",
+    "archived": false,
+    "size": 236,
+    "language": "HTML"
+  },
+  "repo:CortexFoundation/Cortex_Release": {
+    "kind": "repo",
+    "full_name": "CortexFoundation/Cortex_Release",
+    "owner": "CortexFoundation",
+    "stars": 14,
+    "forks": 3,
+    "created_at": "2018-09-27T15:17:36Z",
+    "pushed_at": "2025-08-17T00:03:57Z",
+    "archived": false,
+    "size": 1292865,
+    "language": null
+  },
+  "repo:CortexFoundation/ncnn": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:Creator-Bid/Clawlett": {
+    "kind": "repo",
+    "full_name": "Creator-Bid/Clawlett",
+    "owner": "Creator-Bid",
+    "stars": 8,
+    "forks": 8,
+    "created_at": "2026-02-09T13:14:20Z",
+    "pushed_at": "2026-03-16T13:35:32Z",
+    "archived": false,
+    "size": 335,
+    "language": "JavaScript"
+  },
+  "repo:Cryptense/KryllToken": {
+    "kind": "repo",
+    "full_name": "Cryptense/KryllToken",
+    "owner": "Cryptense",
+    "stars": 7,
+    "forks": 2,
+    "created_at": "2018-04-25T14:27:35Z",
+    "pushed_at": "2019-01-17T13:45:59Z",
+    "archived": false,
+    "size": 855,
+    "language": "JavaScript"
+  },
+  "repo:CryptoFamilyNFT/oobe-protocol": {
+    "kind": "repo",
+    "full_name": "0xSteveTheHead/oobe-protocol",
+    "owner": "0xSteveTheHead",
+    "stars": 4,
+    "forks": 1,
+    "created_at": "2025-01-15T09:40:35Z",
+    "pushed_at": "2025-09-09T17:37:03Z",
+    "archived": false,
+    "size": 58104,
+    "language": "TypeScript"
+  },
+  "repo:DRBTaskForce/drbtaskforce.github.io": {
+    "kind": "repo",
+    "full_name": "DRBTaskForce/drbtaskforce.github.io",
+    "owner": "DRBTaskForce",
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2026-03-17T23:40:02Z",
+    "pushed_at": "2026-09-10T17:25:17Z",
+    "archived": false,
+    "size": 23259,
+    "language": "Nunjucks"
+  },
+  "repo:Desearch-ai/subnet-22": {
+    "kind": "repo",
+    "full_name": "Desearch-ai/subnet-22",
+    "owner": "Desearch-ai",
+    "stars": 49,
+    "forks": 47,
+    "created_at": "2023-12-15T14:20:06Z",
+    "pushed_at": "2026-09-10T19:05:53Z",
+    "archived": false,
+    "size": 4568,
+    "language": "Python"
+  },
+  "repo:EfficientFrontier-SignalPlus/EfficientFrontier": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:Gattic/glades-ml": {
+    "kind": "repo",
+    "full_name": "Gattic/glades-ml",
+    "owner": "Gattic",
+    "stars": 10,
+    "forks": 6,
+    "created_at": "2019-12-15T01:48:10Z",
+    "pushed_at": "2026-08-25T14:46:04Z",
+    "archived": false,
+    "size": 37917,
+    "language": "C++"
+  },
+  "repo:General-Tao-Ventures/cartha-cli": {
+    "kind": "repo",
+    "full_name": "General-Tao-Ventures/cartha-cli",
+    "owner": "General-Tao-Ventures",
+    "stars": 0,
+    "forks": 3,
+    "created_at": "2025-11-01T05:34:27Z",
+    "pushed_at": "2026-03-17T15:44:46Z",
+    "archived": false,
+    "size": 564,
+    "language": "Python"
+  },
+  "repo:GraphiteAI/Graphite-Subnet": {
+    "kind": "repo",
+    "full_name": "GraphiteAI/Graphite-Subnet",
+    "owner": "GraphiteAI",
+    "stars": 14,
+    "forks": 19,
+    "created_at": "2024-07-19T15:00:31Z",
+    "pushed_at": "2025-10-12T15:50:57Z",
+    "archived": false,
+    "size": 31182,
+    "language": "Python"
+  },
+  "repo:It-s-AI/llm-detection": {
+    "kind": "repo",
+    "full_name": "It-s-AI/llm-detection",
+    "owner": "It-s-AI",
+    "stars": 48,
+    "forks": 27,
+    "created_at": "2024-03-07T13:25:37Z",
+    "pushed_at": "2026-07-23T17:48:16Z",
+    "archived": false,
+    "size": 1381,
+    "language": "Python"
+  },
+  "repo:Josh-XT/AGiXT": {
+    "kind": "repo",
+    "full_name": "Josh-XT/AGiXT",
+    "owner": "Josh-XT",
+    "stars": 3214,
+    "forks": 447,
+    "created_at": "2023-04-17T19:35:00Z",
+    "pushed_at": "2026-07-28T05:57:41Z",
+    "archived": false,
+    "size": 189500,
+    "language": "Python"
+  },
+  "repo:Juliaoscode/JuliaOS": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:KMFODA/DistributedTraining": {
+    "kind": "repo",
+    "full_name": "dstrbtd/DistributedTraining",
+    "owner": "dstrbtd",
+    "stars": 20,
+    "forks": 18,
+    "created_at": "2023-08-27T18:20:34Z",
+    "pushed_at": "2025-12-23T09:39:15Z",
+    "archived": false,
+    "size": 11213,
+    "language": "Python"
+  },
+  "repo:KevRojo/Dulus": {
+    "kind": "repo",
+    "full_name": "KevRojo/Dulus",
+    "owner": "KevRojo",
+    "stars": 359,
+    "forks": 21,
+    "created_at": "2026-05-05T05:13:43Z",
+    "pushed_at": "2026-09-09T21:07:29Z",
+    "archived": false,
+    "size": 20605,
+    "language": "Python"
+  },
+  "repo:Level114/level114-subnet": {
+    "kind": "repo",
+    "full_name": "Level114/level114-subnet",
+    "owner": "Level114",
+    "stars": 0,
+    "forks": 3,
+    "created_at": "2025-09-17T05:15:27Z",
+    "pushed_at": "2025-11-11T15:12:40Z",
+    "archived": false,
+    "size": 10770,
+    "language": "Python"
+  },
+  "repo:MIAOAI-Subnet/MIAOAI_SUBNET": {
+    "kind": "repo",
+    "full_name": "MIAOAI-Subnet/MIAOAI_SUBNET",
+    "owner": "MIAOAI-Subnet",
+    "stars": 2,
+    "forks": 2,
+    "created_at": "2025-03-06T05:40:57Z",
+    "pushed_at": "2025-10-15T08:53:54Z",
+    "archived": false,
+    "size": 5742,
+    "language": "Python"
+  },
+  "repo:MMO-Coin/mmocoin": {
+    "kind": "repo",
+    "full_name": "MMO-Coin/mmocoin",
+    "owner": "MMO-Coin",
+    "stars": 9,
+    "forks": 0,
+    "created_at": "2019-10-10T13:13:40Z",
+    "pushed_at": "2020-03-02T18:09:58Z",
+    "archived": true,
+    "size": 97006,
+    "language": "C++"
+  },
+  "repo:MetaInsde/MetaInside": {
+    "kind": "repo",
+    "full_name": "MetaInsde/MetaInside",
+    "owner": "MetaInsde",
+    "stars": 4,
+    "forks": 0,
+    "created_at": "2021-04-06T09:55:42Z",
+    "pushed_at": "2022-03-24T14:33:40Z",
+    "archived": false,
+    "size": 3225,
+    "language": "HTML"
+  },
+  "repo:NeuralNexusII/NullUntilBoot": {
+    "kind": "repo",
+    "full_name": "NeuralNexusII/NullUntilBoot",
+    "owner": "NeuralNexusII",
+    "stars": 1,
+    "forks": 0,
+    "created_at": "2025-04-07T13:53:35Z",
+    "pushed_at": "2025-04-14T22:44:53Z",
+    "archived": false,
+    "size": 21,
+    "language": "Python"
+  },
+  "repo:Nickel5-Inc/Gaia": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:Nickel5-Inc/bettensor": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:NuanceNetwork/Nuance": {
+    "kind": "repo",
+    "full_name": "NuanceNetwork/Nuance",
+    "owner": "NuanceNetwork",
+    "stars": 4,
+    "forks": 3,
+    "created_at": "2025-03-27T09:05:59Z",
+    "pushed_at": "2025-10-31T22:47:34Z",
+    "archived": false,
+    "size": 572,
+    "language": "Python"
+  },
+  "repo:Nyla-AI-Labs/nyla-overview": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:OVR-Platform/unity-sdk": {
+    "kind": "repo",
+    "full_name": "OVR-Platform/unity-sdk",
+    "owner": "OVR-Platform",
+    "stars": 38,
+    "forks": 12,
+    "created_at": "2021-10-26T13:49:20Z",
+    "pushed_at": "2026-09-08T14:21:04Z",
+    "archived": false,
+    "size": 17885,
+    "language": "C#"
+  },
+  "repo:OpenKaito/openkaito": {
+    "kind": "repo",
+    "full_name": "OpenKaito/openkaito",
+    "owner": "OpenKaito",
+    "stars": 65,
+    "forks": 30,
+    "created_at": "2024-02-15T03:47:59Z",
+    "pushed_at": "2025-03-04T18:38:22Z",
+    "archived": false,
+    "size": 11838,
+    "language": "Jupyter Notebook"
+  },
+  "repo:OrderlyNetworkDexCreator/ai69x-6381": {
+    "kind": "repo",
+    "full_name": "OrderlyNetworkDexCreator/ai69x-6381",
+    "owner": "OrderlyNetworkDexCreator",
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2025-09-27T08:14:06Z",
+    "pushed_at": "2026-06-01T20:25:48Z",
+    "archived": false,
+    "size": 12681,
+    "language": "TypeScript"
+  },
+  "repo:OriginTrail/neuroweb": {
+    "kind": "repo",
+    "full_name": "OriginTrail/neuroweb",
+    "owner": "OriginTrail",
+    "stars": 47,
+    "forks": 23,
+    "created_at": "2021-05-19T09:53:10Z",
+    "pushed_at": "2026-01-21T09:34:57Z",
+    "archived": false,
+    "size": 4890,
+    "language": "Rust"
+  },
+  "repo:Orpheus-AI/Zeus": {
+    "kind": "repo",
+    "full_name": "Orpheus-AI/Zeus",
+    "owner": "Orpheus-AI",
+    "stars": 39,
+    "forks": 28,
+    "created_at": "2025-01-14T10:35:20Z",
+    "pushed_at": "2026-09-07T09:26:26Z",
+    "archived": false,
+    "size": 92211,
+    "language": "Jupyter Notebook"
+  },
+  "repo:PettBro/petbot-monorepo": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:Phasmafuture/Phasma": {
+    "kind": "repo",
+    "full_name": "Phasmafuture/Phasma",
+    "owner": "Phasmafuture",
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2026-04-13T08:31:19Z",
+    "pushed_at": "2026-06-20T14:47:46Z",
+    "archived": false,
+    "size": 4549,
+    "language": "TypeScript"
+  },
+  "repo:PlatformNetwork/platform": {
+    "kind": "repo",
+    "full_name": "CortexLM/cortex",
+    "owner": "CortexLM",
+    "stars": 159,
+    "forks": 19,
+    "created_at": "2025-04-26T00:53:36Z",
+    "pushed_at": "2026-09-11T02:14:21Z",
+    "archived": false,
+    "size": 73002,
+    "language": "Rust"
+  },
+  "repo:PresearchOfficial/PRE-Token": {
+    "kind": "repo",
+    "full_name": "PresearchOfficial/PRE-Token",
+    "owner": "PresearchOfficial",
+    "stars": 52,
+    "forks": 12,
+    "created_at": "2017-10-12T15:10:51Z",
+    "pushed_at": "2023-09-21T18:13:33Z",
+    "archived": false,
+    "size": 2100,
+    "language": "Solidity"
+  },
+  "repo:RFRMDAO/DAO-Contracts": {
+    "kind": "repo",
+    "full_name": "RFRMDAO/DAO-Contracts",
+    "owner": "RFRMDAO",
+    "stars": 1,
+    "forks": 0,
+    "created_at": "2024-02-02T14:19:58Z",
+    "pushed_at": "2024-02-02T14:37:38Z",
+    "archived": false,
+    "size": 21,
+    "language": "Solidity"
+  },
+  "repo:RedTeamSubnet/RedTeam": {
+    "kind": "repo",
+    "full_name": "RedTeamSubnet/RedTeam",
+    "owner": "RedTeamSubnet",
+    "stars": 23,
+    "forks": 22,
+    "created_at": "2024-11-12T20:55:08Z",
+    "pushed_at": "2026-09-09T22:27:34Z",
+    "archived": false,
+    "size": 62416,
+    "language": "Python"
+  },
+  "repo:ReinforcedAIAudits/solidity-audit": {
+    "kind": "repo",
+    "full_name": "ReinforcedAIAudits/solidity-audit",
+    "owner": "ReinforcedAIAudits",
+    "stars": 3,
+    "forks": 5,
+    "created_at": "2025-04-22T16:36:16Z",
+    "pushed_at": "2025-10-30T16:03:17Z",
+    "archived": false,
+    "size": 125,
+    "language": "Python"
+  },
+  "repo:Rich-Kids-of-TAO/rkt-subnet": {
+    "kind": "repo",
+    "full_name": "Rich-Kids-of-TAO/rkt-subnet",
+    "owner": "Rich-Kids-of-TAO",
+    "stars": 0,
+    "forks": 1,
+    "created_at": "2025-09-22T21:18:24Z",
+    "pushed_at": "2025-10-06T14:59:04Z",
+    "archived": false,
+    "size": 19,
+    "language": "Python"
+  },
+  "repo:RoboraDev/RoboraDevelopment": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:RogueTensor/bitagent_subnet": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:SN-Hermes/hermes-subnet": {
+    "kind": "repo",
+    "full_name": "SN-Hermes/hermes-subnet",
+    "owner": "SN-Hermes",
+    "stars": 3,
+    "forks": 6,
+    "created_at": "2026-01-13T03:03:09Z",
+    "pushed_at": "2026-04-17T17:39:24Z",
+    "archived": false,
+    "size": 9661,
+    "language": "Python"
+  },
+  "repo:SYMBaiEX/SYMBaiEX": {
+    "kind": "repo",
+    "full_name": "SYMBaiEX/SYMBaiEX",
+    "owner": "SYMBaiEX",
+    "stars": 13,
+    "forks": 4,
+    "created_at": "2024-12-18T07:38:55Z",
+    "pushed_at": "2026-09-10T20:50:37Z",
+    "archived": false,
+    "size": 5551,
+    "language": "TypeScript"
+  },
+  "repo:Sallar-Labs/Sallar": {
+    "kind": "repo",
+    "full_name": "Sallar-Labs/Sallar",
+    "owner": "Sallar-Labs",
+    "stars": 1,
+    "forks": 1,
+    "created_at": "2024-11-04T23:42:16Z",
+    "pushed_at": "2024-11-05T00:06:24Z",
+    "archived": false,
+    "size": 7863,
+    "language": "Rust"
+  },
+  "repo:Satori119/Satori": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:Secret3dev/SecretNetwork": {
+    "kind": "repo",
+    "full_name": "Secret3dev/SecretNetwork",
+    "owner": "Secret3dev",
+    "stars": 1,
+    "forks": 1,
+    "created_at": "2026-08-20T00:34:24Z",
+    "pushed_at": "2026-08-20T00:35:19Z",
+    "archived": false,
+    "size": 416877,
+    "language": "Rust"
+  },
+  "repo:SelfKeyFoundation/identity-wallet": {
+    "kind": "repo",
+    "full_name": "SelfKeyFoundation/Identity-Wallet",
+    "owner": "SelfKeyFoundation",
+    "stars": 59,
+    "forks": 16,
+    "created_at": "2017-10-03T14:57:43Z",
+    "pushed_at": "2024-05-21T07:50:19Z",
+    "archived": false,
+    "size": 62521,
+    "language": "JavaScript"
+  },
+  "repo:SoraOracle/SoraOracle": {
+    "kind": "repo",
+    "full_name": "SoraOracle/SoraOracle",
+    "owner": "SoraOracle",
+    "stars": 19,
+    "forks": 6,
+    "created_at": "2025-10-19T09:50:42Z",
+    "pushed_at": "2025-11-14T23:02:36Z",
+    "archived": true,
+    "size": 45440,
+    "language": "TypeScript"
+  },
+  "repo:Sturdy-Subnet/sturdy-subnet": {
+    "kind": "repo",
+    "full_name": "Swap-Subnet/swap-subnet",
+    "owner": "Swap-Subnet",
+    "stars": 33,
+    "forks": 32,
+    "created_at": "2024-02-22T04:35:03Z",
+    "pushed_at": "2025-11-05T05:40:17Z",
+    "archived": false,
+    "size": 7286,
+    "language": "Python"
+  },
+  "repo:SuperChampsTeam/Super-Champs-Token": {
+    "kind": "repo",
+    "full_name": "SuperChampsTeam/Super-Champs-Token",
+    "owner": "SuperChampsTeam",
+    "stars": 0,
+    "forks": 2,
+    "created_at": "2024-04-22T09:40:51Z",
+    "pushed_at": "2025-09-04T06:02:45Z",
+    "archived": false,
+    "size": 13016,
+    "language": "Solidity"
+  },
+  "repo:Superclaworg/agents": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:TatsuProject/Document_Understanding_Subnet": {
+    "kind": "repo",
+    "full_name": "TatsuProject/Document_Understanding_Subnet",
+    "owner": "TatsuProject",
+    "stars": 3,
+    "forks": 4,
+    "created_at": "2024-10-16T08:02:23Z",
+    "pushed_at": "2025-07-02T15:15:20Z",
+    "archived": false,
+    "size": 5111,
+    "language": "Python"
+  },
+  "repo:Tenexium/tenex-subnet": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:TheSolaAI/sola-application": {
+    "kind": "repo",
+    "full_name": "TheSolaAI/sola-application",
+    "owner": "TheSolaAI",
+    "stars": 52,
+    "forks": 19,
+    "created_at": "2024-12-22T15:09:40Z",
+    "pushed_at": "2025-12-11T11:30:48Z",
+    "archived": false,
+    "size": 9957,
+    "language": "TypeScript"
+  },
+  "repo:TradeTideAI/TradeTide": {
+    "kind": "repo",
+    "full_name": "TradeTideAI/TradeTide",
+    "owner": "TradeTideAI",
+    "stars": 1,
+    "forks": 1,
+    "created_at": "2025-06-04T13:11:20Z",
+    "pushed_at": "2026-03-11T06:29:33Z",
+    "archived": false,
+    "size": 840,
+    "language": "JavaScript"
+  },
+  "repo:TreasureProject/Golem": {
+    "kind": "repo",
+    "full_name": "TreasureProject/Golem",
+    "owner": "TreasureProject",
+    "stars": 5,
+    "forks": 4,
+    "created_at": "2026-01-16T18:36:21Z",
+    "pushed_at": "2026-02-04T15:39:07Z",
+    "archived": false,
+    "size": 265406,
+    "language": "ShaderLab"
+  },
+  "repo:UraniumCorporation/maiar-ai": {
+    "kind": "repo",
+    "full_name": "UraniumCorporation/maiar-ai",
+    "owner": "UraniumCorporation",
+    "stars": 87,
+    "forks": 32,
+    "created_at": "2025-01-31T19:04:45Z",
+    "pushed_at": "2026-08-08T03:01:17Z",
+    "archived": false,
+    "size": 36977,
+    "language": "TypeScript"
+  },
+  "repo:VectorChat/chunking_subnet": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:WhiteBridge-AI/WBAI_Token": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:Wisdomise/wsdm-token": {
+    "kind": "repo",
+    "full_name": "Wisdomise/wsdm-token",
+    "owner": "Wisdomise",
+    "stars": 4,
+    "forks": 0,
+    "created_at": "2024-02-08T15:00:30Z",
+    "pushed_at": "2024-02-22T05:16:20Z",
+    "archived": false,
+    "size": 180,
+    "language": "Solidity"
+  },
+  "repo:afterpartyai/bittensor-conversation-genome-project": {
+    "kind": "repo",
+    "full_name": "afterpartyai/bittensor-conversation-genome-project",
+    "owner": "afterpartyai",
+    "stars": 23,
+    "forks": 34,
+    "created_at": "2024-05-06T23:55:33Z",
+    "pushed_at": "2026-08-20T17:21:26Z",
+    "archived": false,
+    "size": 6624,
+    "language": "Python"
+  },
+  "repo:agentik-dex/agentikdex_chrome_extension": {
+    "kind": "repo",
+    "full_name": "agentik-dex/agentikdex_chrome_extension",
+    "owner": "agentik-dex",
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2025-06-14T09:16:31Z",
+    "pushed_at": "2025-06-14T09:17:39Z",
+    "archived": false,
+    "size": 971,
+    "language": null
+  },
+  "repo:ai16z/eliza": {
+    "kind": "repo",
+    "full_name": "elizaOS/eliza",
+    "owner": "elizaOS",
+    "stars": 19322,
+    "forks": 5713,
+    "created_at": "2024-07-09T07:55:40Z",
+    "pushed_at": "2026-09-11T03:08:03Z",
+    "archived": false,
+    "size": 2015349,
+    "language": "TypeScript"
+  },
+  "repo:aicolabsdev/aicolabs": {
+    "kind": "repo",
+    "full_name": "aicolabsdev/aicolabs",
+    "owner": "aicolabsdev",
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2026-02-27T15:59:48Z",
+    "pushed_at": "2026-03-04T20:12:36Z",
+    "archived": false,
+    "size": 152,
+    "language": "TypeScript"
+  },
+  "repo:ainblockchain/ain-blockchain": {
+    "kind": "repo",
+    "full_name": "ainblockchain/ain-blockchain",
+    "owner": "ainblockchain",
+    "stars": 77,
+    "forks": 30,
+    "created_at": "2020-05-27T06:37:30Z",
+    "pushed_at": "2026-09-10T20:18:54Z",
+    "archived": false,
+    "size": 14374,
+    "language": "JavaScript"
+  },
+  "repo:aleph-im/aleph-client": {
+    "kind": "repo",
+    "full_name": "aleph-im/aleph-client",
+    "owner": "aleph-im",
+    "stars": 14,
+    "forks": 18,
+    "created_at": "2019-08-05T16:02:02Z",
+    "pushed_at": "2026-08-04T19:48:38Z",
+    "archived": false,
+    "size": 24993,
+    "language": "Python"
+  },
+  "repo:aleph-im/myaleph": {
+    "kind": "repo",
+    "full_name": "aleph-im/myaleph",
+    "owner": "aleph-im",
+    "stars": 9,
+    "forks": 3,
+    "created_at": "2019-11-14T17:11:31Z",
+    "pushed_at": "2023-01-24T06:33:44Z",
+    "archived": false,
+    "size": 4520,
+    "language": "Vue"
+  },
+  "repo:anon-dev01/Quick_Intel": {
+    "kind": "repo",
+    "full_name": "anon-dev01/Quick_Intel",
+    "owner": "anon-dev01",
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2023-02-11T22:24:20Z",
+    "pushed_at": "2023-02-11T22:54:02Z",
+    "archived": false,
+    "size": 14,
+    "language": "Solidity"
+  },
+  "repo:asalsali/covenant-framework": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:autoppia/autoppia_web_agents_subnet": {
+    "kind": "repo",
+    "full_name": "autoppia/autoppia_web_agents_subnet",
+    "owner": "autoppia",
+    "stars": 7,
+    "forks": 25,
+    "created_at": "2025-02-11T16:44:37Z",
+    "pushed_at": "2026-08-04T09:24:33Z",
+    "archived": false,
+    "size": 8394,
+    "language": "Python"
+  },
+  "repo:backend-developers-ltd/ComputeHorde": {
+    "kind": "repo",
+    "full_name": "backend-developers-ltd/ComputeHorde",
+    "owner": "backend-developers-ltd",
+    "stars": 25,
+    "forks": 35,
+    "created_at": "2024-01-16T20:44:39Z",
+    "pushed_at": "2026-08-05T11:43:10Z",
+    "archived": false,
+    "size": 15378,
+    "language": "Python"
+  },
+  "repo:backend-developers-ltd/InfiniteHash": {
+    "kind": "repo",
+    "full_name": "backend-developers-ltd/InfiniteHash",
+    "owner": "backend-developers-ltd",
+    "stars": 2,
+    "forks": 5,
+    "created_at": "2025-07-01T07:58:31Z",
+    "pushed_at": "2026-03-27T12:38:55Z",
+    "archived": false,
+    "size": 677,
+    "language": "Python"
+  },
+  "repo:badaitech/badai-docs": {
+    "kind": "repo",
+    "full_name": "badaitech/badai-docs",
+    "owner": "badaitech",
+    "stars": 5,
+    "forks": 1,
+    "created_at": "2024-12-17T23:30:27Z",
+    "pushed_at": "2025-01-14T12:11:58Z",
+    "archived": false,
+    "size": 623,
+    "language": "TypeScript"
+  },
+  "repo:balliegiflord/CorporateAuditAI": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:bigideaafrica/polaris": {
+    "kind": "repo",
+    "full_name": "PolarisCloudAI/polaris",
+    "owner": "PolarisCloudAI",
+    "stars": 1,
+    "forks": 2,
+    "created_at": "2025-05-18T05:28:14Z",
+    "pushed_at": "2025-10-01T13:34:35Z",
+    "archived": false,
+    "size": 139919,
+    "language": "HTML"
+  },
+  "repo:bitcast-network/bitcast": {
+    "kind": "repo",
+    "full_name": "bitcast-network/bitcast",
+    "owner": "bitcast-network",
+    "stars": 9,
+    "forks": 7,
+    "created_at": "2025-04-25T10:05:50Z",
+    "pushed_at": "2026-09-06T21:26:09Z",
+    "archived": false,
+    "size": 1103,
+    "language": "Python"
+  },
+  "repo:bitrecs/bitrecs-subnet": {
+    "kind": "repo",
+    "full_name": "bitrecs/bitrecs-subnet",
+    "owner": "bitrecs",
+    "stars": 5,
+    "forks": 5,
+    "created_at": "2025-06-25T18:33:52Z",
+    "pushed_at": "2026-03-11T00:12:45Z",
+    "archived": false,
+    "size": 12604,
+    "language": "Python"
+  },
+  "repo:blorm-network/ZerePy": {
+    "kind": "repo",
+    "full_name": "blorm-network/ZerePy",
+    "owner": "blorm-network",
+    "stars": 577,
+    "forks": 252,
+    "created_at": "2024-11-21T16:10:18Z",
+    "pushed_at": "2025-03-10T02:53:29Z",
+    "archived": false,
+    "size": 1494,
+    "language": "Python"
+  },
+  "repo:brokespace/code": {
+    "kind": "repo",
+    "full_name": "brokespace/code",
+    "owner": "brokespace",
+    "stars": 8,
+    "forks": 11,
+    "created_at": "2024-07-06T19:20:43Z",
+    "pushed_at": "2025-09-11T15:28:52Z",
+    "archived": false,
+    "size": 936,
+    "language": "Jupyter Notebook"
+  },
+  "repo:canopy-network/canopy": {
+    "kind": "repo",
+    "full_name": "canopy-network/canopy",
+    "owner": "canopy-network",
+    "stars": 15299,
+    "forks": 17439,
+    "created_at": "2024-10-30T11:39:07Z",
+    "pushed_at": "2026-09-09T20:32:22Z",
+    "archived": false,
+    "size": 38655,
+    "language": "Go"
+  },
+  "repo:cindicator/CindicatorArbitrageBot": {
+    "kind": "repo",
+    "full_name": "Cindicator/CindicatorArbitrageBot",
+    "owner": "Cindicator",
+    "stars": 89,
+    "forks": 18,
+    "created_at": "2017-07-18T14:23:49Z",
+    "pushed_at": "2022-12-07T23:59:46Z",
+    "archived": false,
+    "size": 53,
+    "language": "Python"
+  },
+  "repo:coinmetrics/precog": {
+    "kind": "repo",
+    "full_name": "coinmetrics/precog",
+    "owner": "coinmetrics",
+    "stars": 9,
+    "forks": 8,
+    "created_at": "2024-11-21T16:08:31Z",
+    "pushed_at": "2025-10-07T13:44:48Z",
+    "archived": false,
+    "size": 1551,
+    "language": "Python"
+  },
+  "repo:coldint/coldint_validator": {
+    "kind": "repo",
+    "full_name": "coldint/coldint_validator",
+    "owner": "coldint",
+    "stars": 5,
+    "forks": 6,
+    "created_at": "2024-07-18T09:22:21Z",
+    "pushed_at": "2025-07-11T21:46:06Z",
+    "archived": false,
+    "size": 966,
+    "language": "Python"
+  },
+  "repo:condenses/neural-condense-subnet": {
+    "kind": "repo",
+    "full_name": "condenses/neural-condense-subnet",
+    "owner": "condenses",
+    "stars": 1,
+    "forks": 4,
+    "created_at": "2024-10-23T11:10:49Z",
+    "pushed_at": "2025-03-02T13:44:19Z",
+    "archived": true,
+    "size": 3918,
+    "language": null
+  },
+  "repo:creativebuilds/sn77": {
+    "kind": "repo",
+    "full_name": "CreativeBuilds/sn77",
+    "owner": "CreativeBuilds",
+    "stars": 6,
+    "forks": 4,
+    "created_at": "2025-03-14T19:19:22Z",
+    "pushed_at": "2026-06-24T19:27:26Z",
+    "archived": false,
+    "size": 820,
+    "language": "TypeScript"
+  },
+  "repo:cyberia-to/go-cyber": {
+    "kind": "repo",
+    "full_name": "cyberia-to/go-cyber",
+    "owner": "cyberia-to",
+    "stars": 361,
+    "forks": 91,
+    "created_at": "2018-03-05T04:51:35Z",
+    "pushed_at": "2026-06-05T17:21:06Z",
+    "archived": true,
+    "size": 60666,
+    "language": "TypeScript"
+  },
+  "repo:deep-worm/worm": {
+    "kind": "repo",
+    "full_name": "deep-worm/worm",
+    "owner": "deep-worm",
+    "stars": 16,
+    "forks": 10,
+    "created_at": "2024-10-24T05:17:34Z",
+    "pushed_at": "2024-10-24T05:18:53Z",
+    "archived": false,
+    "size": 724,
+    "language": "TypeScript"
+  },
+  "repo:degenpredict/bittensor-subnet-90-brain": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:dfinity/ic": {
+    "kind": "repo",
+    "full_name": "dfinity/ic",
+    "owner": "dfinity",
+    "stars": 1792,
+    "forks": 411,
+    "created_at": "2021-05-09T08:16:37Z",
+    "pushed_at": "2026-09-11T01:31:42Z",
+    "archived": false,
+    "size": 807022,
+    "language": "Rust"
+  },
+  "repo:dfusionai/Vericore": {
+    "kind": "repo",
+    "full_name": "dfusionai/Vericore",
+    "owner": "dfusionai",
+    "stars": 8,
+    "forks": 10,
+    "created_at": "2025-01-13T23:11:05Z",
+    "pushed_at": "2026-03-11T10:54:55Z",
+    "archived": false,
+    "size": 427,
+    "language": "Python"
+  },
+  "repo:divinediarrhea/divine-diarrhea": {
+    "kind": "repo",
+    "full_name": "divinediarrhea/divine-diarrhea",
+    "owner": "divinediarrhea",
+    "stars": 5,
+    "forks": 0,
+    "created_at": "2024-10-18T05:33:25Z",
+    "pushed_at": "2024-10-25T15:50:18Z",
+    "archived": false,
+    "size": 10,
+    "language": "HTML"
+  },
+  "repo:dogeshitmeme/dogeshit-mcp": {
+    "kind": "repo",
+    "full_name": "dogeshitmeme/dogeshit-mcp",
+    "owner": "dogeshitmeme",
+    "stars": 4,
+    "forks": 2,
+    "created_at": "2026-05-09T19:27:12Z",
+    "pushed_at": "2026-05-25T22:06:14Z",
+    "archived": false,
+    "size": 103,
+    "language": "TypeScript"
+  },
+  "repo:eclipsevortex/SubVortex": {
+    "kind": "repo",
+    "full_name": "eclipsevortex/SubVortex",
+    "owner": "eclipsevortex",
+    "stars": 16,
+    "forks": 14,
+    "created_at": "2024-02-22T18:44:45Z",
+    "pushed_at": "2025-09-08T10:26:33Z",
+    "archived": false,
+    "size": 7153,
+    "language": "Python"
+  },
+  "repo:effectai/neo-dev-toolkit": {
+    "kind": "repo",
+    "full_name": "effectai/neo-dev-toolkit",
+    "owner": "effectai",
+    "stars": 8,
+    "forks": 1,
+    "created_at": "2017-11-27T22:56:27Z",
+    "pushed_at": "2018-03-30T05:45:27Z",
+    "archived": false,
+    "size": 22,
+    "language": "Shell"
+  },
+  "repo:ejski-rgb/alphalensx": {
+    "kind": "repo",
+    "full_name": "ejski-rgb/alphalensx",
+    "owner": "ejski-rgb",
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2025-10-22T02:16:27Z",
+    "pushed_at": "2026-07-07T19:34:21Z",
+    "archived": false,
+    "size": 5416,
+    "language": "TypeScript"
+  },
+  "repo:entrius/gittensor": {
+    "kind": "repo",
+    "full_name": "entrius/gittensor",
+    "owner": "entrius",
+    "stars": 49,
+    "forks": 226,
+    "created_at": "2025-09-28T21:47:09Z",
+    "pushed_at": "2026-09-08T14:46:00Z",
+    "archived": false,
+    "size": 3559,
+    "language": "Python"
+  },
+  "repo:eseckft/BitAds.ai": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:eugenix-io/logx-token": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:farlabs-dev/smart-contracts": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:fx-integral/merit": {
+    "kind": "repo",
+    "full_name": "fx-integral/merit",
+    "owner": "fx-integral",
+    "stars": 2,
+    "forks": 2,
+    "created_at": "2025-04-16T05:06:13Z",
+    "pushed_at": "2025-05-15T03:17:35Z",
+    "archived": true,
+    "size": 113,
+    "language": "Python"
+  },
+  "repo:galadriel-ai/Sentience": {
+    "kind": "repo",
+    "full_name": "galadriel-ai/Sentience",
+    "owner": "galadriel-ai",
+    "stars": 67,
+    "forks": 11,
+    "created_at": "2024-12-09T13:23:43Z",
+    "pushed_at": "2025-03-14T08:22:35Z",
+    "archived": false,
+    "size": 3749,
+    "language": "Python"
+  },
+  "repo:general-works/glint": {
+    "kind": "repo",
+    "full_name": "general-works/Glint",
+    "owner": "general-works",
+    "stars": 477,
+    "forks": 100,
+    "created_at": "2025-05-18T14:32:37Z",
+    "pushed_at": "2025-08-20T14:26:44Z",
+    "archived": false,
+    "size": 173,
+    "language": "Rust"
+  },
+  "repo:github.com/iristoken2022": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:goheesheng/x402guard-opensource": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:golemfactory/concent-deployment": {
+    "kind": "repo",
+    "full_name": "golemfactory/concent-deployment",
+    "owner": "golemfactory",
+    "stars": 5,
+    "forks": 2,
+    "created_at": "2017-10-30T11:01:11Z",
+    "pushed_at": "2022-02-19T08:45:18Z",
+    "archived": false,
+    "size": 712,
+    "language": "Shell"
+  },
+  "repo:golemfactory/golem": {
+    "kind": "repo",
+    "full_name": "golemfactory/golem",
+    "owner": "golemfactory",
+    "stars": 20,
+    "forks": 3,
+    "created_at": "2021-03-09T13:59:04Z",
+    "pushed_at": "2021-03-09T15:09:08Z",
+    "archived": false,
+    "size": 30,
+    "language": null
+  },
+  "repo:golemfactory/golem-electron": {
+    "kind": "repo",
+    "full_name": "golemfactory/golem-electron",
+    "owner": "golemfactory",
+    "stars": 97,
+    "forks": 17,
+    "created_at": "2017-04-12T09:42:41Z",
+    "pushed_at": "2023-01-25T12:39:45Z",
+    "archived": true,
+    "size": 12754,
+    "language": "JavaScript"
+  },
+  "repo:golemfactory/golem-messages": {
+    "kind": "repo",
+    "full_name": "golemfactory/golem-messages",
+    "owner": "golemfactory",
+    "stars": 2,
+    "forks": 8,
+    "created_at": "2017-10-30T10:50:03Z",
+    "pushed_at": "2022-08-30T20:22:06Z",
+    "archived": false,
+    "size": 791,
+    "language": "Python"
+  },
+  "repo:golemfactory/golem-unlimited": {
+    "kind": "repo",
+    "full_name": "Golem-Unlimited/golem-unlimited",
+    "owner": "Golem-Unlimited",
+    "stars": 47,
+    "forks": 6,
+    "created_at": "2017-12-30T12:03:34Z",
+    "pushed_at": "2020-03-30T07:51:33Z",
+    "archived": true,
+    "size": 10436,
+    "language": "Rust"
+  },
+  "repo:goneuralai/neural-subnet": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:gonka-ai/gonka": {
+    "kind": "repo",
+    "full_name": "gonka-ai/gonka",
+    "owner": "gonka-ai",
+    "stars": 623,
+    "forks": 139,
+    "created_at": "2024-07-11T00:20:27Z",
+    "pushed_at": "2026-09-10T23:16:08Z",
+    "archived": false,
+    "size": 251473,
+    "language": "Jupyter Notebook"
+  },
+  "repo:graph-it-uk/HappyAI-subnet": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:graphprotocol/graph-cli": {
+    "kind": "repo",
+    "full_name": "graphprotocol/graph-tooling",
+    "owner": "graphprotocol",
+    "stars": 423,
+    "forks": 231,
+    "created_at": "2018-06-15T09:15:19Z",
+    "pushed_at": "2026-09-10T23:57:42Z",
+    "archived": false,
+    "size": 15852,
+    "language": "TypeScript"
+  },
+  "repo:graphprotocol/graph-node": {
+    "kind": "repo",
+    "full_name": "graphprotocol/graph-node",
+    "owner": "graphprotocol",
+    "stars": 3146,
+    "forks": 1061,
+    "created_at": "2018-04-19T07:13:50Z",
+    "pushed_at": "2026-08-25T16:04:07Z",
+    "archived": false,
+    "size": 340316,
+    "language": "Rust"
+  },
+  "repo:graphprotocol/graph-ts": {
+    "kind": "repo",
+    "full_name": "graphprotocol/graph-ts",
+    "owner": "graphprotocol",
+    "stars": 218,
+    "forks": 66,
+    "created_at": "2018-10-01T10:42:59Z",
+    "pushed_at": "2023-02-23T08:07:21Z",
+    "archived": true,
+    "size": 214,
+    "language": null
+  },
+  "repo:gutenberg-team/fakenews-subnet": {
+    "kind": "repo",
+    "full_name": "gutenberg-team/fakenews-subnet",
+    "owner": "gutenberg-team",
+    "stars": 6,
+    "forks": 5,
+    "created_at": "2025-01-29T10:57:52Z",
+    "pushed_at": "2025-03-27T10:57:53Z",
+    "archived": false,
+    "size": 204,
+    "language": "Python"
+  },
+  "repo:hashlink-me/hashlink-cli": {
+    "kind": "repo",
+    "full_name": "hashlink-me/hashlink-cli",
+    "owner": "hashlink-me",
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2026-03-08T17:47:00Z",
+    "pushed_at": "2026-03-15T13:24:00Z",
+    "archived": false,
+    "size": 27,
+    "language": "TypeScript"
+  },
+  "repo:hype3cool/hype3-ai-agents": {
+    "kind": "repo",
+    "full_name": "hype3cool/hype3-ai-agents",
+    "owner": "hype3cool",
+    "stars": 1,
+    "forks": 0,
+    "created_at": "2024-12-20T02:06:05Z",
+    "pushed_at": "2024-12-20T10:28:12Z",
+    "archived": false,
+    "size": 3545,
+    "language": "TypeScript"
+  },
+  "repo:idni/tau": {
+    "kind": "repo",
+    "full_name": "IDNI/TML",
+    "owner": "IDNI",
+    "stars": 125,
+    "forks": 26,
+    "created_at": "2017-09-29T15:05:05Z",
+    "pushed_at": "2023-05-31T14:25:16Z",
+    "archived": false,
+    "size": 15632,
+    "language": "C++"
+  },
+  "repo:impel-intelligence/dippy-bittensor-subnet": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:impel-intelligence/dippy-speech-subnet": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:inference-labs-inc/omron-subnet": {
+    "kind": "repo",
+    "full_name": "inference-labs-inc/subnet-2",
+    "owner": "inference-labs-inc",
+    "stars": 2460,
+    "forks": 131,
+    "created_at": "2024-04-10T21:42:36Z",
+    "pushed_at": "2026-09-09T15:35:21Z",
+    "archived": false,
+    "size": 54499,
+    "language": "Rust"
+  },
+  "repo:kamiyo-ai/kamiyo-protocol": {
+    "kind": "repo",
+    "full_name": "mizuki0x/kamiyo-protocol",
+    "owner": "mizuki0x",
+    "stars": 7,
+    "forks": 0,
+    "created_at": "2026-01-29T13:02:04Z",
+    "pushed_at": "2026-08-01T15:38:16Z",
+    "archived": false,
+    "size": 640486,
+    "language": "TypeScript"
+  },
+  "repo:latent-to/taohash": {
+    "kind": "repo",
+    "full_name": "latent-to/taohash",
+    "owner": "latent-to",
+    "stars": 32,
+    "forks": 12,
+    "created_at": "2024-04-25T23:08:11Z",
+    "pushed_at": "2025-12-16T19:25:48Z",
+    "archived": false,
+    "size": 2866,
+    "language": "Python"
+  },
+  "repo:lexicon-labs/lexicon-mvp": {
+    "kind": "repo",
+    "full_name": "lexicon-labs/lexicon-mvp",
+    "owner": "lexicon-labs",
+    "stars": 46,
+    "forks": 8,
+    "created_at": "2024-11-14T20:30:10Z",
+    "pushed_at": "2025-01-31T16:27:44Z",
+    "archived": false,
+    "size": 581,
+    "language": "TypeScript"
+  },
+  "repo:litebeam-protocol/protocol": {
+    "kind": "repo",
+    "full_name": "Litebeam-protocol/protocol",
+    "owner": "Litebeam-protocol",
+    "stars": 2,
+    "forks": 0,
+    "created_at": "2026-05-24T09:18:24Z",
+    "pushed_at": "2026-07-14T10:18:00Z",
+    "archived": false,
+    "size": 114,
+    "language": "TypeScript"
+  },
+  "repo:livepeer/go-livepeer": {
+    "kind": "repo",
+    "full_name": "livepeer/go-livepeer",
+    "owner": "livepeer",
+    "stars": 586,
+    "forks": 226,
+    "created_at": "2017-06-19T02:36:09Z",
+    "pushed_at": "2026-09-11T01:47:04Z",
+    "archived": false,
+    "size": 160495,
+    "language": "Go"
+  },
+  "repo:livepeer/livepeerjs": {
+    "kind": "repo",
+    "full_name": "livepeer/ui-kit",
+    "owner": "livepeer",
+    "stars": 72,
+    "forks": 34,
+    "created_at": "2022-08-09T16:10:17Z",
+    "pushed_at": "2026-06-03T11:18:22Z",
+    "archived": false,
+    "size": 31830,
+    "language": "TypeScript"
+  },
+  "repo:livepeer/protocol": {
+    "kind": "repo",
+    "full_name": "livepeer/protocol",
+    "owner": "livepeer",
+    "stars": 154,
+    "forks": 48,
+    "created_at": "2017-04-25T00:22:38Z",
+    "pushed_at": "2026-08-31T05:39:58Z",
+    "archived": false,
+    "size": 4979,
+    "language": "JavaScript"
+  },
+  "repo:macrocosm-os/apex": {
+    "kind": "repo",
+    "full_name": "macrocosm-os/apex",
+    "owner": "macrocosm-os",
+    "stars": 139,
+    "forks": 63,
+    "created_at": "2024-01-09T23:23:02Z",
+    "pushed_at": "2026-09-09T13:54:38Z",
+    "archived": false,
+    "size": 13566,
+    "language": "Python"
+  },
+  "repo:macrocosm-os/data-universe": {
+    "kind": "repo",
+    "full_name": "macrocosm-os/data-universe",
+    "owner": "macrocosm-os",
+    "stars": 77,
+    "forks": 81,
+    "created_at": "2023-11-28T04:59:58Z",
+    "pushed_at": "2026-09-02T15:43:30Z",
+    "archived": false,
+    "size": 12153,
+    "language": "Python"
+  },
+  "repo:macrocosm-os/mainframe": {
+    "kind": "repo",
+    "full_name": "macrocosm-os/mainframe",
+    "owner": "macrocosm-os",
+    "stars": 31,
+    "forks": 23,
+    "created_at": "2024-02-17T01:22:08Z",
+    "pushed_at": "2025-09-29T14:26:59Z",
+    "archived": false,
+    "size": 49437,
+    "language": "Python"
+  },
+  "repo:macrocosm-os/pretraining": {
+    "kind": "repo",
+    "full_name": "macrocosm-os/pretraining",
+    "owner": "macrocosm-os",
+    "stars": 26,
+    "forks": 23,
+    "created_at": "2023-12-23T16:34:56Z",
+    "pushed_at": "2025-05-28T14:03:18Z",
+    "archived": false,
+    "size": 3183,
+    "language": "Python"
+  },
+  "repo:manifold-inc/targon": {
+    "kind": "repo",
+    "full_name": "manifold-inc/targon",
+    "owner": "manifold-inc",
+    "stars": 74,
+    "forks": 59,
+    "created_at": "2023-09-27T20:23:15Z",
+    "pushed_at": "2026-08-23T06:44:02Z",
+    "archived": false,
+    "size": 108985,
+    "language": "Go"
+  },
+  "repo:marlinprotocol/OpenWeaver": {
+    "kind": "repo",
+    "full_name": "marlinprotocol/OpenWeaver",
+    "owner": "marlinprotocol",
+    "stars": 65,
+    "forks": 18,
+    "created_at": "2020-02-27T10:13:10Z",
+    "pushed_at": "2023-03-24T07:40:59Z",
+    "archived": false,
+    "size": 15101,
+    "language": "C++"
+  },
+  "repo:masa-finance/subnet-42": {
+    "kind": "repo",
+    "full_name": "gopher-lab/subnet-42",
+    "owner": "gopher-lab",
+    "stars": 11,
+    "forks": 11,
+    "created_at": "2025-01-27T22:05:59Z",
+    "pushed_at": "2026-04-21T20:17:48Z",
+    "archived": false,
+    "size": 3754,
+    "language": "Python"
+  },
+  "repo:memetus/homo-memetus-app": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:metanova-labs/nova": {
+    "kind": "repo",
+    "full_name": "metanova-labs/nova",
+    "owner": "metanova-labs",
+    "stars": 21,
+    "forks": 35,
+    "created_at": "2025-01-31T19:44:10Z",
+    "pushed_at": "2026-09-09T22:25:02Z",
+    "archived": false,
+    "size": 112820,
+    "language": "Python"
+  },
+  "repo:metaspartan/curiso": {
+    "kind": "repo",
+    "full_name": "metaspartan/curiso",
+    "owner": "metaspartan",
+    "stars": 246,
+    "forks": 51,
+    "created_at": "2025-01-02T10:20:36Z",
+    "pushed_at": "2025-01-30T05:28:15Z",
+    "archived": false,
+    "size": 7277,
+    "language": "TypeScript"
+  },
+  "repo:mind-circuit/omnis_env": {
+    "kind": "repo",
+    "full_name": "mind-circuit/omnis_env",
+    "owner": "mind-circuit",
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2024-12-05T03:15:54Z",
+    "pushed_at": "2024-12-05T03:28:37Z",
+    "archived": false,
+    "size": 21,
+    "language": "Python"
+  },
+  "repo:mobiusfund/etf": {
+    "kind": "repo",
+    "full_name": "mobiusfund/etf",
+    "owner": "mobiusfund",
+    "stars": 3,
+    "forks": 1,
+    "created_at": "2025-10-03T22:31:20Z",
+    "pushed_at": "2026-04-20T18:18:58Z",
+    "archived": false,
+    "size": 600,
+    "language": "Python"
+  },
+  "repo:mobiusfund/staking": {
+    "kind": "repo",
+    "full_name": "mobiusfund/investing",
+    "owner": "mobiusfund",
+    "stars": 13,
+    "forks": 13,
+    "created_at": "2025-04-01T03:18:04Z",
+    "pushed_at": "2026-09-07T21:17:00Z",
+    "archived": false,
+    "size": 114,
+    "language": "Python"
+  },
+  "repo:mode-network/synth-subnet": {
+    "kind": "repo",
+    "full_name": "synthdataco/synth-subnet",
+    "owner": "synthdataco",
+    "stars": 101,
+    "forks": 46,
+    "created_at": "2024-11-09T18:48:33Z",
+    "pushed_at": "2026-09-09T10:53:29Z",
+    "archived": false,
+    "size": 21481,
+    "language": "Python"
+  },
+  "repo:natixnetwork/streetvision-subnet": {
+    "kind": "repo",
+    "full_name": "natixnetwork/streetvision-subnet",
+    "owner": "natixnetwork",
+    "stars": 12,
+    "forks": 11,
+    "created_at": "2025-02-06T16:59:54Z",
+    "pushed_at": "2026-05-07T12:26:51Z",
+    "archived": false,
+    "size": 137971,
+    "language": "Python"
+  },
+  "repo:nearprotocol/near-wallet": {
+    "kind": "repo",
+    "full_name": "near/near-wallet",
+    "owner": "near",
+    "stars": 236,
+    "forks": 174,
+    "created_at": "2019-01-18T23:08:16Z",
+    "pushed_at": "2025-02-28T21:42:02Z",
+    "archived": false,
+    "size": 36870,
+    "language": "JavaScript"
+  },
+  "repo:nearprotocol/nearcore": {
+    "kind": "repo",
+    "full_name": "near/nearcore",
+    "owner": "near",
+    "stars": 2614,
+    "forks": 790,
+    "created_at": "2018-10-02T22:30:39Z",
+    "pushed_at": "2026-09-10T15:39:16Z",
+    "archived": false,
+    "size": 261618,
+    "language": "Rust"
+  },
+  "repo:nearprotocol/nearlib": {
+    "kind": "repo",
+    "full_name": "near/near-api-js",
+    "owner": "near",
+    "stars": 427,
+    "forks": 265,
+    "created_at": "2019-05-04T06:33:50Z",
+    "pushed_at": "2026-09-11T00:40:44Z",
+    "archived": false,
+    "size": 39532,
+    "language": "TypeScript"
+  },
+  "repo:neuralinternet/ni-compute": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:nimbus-cloud-9/nimbus-contract": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:nottelabs/notte": {
+    "kind": "repo",
+    "full_name": "nottelabs/notte",
+    "owner": "nottelabs",
+    "stars": 2001,
+    "forks": 184,
+    "created_at": "2024-12-08T02:06:30Z",
+    "pushed_at": "2026-09-10T16:42:19Z",
+    "archived": false,
+    "size": 71522,
+    "language": "Python"
+  },
+  "repo:nullxnothing/daemon": {
+    "kind": "repo",
+    "full_name": "nullxnothing/daemon",
+    "owner": "nullxnothing",
+    "stars": 26,
+    "forks": 8,
+    "created_at": "2026-03-31T16:44:20Z",
+    "pushed_at": "2026-08-10T23:06:33Z",
+    "archived": false,
+    "size": 144119,
+    "language": "TypeScript"
+  },
+  "repo:numinouslabs/numinous": {
+    "kind": "repo",
+    "full_name": "numinouslabs/numinous",
+    "owner": "numinouslabs",
+    "stars": 19,
+    "forks": 15,
+    "created_at": "2025-11-24T03:18:15Z",
+    "pushed_at": "2026-08-28T17:07:07Z",
+    "archived": false,
+    "size": 776,
+    "language": "Python"
+  },
+  "repo:oceanprotocol/keeper-contracts": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:oceanprotocol/market": {
+    "kind": "repo",
+    "full_name": "oceanprotocol/market",
+    "owner": "oceanprotocol",
+    "stars": 219,
+    "forks": 302,
+    "created_at": "2020-04-28T09:06:41Z",
+    "pushed_at": "2026-04-04T06:21:22Z",
+    "archived": false,
+    "size": 91107,
+    "language": "TypeScript"
+  },
+  "repo:oceanprotocol/pleuston": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:oceanprotocol/squid-js": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:omegalabsinc/omegalabs-anytoany-bittensor": {
+    "kind": "repo",
+    "full_name": "omegalabsinc/omegalabs-anytoany-bittensor",
+    "owner": "omegalabsinc",
+    "stars": 45,
+    "forks": 21,
+    "created_at": "2024-05-21T01:05:54Z",
+    "pushed_at": "2026-01-29T02:48:04Z",
+    "archived": false,
+    "size": 18626,
+    "language": "Python"
+  },
+  "repo:omegalabsinc/omegalabs-bittensor-subnet": {
+    "kind": "repo",
+    "full_name": "omegalabsinc/omegalabs-bittensor-subnet",
+    "owner": "omegalabsinc",
+    "stars": 59,
+    "forks": 27,
+    "created_at": "2024-02-20T23:52:29Z",
+    "pushed_at": "2025-12-17T18:34:03Z",
+    "archived": false,
+    "size": 82837,
+    "language": "Python"
+  },
+  "repo:oneoneone-io/subnet-111": {
+    "kind": "repo",
+    "full_name": "oneoneone-io/subnet-111",
+    "owner": "oneoneone-io",
+    "stars": 1,
+    "forks": 10,
+    "created_at": "2025-06-11T17:03:03Z",
+    "pushed_at": "2026-06-11T20:49:26Z",
+    "archived": false,
+    "size": 800,
+    "language": "JavaScript"
+  },
+  "repo:open-covenant/covenant": {
+    "kind": "repo",
+    "full_name": "open-covenant/covenant",
+    "owner": "open-covenant",
+    "stars": 8,
+    "forks": 5,
+    "created_at": "2026-04-24T10:40:48Z",
+    "pushed_at": "2026-09-11T03:07:33Z",
+    "archived": false,
+    "size": 42475,
+    "language": "Rust"
+  },
+  "repo:opentensor/BitTensor": {
+    "kind": "repo",
+    "full_name": "RaoFoundation/bittensor",
+    "owner": "RaoFoundation",
+    "stars": 1467,
+    "forks": 474,
+    "created_at": "2020-07-28T23:12:38Z",
+    "pushed_at": "2026-07-10T17:43:54Z",
+    "archived": true,
+    "size": 353425,
+    "language": "Python"
+  },
+  "repo:orgs/StrikeRobot": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:pearl-research-labs/pearl": {
+    "kind": "repo",
+    "full_name": "pearl-research-labs/pearl",
+    "owner": "pearl-research-labs",
+    "stars": 300,
+    "forks": 70,
+    "created_at": "2026-04-19T10:31:45Z",
+    "pushed_at": "2026-09-10T15:00:18Z",
+    "archived": false,
+    "size": 41828,
+    "language": "Go"
+  },
+  "repo:permaweb/ao": {
+    "kind": "repo",
+    "full_name": "permaweb/ao",
+    "owner": "permaweb",
+    "stars": 265,
+    "forks": 85,
+    "created_at": "2023-08-02T11:47:16Z",
+    "pushed_at": "2026-08-26T18:22:54Z",
+    "archived": false,
+    "size": 727115,
+    "language": "JavaScript"
+  },
+  "repo:piotrostr/listen": {
+    "kind": "repo",
+    "full_name": "piotrostr/listen",
+    "owner": "piotrostr",
+    "stars": 1086,
+    "forks": 164,
+    "created_at": "2024-04-29T09:27:10Z",
+    "pushed_at": "2025-11-05T00:31:15Z",
+    "archived": false,
+    "size": 16451,
+    "language": "TypeScript"
+  },
+  "repo:piplabs/data-network": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:pippinlovesdot/dot-automation": {
+    "kind": "repo",
+    "full_name": "pippinlovesdot/dot-automation",
+    "owner": "pippinlovesdot",
+    "stars": 4,
+    "forks": 2,
+    "created_at": "2025-12-04T12:55:11Z",
+    "pushed_at": "2026-05-25T20:23:17Z",
+    "archived": false,
+    "size": 128,
+    "language": "Python"
+  },
+  "repo:plastic-labs/yousim": {
+    "kind": "repo",
+    "full_name": "plastic-labs/yousim",
+    "owner": "plastic-labs",
+    "stars": 140,
+    "forks": 18,
+    "created_at": "2024-06-05T01:53:17Z",
+    "pushed_at": "2026-09-06T04:19:36Z",
+    "archived": false,
+    "size": 2068,
+    "language": "TypeScript"
+  },
+  "repo:prxvt/sdk": {
+    "kind": "repo",
+    "full_name": "PRXVT/sdk",
+    "owner": "PRXVT",
+    "stars": 24,
+    "forks": 2,
+    "created_at": "2025-11-07T03:01:16Z",
+    "pushed_at": "2025-11-25T20:33:41Z",
+    "archived": false,
+    "size": 3026,
+    "language": "TypeScript"
+  },
+  "repo:qbittensor-labs/quantum": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:qbittensor-labs/quantum-compute": {
+    "kind": "repo",
+    "full_name": "qbittensor-labs/quantum-compute",
+    "owner": "qbittensor-labs",
+    "stars": 3,
+    "forks": 1,
+    "created_at": "2025-10-29T22:13:40Z",
+    "pushed_at": "2026-08-03T15:31:03Z",
+    "archived": false,
+    "size": 386,
+    "language": "Python"
+  },
+  "repo:rayonlabs/G.O.D": {
+    "kind": "repo",
+    "full_name": "gradients-ai/G.O.D",
+    "owner": "gradients-ai",
+    "stars": 37,
+    "forks": 40,
+    "created_at": "2024-11-27T13:28:52Z",
+    "pushed_at": "2026-09-10T15:37:52Z",
+    "archived": false,
+    "size": 76790,
+    "language": "Python"
+  },
+  "repo:rayonlabs/chutes": {
+    "kind": "repo",
+    "full_name": "chutesai/chutes",
+    "owner": "chutesai",
+    "stars": 90,
+    "forks": 33,
+    "created_at": "2024-11-06T11:06:07Z",
+    "pushed_at": "2026-07-23T11:03:44Z",
+    "archived": false,
+    "size": 96845,
+    "language": "Python"
+  },
+  "repo:ridgesai/ridges": {
+    "kind": "repo",
+    "full_name": "ridgesai/ridges",
+    "owner": "ridgesai",
+    "stars": 90,
+    "forks": 56,
+    "created_at": "2025-05-23T16:16:24Z",
+    "pushed_at": "2026-09-10T21:15:22Z",
+    "archived": false,
+    "size": 10377,
+    "language": "Python"
+  },
+  "repo:rodaisol/rodai": {
+    "kind": "repo",
+    "full_name": "rodaisol/rodai",
+    "owner": "rodaisol",
+    "stars": 1,
+    "forks": 0,
+    "created_at": "2024-01-10T18:21:50Z",
+    "pushed_at": "2026-01-19T06:40:28Z",
+    "archived": false,
+    "size": 87191,
+    "language": "TypeScript"
+  },
+  "repo:safe-scan-ai/cancer-ai": {
+    "kind": "repo",
+    "full_name": "safe-scan-ai/cancer-ai",
+    "owner": "safe-scan-ai",
+    "stars": 15,
+    "forks": 9,
+    "created_at": "2024-08-08T18:34:17Z",
+    "pushed_at": "2026-02-11T14:23:02Z",
+    "archived": false,
+    "size": 27736,
+    "language": "Python"
+  },
+  "repo:saihaj/doge-ai": {
+    "kind": "repo",
+    "full_name": "rhetor-ai/DOGE-AI",
+    "owner": "rhetor-ai",
+    "stars": 75,
+    "forks": 19,
+    "created_at": "2024-12-24T22:15:53Z",
+    "pushed_at": "2026-03-31T16:02:09Z",
+    "archived": false,
+    "size": 6828,
+    "language": "TypeScript"
+  },
+  "repo:sbhooley/ainativelang": {
+    "kind": "repo",
+    "full_name": "sbhooley/ainativelang",
+    "owner": "sbhooley",
+    "stars": 670,
+    "forks": 24,
+    "created_at": "2026-03-10T05:25:54Z",
+    "pushed_at": "2026-09-03T15:50:51Z",
+    "archived": false,
+    "size": 1537479,
+    "language": "Python"
+  },
+  "repo:score-technologies/score-vision": {
+    "kind": "repo",
+    "full_name": "score-technologies/score-vision",
+    "owner": "score-technologies",
+    "stars": 27,
+    "forks": 21,
+    "created_at": "2024-12-13T01:57:22Z",
+    "pushed_at": "2025-12-05T09:05:34Z",
+    "archived": false,
+    "size": 625,
+    "language": "Python"
+  },
+  "repo:semperai/arbius": {
+    "kind": "repo",
+    "full_name": "semperai/arbius",
+    "owner": "semperai",
+    "stars": 41,
+    "forks": 25,
+    "created_at": "2023-04-07T18:47:16Z",
+    "pushed_at": "2026-09-08T02:05:55Z",
+    "archived": false,
+    "size": 230534,
+    "language": "TypeScript"
+  },
+  "repo:shillguy/eliza": {
+    "kind": "repo",
+    "full_name": "shillguy/eliza",
+    "owner": "shillguy",
+    "stars": 1,
+    "forks": 0,
+    "created_at": "2024-12-16T12:01:35Z",
+    "pushed_at": "2024-12-16T12:10:08Z",
+    "archived": false,
+    "size": 58919,
+    "language": "TypeScript"
+  },
+  "repo:shugo-labs/tensorprox": {
+    "kind": "repo",
+    "full_name": "shugo-labs/tensorprox",
+    "owner": "shugo-labs",
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2026-02-03T15:32:34Z",
+    "pushed_at": "2026-02-03T15:32:44Z",
+    "archived": false,
+    "size": 1020,
+    "language": "Python"
+  },
+  "repo:siqidev/avatar-ui": {
+    "kind": "repo",
+    "full_name": "siqidev/avatar-ui",
+    "owner": "siqidev",
+    "stars": 173,
+    "forks": 20,
+    "created_at": "2025-11-18T06:50:30Z",
+    "pushed_at": "2026-09-09T13:07:27Z",
+    "archived": false,
+    "size": 33307,
+    "language": "TypeScript"
+  },
+  "repo:solmev/a": {
+    "kind": "repo",
+    "full_name": "solmev/a",
+    "owner": "solmev",
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2025-06-03T13:47:03Z",
+    "pushed_at": "2025-06-03T13:47:04Z",
+    "archived": false,
+    "size": 0,
+    "language": null
+  },
+  "repo:somewheresystems/centience": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:sportstensor/sportstensor": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:star145s/ai_factory": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:start/learn-more": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:storb-tech/storb": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:subnet112/minotaur_subnet": {
+    "kind": "repo",
+    "full_name": "subnet112/minotaur_subnet",
+    "owner": "subnet112",
+    "stars": 2,
+    "forks": 6,
+    "created_at": "2025-09-15T17:57:30Z",
+    "pushed_at": "2026-08-27T19:34:38Z",
+    "archived": false,
+    "size": 7260,
+    "language": "Python"
+  },
+  "repo:subnet99/Neza": {
+    "kind": "repo",
+    "full_name": "subnet99/Neza",
+    "owner": "subnet99",
+    "stars": 1,
+    "forks": 0,
+    "created_at": "2025-07-11T13:16:05Z",
+    "pushed_at": "2026-01-14T16:25:57Z",
+    "archived": false,
+    "size": 307,
+    "language": "Python"
+  },
+  "repo:swarm-subnet/swarm": {
+    "kind": "repo",
+    "full_name": "swarm-subnet/swarm",
+    "owner": "swarm-subnet",
+    "stars": 33,
+    "forks": 29,
+    "created_at": "2025-06-19T07:07:59Z",
+    "pushed_at": "2026-09-11T00:10:48Z",
+    "archived": false,
+    "size": 260965,
+    "language": "Python"
+  },
+  "repo:synapsec-ai/soundsright-subnet": {
+    "kind": "repo",
+    "full_name": "synapsec-ai/soundsright-subnet",
+    "owner": "synapsec-ai",
+    "stars": 1,
+    "forks": 4,
+    "created_at": "2025-01-09T07:42:41Z",
+    "pushed_at": "2025-11-08T05:35:54Z",
+    "archived": false,
+    "size": 5391,
+    "language": "Python"
+  },
+  "repo:taofu-labs/tpn-subnet": {
+    "kind": "repo",
+    "full_name": "taofu-labs/tpn-subnet",
+    "owner": "taofu-labs",
+    "stars": 11,
+    "forks": 10,
+    "created_at": "2024-12-17T14:57:14Z",
+    "pushed_at": "2026-07-01T08:31:54Z",
+    "archived": true,
+    "size": 2736,
+    "language": "JavaScript"
+  },
+  "repo:taoillium/bittensor-subnet-taoillium": {
+    "kind": "repo",
+    "full_name": "taoillium/bittensor-subnet-taoillium",
+    "owner": "taoillium",
+    "stars": 1,
+    "forks": 0,
+    "created_at": "2025-06-11T07:21:51Z",
+    "pushed_at": "2025-09-28T03:58:47Z",
+    "archived": false,
+    "size": 783,
+    "language": "Python"
+  },
+  "repo:taos-im/sn-79": {
+    "kind": "repo",
+    "full_name": "taos-im/sn-79",
+    "owner": "taos-im",
+    "stars": 5,
+    "forks": 19,
+    "created_at": "2025-05-07T13:37:47Z",
+    "pushed_at": "2026-09-09T13:34:24Z",
+    "archived": false,
+    "size": 7999,
+    "language": "Python"
+  },
+  "repo:taoshidev/vanta-network": {
+    "kind": "repo",
+    "full_name": "taoshidev/vanta-network",
+    "owner": "taoshidev",
+    "stars": 75,
+    "forks": 38,
+    "created_at": "2024-01-26T00:31:07Z",
+    "pushed_at": "2026-09-11T02:58:10Z",
+    "archived": false,
+    "size": 27954,
+    "language": "Python"
+  },
+  "repo:taostat/blockmachine": {
+    "kind": "repo",
+    "full_name": "taostat/blockmachine",
+    "owner": "taostat",
+    "stars": 2,
+    "forks": 0,
+    "created_at": "2026-01-19T19:14:19Z",
+    "pushed_at": "2026-07-27T01:59:55Z",
+    "archived": false,
+    "size": 7,
+    "language": null
+  },
+  "repo:tcotten-scrypted/autonomous-virtual-beings": {
+    "kind": "repo",
+    "full_name": "tcotten-scrypted/autonomous-virtual-beings",
+    "owner": "tcotten-scrypted",
+    "stars": 32,
+    "forks": 6,
+    "created_at": "2024-10-28T15:12:51Z",
+    "pushed_at": "2025-03-18T04:31:34Z",
+    "archived": false,
+    "size": 45582,
+    "language": "Python"
+  },
+  "repo:tensorplex-labs/dojo": {
+    "kind": "repo",
+    "full_name": "tensorplex-labs/dojo",
+    "owner": "tensorplex-labs",
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2025-08-05T03:20:41Z",
+    "pushed_at": "2025-11-03T07:51:15Z",
+    "archived": false,
+    "size": 509,
+    "language": "Go"
+  },
+  "repo:thenervelab/thebrain": {
+    "kind": "repo",
+    "full_name": "thenervelab/thebrain",
+    "owner": "thenervelab",
+    "stars": 9,
+    "forks": 8,
+    "created_at": "2025-03-18T06:17:30Z",
+    "pushed_at": "2026-09-09T15:04:09Z",
+    "archived": false,
+    "size": 22525,
+    "language": "Rust"
+  },
+  "repo:thetatoken/theta-infrastructure-ledger-explorer": {
+    "kind": "repo",
+    "full_name": "thetatoken/theta-infrastructure-ledger-explorer",
+    "owner": "thetatoken",
+    "stars": 57,
+    "forks": 22,
+    "created_at": "2018-03-05T18:39:22Z",
+    "pushed_at": "2026-08-28T01:27:43Z",
+    "archived": false,
+    "size": 25933,
+    "language": "JavaScript"
+  },
+  "repo:thetatoken/theta-infrastructure-vault": {
+    "kind": "repo",
+    "missing": true
+  },
+  "repo:thetatoken/theta-protocol-delivery-lib": {
+    "kind": "repo",
+    "full_name": "thetatoken/theta-protocol-delivery-lib",
+    "owner": "thetatoken",
+    "stars": 43,
+    "forks": 8,
+    "created_at": "2018-06-19T23:00:16Z",
+    "pushed_at": "2022-02-05T23:01:09Z",
+    "archived": false,
+    "size": 1731,
+    "language": null
+  },
+  "repo:thetatoken/theta-protocol-ledger": {
+    "kind": "repo",
+    "full_name": "thetatoken/theta-protocol-ledger",
+    "owner": "thetatoken",
+    "stars": 364,
+    "forks": 85,
+    "created_at": "2018-08-06T19:13:46Z",
+    "pushed_at": "2026-09-01T16:52:59Z",
+    "archived": false,
+    "size": 52490,
+    "language": "Go"
+  },
+  "repo:thoughtnetwork/thought-whitepaper": {
+    "kind": "repo",
+    "full_name": "thoughtnetwork/thought-whitepaper",
+    "owner": "thoughtnetwork",
+    "stars": 2,
+    "forks": 0,
+    "created_at": "2017-11-10T20:46:59Z",
+    "pushed_at": "2017-11-10T20:59:26Z",
+    "archived": false,
+    "size": 9,
+    "language": null
+  },
+  "repo:tplr-ai/basilica": {
+    "kind": "repo",
+    "full_name": "one-covenant/basilica",
+    "owner": "one-covenant",
+    "stars": 44,
+    "forks": 18,
+    "created_at": "2025-06-30T18:09:56Z",
+    "pushed_at": "2026-09-09T13:04:53Z",
+    "archived": false,
+    "size": 143186,
+    "language": "Rust"
+  },
+  "repo:tplr-ai/grail": {
+    "kind": "repo",
+    "full_name": "one-covenant/grail",
+    "owner": "one-covenant",
+    "stars": 26,
+    "forks": 17,
+    "created_at": "2025-07-28T14:50:13Z",
+    "pushed_at": "2026-04-10T03:18:15Z",
+    "archived": false,
+    "size": 15706,
+    "language": "Python"
+  },
+  "repo:tplr-ai/templar": {
+    "kind": "repo",
+    "full_name": "one-covenant/templar",
+    "owner": "one-covenant",
+    "stars": 163,
+    "forks": 57,
+    "created_at": "2024-12-05T17:10:20Z",
+    "pushed_at": "2026-03-31T02:52:51Z",
+    "archived": false,
+    "size": 14699,
+    "language": "Python"
+  },
+  "repo:verathos-ai/verathos": {
+    "kind": "repo",
+    "full_name": "verathos-ai/verathos",
+    "owner": "verathos-ai",
+    "stars": 8,
+    "forks": 7,
+    "created_at": "2026-04-23T20:12:15Z",
+    "pushed_at": "2026-09-08T18:18:23Z",
+    "archived": false,
+    "size": 736363,
+    "language": "Python"
+  },
+  "repo:vidaio-subnet/vidaio-subnet": {
+    "kind": "repo",
+    "full_name": "vidAio-subnet/vidaio-subnet",
+    "owner": "vidAio-subnet",
+    "stars": 18,
+    "forks": 23,
+    "created_at": "2024-12-17T18:21:27Z",
+    "pushed_at": "2026-08-20T09:12:45Z",
+    "archived": false,
+    "size": 52504,
+    "language": "Python"
+  },
+  "repo:warden-protocol/run-halo": {
+    "kind": "repo",
+    "full_name": "warden-protocol/run-halo",
+    "owner": "warden-protocol",
+    "stars": 5,
+    "forks": 2,
+    "created_at": "2026-06-25T11:52:18Z",
+    "pushed_at": "2026-09-09T15:03:03Z",
+    "archived": false,
+    "size": 1195,
+    "language": "TypeScript"
+  },
+  "repo:web-genie-ai/web-genie-ai": {
+    "kind": "repo",
+    "full_name": "web-genie-ai/web-genie-ai",
+    "owner": "web-genie-ai",
+    "stars": 5,
+    "forks": 2,
+    "created_at": "2024-07-02T14:16:22Z",
+    "pushed_at": "2025-06-10T15:39:39Z",
+    "archived": false,
+    "size": 2189,
+    "language": "Python"
+  },
+  "repo:yu-jeffy/parallelpolis": {
+    "kind": "repo",
+    "full_name": "yu-jeffy/parallelpolis",
+    "owner": "yu-jeffy",
+    "stars": 1,
+    "forks": 0,
+    "created_at": "2023-11-24T22:02:42Z",
+    "pushed_at": "2025-12-08T00:36:31Z",
+    "archived": false,
+    "size": 2106,
+    "language": "TypeScript"
+  },
+  "repo:zhenwuuu/JuliaSwarmSyndicate": {
+    "kind": "repo",
+    "full_name": "zhenwuuu/JuliaSwarmSyndicate",
+    "owner": "zhenwuuu",
+    "stars": 0,
+    "forks": 0,
+    "created_at": "2025-04-25T01:31:34Z",
+    "pushed_at": "2025-04-25T01:47:30Z",
+    "archived": false,
+    "size": 7194,
+    "language": "Julia"
+  },
+  "owner:0nch41n": {
+    "kind": "owner",
+    "owner": "0nch41n",
+    "repo_count": 6,
+    "stars": 6,
+    "pushed_at": "2025-05-22T17:51:46Z",
+    "created_at": "2025-05-08T09:08:41Z",
+    "top_repos": [
+      "0nch41n/DeFiAgent",
+      "0nch41n/memorysystem",
+      "0nch41n/simulation",
+      "0nch41n/sentiment",
+      "0nch41n/talos"
+    ]
+  },
+  "owner:0xPellNetwork": {
+    "kind": "owner",
+    "owner": "0xPellNetwork",
+    "repo_count": 20,
+    "stars": 20,
+    "pushed_at": "2025-12-01T19:19:15Z",
+    "created_at": "2024-04-24T06:38:28Z",
+    "top_repos": [
+      "0xPellNetwork/pelldvs",
+      "0xPellNetwork/contracts-binding",
+      "0xPellNetwork/restaking-contracts",
+      "0xPellNetwork/network-config",
+      "0xPellNetwork/pellapp-sdk"
+    ]
+  },
+  "owner:0xprovenance": {
+    "kind": "owner",
+    "owner": "0xprovenance",
+    "repo_count": 3,
+    "stars": 0,
+    "pushed_at": "2025-10-17T10:35:58Z",
+    "created_at": "2025-10-17T10:35:09Z",
+    "top_repos": [
+      "0xprovenance/whitepaper",
+      "0xprovenance/communitynotes-rnd",
+      "0xprovenance/universalnotes-rNd"
+    ]
+  },
+  "owner:2DAICommunity": {
+    "kind": "owner",
+    "owner": "2DAICommunity",
+    "repo_count": 2,
+    "stars": 0,
+    "pushed_at": "2026-09-10T15:12:09Z",
+    "created_at": "2026-02-03T19:43:12Z",
+    "top_repos": [
+      "2DAICommunity/2dai-mcp-server",
+      "2DAICommunity/2dai-cloud-sdk"
+    ]
+  },
+  "owner:404-Repo": {
+    "kind": "owner",
+    "owner": "404-Repo",
+    "repo_count": 33,
+    "stars": 102,
+    "pushed_at": "2026-09-11T03:00:49Z",
+    "created_at": "2024-01-29T07:33:06Z",
+    "top_repos": [
+      "404-Repo/404-active-competition",
+      "404-Repo/404-game-jam",
+      "404-Repo/404-jam",
+      "404-Repo/nivalis-9",
+      "404-Repo/404-game-recipe"
+    ]
+  },
+  "owner:AIPowerGrid": {
+    "kind": "owner",
+    "owner": "AIPowerGrid",
+    "repo_count": 21,
+    "stars": 31,
+    "pushed_at": "2026-09-10T14:52:01Z",
+    "created_at": "2023-11-11T00:46:21Z",
+    "top_repos": [
+      "AIPowerGrid/grid-core",
+      "AIPowerGrid/aipg-art-gallery",
+      "AIPowerGrid/aipg-chat",
+      "AIPowerGrid/grid-frontend",
+      "AIPowerGrid/grid-media-worker"
+    ]
+  },
+  "owner:ATAVirtuals": {
+    "kind": "owner",
+    "owner": "ATAVirtuals",
+    "repo_count": 3,
+    "stars": 0,
+    "pushed_at": "2025-05-24T08:27:06Z",
+    "created_at": "2024-12-26T19:45:44Z",
+    "top_repos": [
+      "ATAVirtuals/website-app.atavirtuals.com",
+      "ATAVirtuals/ATAVirtuals",
+      "ATAVirtuals/contracts"
+    ]
+  },
+  "owner:Actualz-AI": {
+    "kind": "owner",
+    "owner": "Actualz-AI",
+    "repo_count": 4,
+    "stars": 10,
+    "pushed_at": "2025-01-22T13:38:31Z",
+    "created_at": "2025-01-11T06:45:33Z",
+    "top_repos": [
+      "Actualz-AI/actual-ai-chatting",
+      "Actualz-AI/actual-ai-trading",
+      "Actualz-AI/actual-ai-video",
+      "Actualz-AI/actual-ai-contracts"
+    ]
+  },
+  "owner:Acurast": {
+    "kind": "owner",
+    "owner": "Acurast",
+    "repo_count": 44,
+    "stars": 201,
+    "pushed_at": "2026-09-11T00:11:34Z",
+    "created_at": "2022-08-15T11:02:47Z",
+    "top_repos": [
+      "Acurast/acurast-cli",
+      "Acurast/acurast-docs",
+      "Acurast/acurast-substrate",
+      "Acurast/acurast-processor-update",
+      "Acurast/quic-tunnel"
+    ]
+  },
+  "owner:Aetheron402": {
+    "kind": "owner",
+    "owner": "Aetheron402",
+    "repo_count": 2,
+    "stars": 1,
+    "pushed_at": "2026-09-04T20:09:18Z",
+    "created_at": "2025-11-18T11:15:56Z",
+    "top_repos": [
+      "Aetheron402/Aetheron",
+      "Aetheron402/Aetheron402"
+    ]
+  },
+  "owner:Agent-Town": {
+    "kind": "owner",
+    "owner": "Agent-Town",
+    "repo_count": 26,
+    "stars": 6,
+    "pushed_at": "2026-08-31T23:44:50Z",
+    "created_at": "2026-02-02T08:39:16Z",
+    "top_repos": [
+      "Agent-Town/goldrush-gauntlet",
+      "Agent-Town/prime-agent",
+      "Agent-Town/pi",
+      "Agent-Town/Portal",
+      "Agent-Town/wild-west-hyperscapeai"
+    ]
+  },
+  "owner:Alpaca-Network": {
+    "kind": "owner",
+    "owner": "Alpaca-Network",
+    "repo_count": 27,
+    "stars": 3,
+    "pushed_at": "2026-09-10T23:08:07Z",
+    "created_at": "2024-07-05T19:24:01Z",
+    "top_repos": [
+      "Alpaca-Network/gatewayz-backend",
+      "Alpaca-Network/gatewayz-frontend",
+      "Alpaca-Network/railway-grafana-stack",
+      "Alpaca-Network/terragon-oss",
+      "Alpaca-Network/open-webui"
+    ]
+  },
+  "owner:Ante-Games": {
+    "kind": "owner",
+    "owner": "Ante-Games",
+    "repo_count": 2,
+    "stars": 0,
+    "pushed_at": "2026-07-09T12:53:55Z",
+    "created_at": "2026-06-09T16:32:35Z",
+    "top_repos": [
+      "Ante-Games/pay-skills",
+      "Ante-Games/Guide"
+    ]
+  },
+  "owner:ApolloAgent": {
+    "kind": "owner",
+    "owner": "ApolloAgent",
+    "repo_count": 6,
+    "stars": 1,
+    "pushed_at": "2025-10-27T08:32:28Z",
+    "created_at": "2025-01-18T15:18:10Z",
+    "top_repos": [
+      "ApolloAgent/docs",
+      "ApolloAgent/x402",
+      "ApolloAgent/eliza",
+      "ApolloAgent/protocol-contracts",
+      "ApolloAgent/virtuals-python"
+    ]
+  },
+  "owner:ArtificiaICZ": {
+    "kind": "owner",
+    "owner": "ArtificiaICZ",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:Asynchronus-ai": {
+    "kind": "owner",
+    "owner": "Asynchronus-ai",
+    "repo_count": 2,
+    "stars": 4,
+    "pushed_at": "2025-05-26T18:51:00Z",
+    "created_at": "2025-02-16T18:22:52Z",
+    "top_repos": [
+      "Asynchronus-ai/Gitbook",
+      "Asynchronus-ai/graph"
+    ]
+  },
+  "owner:Atrium-Hermes": {
+    "kind": "owner",
+    "owner": "Atrium-Hermes",
+    "repo_count": 5,
+    "stars": 2,
+    "pushed_at": "2026-09-11T01:16:38Z",
+    "created_at": "2026-06-01T14:29:59Z",
+    "top_repos": [
+      "Atrium-Hermes/atrium-lighthouse",
+      "Atrium-Hermes/Atrium",
+      "Atrium-Hermes/aeon-atrium-skills",
+      "Atrium-Hermes/aeon",
+      "Atrium-Hermes/skills"
+    ]
+  },
+  "owner:Aurelius-Protocol": {
+    "kind": "owner",
+    "owner": "Aurelius-Protocol",
+    "repo_count": 3,
+    "stars": 2,
+    "pushed_at": "2026-07-17T22:40:11Z",
+    "created_at": "2025-07-17T16:54:53Z",
+    "top_repos": [
+      "Aurelius-Protocol/Aurelius-Protocol",
+      "Aurelius-Protocol/concept-competition",
+      "Aurelius-Protocol/aurelius-whitepaper"
+    ]
+  },
+  "owner:Beehavedev": {
+    "kind": "owner",
+    "owner": "Beehavedev",
+    "repo_count": 4,
+    "stars": 5,
+    "pushed_at": "2026-06-26T16:37:49Z",
+    "created_at": "2026-02-06T06:18:13Z",
+    "top_repos": [
+      "Beehavedev/build4",
+      "Beehavedev/honeycomb-protocol",
+      "Beehavedev/assets",
+      "Beehavedev/nfascan"
+    ]
+  },
+  "owner:BobinaCouncil": {
+    "kind": "owner",
+    "owner": "BobinaCouncil",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2025-09-23T01:58:28Z",
+    "created_at": "2025-08-28T05:20:17Z",
+    "top_repos": [
+      "BobinaCouncil/axelar-configs"
+    ]
+  },
+  "owner:CLI-AI-APP": {
+    "kind": "owner",
+    "owner": "CLI-AI-APP",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:Capx-AI": {
+    "kind": "owner",
+    "owner": "Capx-AI",
+    "repo_count": 16,
+    "stars": 88,
+    "pushed_at": "2026-09-01T15:10:53Z",
+    "created_at": "2025-01-20T14:49:39Z",
+    "top_repos": [
+      "Capx-AI/terminal",
+      "Capx-AI/casa",
+      "Capx-AI/claude-agent-sdk-examples",
+      "Capx-AI/safe-deployments",
+      "Capx-AI/dimension-adapters"
+    ]
+  },
+  "owner:Cerebellum-Network": {
+    "kind": "owner",
+    "owner": "Cerebellum-Network",
+    "repo_count": 50,
+    "stars": 53,
+    "pushed_at": "2026-09-10T20:14:13Z",
+    "created_at": "2020-10-08T22:12:53Z",
+    "top_repos": [
+      "Cerebellum-Network/blockchain-node",
+      "Cerebellum-Network/cere-ddc-sdk-js",
+      "Cerebellum-Network/ddc-api",
+      "Cerebellum-Network/ddc-primitives",
+      "Cerebellum-Network/explorer"
+    ]
+  },
+  "owner:CheckerChain": {
+    "kind": "owner",
+    "owner": "CheckerChain",
+    "repo_count": 13,
+    "stars": 0,
+    "pushed_at": "2025-05-20T11:21:37Z",
+    "created_at": "2022-02-09T17:44:00Z",
+    "top_repos": [
+      "CheckerChain/CheckerChain-Asset",
+      "CheckerChain/Subnet",
+      "CheckerChain/mx-assets",
+      "CheckerChain/ElrondSoulboundToken",
+      "CheckerChain/ElrondMerkleDistributor"
+    ]
+  },
+  "owner:ClawedCode": {
+    "kind": "owner",
+    "owner": "ClawedCode",
+    "repo_count": 9,
+    "stars": 5,
+    "pushed_at": "2026-09-10T20:56:32Z",
+    "created_at": "2025-10-05T16:31:55Z",
+    "top_repos": [
+      "ClawedCode/clawedcode.github.io",
+      "ClawedCode/void-server",
+      "ClawedCode/Mycelial-Code",
+      "ClawedCode/void-mud-releases",
+      "ClawedCode/void-plugin-videodownload"
+    ]
+  },
+  "owner:DARPAI": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:DEGAorg": {
+    "kind": "owner",
+    "owner": "DEGAorg",
+    "repo_count": 17,
+    "stars": 6,
+    "pushed_at": "2026-06-16T00:31:31Z",
+    "created_at": "2023-05-15T00:36:02Z",
+    "top_repos": [
+      "DEGAorg/claude-code-config",
+      "DEGAorg/canon-tui",
+      "DEGAorg/midnight-dao-contract",
+      "DEGAorg/marketplace-registry-contract",
+      "DEGAorg/dega-plugin-markertplace"
+    ]
+  },
+  "owner:DexCheck": {
+    "kind": "owner",
+    "owner": "DexCheck",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:DigitalKin-ai": {
+    "kind": "owner",
+    "owner": "DigitalKin-ai",
+    "repo_count": 9,
+    "stars": 14,
+    "pushed_at": "2026-09-10T11:10:29Z",
+    "created_at": "2023-12-05T08:39:59Z",
+    "top_repos": [
+      "DigitalKin-ai/digitalkin",
+      "DigitalKin-ai/service-apis-py",
+      "DigitalKin-ai/agentic-mesh-protocol",
+      "DigitalKin-ai/service-apis",
+      "DigitalKin-ai/public-documents"
+    ]
+  },
+  "owner:EMCProtocol-dev": {
+    "kind": "owner",
+    "owner": "EMCProtocol-dev",
+    "repo_count": 13,
+    "stars": 0,
+    "pushed_at": "2024-09-25T17:42:25Z",
+    "created_at": "2024-08-25T12:43:00Z",
+    "top_repos": [
+      "EMCProtocol-dev/io_launch_binaries",
+      "EMCProtocol-dev/ronin",
+      "EMCProtocol-dev/kyberswap-dex-lib",
+      "EMCProtocol-dev/origin-defi",
+      "EMCProtocol-dev/kyberswap-interface"
+    ]
+  },
+  "owner:EnKrypted-Ventures": {
+    "kind": "owner",
+    "owner": "EnKrypted-Ventures",
+    "repo_count": 2,
+    "stars": 0,
+    "pushed_at": "2025-03-22T02:56:26Z",
+    "created_at": "2025-03-22T02:04:21Z",
+    "top_repos": [
+      "EnKrypted-Ventures/token-list",
+      "EnKrypted-Ventures/enkryptedai-assets"
+    ]
+  },
+  "owner:FungiAgent": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:Gaimin-io-Limited": {
+    "kind": "owner",
+    "owner": "Gaimin-io-Limited",
+    "repo_count": 11,
+    "stars": 13,
+    "pushed_at": "2026-09-03T15:59:23Z",
+    "created_at": "2021-09-21T08:29:18Z",
+    "top_repos": [
+      "Gaimin-io-Limited/gmrx-vesting",
+      "Gaimin-io-Limited/helm-charts",
+      "Gaimin-io-Limited/temporal",
+      "Gaimin-io-Limited/kratos",
+      "Gaimin-io-Limited/pingora"
+    ]
+  },
+  "owner:Gitlawb": {
+    "kind": "owner",
+    "owner": "Gitlawb",
+    "repo_count": 18,
+    "stars": 35218,
+    "pushed_at": "2026-09-11T02:43:15Z",
+    "created_at": "2026-03-16T04:36:25Z",
+    "top_repos": [
+      "Gitlawb/openlaunch",
+      "Gitlawb/node",
+      "Gitlawb/zero",
+      "Gitlawb/openclaude",
+      "Gitlawb/node-explorer"
+    ]
+  },
+  "owner:HEAA-AI": {
+    "kind": "owner",
+    "owner": "HEAA-AI",
+    "repo_count": 14,
+    "stars": 0,
+    "pushed_at": "2025-02-15T00:35:19Z",
+    "created_at": "2025-01-31T17:51:59Z",
+    "top_repos": [
+      "HEAA-AI/gateway",
+      "HEAA-AI/agave",
+      "HEAA-AI/jolt-zkVM-oracle-testing",
+      "HEAA-AI/anchor",
+      "HEAA-AI/scripts-Homomorphic-Encryption-"
+    ]
+  },
+  "owner:HatcherLabs": {
+    "kind": "owner",
+    "owner": "HatcherLabs",
+    "repo_count": 4,
+    "stars": 3,
+    "pushed_at": "2026-09-10T17:14:32Z",
+    "created_at": "2026-03-20T06:47:28Z",
+    "top_repos": [
+      "HatcherLabs/hatcher-host-frontend",
+      "HatcherLabs/hatcher-neural-mesh",
+      "HatcherLabs/hatcher-shared",
+      "HatcherLabs/hatcher-hub"
+    ]
+  },
+  "owner:HunterTheAgent": {
+    "kind": "owner",
+    "owner": "HunterTheAgent",
+    "repo_count": 11,
+    "stars": 1,
+    "pushed_at": "2026-08-08T16:20:11Z",
+    "created_at": "2024-12-04T12:20:45Z",
+    "top_repos": [
+      "HunterTheAgent/hunter-docs",
+      "HunterTheAgent/.github",
+      "HunterTheAgent/litepaper",
+      "HunterTheAgent/circulating-supply-server",
+      "HunterTheAgent/hunter-intentkit"
+    ]
+  },
+  "owner:HyperdustLab": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:Hypertensor-blockchain": {
+    "kind": "owner",
+    "owner": "Hypertensor-blockchain",
+    "repo_count": 22,
+    "stars": 31,
+    "pushed_at": "2026-06-10T16:32:00Z",
+    "created_at": "2023-12-02T23:52:55Z",
+    "top_repos": [
+      "hypertensor-blockchain/subnet-template",
+      "hypertensor-blockchain/hypertensor-blockchain",
+      "hypertensor-blockchain/subnet-template-v1",
+      "hypertensor-blockchain/kademlia_vis",
+      "hypertensor-blockchain/libp2p-specs"
+    ]
+  },
+  "owner:Infraxa": {
+    "kind": "owner",
+    "owner": "Infraxa",
+    "repo_count": 3,
+    "stars": 2,
+    "pushed_at": "2026-03-10T16:29:26Z",
+    "created_at": "2025-10-16T16:04:03Z",
+    "top_repos": [
+      "Infraxa/agents",
+      "Infraxa/x402-demo",
+      "Infraxa/proof-of-inference-v-0.0.1"
+    ]
+  },
+  "owner:JackalLabs": {
+    "kind": "owner",
+    "owner": "JackalLabs",
+    "repo_count": 94,
+    "stars": 137,
+    "pushed_at": "2026-04-30T22:57:36Z",
+    "created_at": "2021-11-11T14:52:08Z",
+    "top_repos": [
+      "JackalLabs/canine-chain",
+      "JackalLabs/sequoia",
+      "JackalLabs/jindexer",
+      "JackalLabs/jackal-dashboard",
+      "JackalLabs/IPFSPinner"
+    ]
+  },
+  "owner:KIP-Protocol-Contracts": {
+    "kind": "owner",
+    "owner": "KIP-Protocol-Contracts",
+    "repo_count": 6,
+    "stars": 3,
+    "pushed_at": "2025-11-05T08:45:28Z",
+    "created_at": "2024-04-09T03:52:13Z",
+    "top_repos": [
+      "KIP-Protocol-Contracts/ccxt",
+      "KIP-Protocol-Contracts/kip-checker-reward-contract",
+      "KIP-Protocol-Contracts/kip-node-sale-contract",
+      "KIP-Protocol-Contracts/kip-token-contracts",
+      "KIP-Protocol-Contracts/demo-privy-account-abtraction"
+    ]
+  },
+  "owner:KenshiTech": {
+    "kind": "owner",
+    "owner": "KenshiTech",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2024-04-19T13:47:16Z",
+    "created_at": "2024-04-19T13:45:10Z",
+    "top_repos": [
+      "KenshiTech/.github"
+    ]
+  },
+  "owner:KlinkFinance": {
+    "kind": "owner",
+    "owner": "KlinkFinance",
+    "repo_count": 5,
+    "stars": 1,
+    "pushed_at": "2026-06-22T12:30:31Z",
+    "created_at": "2023-05-05T08:39:14Z",
+    "top_repos": [
+      "KlinkFinance/Fingerprit-Sdk",
+      "KlinkFinance/Klink-SDK",
+      "KlinkFinance/publisher-sdk",
+      "KlinkFinance/klink-contracts",
+      "KlinkFinance/klink-contract-details"
+    ]
+  },
+  "owner:KrasnalCoin": {
+    "kind": "owner",
+    "owner": "KrasnalCoin",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2025-03-07T07:18:35Z",
+    "created_at": "2025-03-07T07:17:24Z",
+    "top_repos": [
+      "KrasnalCoin/KC-SmartContracts"
+    ]
+  },
+  "owner:Lagrange-Labs": {
+    "kind": "owner",
+    "owner": "Lagrange-Labs",
+    "repo_count": 54,
+    "stars": 3480,
+    "pushed_at": "2026-05-31T20:11:18Z",
+    "created_at": "2023-09-13T22:57:02Z",
+    "top_repos": [
+      "Lagrange-Labs/deep-prove",
+      "Lagrange-Labs/publications",
+      "Lagrange-Labs/dp-crypto",
+      "Lagrange-Labs/gkr-backend",
+      "Lagrange-Labs/ec-gpu"
+    ]
+  },
+  "owner:LawBlocks": {
+    "kind": "owner",
+    "owner": "LawBlocks",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2022-09-22T17:19:10Z",
+    "created_at": "2022-01-07T07:02:13Z",
+    "top_repos": [
+      "LawBlocks/lawblocks-HTML"
+    ]
+  },
+  "owner:LiquidAgent": {
+    "kind": "owner",
+    "owner": "LiquidAgent",
+    "repo_count": 4,
+    "stars": 0,
+    "pushed_at": "2026-09-04T23:51:07Z",
+    "created_at": "2025-03-27T20:43:09Z",
+    "top_repos": [
+      "LiquidAgent/liquidagentx402",
+      "LiquidAgent/.github",
+      "LiquidAgent/x402",
+      "LiquidAgent/assets"
+    ]
+  },
+  "owner:Logarithm-Labs": {
+    "kind": "owner",
+    "owner": "Logarithm-Labs",
+    "repo_count": 5,
+    "stars": 123,
+    "pushed_at": "2026-09-11T01:38:46Z",
+    "created_at": "2024-05-16T11:34:25Z",
+    "top_repos": [
+      "Logarithm-Labs/fractal-defi",
+      "Logarithm-Labs/go-hyperliquid",
+      "Logarithm-Labs/semi-async-vault",
+      "Logarithm-Labs/basisos-whitepaper",
+      "Logarithm-Labs/pawn"
+    ]
+  },
+  "owner:Loosh-ai": {
+    "kind": "owner",
+    "owner": "Loosh-ai",
+    "repo_count": 10,
+    "stars": 4,
+    "pushed_at": "2026-04-03T00:13:04Z",
+    "created_at": "2025-06-11T03:38:25Z",
+    "top_repos": [
+      "Loosh-ai/loosh-inference-validator",
+      "Loosh-ai/loosh-inference-miner",
+      "Loosh-ai/loosh-public-documentation",
+      "Loosh-ai/1pager",
+      "Loosh-ai/loosh-pitch-deck"
+    ]
+  },
+  "owner:MessierM87": {
+    "kind": "owner",
+    "owner": "MessierM87",
+    "repo_count": 3,
+    "stars": 0,
+    "pushed_at": "2023-12-22T22:49:02Z",
+    "created_at": "2022-06-08T13:19:22Z",
+    "top_repos": [
+      "MessierM87/Audit",
+      "MessierM87/KYC",
+      "MessierM87/Contract"
+    ]
+  },
+  "owner:MetaLex-Tech": {
+    "kind": "owner",
+    "owner": "MetaLex-Tech",
+    "repo_count": 11,
+    "stars": 27,
+    "pushed_at": "2026-09-10T22:08:06Z",
+    "created_at": "2024-01-25T21:09:10Z",
+    "top_repos": [
+      "MetaLex-Tech/cybercorps-contracts",
+      "MetaLex-Tech/react-monorail",
+      "MetaLex-Tech/MetaVesT",
+      "MetaLex-Tech/LeXscroW",
+      "MetaLex-Tech/publicDocs"
+    ]
+  },
+  "owner:MichielMAnalytics": {
+    "kind": "owner",
+    "owner": "MichielMAnalytics",
+    "repo_count": 69,
+    "stars": 18,
+    "pushed_at": "2026-09-09T12:51:51Z",
+    "created_at": "2024-04-10T19:51:39Z",
+    "top_repos": [
+      "MichielMAnalytics/omnara",
+      "MichielMAnalytics/crabbox",
+      "MichielMAnalytics/harbor",
+      "MichielMAnalytics/flue",
+      "MichielMAnalytics/Bindu"
+    ]
+  },
+  "owner:Myrad-Labs": {
+    "kind": "owner",
+    "owner": "Myrad-Labs",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:Neurashi": {
+    "kind": "owner",
+    "owner": "Neurashi",
+    "repo_count": 3,
+    "stars": 1,
+    "pushed_at": "2025-06-07T15:28:30Z",
+    "created_at": "2023-10-11T14:02:07Z",
+    "top_repos": [
+      "Neurashi/assets",
+      "Neurashi/chat-frontend",
+      "Neurashi/NeurashiToken"
+    ]
+  },
+  "owner:NeurochainAI": {
+    "kind": "owner",
+    "owner": "NeurochainAI",
+    "repo_count": 8,
+    "stars": 8,
+    "pushed_at": "2025-12-16T08:48:21Z",
+    "created_at": "2023-05-18T15:39:22Z",
+    "top_repos": [
+      "NeuroChainAi/docs-guides",
+      "NeuroChainAi/docs",
+      "NeuroChainAi/materials",
+      "NeuroChainAi/llm-android",
+      "NeuroChainAi/python-telegram-sentiment"
+    ]
+  },
+  "owner:NillionNetwork": {
+    "kind": "owner",
+    "owner": "NillionNetwork",
+    "repo_count": 100,
+    "stars": 1194,
+    "pushed_at": "2026-09-09T01:44:10Z",
+    "created_at": "2023-10-17T14:12:52Z",
+    "top_repos": [
+      "NillionNetwork/nilvm",
+      "NillionNetwork/nillion-docs",
+      "NillionNetwork/faucet",
+      "NillionNetwork/blacklight-app",
+      "NillionNetwork/diagrams"
+    ]
+  },
+  "owner:OVR-Platform": {
+    "kind": "owner",
+    "owner": "OVR-Platform",
+    "repo_count": 20,
+    "stars": 78,
+    "pushed_at": "2026-09-08T14:21:04Z",
+    "created_at": "2019-01-10T10:55:52Z",
+    "top_repos": [
+      "OVR-Platform/unity-sdk",
+      "OVR-Platform/researchBlog",
+      "OVR-Platform/gaussian-bot",
+      "OVR-Platform/lidar-validation",
+      "OVR-Platform/over_vps"
+    ]
+  },
+  "owner:OpenGradient": {
+    "kind": "owner",
+    "owner": "OpenGradient",
+    "repo_count": 41,
+    "stars": 413,
+    "pushed_at": "2026-09-10T13:53:30Z",
+    "created_at": "2023-08-05T23:01:12Z",
+    "top_repos": [
+      "OpenGradient/tee-gateway",
+      "OpenGradient/BitQuant",
+      "OpenGradient/OpenGradient-SDK",
+      "OpenGradient/veil",
+      "OpenGradient/inference-facilitator"
+    ]
+  },
+  "owner:OpenX-Network": {
+    "kind": "owner",
+    "owner": "OpenX-Network",
+    "repo_count": 24,
+    "stars": 23,
+    "pushed_at": "2026-09-10T17:29:27Z",
+    "created_at": "2025-01-29T11:44:32Z",
+    "top_repos": [
+      "OpenX-Network/erc721metadata",
+      "OpenX-Network/openxai-docs",
+      "OpenX-Network/openxai-indexer",
+      "OpenX-Network/openxai-frontend",
+      "OpenX-Network/genesis-nft"
+    ]
+  },
+  "owner:OxaiNetwork": {
+    "kind": "owner",
+    "owner": "OxaiNetwork",
+    "repo_count": 2,
+    "stars": 0,
+    "pushed_at": "2025-04-19T08:34:11Z",
+    "created_at": "2025-03-03T09:03:35Z",
+    "top_repos": [
+      "OxaiNetwork/web",
+      "OxaiNetwork/assets"
+    ]
+  },
+  "owner:Plutus-Gaming-NFTs-Reimagined": {
+    "kind": "owner",
+    "owner": "Plutus-Gaming-NFTs-Reimagined",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2022-07-26T11:04:07Z",
+    "created_at": "2022-07-26T11:02:47Z",
+    "top_repos": [
+      "Plutus-Gaming-NFTs-Reimagined/.github"
+    ]
+  },
+  "owner:Pushpit07": {
+    "kind": "owner",
+    "owner": "Pushpit07",
+    "repo_count": 100,
+    "stars": 12,
+    "pushed_at": "2026-09-08T18:53:41Z",
+    "created_at": "2020-09-22T03:55:57Z",
+    "top_repos": [
+      "Pushpit07/yeti-website",
+      "Pushpit07/Pushpit07.github.io",
+      "Pushpit07/editor",
+      "Pushpit07/the-office",
+      "Pushpit07/happy-birthday-aayushi"
+    ]
+  },
+  "owner:RebelDev88": {
+    "kind": "owner",
+    "owner": "RebelDev88",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:RitaAI": {
+    "kind": "owner",
+    "owner": "RitaAI",
+    "repo_count": 8,
+    "stars": 0,
+    "pushed_at": "2023-09-25T14:11:12Z",
+    "created_at": "2020-05-23T11:01:35Z",
+    "top_repos": [
+      "ritaai/muduo_chatserver",
+      "ritaai/python_train",
+      "ritaai/pymavlink",
+      "ritaai/PAT",
+      "ritaai/Real_ESRGAN_paddle"
+    ]
+  },
+  "owner:SHAFT-Foundation": {
+    "kind": "owner",
+    "owner": "SHAFT-Foundation",
+    "repo_count": 45,
+    "stars": 85,
+    "pushed_at": "2026-01-13T17:39:48Z",
+    "created_at": "2025-01-08T23:25:47Z",
+    "top_repos": [
+      "SHAFT-Foundation/accesssilityAIAgentProduct",
+      "SHAFT-Foundation/eliza-speechlab-plugins",
+      "SHAFT-Foundation/AAAComplianceToolAgents",
+      "SHAFT-Foundation/SeriousVisionAiAgent",
+      "SHAFT-Foundation/EAMP-protocol-v0"
+    ]
+  },
+  "owner:SN98-ForeverMoney": {
+    "kind": "owner",
+    "owner": "SN98-ForeverMoney",
+    "repo_count": 3,
+    "stars": 0,
+    "pushed_at": "2026-09-10T09:15:30Z",
+    "created_at": "2025-11-26T12:06:09Z",
+    "top_repos": [
+      "SN98-ForeverMoney/forevermoney-sdk",
+      "SN98-ForeverMoney/Bonding_simulation",
+      "SN98-ForeverMoney/forever-money"
+    ]
+  },
+  "owner:Scripter-ai": {
+    "kind": "owner",
+    "owner": "Scripter-ai",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:Scriptonia": {
+    "kind": "owner",
+    "owner": "Scriptonia",
+    "repo_count": 2,
+    "stars": 1,
+    "pushed_at": "2025-11-20T16:47:26Z",
+    "created_at": "2025-09-29T12:02:25Z",
+    "top_repos": [
+      "Scriptonia/Solana-wallet-with-biometric-login",
+      "Scriptonia/context-engineering-examples"
+    ]
+  },
+  "owner:SeraphAgent": {
+    "kind": "owner",
+    "owner": "SeraphAgent",
+    "repo_count": 9,
+    "stars": 11,
+    "pushed_at": "2025-06-04T13:42:18Z",
+    "created_at": "2024-11-30T01:00:16Z",
+    "top_repos": [
+      "SeraphAgent/terminal",
+      "SeraphAgent/seraph-staking-contracts",
+      "SeraphAgent/bittensor",
+      "SeraphAgent/proof-of-autonomy",
+      "SeraphAgent/litepaper"
+    ]
+  },
+  "owner:Silentisai": {
+    "kind": "owner",
+    "owner": "Silentisai",
+    "repo_count": 2,
+    "stars": 1,
+    "pushed_at": "2025-07-06T21:10:40Z",
+    "created_at": "2025-03-29T10:13:46Z",
+    "top_repos": [
+      "Silentisai/Silentis-Quantum-Core",
+      "Silentisai/Silentis"
+    ]
+  },
+  "owner:Singularity-DAO": {
+    "kind": "owner",
+    "owner": "Singularity-DAO",
+    "repo_count": 21,
+    "stars": 15,
+    "pushed_at": "2026-05-15T14:36:18Z",
+    "created_at": "2021-04-20T09:46:26Z",
+    "top_repos": [
+      "Singularity-DAO/sfi-gitbook",
+      "Singularity-DAO/DefiLlama-Adapters",
+      "Singularity-DAO/tokenAssets",
+      "Singularity-DAO/DeFiLlama-yield-server",
+      "Singularity-DAO/eliza-plugin-sfi"
+    ]
+  },
+  "owner:SotoAlt": {
+    "kind": "owner",
+    "owner": "SotoAlt",
+    "repo_count": 20,
+    "stars": 18,
+    "pushed_at": "2026-09-10T23:06:12Z",
+    "created_at": "2022-05-04T01:21:39Z",
+    "top_repos": [
+      "SotoAlt/traderfly-brain",
+      "SotoAlt/ML1_ExamenAplicado_Soto_Rodrigo",
+      "SotoAlt/sotoalt.dev",
+      "SotoAlt/monad-game-engine",
+      "SotoAlt/ayni-protocol"
+    ]
+  },
+  "owner:SozoAI": {
+    "kind": "owner",
+    "owner": "SozoAI",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:SypoolProtocol": {
+    "kind": "owner",
+    "owner": "SypoolProtocol",
+    "repo_count": 2,
+    "stars": 0,
+    "pushed_at": "2022-05-11T09:56:26Z",
+    "created_at": "2022-04-20T08:58:04Z",
+    "top_repos": [
+      "SypoolProtocol/demo",
+      "SypoolProtocol/token-list"
+    ]
+  },
+  "owner:Tars-protocol": {
+    "kind": "owner",
+    "owner": "Tars-protocol",
+    "repo_count": 8,
+    "stars": 1,
+    "pushed_at": "2023-12-11T08:12:10Z",
+    "created_at": "2022-05-05T06:23:05Z",
+    "top_repos": [
+      "Tars-Protocol/tars-ai-hub-web",
+      "Tars-Protocol/peckshield-audit-report",
+      "Tars-Protocol/pitch_deck",
+      "Tars-Protocol/bas-devnet-setup",
+      "Tars-Protocol/bsc-genesis-contract"
+    ]
+  },
+  "owner:TensorUSD": {
+    "kind": "owner",
+    "owner": "TensorUSD",
+    "repo_count": 5,
+    "stars": 1,
+    "pushed_at": "2026-09-10T09:35:38Z",
+    "created_at": "2026-01-02T10:48:17Z",
+    "top_repos": [
+      "TensorUSD/TUSDT-SmartContract",
+      "TensorUSD/subnet",
+      "TensorUSD/tusdt-cli",
+      "TensorUSD/tusdt-sdk",
+      "TensorUSD/.github"
+    ]
+  },
+  "owner:Tenztan": {
+    "kind": "owner",
+    "owner": "Tenztan",
+    "repo_count": 6,
+    "stars": 3,
+    "pushed_at": "2026-08-18T17:35:06Z",
+    "created_at": "2022-10-02T05:06:07Z",
+    "top_repos": [
+      "Tenztan/valerie_assignment",
+      "Tenztan/Tenztan",
+      "Tenztan/Yumiko-v1-public",
+      "Tenztan/Linkedin_scraping",
+      "Tenztan/Anime_suggest"
+    ]
+  },
+  "owner:TheNext100xGEM": {
+    "kind": "owner",
+    "owner": "TheNext100xGEM",
+    "repo_count": 8,
+    "stars": 3,
+    "pushed_at": "2024-12-02T03:04:27Z",
+    "created_at": "2023-12-02T15:50:52Z",
+    "top_repos": [
+      "TheNext100xGEM/NextGem.App",
+      "TheNext100xGEM/BurnContract",
+      "TheNext100xGEM/NextGEM.StakingContract",
+      "TheNext100xGEM/NextGEM-Hiring",
+      "TheNext100xGEM/NextGEM.ScrapingService"
+    ]
+  },
+  "owner:TickerGoatse": {
+    "kind": "owner",
+    "owner": "TickerGoatse",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:TravaFinance": {
+    "kind": "owner",
+    "owner": "TravaFinance",
+    "repo_count": 2,
+    "stars": 6,
+    "pushed_at": "2025-04-11T08:36:36Z",
+    "created_at": "2021-06-15T04:49:07Z",
+    "top_repos": [
+      "TravaFinance/Documentation",
+      "TravaFinance/MvpUserGuide"
+    ]
+  },
+  "owner:TruebitProtocol": {
+    "kind": "owner",
+    "owner": "TruebitProtocol",
+    "repo_count": 9,
+    "stars": 242,
+    "pushed_at": "2025-11-18T12:07:17Z",
+    "created_at": "2017-09-18T19:34:50Z",
+    "top_repos": [
+      "TruebitProtocol/truebit-nextgen-examples",
+      "TruebitProtocol/truebit-eth",
+      "TruebitProtocol/hardhat-truebit",
+      "TruebitProtocol/interactive-coin-offerings",
+      "TruebitProtocol/truebit-sample-tasks"
+    ]
+  },
+  "owner:Type-AI-Technologies": {
+    "kind": "owner",
+    "owner": "Type-AI-Technologies",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2024-01-03T23:05:13Z",
+    "created_at": "2024-01-03T23:05:06Z",
+    "top_repos": [
+      "Type-AI-Technologies/Type-AI-Frontend"
+    ]
+  },
+  "owner:Vexorterminal0111": {
+    "kind": "owner",
+    "owner": "Vexorterminal0111",
+    "repo_count": 1,
+    "stars": 1,
+    "pushed_at": "2026-06-21T01:01:29Z",
+    "created_at": "2026-05-16T09:06:16Z",
+    "top_repos": [
+      "Vexorterminal0111/vexor-terminal"
+    ]
+  },
+  "owner:Xiiid": {
+    "kind": "owner",
+    "owner": "Xiiid",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:aarna-ai": {
+    "kind": "owner",
+    "owner": "aarna-ai",
+    "repo_count": 7,
+    "stars": 0,
+    "pushed_at": "2026-03-27T11:59:58Z",
+    "created_at": "2025-05-15T03:35:16Z",
+    "top_repos": [
+      "aarna-ai/atv-sdk",
+      "aarna-ai/atars-fts-mcp",
+      "aarna-ai/atv-usdc-ethereum",
+      "aarna-ai/atv-sonic",
+      "aarna-ai/atv-arbitrum"
+    ]
+  },
+  "owner:absurdfounder": {
+    "kind": "owner",
+    "owner": "absurdfounder",
+    "repo_count": 100,
+    "stars": 7,
+    "pushed_at": "2026-09-10T01:22:50Z",
+    "created_at": "2017-09-23T16:07:19Z",
+    "top_repos": [
+      "absurdfounder/larasend",
+      "absurdfounder/trooper_landing",
+      "absurdfounder/clinch-terminal",
+      "absurdfounder/cordis-composability-",
+      "absurdfounder/accounts-area-finder"
+    ]
+  },
+  "owner:acoreai": {
+    "kind": "owner",
+    "owner": "acoreai",
+    "repo_count": 1,
+    "stars": 1,
+    "pushed_at": "2025-11-30T14:04:03Z",
+    "created_at": "2025-08-09T13:21:32Z",
+    "top_repos": [
+      "acoreai/subnet-acoreai"
+    ]
+  },
+  "owner:aeoncity-hub": {
+    "kind": "owner",
+    "owner": "aeoncity-hub",
+    "repo_count": 3,
+    "stars": 1,
+    "pushed_at": "2026-09-07T14:37:03Z",
+    "created_at": "2026-06-04T10:31:56Z",
+    "top_repos": [
+      "aeoncity-hub/my-aeon",
+      "aeoncity-hub/aeon",
+      "aeoncity-hub/aeon-ecosystem-parser"
+    ]
+  },
+  "owner:afdudley": {
+    "kind": "owner",
+    "owner": "afdudley",
+    "repo_count": 100,
+    "stars": 15,
+    "pushed_at": "2026-09-11T02:06:41Z",
+    "created_at": "2013-08-05T05:22:04Z",
+    "top_repos": [
+      "AFDudley/armada-laconic",
+      "AFDudley/aspergillus",
+      "AFDudley/heretic",
+      "AFDudley/ingest_sessions",
+      "AFDudley/git_puller"
+    ]
+  },
+  "owner:agent": {
+    "kind": "owner",
+    "owner": "agent",
+    "repo_count": 3,
+    "stars": 0,
+    "pushed_at": "2020-05-01T18:45:43Z",
+    "created_at": "2017-09-23T06:14:24Z",
+    "top_repos": [
+      "agent/caravel",
+      "agent/KiwiPods",
+      "agent/s3-asset-uploader"
+    ]
+  },
+  "owner:agentgenzai": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:agentlisa": {
+    "kind": "owner",
+    "owner": "agentlisa",
+    "repo_count": 6,
+    "stars": 20,
+    "pushed_at": "2025-12-22T07:41:01Z",
+    "created_at": "2025-07-26T14:37:02Z",
+    "top_repos": [
+      "agentlisa/bench",
+      "agentlisa/token",
+      "agentlisa/brand-kit",
+      "agentlisa/about",
+      "agentlisa/.github"
+    ]
+  },
+  "owner:agiresearch": {
+    "kind": "owner",
+    "owner": "agiresearch",
+    "repo_count": 34,
+    "stars": 12189,
+    "pushed_at": "2026-07-20T14:43:34Z",
+    "created_at": "2023-04-08T02:58:55Z",
+    "top_repos": [
+      "agiresearch/AIOS",
+      "agiresearch/Cerebrum",
+      "agiresearch/ASB",
+      "agiresearch/AgentRecSys",
+      "agiresearch/DeSocial"
+    ]
+  },
+  "owner:ai16z": {
+    "kind": "owner",
+    "owner": "ai16z",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:ailiveco": {
+    "kind": "owner",
+    "owner": "ailiveco",
+    "repo_count": 2,
+    "stars": 11,
+    "pushed_at": "2025-01-05T02:16:39Z",
+    "created_at": "2025-01-03T02:49:01Z",
+    "top_repos": [
+      "ailiveco/ml-node",
+      "ailiveco/local-trainings"
+    ]
+  },
+  "owner:aixcb-capital": {
+    "kind": "owner",
+    "owner": "aixcb-capital",
+    "repo_count": 2,
+    "stars": 0,
+    "pushed_at": "2025-01-24T09:19:59Z",
+    "created_at": "2024-12-20T09:16:41Z",
+    "top_repos": [
+      "aixcb-capital/aixcb-contracts",
+      "aixcb-capital/DefiLlama-Adapters"
+    ]
+  },
+  "owner:akash-network": {
+    "kind": "owner",
+    "owner": "akash-network",
+    "repo_count": 74,
+    "stars": 3200,
+    "pushed_at": "2026-09-11T02:59:35Z",
+    "created_at": "2017-09-15T22:55:19Z",
+    "top_repos": [
+      "akash-network/console",
+      "akash-network/website",
+      "akash-network/provider",
+      "akash-network/helm-charts",
+      "akash-network/akt"
+    ]
+  },
+  "owner:allinsociety": {
+    "kind": "owner",
+    "owner": "allinsociety",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2023-07-28T07:18:40Z",
+    "created_at": "2022-11-07T16:25:29Z",
+    "top_repos": [
+      "AllInSociety/AllInSociety"
+    ]
+  },
+  "owner:alturanft": {
+    "kind": "owner",
+    "owner": "alturanft",
+    "repo_count": 12,
+    "stars": 21,
+    "pushed_at": "2025-03-03T15:42:20Z",
+    "created_at": "2022-05-24T01:10:13Z",
+    "top_repos": [
+      "alturanft/Unity-SDK",
+      "alturanft/JS-SDK",
+      "alturanft/ts-immutable-sdk",
+      "alturanft/sequence.js",
+      "alturanft/web3-react"
+    ]
+  },
+  "owner:animusuno": {
+    "kind": "owner",
+    "owner": "animusuno",
+    "repo_count": 10,
+    "stars": 117,
+    "pushed_at": "2025-11-26T19:51:53Z",
+    "created_at": "2025-09-21T00:39:47Z",
+    "top_repos": [
+      "AnimusUNO/librarian",
+      "AnimusUNO/animus-social",
+      "AnimusUNO/smcp",
+      "AnimusUNO/animus-tui",
+      "AnimusUNO/.github"
+    ]
+  },
+  "owner:antpb": {
+    "kind": "owner",
+    "owner": "antpb",
+    "repo_count": 48,
+    "stars": 75,
+    "pushed_at": "2025-10-01T01:01:36Z",
+    "created_at": "2016-06-16T23:50:41Z",
+    "top_repos": [
+      "antpb/poly2vox-wasm",
+      "antpb/XR-Publisher-API",
+      "antpb/Character-Federation",
+      "antpb/XR-Publisher-pkg",
+      "antpb/Discord-Proxy-Worker"
+    ]
+  },
+  "owner:atuaai": {
+    "kind": "owner",
+    "owner": "atuaai",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:avaxpixel": {
+    "kind": "owner",
+    "owner": "avaxpixel",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:bitscrunch": {
+    "kind": "owner",
+    "owner": "bitscrunch",
+    "repo_count": 12,
+    "stars": 2,
+    "pushed_at": "2025-03-11T14:49:12Z",
+    "created_at": "2022-11-04T10:01:47Z",
+    "top_repos": [
+      "bitsCrunch/unleashnfts-snaps",
+      "bitsCrunch/lint-action",
+      "bitsCrunch/slack",
+      "bitsCrunch/apisix-dashboard",
+      "bitsCrunch/create-file-action"
+    ]
+  },
+  "owner:blorm-network": {
+    "kind": "owner",
+    "owner": "blorm-network",
+    "repo_count": 5,
+    "stars": 578,
+    "pushed_at": "2025-04-08T00:32:41Z",
+    "created_at": "2024-08-05T20:26:53Z",
+    "top_repos": [
+      "blorm-network/goat",
+      "blorm-network/ZerePy",
+      "blorm-network/blormmy-zerepy",
+      "blorm-network/ZerePyOp",
+      "blorm-network/erc721-dashboard"
+    ]
+  },
+  "owner:bluwhalelabs": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:brand-new-vision": {
+    "kind": "owner",
+    "owner": "brand-new-vision",
+    "repo_count": 2,
+    "stars": 0,
+    "pushed_at": "2025-04-22T17:28:53Z",
+    "created_at": "2024-12-27T05:09:51Z",
+    "top_repos": [
+      "brand-new-vision/plugin-bnv-me-id",
+      "brand-new-vision/eliza"
+    ]
+  },
+  "owner:buildonhybrid": {
+    "kind": "owner",
+    "owner": "buildonhybrid",
+    "repo_count": 5,
+    "stars": 3,
+    "pushed_at": "2025-08-07T07:12:47Z",
+    "created_at": "2025-05-05T06:21:43Z",
+    "top_repos": [
+      "buildonhybrid/node-monitoring",
+      "buildonhybrid/token-gating-template",
+      "buildonhybrid/integrity-node",
+      "buildonhybrid/solana-template",
+      "buildonhybrid/hybrid-plugin"
+    ]
+  },
+  "owner:chirpley": {
+    "kind": "owner",
+    "owner": "chirpley",
+    "repo_count": 8,
+    "stars": 0,
+    "pushed_at": "2025-07-16T09:51:44Z",
+    "created_at": "2022-04-20T21:16:46Z",
+    "top_repos": [
+      "chirpley/chirppad_tokensupply",
+      "chirpley/chirpley_tokensupply",
+      "chirpley/chirppad_docs",
+      "chirpley/contract-metadata",
+      "chirpley/docs"
+    ]
+  },
+  "owner:codecflow": {
+    "kind": "owner",
+    "owner": "codecflow",
+    "repo_count": 8,
+    "stars": 30,
+    "pushed_at": "2026-01-14T08:59:01Z",
+    "created_at": "2025-02-02T11:26:07Z",
+    "top_repos": [
+      "codecflow/fabric",
+      "codecflow/branding",
+      "codecflow/optr",
+      "codecflow/pano",
+      "codecflow/.github"
+    ]
+  },
+  "owner:codedforum": {
+    "kind": "owner",
+    "owner": "codedforum",
+    "repo_count": 27,
+    "stars": 0,
+    "pushed_at": "2026-09-10T19:38:48Z",
+    "created_at": "2024-01-02T15:36:48Z",
+    "top_repos": [
+      "codedforum/signal-desk",
+      "codedforum/redbelly-rbnt-report",
+      "codedforum/docs",
+      "codedforum/skills",
+      "codedforum/acp-cli-demos"
+    ]
+  },
+  "owner:comput3ai": {
+    "kind": "owner",
+    "owner": "comput3ai",
+    "repo_count": 21,
+    "stars": 28,
+    "pushed_at": "2026-02-17T18:10:53Z",
+    "created_at": "2025-01-10T11:47:02Z",
+    "top_repos": [
+      "comput3ai/tamashii-website-frontend",
+      "comput3ai/c3-vllm",
+      "comput3ai/c3-docker-images",
+      "comput3ai/c3-examples",
+      "comput3ai/vllm"
+    ]
+  },
+  "owner:cortensor": {
+    "kind": "owner",
+    "owner": "cortensor",
+    "repo_count": 4,
+    "stars": 20,
+    "pushed_at": "2026-08-30T05:32:02Z",
+    "created_at": "2024-11-04T21:18:36Z",
+    "top_repos": [
+      "cortensor/installer",
+      "cortensor/community-projects",
+      "cortensor/salt",
+      "cortensor/desktop-app"
+    ]
+  },
+  "owner:covalenthq": {
+    "kind": "owner",
+    "owner": "covalenthq",
+    "repo_count": 51,
+    "stars": 521,
+    "pushed_at": "2026-06-15T15:46:26Z",
+    "created_at": "2019-07-12T18:11:23Z",
+    "top_repos": [
+      "covalenthq/ccxt",
+      "covalenthq/refiner",
+      "covalenthq/bsp-agent",
+      "covalenthq/ewm-das",
+      "covalenthq/homebrew-covalent"
+    ]
+  },
+  "owner:crynode": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:ctotremblay": {
+    "kind": "owner",
+    "owner": "ctotremblay",
+    "repo_count": 3,
+    "stars": 3,
+    "pushed_at": "2026-04-04T18:33:06Z",
+    "created_at": "2026-03-04T15:35:52Z",
+    "top_repos": [
+      "ctotremblay/gstack",
+      "ctotremblay/DantianAgentCertification",
+      "ctotremblay/marketingskills"
+    ]
+  },
+  "owner:d3faultlabs": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:dGNON": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:davfd": {
+    "kind": "owner",
+    "owner": "davfd",
+    "repo_count": 8,
+    "stars": 2,
+    "pushed_at": "2026-06-22T14:44:27Z",
+    "created_at": "2025-12-17T19:04:07Z",
+    "top_repos": [
+      "davfd/agent-passport-protected-actions",
+      "davfd/Bankr_Integration",
+      "davfd/ScopeGateRoomKey",
+      "davfd/ApartAIManipulationHackathon",
+      "davfd/council-sift"
+    ]
+  },
+  "owner:delaunch-avax": {
+    "kind": "owner",
+    "owner": "delaunch-avax",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2024-12-06T12:40:18Z",
+    "created_at": "2024-12-06T12:11:44Z",
+    "top_repos": [
+      "delaunch-avax/delaunch-core"
+    ]
+  },
+  "owner:dex-guru": {
+    "kind": "owner",
+    "owner": "dex-guru",
+    "repo_count": 23,
+    "stars": 162,
+    "pushed_at": "2026-07-15T13:52:58Z",
+    "created_at": "2021-03-17T23:02:16Z",
+    "top_repos": [
+      "dex-guru/tags",
+      "dex-guru/assets",
+      "dex-guru/governance-framework",
+      "dex-guru/block-explorer",
+      "dex-guru/ethereum-etl"
+    ]
+  },
+  "owner:dynexcoin": {
+    "kind": "owner",
+    "owner": "dynexcoin",
+    "repo_count": 37,
+    "stars": 260,
+    "pushed_at": "2026-08-26T07:20:34Z",
+    "created_at": "2022-09-14T13:35:51Z",
+    "top_repos": [
+      "dynexcoin/Dynex",
+      "dynexcoin/DynexSDK",
+      "dynexcoin/DynexWeatherPlatform",
+      "dynexcoin/dynex-electron-wallet",
+      "dynexcoin/website"
+    ]
+  },
+  "owner:edge": {
+    "kind": "owner",
+    "owner": "edge",
+    "repo_count": 45,
+    "stars": 61,
+    "pushed_at": "2026-07-14T10:56:34Z",
+    "created_at": "2019-04-29T08:35:55Z",
+    "top_repos": [
+      "edge/wallet",
+      "edge/explorer",
+      "edge/cli",
+      "edge/wiki",
+      "edge/utils"
+    ]
+  },
+  "owner:elizafinance": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:emberdragonc": {
+    "kind": "owner",
+    "owner": "emberdragonc",
+    "repo_count": 35,
+    "stars": 26,
+    "pushed_at": "2026-05-06T20:30:09Z",
+    "created_at": "2026-01-27T18:40:52Z",
+    "top_repos": [
+      "emberdragonc/ember-fear-greed-dca",
+      "emberdragonc/ember-mission-control",
+      "emberdragonc/tower-of-baibel",
+      "emberdragonc/ember-staking",
+      "emberdragonc/moltens"
+    ]
+  },
+  "owner:eucrypt": {
+    "kind": "owner",
+    "owner": "eucrypt",
+    "repo_count": 18,
+    "stars": 10,
+    "pushed_at": "2025-03-13T08:41:46Z",
+    "created_at": "2021-01-29T11:25:48Z",
+    "top_repos": [
+      "eucrypt/avs-metadata",
+      "eucrypt/unmarshal-go-sdk",
+      "eucrypt/unmarshal-indexer-avs",
+      "eucrypt/rollchain-test",
+      "eucrypt/graph-tooling"
+    ]
+  },
+  "owner:filippello": {
+    "kind": "owner",
+    "owner": "filippello",
+    "repo_count": 26,
+    "stars": 4,
+    "pushed_at": "2026-08-14T22:37:20Z",
+    "created_at": "2022-09-21T02:03:40Z",
+    "top_repos": [
+      "filippello/agenticmegapot",
+      "filippello/rival-blitz",
+      "filippello/inference-donation",
+      "filippello/focuspal",
+      "filippello/homebrew-tap"
+    ]
+  },
+  "owner:fleek-platform": {
+    "kind": "owner",
+    "owner": "fleek-platform",
+    "repo_count": 27,
+    "stars": 100,
+    "pushed_at": "2025-12-31T14:44:59Z",
+    "created_at": "2024-05-08T16:45:10Z",
+    "top_repos": [
+      "fleek-platform/dashboard",
+      "fleek-platform/website",
+      "fleek-platform/fleek-contracts",
+      "fleek-platform/bun2nix",
+      "fleek-platform/hf-nix"
+    ]
+  },
+  "owner:forta-network": {
+    "kind": "owner",
+    "owner": "forta-network",
+    "repo_count": 39,
+    "stars": 530,
+    "pushed_at": "2026-09-10T09:21:23Z",
+    "created_at": "2021-04-19T14:51:04Z",
+    "top_repos": [
+      "forta-network/hackwatch",
+      "forta-network/forta-risk-skills",
+      "forta-network/docs",
+      "forta-network/forta-activity",
+      "forta-network/core-go"
+    ]
+  },
+  "owner:functionland": {
+    "kind": "owner",
+    "owner": "functionland",
+    "repo_count": 100,
+    "stars": 905,
+    "pushed_at": "2026-09-10T23:45:41Z",
+    "created_at": "2021-01-09T17:54:44Z",
+    "top_repos": [
+      "functionland/storage-reward-distributor",
+      "functionland/FxFiles",
+      "functionland/pinning-service",
+      "functionland/fula-ota",
+      "functionland/fxwebsite"
+    ]
+  },
+  "owner:functionx": {
+    "kind": "owner",
+    "owner": "functionx",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2024-09-26T10:17:55Z",
+    "created_at": "2024-09-26T10:17:19Z",
+    "top_repos": [
+      "FunctionX/.github"
+    ]
+  },
+  "owner:georgiaramsai": {
+    "kind": "owner",
+    "owner": "georgiaramsai",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:giga-brain-project": {
+    "kind": "owner",
+    "owner": "giga-brain-project",
+    "repo_count": 2,
+    "stars": 10,
+    "pushed_at": "2025-01-18T13:11:03Z",
+    "created_at": "2025-01-02T17:57:58Z",
+    "top_repos": [
+      "giga-brain-project/giga-brain",
+      "giga-brain-project/.github"
+    ]
+  },
+  "owner:gitlawbounty": {
+    "kind": "owner",
+    "owner": "gitlawbounty",
+    "repo_count": 3,
+    "stars": 3,
+    "pushed_at": "2026-09-11T01:13:17Z",
+    "created_at": "2026-05-18T14:56:46Z",
+    "top_repos": [
+      "gitlawbounty/aeon",
+      "gitlawbounty/gitbounty",
+      "gitlawbounty/gitbounty-skill-pack"
+    ]
+  },
+  "owner:haailabs": {
+    "kind": "owner",
+    "owner": "haailabs",
+    "repo_count": 64,
+    "stars": 21,
+    "pushed_at": "2026-05-16T11:45:58Z",
+    "created_at": "2023-01-02T18:32:02Z",
+    "top_repos": [
+      "haailabs/hyperliquid-trade",
+      "haailabs/baml",
+      "haailabs/HeritageNet-example",
+      "haailabs/SPHNX",
+      "haailabs/Agent-S"
+    ]
+  },
+  "owner:heraaggregator": {
+    "kind": "owner",
+    "owner": "heraaggregator",
+    "repo_count": 13,
+    "stars": 2,
+    "pushed_at": "2026-04-13T14:37:01Z",
+    "created_at": "2022-03-04T12:30:29Z",
+    "top_repos": [
+      "heraaggregator/Docs",
+      "heraaggregator/hera-v3-solana-programs",
+      "heraaggregator/tokens",
+      "heraaggregator/token-lists",
+      "heraaggregator/layerzero-rfp-list"
+    ]
+  },
+  "owner:hiero-ai": {
+    "kind": "owner",
+    "owner": "hiero-ai",
+    "repo_count": 3,
+    "stars": 16,
+    "pushed_at": "2025-02-05T15:01:20Z",
+    "created_at": "2024-12-13T08:39:49Z",
+    "top_repos": [
+      "hiero-ai/docs",
+      "hiero-ai/evm-agent-kit",
+      "hiero-ai/protocol-sdk"
+    ]
+  },
+  "owner:homebrewroboticsclub": {
+    "kind": "owner",
+    "owner": "homebrewroboticsclub",
+    "repo_count": 12,
+    "stars": 76,
+    "pushed_at": "2026-04-27T13:35:21Z",
+    "created_at": "2025-06-03T12:35:21Z",
+    "top_repos": [
+      "homebrewroboticsclub/Task-router-x402",
+      "homebrewroboticsclub/Ros-X402-Node",
+      "homebrewroboticsclub/br-vr",
+      "homebrewroboticsclub/vr-teleop",
+      "homebrewroboticsclub/battle-royale"
+    ]
+  },
+  "owner:https-polarberai.xyz": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:humanode-network": {
+    "kind": "owner",
+    "owner": "humanode-network",
+    "repo_count": 82,
+    "stars": 231,
+    "pushed_at": "2026-09-10T22:10:42Z",
+    "created_at": "2021-04-24T15:56:13Z",
+    "top_repos": [
+      "humanode-network/humanode",
+      "humanode-network/vortex-simulator-web",
+      "humanode-network/distribution",
+      "humanode-network/discord-users-list",
+      "humanode-network/biomapper-docs"
+    ]
+  },
+  "owner:iamaiwtf": {
+    "kind": "owner",
+    "owner": "iamaiwtf",
+    "repo_count": 1,
+    "stars": 8,
+    "pushed_at": "2025-01-25T23:20:39Z",
+    "created_at": "2025-01-25T13:04:52Z",
+    "top_repos": [
+      "iamaiwtf/iamai"
+    ]
+  },
+  "owner:interlock-network": {
+    "kind": "owner",
+    "owner": "interlock-network",
+    "repo_count": 17,
+    "stars": 27,
+    "pushed_at": "2025-09-12T13:13:54Z",
+    "created_at": "2022-02-11T04:20:53Z",
+    "top_repos": [
+      "interlock-network/hivefury-extension",
+      "interlock-network/hivefury-hedera",
+      "interlock-network/.github",
+      "interlock-network/interlock-smartcontracts-solidity",
+      "interlock-network/interlock-smartcontracts-ink"
+    ]
+  },
+  "owner:ithaca-protocol": {
+    "kind": "owner",
+    "owner": "ithaca-protocol",
+    "repo_count": 7,
+    "stars": 1,
+    "pushed_at": "2025-11-21T11:45:00Z",
+    "created_at": "2023-04-21T12:26:13Z",
+    "top_repos": [
+      "ithaca-protocol/ithaca-leon-demo",
+      "ithaca-protocol/DefiLlama-Adapters",
+      "ithaca-protocol/protocol-v2",
+      "ithaca-protocol/ithaca-mm-demo",
+      "ithaca-protocol/dimension-adapters"
+    ]
+  },
+  "owner:jacobhjkim": {
+    "kind": "owner",
+    "owner": "jacobhjkim",
+    "repo_count": 100,
+    "stars": 85,
+    "pushed_at": "2025-10-02T04:10:38Z",
+    "created_at": "2017-10-14T19:06:28Z",
+    "top_repos": [
+      "jacobhjkim/jacobhjkim",
+      "jacobhjkim/tanstack-router",
+      "jacobhjkim/eliza",
+      "jacobhjkim/spore-sniper",
+      "jacobhjkim/chains"
+    ]
+  },
+  "owner:keira-litepaper": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:kiboshib": {
+    "kind": "owner",
+    "owner": "kiboshib",
+    "repo_count": 4,
+    "stars": 1,
+    "pushed_at": "2025-02-19T09:52:31Z",
+    "created_at": "2022-12-15T09:41:01Z",
+    "top_repos": [
+      "KiboShib/ERC20-contract",
+      "KiboShib/tokenAssets",
+      "KiboShib/ethereum-optimism.github.io",
+      "KiboShib/superbridge-app"
+    ]
+  },
+  "owner:lordx64": {
+    "kind": "owner",
+    "owner": "lordx64",
+    "repo_count": 23,
+    "stars": 142,
+    "pushed_at": "2026-09-08T19:38:13Z",
+    "created_at": "2024-08-28T12:04:14Z",
+    "top_repos": [
+      "lordx64/cyberkimi-benchmarks",
+      "lordx64/cyberkimi-training-updates",
+      "lordx64/vibeworld-releases",
+      "lordx64/pentestkit",
+      "lordx64/iphone-malware-assessment"
+    ]
+  },
+  "owner:lucky-dog-ai": {
+    "kind": "owner",
+    "owner": "lucky-dog-ai",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2025-05-13T20:20:37Z",
+    "created_at": "2025-05-12T12:51:50Z",
+    "top_repos": [
+      "lucky-dog-ai/tokenAssets"
+    ]
+  },
+  "owner:magics-codes": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:masa-finance": {
+    "kind": "owner",
+    "owner": "masa-finance",
+    "repo_count": 59,
+    "stars": 683,
+    "pushed_at": "2026-07-02T16:35:34Z",
+    "created_at": "2021-12-09T14:13:59Z",
+    "top_repos": [
+      "masa-finance/twitter-scraper",
+      "masa-finance/tee-requester",
+      "masa-finance/subtensor",
+      "masa-finance/milvus-backup",
+      "masa-finance/linkedin-scraper"
+    ]
+  },
+  "owner:maushish": {
+    "kind": "owner",
+    "owner": "maushish",
+    "repo_count": 47,
+    "stars": 18,
+    "pushed_at": "2026-08-04T14:12:27Z",
+    "created_at": "2023-01-01T17:20:18Z",
+    "top_repos": [
+      "maushish/copit-app-preview",
+      "maushish/mm_algo",
+      "maushish/phoenix-v1",
+      "maushish/raydium-clmm",
+      "maushish/raydium-cpi-example"
+    ]
+  },
+  "owner:mefai-dev": {
+    "kind": "owner",
+    "owner": "mefai-dev",
+    "repo_count": 26,
+    "stars": 72,
+    "pushed_at": "2026-08-06T08:58:16Z",
+    "created_at": "2021-11-27T16:08:39Z",
+    "top_repos": [
+      "mefai-dev/security-audits",
+      "mefai-dev/mefai-signal-agent",
+      "mefai-dev/mefaihomevideoai",
+      "mefai-dev/mefaihomevideoai-worker",
+      "mefai-dev/mefai-verifiable-trading-agent"
+    ]
+  },
+  "owner:meridian-protocol": {
+    "kind": "owner",
+    "owner": "meridian-protocol",
+    "repo_count": 5,
+    "stars": 2,
+    "pushed_at": "2026-07-21T14:51:05Z",
+    "created_at": "2025-09-16T22:43:45Z",
+    "top_repos": [
+      "meridian-protocol/demo",
+      "meridian-protocol/crypto-ai-agents-with-amazon-bedrock",
+      "meridian-protocol/mrdn-next",
+      "meridian-protocol/x402scan",
+      "meridian-protocol/x402"
+    ]
+  },
+  "owner:mind-network": {
+    "kind": "owner",
+    "owner": "mind-network",
+    "repo_count": 54,
+    "stars": 1845,
+    "pushed_at": "2026-05-18T05:03:47Z",
+    "created_at": "2022-01-09T13:52:34Z",
+    "top_repos": [
+      "mind-network/agentgate",
+      "mind-network/confidential-token",
+      "mind-network/Awesome-Mind-Network",
+      "mind-network/mind-sap-sdk",
+      "mind-network/iptf-map"
+    ]
+  },
+  "owner:moonshiftio": {
+    "kind": "owner",
+    "owner": "moonshiftio",
+    "repo_count": 4,
+    "stars": 1,
+    "pushed_at": "2026-06-12T05:31:42Z",
+    "created_at": "2026-06-11T05:02:52Z",
+    "top_repos": [
+      "moonshiftio/ecomm-storefront",
+      "moonshiftio/ai-chat",
+      "moonshiftio/founder-dashboard",
+      "moonshiftio/saas-waitlist"
+    ]
+  },
+  "owner:mr-gigabee": {
+    "kind": "owner",
+    "owner": "mr-gigabee",
+    "repo_count": 3,
+    "stars": 0,
+    "pushed_at": "2026-07-08T19:53:35Z",
+    "created_at": "2026-07-04T09:44:20Z",
+    "top_repos": [
+      "mr-gigabee/gigabee",
+      "mr-gigabee/gigabee-cli",
+      "mr-gigabee/gigabee-sdk"
+    ]
+  },
+  "owner:mystikonetwork": {
+    "kind": "owner",
+    "owner": "mystikonetwork",
+    "repo_count": 26,
+    "stars": 64,
+    "pushed_at": "2026-07-17T23:53:52Z",
+    "created_at": "2022-01-07T05:33:22Z",
+    "top_repos": [
+      "mystikonetwork/mystiko-rust",
+      "mystikonetwork/mystiko-static-config",
+      "mystikonetwork/mystiko-protos",
+      "mystikonetwork/mystiko-governance",
+      "mystikonetwork/mystiko-roller"
+    ]
+  },
+  "owner:nasdao-ai": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:near": {
+    "kind": "owner",
+    "owner": "near",
+    "repo_count": 100,
+    "stars": 6745,
+    "pushed_at": "2026-09-11T00:40:44Z",
+    "created_at": "2018-10-02T22:30:39Z",
+    "top_repos": [
+      "near/near-api-js",
+      "near/near-jsonrpc-client-py",
+      "near/near-jsonrpc-client-kotlin",
+      "near/near-indexer-client",
+      "near/nearcore"
+    ]
+  },
+  "owner:nodexo-ai": {
+    "kind": "owner",
+    "owner": "nodexo-ai",
+    "repo_count": 1,
+    "stars": 2,
+    "pushed_at": "2026-07-23T13:38:57Z",
+    "created_at": "2026-06-17T12:51:39Z",
+    "top_repos": [
+      "nodexo-ai/nodexo"
+    ]
+  },
+  "owner:noelclaw": {
+    "kind": "owner",
+    "owner": "noelclaw",
+    "repo_count": 7,
+    "stars": 1,
+    "pushed_at": "2026-09-07T09:39:03Z",
+    "created_at": "2026-05-16T01:34:51Z",
+    "top_repos": [
+      "noelclaw/mcp",
+      "noelclaw/finch-docs",
+      "noelclaw/skills",
+      "noelclaw/miroshark",
+      "noelclaw/aeon"
+    ]
+  },
+  "owner:noelclawfun": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:nosana-ci": {
+    "kind": "owner",
+    "owner": "nosana-ci",
+    "repo_count": 34,
+    "stars": 1043,
+    "pushed_at": "2026-09-10T12:15:51Z",
+    "created_at": "2022-01-09T09:19:30Z",
+    "top_repos": [
+      "nosana-ci/nosana-deployment-manager",
+      "nosana-ci/pipeline-templates",
+      "nosana-ci/nosana-node",
+      "nosana-ci/nosana-dashboard",
+      "nosana-ci/nosana-kit"
+    ]
+  },
+  "owner:nuklai": {
+    "kind": "owner",
+    "owner": "nuklai",
+    "repo_count": 16,
+    "stars": 11,
+    "pushed_at": "2026-03-02T09:14:41Z",
+    "created_at": "2023-07-05T13:07:55Z",
+    "top_repos": [
+      "Nuklai/brave-search-mcp-server",
+      "Nuklai/nuklai-nexus-gcp-marketplace",
+      "Nuklai/cmeta",
+      "Nuklai/genesisTransactions",
+      "Nuklai/nuklaivm-external-subscriber"
+    ]
+  },
+  "owner:numbersprotocol": {
+    "kind": "owner",
+    "owner": "numbersprotocol",
+    "repo_count": 68,
+    "stars": 4517,
+    "pushed_at": "2026-09-10T18:27:08Z",
+    "created_at": "2019-07-22T12:16:20Z",
+    "top_repos": [
+      "numbersprotocol/capture-cam",
+      "numbersprotocol/pyroimage-original-protection",
+      "numbersprotocol/reference-agents",
+      "numbersprotocol/yijing-divination",
+      "numbersprotocol/proofsnap-extension"
+    ]
+  },
+  "owner:omegax-health": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:omniaprotocol": {
+    "kind": "owner",
+    "owner": "omniaprotocol",
+    "repo_count": 9,
+    "stars": 165,
+    "pushed_at": "2024-12-24T11:15:44Z",
+    "created_at": "2021-11-03T07:20:45Z",
+    "top_repos": [
+      "omniaprotocol/supply-tracker",
+      "omniaprotocol/networklist-org",
+      "omniaprotocol/staking-contract",
+      "omniaprotocol/staking-eigenlayer-meta",
+      "omniaprotocol/disperse.app"
+    ]
+  },
+  "owner:oopz-io": {
+    "kind": "owner",
+    "owner": "oopz-io",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2025-12-21T14:52:49Z",
+    "created_at": "2025-09-26T07:38:41Z",
+    "top_repos": [
+      "oopz-io/graphiti"
+    ]
+  },
+  "owner:owocki": {
+    "kind": "owner",
+    "owner": "owocki",
+    "repo_count": 89,
+    "stars": 2664,
+    "pushed_at": "2026-08-23T22:44:19Z",
+    "created_at": "2011-09-24T22:26:11Z",
+    "top_repos": [
+      "owocki/syntropy.video",
+      "owocki/dharma.gift",
+      "owocki/gameofcoins.fun",
+      "owocki/owocki.github.io",
+      "owocki/gitcoin_og_avatarbuilder"
+    ]
+  },
+  "owner:pCLAW-Agent": {
+    "kind": "owner",
+    "owner": "pCLAW-Agent",
+    "repo_count": 5,
+    "stars": 6,
+    "pushed_at": "2026-07-08T12:51:53Z",
+    "created_at": "2025-06-21T10:04:08Z",
+    "top_repos": [
+      "pCLAW-Agent/developer-tools-list",
+      "pCLAW-Agent/Pokebook-AI_pCLAW",
+      "pCLAW-Agent/pCLAW-Agent-Hub",
+      "pCLAW-Agent/pCalw-App",
+      "pCLAW-Agent/assets"
+    ]
+  },
+  "owner:pandupandas": {
+    "kind": "owner",
+    "owner": "pandupandas",
+    "repo_count": 2,
+    "stars": 2,
+    "pushed_at": "2025-09-04T16:09:20Z",
+    "created_at": "2025-09-04T15:40:49Z",
+    "top_repos": [
+      "pandupandas/panduAi-core",
+      "pandupandas/assets"
+    ]
+  },
+  "owner:phoenixglobal": {
+    "kind": "owner",
+    "owner": "phoenixglobal",
+    "repo_count": 37,
+    "stars": 43,
+    "pushed_at": "2026-09-10T07:32:02Z",
+    "created_at": "2018-05-22T10:16:45Z",
+    "top_repos": [
+      "PhoenixGlobal/codex-lb",
+      "PhoenixGlobal/futures-ctp-rtn",
+      "PhoenixGlobal/APEX-BlackJack-DApp",
+      "PhoenixGlobal/Trading-Data-Agent",
+      "PhoenixGlobal/Phoenix-Node-Client"
+    ]
+  },
+  "owner:play-sdk-documentation": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:projectyurei": {
+    "kind": "owner",
+    "owner": "projectyurei",
+    "repo_count": 24,
+    "stars": 7,
+    "pushed_at": "2026-01-19T11:31:39Z",
+    "created_at": "2025-11-15T20:40:41Z",
+    "top_repos": [
+      "projectyurei/plugin-yurei-elizaos",
+      "projectyurei/void-sdk",
+      "projectyurei/open-instruct",
+      "projectyurei/corpus-cleaner-cli",
+      "projectyurei/phantom-signal-hook"
+    ]
+  },
+  "owner:purefiprotocol": {
+    "kind": "owner",
+    "owner": "purefiprotocol",
+    "repo_count": 20,
+    "stars": 6,
+    "pushed_at": "2026-04-02T08:31:05Z",
+    "created_at": "2021-06-29T09:31:38Z",
+    "top_repos": [
+      "purefiprotocol/sdk-solidity-v5",
+      "purefiprotocol/purefi-playground",
+      "purefiprotocol/sdk-solidity",
+      "purefiprotocol/kyc-sdk-demo",
+      "purefiprotocol/reference-request-for-zk-circuit-verifier"
+    ]
+  },
+  "owner:quadency": {
+    "kind": "owner",
+    "owner": "quadency",
+    "repo_count": 21,
+    "stars": 13,
+    "pushed_at": "2024-08-19T07:09:08Z",
+    "created_at": "2018-04-13T19:26:53Z",
+    "top_repos": [
+      "quadency/go-binance",
+      "quadency/quad-kucoin-client",
+      "quadency/node-binance-api",
+      "quadency/ccxt-new",
+      "quadency/ccxt"
+    ]
+  },
+  "owner:qubic": {
+    "kind": "owner",
+    "owner": "qubic",
+    "repo_count": 77,
+    "stars": 463,
+    "pushed_at": "2026-09-09T17:40:43Z",
+    "created_at": "2023-10-08T12:02:46Z",
+    "top_repos": [
+      "qubic/qubic-typescript",
+      "qubic/static",
+      "qubic/core",
+      "qubic/qx-service",
+      "qubic/core-lite"
+    ]
+  },
+  "owner:qudeai": {
+    "kind": "owner",
+    "owner": "qudeai",
+    "repo_count": 6,
+    "stars": 79,
+    "pushed_at": "2025-02-19T14:32:00Z",
+    "created_at": "2025-01-07T12:17:10Z",
+    "top_repos": [
+      "qudeai/qude-website",
+      "qudeai/qudeai-framework-v.1",
+      "qudeai/qude-rustBETA_v1",
+      "qudeai/qudesdk-v1",
+      "qudeai/qudeframework-api"
+    ]
+  },
+  "owner:ratio1": {
+    "kind": "owner",
+    "owner": "ratio1",
+    "repo_count": 46,
+    "stars": 8,
+    "pushed_at": "2026-09-10T20:43:11Z",
+    "created_at": "2021-11-07T07:30:24Z",
+    "top_repos": [
+      "Ratio1/ratio1-dapp",
+      "Ratio1/ratio1_sdk",
+      "Ratio1/edge_node",
+      "Ratio1/docs",
+      "Ratio1/r1-meshdb"
+    ]
+  },
+  "owner:rebelArtists": {
+    "kind": "owner",
+    "owner": "rebelArtists",
+    "repo_count": 28,
+    "stars": 9,
+    "pushed_at": "2026-09-01T10:44:04Z",
+    "created_at": "2022-02-21T03:01:36Z",
+    "top_repos": [
+      "rebelArtists/fortfi-go",
+      "rebelArtists/fortfi-cookbook",
+      "rebelArtists/cdp-sdk",
+      "rebelArtists/forked-agglayer",
+      "rebelArtists/cdk-e2e-tests"
+    ]
+  },
+  "owner:reldothescribe": {
+    "kind": "owner",
+    "owner": "reldothescribe",
+    "repo_count": 22,
+    "stars": 1,
+    "pushed_at": "2026-09-11T00:45:10Z",
+    "created_at": "2026-01-30T15:23:26Z",
+    "top_repos": [
+      "reldothescribe/agent-leaderboard",
+      "reldothescribe/erc8004-catalog",
+      "reldothescribe/agent-challenge",
+      "reldothescribe/agent-wisdom",
+      "reldothescribe/reldothescribe.github.io"
+    ]
+  },
+  "owner:remp0x": {
+    "kind": "owner",
+    "owner": "remp0x",
+    "repo_count": 4,
+    "stars": 4,
+    "pushed_at": "2026-07-27T00:11:35Z",
+    "created_at": "2025-11-19T14:21:35Z",
+    "top_repos": [
+      "remp0x/atelier",
+      "remp0x/atelier-claude-plugin",
+      "remp0x/agentgram",
+      "remp0x/holy-studio"
+    ]
+  },
+  "owner:replicatsai": {
+    "kind": "owner",
+    "owner": "replicatsai",
+    "repo_count": 1,
+    "stars": 1,
+    "pushed_at": "2025-08-31T14:50:13Z",
+    "created_at": "2025-08-31T13:52:32Z",
+    "top_repos": [
+      "replicatsai/rfcs"
+    ]
+  },
+  "owner:rimindio": {
+    "kind": "owner",
+    "owner": "rimindio",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2025-05-06T20:37:37Z",
+    "created_at": "2025-05-02T16:48:58Z",
+    "top_repos": [
+      "rimindio/rimind_backend"
+    ]
+  },
+  "owner:rizzclub": {
+    "kind": "owner",
+    "owner": "rizzclub",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2024-12-16T17:37:13Z",
+    "created_at": "2025-09-01T20:52:56Z",
+    "top_repos": [
+      "rizzclub/spl-token-staking"
+    ]
+  },
+  "owner:runonflux": {
+    "kind": "owner",
+    "owner": "runonflux",
+    "repo_count": 100,
+    "stars": 500,
+    "pushed_at": "2026-09-11T02:46:24Z",
+    "created_at": "2018-02-22T02:54:57Z",
+    "top_repos": [
+      "RunOnFlux/cumulusvpn",
+      "RunOnFlux/ownllm",
+      "RunOnFlux/ssp-wallet",
+      "RunOnFlux/simplex-monitor",
+      "RunOnFlux/account-abstraction"
+    ]
+  },
+  "owner:sbhooley": {
+    "kind": "owner",
+    "owner": "sbhooley",
+    "repo_count": 8,
+    "stars": 674,
+    "pushed_at": "2026-09-03T15:50:51Z",
+    "created_at": "2023-01-16T19:17:06Z",
+    "top_repos": [
+      "sbhooley/ainativelang",
+      "sbhooley/armaraos-lite",
+      "sbhooley/ainl-cortex",
+      "sbhooley/armaraos-discord-bot",
+      "sbhooley/memetracker"
+    ]
+  },
+  "owner:securechainai": {
+    "kind": "owner",
+    "owner": "securechainai",
+    "repo_count": 17,
+    "stars": 47,
+    "pushed_at": "2026-03-15T11:42:03Z",
+    "created_at": "2023-04-18T04:25:42Z",
+    "top_repos": [
+      "SecureChainAI/Referral-Dapp-Solana",
+      "SecureChainAI/High-Card-Game",
+      "SecureChainAI/Time-Locked-Chest-Game",
+      "SecureChainAI/Memory-NFT-Game",
+      "SecureChainAI/Rock-Paper-Scissors-Game"
+    ]
+  },
+  "owner:sedux.live": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:sentient-agi": {
+    "kind": "owner",
+    "owner": "sentient-agi",
+    "repo_count": 20,
+    "stars": 14021,
+    "pushed_at": "2026-09-07T17:51:34Z",
+    "created_at": "2024-09-23T10:09:24Z",
+    "top_repos": [
+      "sentient-agi/mlprints",
+      "sentient-agi/EvoSkill",
+      "sentient-agi/.github",
+      "sentient-agi/agentic-payments-bot",
+      "sentient-agi/meta-skill-creator"
+    ]
+  },
+  "owner:sergey1997": {
+    "kind": "owner",
+    "owner": "sergey1997",
+    "repo_count": 40,
+    "stars": 4,
+    "pushed_at": "2026-07-08T20:59:21Z",
+    "created_at": "2017-11-22T13:04:55Z",
+    "top_repos": [
+      "Sergey1997/base",
+      "Sergey1997/agent-skill-wallet",
+      "Sergey1997/WalletLens",
+      "Sergey1997/kickoff-spark",
+      "Sergey1997/grokster"
+    ]
+  },
+  "owner:singularitydao": {
+    "kind": "owner",
+    "owner": "singularitydao",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2021-12-16T15:33:48Z",
+    "created_at": "2021-12-16T14:26:54Z",
+    "top_repos": [
+      "singularitydao/abstractions"
+    ]
+  },
+  "owner:skainetxyz": {
+    "kind": "owner",
+    "owner": "skainetxyz",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:songjamspace": {
+    "kind": "owner",
+    "owner": "songjamspace",
+    "repo_count": 81,
+    "stars": 68,
+    "pushed_at": "2026-08-08T14:08:00Z",
+    "created_at": "2020-12-10T11:08:42Z",
+    "top_repos": [
+      "SongjamSpace/2026-music-player",
+      "SongjamSpace/songjam-site",
+      "SongjamSpace/songjam-leaderboard-ui",
+      "SongjamSpace/songjam-ui",
+      "SongjamSpace/social-tts"
+    ]
+  },
+  "owner:sqdgn": {
+    "kind": "owner",
+    "owner": "sqdgn",
+    "repo_count": 4,
+    "stars": 0,
+    "pushed_at": "2025-11-20T10:38:04Z",
+    "created_at": "2024-12-13T19:45:01Z",
+    "top_repos": [
+      "sqdgn/audit",
+      "sqdgn/whitepaper",
+      "sqdgn/docs",
+      "sqdgn/.github"
+    ]
+  },
+  "owner:sqrDAO": {
+    "kind": "owner",
+    "owner": "sqrDAO",
+    "repo_count": 17,
+    "stars": 8,
+    "pushed_at": "2026-09-09T12:15:07Z",
+    "created_at": "2024-12-16T09:47:04Z",
+    "top_repos": [
+      "sqrDAO/sqrSKILLS",
+      "sqrDAO/live-translator",
+      "sqrDAO/sqrDES",
+      "sqrDAO/danang-hub-app",
+      "sqrDAO/pharos-vietnam"
+    ]
+  },
+  "owner:stashh-labs": {
+    "kind": "owner",
+    "owner": "stashh-labs",
+    "repo_count": 5,
+    "stars": 9,
+    "pushed_at": "2026-06-16T02:44:13Z",
+    "created_at": "2022-03-21T21:14:06Z",
+    "top_repos": [
+      "stashh-labs/stashh-sweepstake-machine",
+      "stashh-labs/stashh-policies",
+      "stashh-labs/stashh-branding",
+      "stashh-labs/stashh-docs",
+      "stashh-labs/stashh-codegen"
+    ]
+  },
+  "owner:stnapsepower": {
+    "kind": "owner",
+    "owner": "stnapsepower",
+    "repo_count": 0,
+    "stars": 0,
+    "pushed_at": null,
+    "created_at": null,
+    "top_repos": []
+  },
+  "owner:subsquid": {
+    "kind": "owner",
+    "owner": "subsquid",
+    "repo_count": 61,
+    "stars": 1653,
+    "pushed_at": "2026-09-10T16:55:20Z",
+    "created_at": "2021-07-28T15:01:14Z",
+    "top_repos": [
+      "subsquid/network-components",
+      "subsquid/sqd-query-engine",
+      "subsquid/worker-rs",
+      "subsquid/squid-sdk",
+      "subsquid/.github"
+    ]
+  },
+  "owner:svmacc": {
+    "kind": "owner",
+    "owner": "svmacc",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2026-05-28T17:15:59Z",
+    "created_at": "2026-05-28T17:06:18Z",
+    "top_repos": [
+      "svmacc/svmclaw-skill"
+    ]
+  },
+  "owner:sxcamacho": {
+    "kind": "owner",
+    "owner": "sxcamacho",
+    "repo_count": 32,
+    "stars": 1,
+    "pushed_at": "2026-02-16T13:54:37Z",
+    "created_at": "2015-01-27T00:43:08Z",
+    "top_repos": [
+      "sxcamacho/sxcamacho",
+      "sxcamacho/aevia-api",
+      "sxcamacho/aevia-frontend-core",
+      "sxcamacho/aevia-smart-contracts",
+      "sxcamacho/ZerePy"
+    ]
+  },
+  "owner:tachikomared": {
+    "kind": "owner",
+    "owner": "tachikomared",
+    "repo_count": 21,
+    "stars": 429,
+    "pushed_at": "2026-09-01T19:33:09Z",
+    "created_at": "2026-02-11T22:36:25Z",
+    "top_repos": [
+      "tachikomared/tachi-studio",
+      "tachikomared/moggoncraft3",
+      "tachikomared/tachidubb",
+      "tachikomared/dead-loop-obsidian-protocol",
+      "tachikomared/dirty-pixel-particles"
+    ]
+  },
+  "owner:tardionchain": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:team": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:the-kira-project": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:tig-foundation": {
+    "kind": "owner",
+    "owner": "tig-foundation",
+    "repo_count": 9,
+    "stars": 134,
+    "pushed_at": "2026-09-08T08:45:03Z",
+    "created_at": "2024-02-06T03:11:30Z",
+    "top_repos": [
+      "tig-foundation/tig-monorepo",
+      "tig-foundation/tig-evaluation-kit",
+      "tig-foundation/prometheus-swarm",
+      "tig-foundation/hgs-advance",
+      "tig-foundation/cudarc"
+    ]
+  },
+  "owner:timokonkwo": {
+    "kind": "owner",
+    "owner": "timokonkwo",
+    "repo_count": 72,
+    "stars": 31,
+    "pushed_at": "2026-09-05T08:30:57Z",
+    "created_at": "2021-01-16T23:20:25Z",
+    "top_repos": [
+      "timokonkwo/gods-eye-view",
+      "timokonkwo/Hive-BNB",
+      "timokonkwo/hive-agent-sdk",
+      "timokonkwo/timokonkwo",
+      "timokonkwo/DeFi-Developer-Road-Map"
+    ]
+  },
+  "owner:tinyhumansai": {
+    "kind": "owner",
+    "owner": "tinyhumansai",
+    "repo_count": 45,
+    "stars": 40296,
+    "pushed_at": "2026-09-11T03:01:06Z",
+    "created_at": "2025-11-25T04:37:00Z",
+    "top_repos": [
+      "tinyhumansai/openhuman",
+      "tinyhumansai/tinyhivemind",
+      "tinyhumansai/opencompany",
+      "tinyhumansai/tinymemory",
+      "tinyhumansai/tinyconnectors"
+    ]
+  },
+  "owner:tweetdm": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:unitone-labs": {
+    "kind": "owner",
+    "owner": "unitone-labs",
+    "repo_count": 4,
+    "stars": 3,
+    "pushed_at": "2026-03-06T10:18:22Z",
+    "created_at": "2025-05-02T12:58:14Z",
+    "top_repos": [
+      "unitone-labs/FlameWire",
+      "unitone-labs/flamewire-docs",
+      "unitone-labs/bittensor-indexer",
+      "unitone-labs/Resources"
+    ]
+  },
+  "owner:vana-com": {
+    "kind": "owner",
+    "owner": "vana-com",
+    "repo_count": 100,
+    "stars": 393,
+    "pushed_at": "2026-09-11T03:09:40Z",
+    "created_at": "2022-07-07T14:21:22Z",
+    "top_repos": [
+      "vana-com/personal-server-ts",
+      "vana-com/vana-smart-contracts",
+      "vana-com/vana-cli",
+      "vana-com/lorebook",
+      "vana-com/vana-sdk"
+    ]
+  },
+  "owner:veilraos": {
+    "kind": "owner",
+    "owner": "veilraos",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2026-01-02T12:41:56Z",
+    "created_at": "2025-12-28T09:47:54Z",
+    "top_repos": [
+      "veilraos/VeilraOS-Project"
+    ]
+  },
+  "owner:verida": {
+    "kind": "owner",
+    "owner": "verida",
+    "repo_count": 41,
+    "stars": 1304,
+    "pushed_at": "2026-02-17T19:43:14Z",
+    "created_at": "2020-04-18T12:16:08Z",
+    "top_repos": [
+      "verida/incentivized-testnet-webapp",
+      "verida/vault-mobile",
+      "verida/developer-admin",
+      "verida/vault-web",
+      "verida/network-explorer"
+    ]
+  },
+  "owner:visionairelabs": {
+    "kind": "owner",
+    "owner": "visionairelabs",
+    "repo_count": 93,
+    "stars": 40,
+    "pushed_at": "2026-09-04T12:23:26Z",
+    "created_at": "2024-12-13T00:44:02Z",
+    "top_repos": [
+      "VisionaireLabs/Visionaire",
+      "VisionaireLabs/brain-feed",
+      "VisionaireLabs/spec-kit",
+      "VisionaireLabs/llms-txt",
+      "VisionaireLabs/openclaw-deck"
+    ]
+  },
+  "owner:webaverse-studios": {
+    "kind": "owner",
+    "owner": "webaverse-studios",
+    "repo_count": 100,
+    "stars": 248,
+    "pushed_at": "2024-03-28T01:07:30Z",
+    "created_at": "2022-08-15T17:34:57Z",
+    "top_repos": [
+      "webaverse-studios/tensorrtllm_backend",
+      "webaverse-studios/thoth",
+      "webaverse-studios/moemate_coder_module",
+      "webaverse-studios/moemate_doctor_module",
+      "webaverse-studios/stable-diffusion-2D"
+    ]
+  },
+  "owner:whsprs": {
+    "kind": "owner",
+    "owner": "whsprs",
+    "repo_count": 2,
+    "stars": 29,
+    "pushed_at": "2025-01-12T15:25:10Z",
+    "created_at": "2025-01-09T23:12:12Z",
+    "top_repos": [
+      "whsprs/ios-whisp-sdk",
+      "whsprs/android-whisp-sdk"
+    ]
+  },
+  "owner:wrkrdev": {
+    "kind": "owner",
+    "owner": "wrkrdev",
+    "repo_count": 5,
+    "stars": 0,
+    "pushed_at": "2026-09-11T01:59:54Z",
+    "created_at": "2026-06-15T10:03:15Z",
+    "top_repos": [
+      "wrkrdev/litebeam-wrkr",
+      "wrkrdev/snaphood",
+      "wrkrdev/vex-cloud-poc",
+      "wrkrdev/stargazer-wrkr-demo",
+      "wrkrdev/world-of-claudecraft-wrkr-demo"
+    ]
+  },
+  "owner:xLLM2": {
+    "kind": "owner",
+    "owner": "xLLM2",
+    "repo_count": 1,
+    "stars": 0,
+    "pushed_at": "2025-05-17T15:40:39Z",
+    "created_at": "2025-05-17T15:37:32Z",
+    "top_repos": [
+      "xLLM2/mediakit"
+    ]
+  },
+  "owner:zapalpha": {
+    "kind": "owner",
+    "missing": true
+  },
+  "owner:zyori": {
+    "kind": "owner",
+    "owner": "zyori",
+    "repo_count": 9,
+    "stars": 0,
+    "pushed_at": "2026-06-23T00:47:31Z",
+    "created_at": "2016-04-08T18:33:00Z",
+    "top_repos": [
+      "Zyori/kalshibot3",
+      "Zyori/Kalshi-Mean-Reversion-Bot",
+      "Zyori/kalshi-scalper-analytics",
+      "Zyori/kalshi-scalper-case-study",
+      "Zyori/DilemmAI-Public"
+    ]
+  },
+  "owner:zypher-network": {
+    "kind": "owner",
+    "owner": "zypher-network",
+    "repo_count": 12,
+    "stars": 1,
+    "pushed_at": "2025-09-08T04:45:33Z",
+    "created_at": "2024-06-20T03:38:00Z",
+    "top_repos": [
+      "zypher-network/token",
+      "zypher-network/tools",
+      "zypher-network/openai-go",
+      "zypher-network/coze-studio",
+      "zypher-network/adidoks"
+    ]
+  }
+}

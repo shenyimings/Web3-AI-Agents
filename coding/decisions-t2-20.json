@@ -1,0 +1,258 @@
+{
+  "asmora": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"The DeSAI Hub for MCP Orchestration\" -- an orchestration hub for agent tooling (MCP servers), nearest to Builder & Marketplace; description too thin for higher confidence.",
+    "sibling": null
+  },
+  "clawvault": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label DeFAI; \"ClawVault sits between your AI agent and your wallet. Set rules, approve transactions, stay in control\" -- an agent wallet that transacts.",
+    "sibling": null
+  },
+  "modpanda": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Your AI powered crypto community manager\" -- an agent persona whose output is social/community content; description too short to be more specific.",
+    "sibling": null
+  },
+  "aeonbook": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"Open-source autonomous social media for AI agents ... deploy an agent of your own\" -- agent hosting/deployment platform, product for someone building/running an agent.",
+    "sibling": null
+  },
+  "0xsim-by-virtuals": {
+    "labels": ["analytics", "defai"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "medium",
+    "why": "CG labels Analytics and DeFAI both present; description makes both explicit: \"real-time market analytics, deep token insights\" and \"upcoming limitless limit orders, allowing you to trigger trades\".",
+    "sibling": null
+  },
+  "theodore-shellington": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"i am building a company that generates revenue, allocates capital, and grows autonomously\" -- autonomous capital allocation, nearest to DeFAI; very thin description.",
+    "sibling": null
+  },
+  "agent-keef": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"A live autonomous agent site: journal, shipped tools, vital signs, experiments, and receipts\" -- has agent content but names no product or function a coder can place.",
+    "sibling": null
+  },
+  "sports-analyst-ai": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"providing you with hyper-accurate insights, commentary & predictions on your favorite sporting events\" -- an information/prediction product, no execution described.",
+    "sibling": null
+  },
+  "apix-2": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "Description carries no AI or agent content: \"a decentralized, real-time pixel-art canvas on the Avalanche blockchain\" where users \"paint, overwrite, and defend pixels\" -- a pixel-art game token; the AI Agents / Artificial Intelligence (AI) CG labels do not settle scope per the metacade/xterio precedent.",
+    "sibling": null
+  },
+  "general-impressions": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label AI Framework; \"a fully programmable runtime for long-lived, composable, and self-evolving agents\" -- framework for building/running agents.",
+    "sibling": null
+  },
+  "agentpad": {
+    "labels": ["launchpad"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label AI Agent Launchpad; \"The first Solana launchpad for agents only ... A launchpad only for agents.\"",
+    "sibling": null
+  },
+  "imagen-ai": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"It utilizes models like DALL-E and Stable Diffusion to enable users to generate and customize images\" -- agent/AI product whose output is media.",
+    "sibling": null
+  },
+  "klink-finance": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "Description carries no AI or agent content anywhere: \"the affiliate and advertising technology infrastructure for Web3, enabling platforms, protocols, and dApps to acquire users and monetize their services through a global network of partner offers\" -- an ad-tech/affiliate rail, not an AI product.",
+    "sibling": null
+  },
+  "tradetide": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "low",
+    "why": "CG labels DeFAI and Trading Bots; description is truncated (\"TradeTide Documentation 1 Overview The cryptocurrency market has rapidly evolved...\") but is consistent with the rule-fired label -- confidence lowered for the incomplete whitepaper-sourced text.",
+    "sibling": null
+  },
+  "gigabee-ai": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label DePIN; \"connects users who want to access AI language models with GPU owners around the world who contribute their hardware to serve inference jobs\" -- metered GPU/inference capacity, the compute facet.",
+    "sibling": null
+  },
+  "moonshift": {
+    "labels": ["copilot"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"transforms a simple text prompt into a fully deployed, production-ready web application ... handling everything from code generation and automated testing to GitHub deployment\" -- the artifact produced is code/deployment for a human developer, not an agent for the user to own.",
+    "sibling": null
+  },
+  "swirl-chat": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"live web search, real reasoning, custom agents and a free market screener\" -- a general AI assistant whose only concrete Web3-adjacent function is the market screener.",
+    "sibling": null
+  },
+  "hash-hunter": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"Parses your intent, finds the best route using integrated liquidity sources and executes the transaction from your own wallet\" -- intent-based execution, a DeFAI agent moving money; no rule-table CG label fires (AI Agents is generic).",
+    "sibling": null
+  },
+  "elysionyx-by-virtuals": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "Description is just the project name, \"Elysionyx\", with no functional content; Virtuals Protocol Ecosystem is a generic ecosystem tag, not evidence of a product.",
+    "sibling": null
+  },
+  "julia-swarm-syndicate": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "medium",
+    "why": "CG label Analytics; \"a decentralized group of AI agents work together ... to analyze data, predict market trends, and make smart trading decisions\" -- the described output is a group sentiment/decision signal, not stated execution, so kept to the information product.",
+    "sibling": null
+  },
+  "solify100": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"a compassionate and empowering ecosystem driven by AI agents ... grounded in mental health and shared growth\" -- a wellness/companionship agent, coded as the nearest inherited subcategory (virtual companion) per the manual's no-eleventh-subcategory guidance.",
+    "sibling": null
+  },
+  "gabriel": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label AI Framework; \"a model-agnostic framework that stabilizes reasoning, eliminates context loss, and provides persistent memory\".",
+    "sibling": null
+  },
+  "true-source": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"verifying each claim independently against multiple sources ... Results are returned as structured verdicts with source citations\" -- a verification/attestation product, the nearest fit for a fact-checking agent under the no-eleventh-subcategory rule.",
+    "sibling": null
+  },
+  "hyper-intelligent-innovation": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "Description carries no AI or agent content anywhere: \"Marketplace infrastructure for physical goods & services ... Real-World Asset (RWA) tokenization for fractional ownership of physical assets\" -- an RWA marketplace dev shop with no AI/agent product.",
+    "sibling": null
+  },
+  "aetheron": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"implements a transaction-bound execution model inspired by the HTTP 402 'Payment Required' pattern\" -- an agent payment rail; sibling to meridian-2, coded DeFAI per the established rule that payment rails move money and fit no infrastructure facet.",
+    "sibling": "meridian-2"
+  },
+  "excubia-labs": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"enables users to create, deploy, and manage encrypted trading agents that execute strategies\" -- autonomous trading agents that move money, despite the project framing itself as a privacy \"infrastructure layer\".",
+    "sibling": null
+  },
+  "moltbook-town": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "Description is only \"Deployed using https://j7tracker.com\", with no functional content beyond a meme/persona theme tag.",
+    "sibling": null
+  },
+  "bad-theory-labs": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"product and Research Lab building the Infrastructure behind intelligence\" -- too vague to place in a subcategory or assign an infrastructure facet with any confidence.",
+    "sibling": null
+  },
+  "vibesterz": {
+    "labels": ["copilot"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"The AI agent can plan projects, write code, review itself, fix bugs, and deploy complete apps with databases and authentication all locally\" -- the artifact produced is code, for a human developer to own, matching AI-powered Development.",
+    "sibling": null
+  },
+  "quant-trader-agent": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"synthesizes technical indicators, fundamental valuations, market sentiment, and macroeconomic trends into actionable intelligence with precise price targets and risk parameters\" -- an information product with no stated execution.",
+    "sibling": null
+  },
+  "claw-mode": {
+    "labels": ["launchpad"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label AI Agent Launchpad; \"the first AI agent-only token launchpad and trading terminal on Solana. Only AI agents can create tokens.\"",
+    "sibling": null
+  },
+  "mansa-ai": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"Its AgentCraft framework provides a low-code environment for building autonomous agents and cognitive architectures\" -- a framework whose user is someone building an agent.",
+    "sibling": null
+  }
+}

@@ -1,0 +1,4384 @@
+[
+  {
+    "slug": "near",
+    "symbol": "near",
+    "snapshot_mcap": 2976871106.212604,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "near",
+    "t1_market_cap": 2930314657.258814,
+    "t2_market_cap": 2505422803.031164,
+    "t2_error": null
+  },
+  {
+    "slug": "internet-computer",
+    "symbol": "icp",
+    "snapshot_mcap": 2676285692.8448186,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "internet-computer",
+    "t1_market_cap": 2443699238.9794226,
+    "t2_market_cap": 1335055312.2395556,
+    "t2_error": null
+  },
+  {
+    "slug": "bittensor",
+    "symbol": "tao",
+    "snapshot_mcap": 4515753941.323582,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "bittensor",
+    "t1_market_cap": 1884169246.6508088,
+    "t2_market_cap": 2210127974.974704,
+    "t2_error": null
+  },
+  {
+    "slug": "render",
+    "symbol": "render",
+    "snapshot_mcap": 1639141991.9244788,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "render-token",
+    "t1_market_cap": 1642216709.4075663,
+    "t2_market_cap": 738938088.6848761,
+    "t2_error": null
+  },
+  {
+    "slug": "artificial-superintelligence-alliance",
+    "symbol": "fet",
+    "snapshot_mcap": 1144037616.5271745,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents",
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "fetch-ai",
+    "t1_market_cap": 1129901535.4410932,
+    "t2_market_cap": 346721097.7298119,
+    "t2_error": null
+  },
+  {
+    "slug": "the-graph",
+    "symbol": "grt",
+    "snapshot_mcap": 874145820.0686554,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "the-graph",
+    "t1_market_cap": 782059676.0265429,
+    "t2_market_cap": 179254561.79014125,
+    "t2_error": null
+  },
+  {
+    "slug": "beldex",
+    "symbol": "bdx",
+    "snapshot_mcap": 656895902.1502198,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "beldex",
+    "t1_market_cap": 468899263.2077649,
+    "t2_market_cap": 625003867.8901917,
+    "t2_error": null
+  },
+  {
+    "slug": "grass",
+    "symbol": "grass",
+    "snapshot_mcap": 1609535979.213138,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "grass",
+    "t1_market_cap": 504238818.405662,
+    "t2_market_cap": 240140353.51283434,
+    "t2_error": null
+  },
+  {
+    "slug": "arweave",
+    "symbol": "ar",
+    "snapshot_mcap": 364132963.96152264,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "arweave",
+    "t1_market_cap": 370423582.0820021,
+    "t2_market_cap": 135810320.6145607,
+    "t2_error": null
+  },
+  {
+    "slug": "virtual-protocol",
+    "symbol": "virtual",
+    "snapshot_mcap": 527983823.4465997,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents",
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "virtual-protocol",
+    "t1_market_cap": 353823179.0942916,
+    "t2_market_cap": 458683354.6952633,
+    "t2_error": null
+  },
+  {
+    "slug": "akash-network",
+    "symbol": "akt",
+    "snapshot_mcap": 269117468.5808414,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "akash-network",
+    "t1_market_cap": 270273560.293379,
+    "t2_market_cap": 151384636.31638467,
+    "t2_error": null
+  },
+  {
+    "slug": "aioz-network",
+    "symbol": "aioz",
+    "snapshot_mcap": 253823650.4889879,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "aioz-network",
+    "t1_market_cap": 256967212.2946068,
+    "t2_market_cap": 71413671.8164648,
+    "t2_error": null
+  },
+  {
+    "slug": "kaito",
+    "symbol": "kaito",
+    "snapshot_mcap": 939140107.5524489,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "kaito",
+    "t1_market_cap": 236443785.8398517,
+    "t2_market_cap": 72691604.49008156,
+    "t2_error": null
+  },
+  {
+    "slug": "arkham",
+    "symbol": "arkm",
+    "snapshot_mcap": 475600114.0892683,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "arkham",
+    "t1_market_cap": 188308699.30666843,
+    "t2_market_cap": 74914712.5251847,
+    "t2_error": null
+  },
+  {
+    "slug": "origintrail",
+    "symbol": "trac",
+    "snapshot_mcap": 180976635.35685664,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "origintrail",
+    "t1_market_cap": 179297575.3117358,
+    "t2_market_cap": 143567291.9821841,
+    "t2_error": null
+  },
+  {
+    "slug": "livepeer",
+    "symbol": "lpt",
+    "snapshot_mcap": 169575342.5502361,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "livepeer",
+    "t1_market_cap": 171366942.51872844,
+    "t2_market_cap": 66739140.983839616,
+    "t2_error": null
+  },
+  {
+    "slug": "vana",
+    "symbol": "vana",
+    "snapshot_mcap": 659064392.5837297,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "vana",
+    "t1_market_cap": 174904204.01384547,
+    "t2_market_cap": 27762021.32978943,
+    "t2_error": null
+  },
+  {
+    "slug": "freysa-ai",
+    "symbol": "fai",
+    "snapshot_mcap": 134314423.67823303,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "freysa-ai",
+    "t1_market_cap": 133755608.63200586,
+    "t2_market_cap": 20302232.775884997,
+    "t2_error": null
+  },
+  {
+    "slug": "ai16z",
+    "symbol": "ai16z",
+    "snapshot_mcap": 131995699.42836373,
+    "categories": [
+      "artificial-intelligence",
+      "ai-meme-coins",
+      "ai-agents"
+    ],
+    "cg_id": "ai16z",
+    "t1_market_cap": 140552318.5606738,
+    "t2_market_cap": 575578.133316176,
+    "t2_error": null
+  },
+  {
+    "slug": "qubic",
+    "symbol": "qubic",
+    "snapshot_mcap": 132430650.0205162,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "qubic-network",
+    "t1_market_cap": 110167336.46927996,
+    "t2_market_cap": 57794116.10521988,
+    "t2_error": null
+  },
+  {
+    "slug": "zigchain",
+    "symbol": "zig",
+    "snapshot_mcap": 138024127.42792428,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "zignaly",
+    "t1_market_cap": 99553725.22047246,
+    "t2_market_cap": 57698965.39688018,
+    "t2_error": null
+  },
+  {
+    "slug": "paal-ai",
+    "symbol": "paal",
+    "snapshot_mcap": 109552074.8825202,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents",
+      "ai-agent-launchpad",
+      "defai"
+    ],
+    "cg_id": "paal-ai",
+    "t1_market_cap": 98161710.90087897,
+    "t2_market_cap": 6163908.827594809,
+    "t2_error": null
+  },
+  {
+    "slug": "io-net",
+    "symbol": "io",
+    "snapshot_mcap": 497346983.6319538,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "io",
+    "t1_market_cap": 95419537.65789518,
+    "t2_market_cap": 49125097.49362153,
+    "t2_error": null
+  },
+  {
+    "slug": "delysium",
+    "symbol": "agi",
+    "snapshot_mcap": 171063128.79158357,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "delysium",
+    "t1_market_cap": 93331107.30424626,
+    "t2_market_cap": 15951061.414574018,
+    "t2_error": null
+  },
+  {
+    "slug": "0x0-ai-ai-smart-contract",
+    "symbol": "0x0",
+    "snapshot_mcap": 89887133.92522798,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "0x0-ai-ai-smart-contract",
+    "t1_market_cap": 91504536.57227464,
+    "t2_market_cap": 1831850.962342376,
+    "t2_error": null
+  },
+  {
+    "slug": "iexec-rlc",
+    "symbol": "rlc",
+    "snapshot_mcap": 99104927.76060432,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "iexec-rlc",
+    "t1_market_cap": 83269065.78137794,
+    "t2_market_cap": 26532687.741570704,
+    "t2_error": null
+  },
+  {
+    "slug": "flux-zelcash",
+    "symbol": "flux",
+    "snapshot_mcap": 81740100.29140423,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "flux",
+    "t1_market_cap": 62960.50594412662,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "iq",
+    "symbol": "iq",
+    "snapshot_mcap": 80785403.34763937,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "everipedia",
+    "t1_market_cap": 80487133.7576789,
+    "t2_market_cap": 17879948.609295074,
+    "t2_error": null
+  },
+  {
+    "slug": "carv",
+    "symbol": "carv",
+    "snapshot_mcap": 343491633.2280796,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "carv",
+    "t1_market_cap": 79782397.14731155,
+    "t2_market_cap": 23360601.1826615,
+    "t2_error": null
+  },
+  {
+    "slug": "phala-network",
+    "symbol": "pha",
+    "snapshot_mcap": 92637569.72950684,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "pha",
+    "t1_market_cap": 73333247.074071,
+    "t2_market_cap": 20935752.150699615,
+    "t2_error": null
+  },
+  {
+    "slug": "chromia",
+    "symbol": "chr",
+    "snapshot_mcap": 72116243.64200443,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "chromaway",
+    "t1_market_cap": 73024153.04901217,
+    "t2_market_cap": 14622459.596708996,
+    "t2_error": null
+  },
+  {
+    "slug": "marlin",
+    "symbol": "pond",
+    "snapshot_mcap": 87137406.116366,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "marlin",
+    "t1_market_cap": 70403918.77460954,
+    "t2_market_cap": 8297846.962146702,
+    "t2_error": null
+  },
+  {
+    "slug": "humans-ai",
+    "symbol": "heart",
+    "snapshot_mcap": 68869957.12582895,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents",
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "humans-ai",
+    "t1_market_cap": 69167115.89576803,
+    "t2_market_cap": 1721489.4272843376,
+    "t2_error": null
+  },
+  {
+    "slug": "venice-token",
+    "symbol": "vvv",
+    "snapshot_mcap": 161616250.83847827,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "venice-token",
+    "t1_market_cap": 68863500.26997595,
+    "t2_market_cap": 798532281.1805948,
+    "t2_error": null
+  },
+  {
+    "slug": "alchemist-ai",
+    "symbol": "alch",
+    "snapshot_mcap": 69139823.53161812,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "alchemist-ai",
+    "t1_market_cap": 58848396.19956927,
+    "t2_market_cap": 30187792.69222912,
+    "t2_error": null
+  },
+  {
+    "slug": "singularitynet",
+    "symbol": "agix",
+    "snapshot_mcap": 88650128.61837731,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "singularitynet",
+    "t1_market_cap": 59009953.46674377,
+    "t2_market_cap": 15998433.507663675,
+    "t2_error": null
+  },
+  {
+    "slug": "pinlink",
+    "symbol": "pin",
+    "snapshot_mcap": 71994481.99858342,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "pinlink",
+    "t1_market_cap": 59443507.90490564,
+    "t2_market_cap": 4726358.175590519,
+    "t2_error": null
+  },
+  {
+    "slug": "numeraire",
+    "symbol": "nmr",
+    "snapshot_mcap": 76202642.15815562,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "numeraire",
+    "t1_market_cap": 57669275.994164184,
+    "t2_market_cap": 62519769.679400675,
+    "t2_error": null
+  },
+  {
+    "slug": "arcblock",
+    "symbol": "abt",
+    "snapshot_mcap": 106517099.13667707,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "arcblock",
+    "t1_market_cap": 55593427.190471746,
+    "t2_market_cap": 20031161.580649037,
+    "t2_error": null
+  },
+  {
+    "slug": "secret",
+    "symbol": "scrt",
+    "snapshot_mcap": 56965889.490047425,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "secret",
+    "t1_market_cap": 54518727.28419182,
+    "t2_market_cap": 13569464.833475262,
+    "t2_error": null
+  },
+  {
+    "slug": "chaingpt",
+    "symbol": "cgpt",
+    "snapshot_mcap": 65060727.33637858,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "chaingpt",
+    "t1_market_cap": 54623428.85984466,
+    "t2_market_cap": 18128469.27436246,
+    "t2_error": null
+  },
+  {
+    "slug": "artificial-liquid-intelligence",
+    "symbol": "ali",
+    "snapshot_mcap": 63258524.13962881,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "alethea-artificial-liquid-intelligence-token",
+    "t1_market_cap": 55312444.26324604,
+    "t2_market_cap": 11189592.43549943,
+    "t2_error": null
+  },
+  {
+    "slug": "autonolas",
+    "symbol": "olas",
+    "snapshot_mcap": 148122661.10798016,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents",
+      "ai-agent-launchpad",
+      "defai"
+    ],
+    "cg_id": "autonolas",
+    "t1_market_cap": 51023256.52599504,
+    "t2_market_cap": 7409585.305977292,
+    "t2_error": null
+  },
+  {
+    "slug": "ao-computer",
+    "symbol": "ao",
+    "snapshot_mcap": 50716784.52970784,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "ao-computer",
+    "t1_market_cap": 48697412.116725884,
+    "t2_market_cap": 15680143.3853418,
+    "t2_error": null
+  },
+  {
+    "slug": "netmind-token",
+    "symbol": "nmt",
+    "snapshot_mcap": 156236505.24933523,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "netmind-token",
+    "t1_market_cap": 50347077.44728352,
+    "t2_market_cap": 3081997.288257053,
+    "t2_error": null
+  },
+  {
+    "slug": "nosana",
+    "symbol": "nos",
+    "snapshot_mcap": 59368212.46626026,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "nosana",
+    "t1_market_cap": 49923860.80436515,
+    "t2_market_cap": 29174882.886002395,
+    "t2_error": null
+  },
+  {
+    "slug": "forta",
+    "symbol": "fort",
+    "snapshot_mcap": 80102821.13979922,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "forta",
+    "t1_market_cap": 41931351.39111177,
+    "t2_market_cap": 9665687.785316667,
+    "t2_error": null
+  },
+  {
+    "slug": "myshell",
+    "symbol": "shell",
+    "snapshot_mcap": 156949572.9000451,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "myshell",
+    "t1_market_cap": 44366371.847517125,
+    "t2_market_cap": 6145448.667383231,
+    "t2_error": null
+  },
+  {
+    "slug": "ocean-protocol",
+    "symbol": "ocean",
+    "snapshot_mcap": 187876109.50257167,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "ocean-protocol",
+    "t1_market_cap": 41569220.00372447,
+    "t2_market_cap": 34244298.89313845,
+    "t2_error": null
+  },
+  {
+    "slug": "cookie",
+    "symbol": "cookie",
+    "snapshot_mcap": 89391257.2181012,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "cookie",
+    "t1_market_cap": 41522702.2311364,
+    "t2_market_cap": 9601602.156007528,
+    "t2_error": null
+  },
+  {
+    "slug": "oraichain-token",
+    "symbol": "orai",
+    "snapshot_mcap": 39909140.929750085,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "oraichain-token",
+    "t1_market_cap": 38976972.07111895,
+    "t2_market_cap": 8845422.763128879,
+    "t2_error": null
+  },
+  {
+    "slug": "ai-rig-complex",
+    "symbol": "arc",
+    "snapshot_mcap": 38151055.62498485,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents",
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "ai-rig-complex",
+    "t1_market_cap": 40414732.111689106,
+    "t2_market_cap": 69680672.3884751,
+    "t2_error": null
+  },
+  {
+    "slug": "morphware",
+    "symbol": "xmw",
+    "snapshot_mcap": 59784506.404317036,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "morphware",
+    "t1_market_cap": 37187525.88595759,
+    "t2_market_cap": 122676.58701840212,
+    "t2_error": null
+  },
+  {
+    "slug": "altura",
+    "symbol": "alu",
+    "snapshot_mcap": 36192901.044160314,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "altura",
+    "t1_market_cap": 36964969.991669156,
+    "t2_market_cap": 5107818.591501126,
+    "t2_error": null
+  },
+  {
+    "slug": "tokenbot-2",
+    "symbol": "clanker",
+    "snapshot_mcap": 33070334.06574523,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "tokenbot-2",
+    "t1_market_cap": 32526401.21980068,
+    "t2_market_cap": 12655025.967411531,
+    "t2_error": null
+  },
+  {
+    "slug": "cortex-2",
+    "symbol": "cx",
+    "snapshot_mcap": 44431598.09038826,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "cortex-2",
+    "t1_market_cap": 33174419.618691985,
+    "t2_market_cap": 25856691.729627132,
+    "t2_error": null
+  },
+  {
+    "slug": "human-protocol",
+    "symbol": "hmt",
+    "snapshot_mcap": 42295829.57811727,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "human-protocol",
+    "t1_market_cap": 31252962.14901143,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "tokenfi",
+    "symbol": "token",
+    "snapshot_mcap": 137083398.5339545,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "tokenfi",
+    "t1_market_cap": 32147321.546108738,
+    "t2_market_cap": 8945541.74569016,
+    "t2_error": null
+  },
+  {
+    "slug": "xterio",
+    "symbol": "xter",
+    "snapshot_mcap": 282167337.0839239,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "xterio",
+    "t1_market_cap": 31679202.62398139,
+    "t2_market_cap": 1857050.5733738467,
+    "t2_error": null
+  },
+  {
+    "slug": "genius-ai",
+    "symbol": "gnus",
+    "snapshot_mcap": 39563748.91930938,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "genius-ai",
+    "t1_market_cap": 31224784.95922739,
+    "t2_market_cap": 8116989.66813761,
+    "t2_error": null
+  },
+  {
+    "slug": "victoria-vr",
+    "symbol": "vr",
+    "snapshot_mcap": 64155867.56594588,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "victoria-vr",
+    "t1_market_cap": 31469362.94945537,
+    "t2_market_cap": 25328769.194757357,
+    "t2_error": null
+  },
+  {
+    "slug": "rss3",
+    "symbol": "rss3",
+    "snapshot_mcap": 42486692.58929708,
+    "categories": [
+      "artificial-intelligence",
+      "defai"
+    ],
+    "cg_id": "rss3",
+    "t1_market_cap": 31030332.324947353,
+    "t2_market_cap": 9034239.065413747,
+    "t2_error": null
+  },
+  {
+    "slug": "cortex",
+    "symbol": "ctxc",
+    "snapshot_mcap": 39696482.36842713,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "cortex",
+    "t1_market_cap": 29868180.333945073,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "griffain",
+    "symbol": "griffain",
+    "snapshot_mcap": 29859551.07960257,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agent-launchpad",
+      "defai"
+    ],
+    "cg_id": "griffain",
+    "t1_market_cap": 31942853.934207387,
+    "t2_market_cap": 11488211.82004321,
+    "t2_error": null
+  },
+  {
+    "slug": "saga",
+    "symbol": "saga",
+    "snapshot_mcap": 279531499.51230806,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "saga-2",
+    "t1_market_cap": 29880215.01203261,
+    "t2_market_cap": 6246345.139791339,
+    "t2_error": null
+  },
+  {
+    "slug": "auki-labs",
+    "symbol": "auki",
+    "snapshot_mcap": 163582152.21825325,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "auki-labs",
+    "t1_market_cap": 29208315.260766502,
+    "t2_market_cap": 20855630.330014918,
+    "t2_error": null
+  },
+  {
+    "slug": "nodeai",
+    "symbol": "gpu",
+    "snapshot_mcap": 29471580.769546814,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "nodeai",
+    "t1_market_cap": 28869359.107652307,
+    "t2_market_cap": 1070712.2829890111,
+    "t2_error": null
+  },
+  {
+    "slug": "neuralai",
+    "symbol": "neural",
+    "snapshot_mcap": 27527419.31157655,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "neuralai",
+    "t1_market_cap": 27676337.04734897,
+    "t2_market_cap": 4398915.717479816,
+    "t2_error": null
+  },
+  {
+    "slug": "covalent-x-token",
+    "symbol": "cxt",
+    "snapshot_mcap": 30108625.66927421,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "covalent-x-token",
+    "t1_market_cap": 26889581.74938732,
+    "t2_market_cap": 1650207.3230375734,
+    "t2_error": null
+  },
+  {
+    "slug": "limewire",
+    "symbol": "lmwr",
+    "snapshot_mcap": 51487330.24589165,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "limewire-token",
+    "t1_market_cap": 26550270.99912285,
+    "t2_market_cap": 8482372.17243211,
+    "t2_error": null
+  },
+  {
+    "slug": "cudos",
+    "symbol": "cudos",
+    "snapshot_mcap": 31044528.398340303,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "cudos",
+    "t1_market_cap": 26784119.009871226,
+    "t2_market_cap": 458422.9528863781,
+    "t2_error": null
+  },
+  {
+    "slug": "swarms",
+    "symbol": "swarms",
+    "snapshot_mcap": 23995970.718933914,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "swarms",
+    "t1_market_cap": 24193683.92187248,
+    "t2_market_cap": 7813426.710508706,
+    "t2_error": null
+  },
+  {
+    "slug": "tars-protocol",
+    "symbol": "tai",
+    "snapshot_mcap": 36334754.81652493,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "tars-protocol",
+    "t1_market_cap": 22390983.15714997,
+    "t2_market_cap": 4325254.9122444345,
+    "t2_error": null
+  },
+  {
+    "slug": "reactive-network",
+    "symbol": "react",
+    "snapshot_mcap": 38054584.22993472,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "reactive-network",
+    "t1_market_cap": 23868766.70091792,
+    "t2_market_cap": 5924683.765854751,
+    "t2_error": null
+  },
+  {
+    "slug": "spectral",
+    "symbol": "spec",
+    "snapshot_mcap": 154304146.6284447,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents",
+      "ai-agent-launchpad",
+      "defai"
+    ],
+    "cg_id": "spectral",
+    "t1_market_cap": 22618455.00707437,
+    "t2_market_cap": 1827655.0455429011,
+    "t2_error": null
+  },
+  {
+    "slug": "hashai",
+    "symbol": "hashai",
+    "snapshot_mcap": 22624001.003275704,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "hashai",
+    "t1_market_cap": 21034418.393522575,
+    "t2_market_cap": 1154843.9863225122,
+    "t2_error": null
+  },
+  {
+    "slug": "phoenix",
+    "symbol": "phb",
+    "snapshot_mcap": 20660530.51223759,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "phoenix-global",
+    "t1_market_cap": 20782691.70112963,
+    "t2_market_cap": 230816.84459518452,
+    "t2_error": null
+  },
+  {
+    "slug": "oort",
+    "symbol": "oort",
+    "snapshot_mcap": 102588827.54243384,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "oort",
+    "t1_market_cap": 19550393.96554803,
+    "t2_market_cap": 1355441.612934518,
+    "t2_error": null
+  },
+  {
+    "slug": "basedai",
+    "symbol": "basedai",
+    "snapshot_mcap": 18323131.965015147,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "basedai",
+    "t1_market_cap": 19186255.99694566,
+    "t2_market_cap": 184908.14812192004,
+    "t2_error": null
+  },
+  {
+    "slug": "morpheusai",
+    "symbol": "mor",
+    "snapshot_mcap": 31976090.676946774,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "morpheusai",
+    "t1_market_cap": 18520087.90180056,
+    "t2_market_cap": 16942275.49464896,
+    "t2_error": null
+  },
+  {
+    "slug": "neuron",
+    "symbol": "nrn",
+    "snapshot_mcap": 41184561.38110629,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "neuron",
+    "t1_market_cap": 17807072.768276963,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "sleepless-ai",
+    "symbol": "ai",
+    "snapshot_mcap": 135391435.5351428,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "sleepless-ai",
+    "t1_market_cap": 17959955.87288587,
+    "t2_market_cap": 2377499.122748115,
+    "t2_error": null
+  },
+  {
+    "slug": "palm-ai",
+    "symbol": "palm",
+    "snapshot_mcap": 17406778.91742073,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "palm-ai",
+    "t1_market_cap": 17396143.912032466,
+    "t2_market_cap": 2620659.1546157585,
+    "t2_error": null
+  },
+  {
+    "slug": "frok-ai",
+    "symbol": "frok",
+    "snapshot_mcap": 16919373.901266962,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "frok-ai",
+    "t1_market_cap": 16553728.396105103,
+    "t2_market_cap": 10028968.801448917,
+    "t2_error": null
+  },
+  {
+    "slug": "unit-00-rei",
+    "symbol": "rei",
+    "snapshot_mcap": 16701855.00626984,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "unit-00-rei",
+    "t1_market_cap": 17126514.40016535,
+    "t2_market_cap": 20598876.259992123,
+    "t2_error": null
+  },
+  {
+    "slug": "bankercoin-2",
+    "symbol": "bnkr",
+    "snapshot_mcap": 16014303.469397686,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "bankercoin-2",
+    "t1_market_cap": 15690776.478401637,
+    "t2_market_cap": 24860492.649804927,
+    "t2_error": null
+  },
+  {
+    "slug": "o-intelligence-coin",
+    "symbol": "oi",
+    "snapshot_mcap": 15353073.89882741,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "o-intelligence-coin",
+    "t1_market_cap": 17529899.98733644,
+    "t2_market_cap": 3969673.2253280357,
+    "t2_error": null
+  },
+  {
+    "slug": "numbers-protocol",
+    "symbol": "num",
+    "snapshot_mcap": 15534692.67787106,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "numbers-protocol",
+    "t1_market_cap": 15927586.63990393,
+    "t2_market_cap": 1916552.5330728397,
+    "t2_error": null
+  },
+  {
+    "slug": "spectre-ai",
+    "symbol": "spectre",
+    "snapshot_mcap": 14932405.725902904,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "spectre-ai",
+    "t1_market_cap": 14910114.542708876,
+    "t2_market_cap": 3759832.3896548413,
+    "t2_error": null
+  },
+  {
+    "slug": "singularry",
+    "symbol": "singularry",
+    "snapshot_mcap": 14373963.208233614,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "singularry",
+    "t1_market_cap": 14317289.513079178,
+    "t2_market_cap": 9016543.15916297,
+    "t2_error": null
+  },
+  {
+    "slug": "opulous",
+    "symbol": "opul",
+    "snapshot_mcap": 13936022.80952143,
+    "categories": [
+      "artificial-intelligence"
+    ],
+    "cg_id": "opulous",
+    "t1_market_cap": 14164042.78706247,
+    "t2_market_cap": 92978.22844752236,
+    "t2_error": null
+  },
+  {
+    "slug": "sally-a1c",
+    "symbol": "a1c",
+    "snapshot_mcap": 27560907.06175968,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "sally-a1c",
+    "t1_market_cap": 13607669.124117538,
+    "t2_market_cap": 3217160.719014727,
+    "t2_error": null
+  },
+  {
+    "slug": "octaspace",
+    "symbol": "octa",
+    "snapshot_mcap": 13771150.229657605,
+    "categories": [
+      "artificial-intelligence",
+      "ai-agents"
+    ],
+    "cg_id": "octaspace",
+    "t1_market_cap": 13914135.571189526,
+    "t2_market_cap": 6390363.0213503055,
+    "t2_error": null
+  },
+  {
+    "slug": "fartcoin",
+    "symbol": "fartcoin",
+    "snapshot_mcap": 473548819.3659429,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "fartcoin",
+    "t1_market_cap": 497317440.2996872,
+    "t2_market_cap": 175562810.76987562,
+    "t2_error": null
+  },
+  {
+    "slug": "agentfun-ai",
+    "symbol": "agentfun",
+    "snapshot_mcap": 217243927.4958043,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "agentfun-ai",
+    "t1_market_cap": 187926865.4277146,
+    "t2_market_cap": 0,
+    "t2_error": null
+  },
+  {
+    "slug": "ai-companions",
+    "symbol": "aic",
+    "snapshot_mcap": 162187427.3591328,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "ai-companions",
+    "t1_market_cap": 162013374.4696675,
+    "t2_market_cap": 12488594.28914123,
+    "t2_error": null
+  },
+  {
+    "slug": "turbo",
+    "symbol": "turbo",
+    "snapshot_mcap": 126434229.22051403,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "turbo",
+    "t1_market_cap": 121810627.69126916,
+    "t2_market_cap": 65307345.11299233,
+    "t2_error": null
+  },
+  {
+    "slug": "aixbt-by-virtuals",
+    "symbol": "aixbt",
+    "snapshot_mcap": 86935860.07679199,
+    "categories": [
+      "ai-meme-coins",
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "aixbt",
+    "t1_market_cap": 69659436.91966197,
+    "t2_market_cap": 20166338.015495647,
+    "t2_error": null
+  },
+  {
+    "slug": "act-i-the-ai-prophecy",
+    "symbol": "act",
+    "snapshot_mcap": 815174990.725644,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "act-i-the-ai-prophecy",
+    "t1_market_cap": 50932994.89963779,
+    "t2_market_cap": 9979079.853546282,
+    "t2_error": null
+  },
+  {
+    "slug": "corgiai",
+    "symbol": "corgiai",
+    "snapshot_mcap": 67561185.83025709,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "corgiai",
+    "t1_market_cap": 54337871.67529246,
+    "t2_market_cap": 11937634.009166505,
+    "t2_error": null
+  },
+  {
+    "slug": "goatseus-maximus",
+    "symbol": "goat",
+    "snapshot_mcap": 46092000.30625063,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "goatseus-maximus",
+    "t1_market_cap": 44355302.89190913,
+    "t2_market_cap": 15355783.439689247,
+    "t2_error": null
+  },
+  {
+    "slug": "aki-protocol",
+    "symbol": "aki",
+    "snapshot_mcap": 34972640.92754598,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "aki-protocol",
+    "t1_market_cap": 23064627.38140339,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "zerebro",
+    "symbol": "zerebro",
+    "snapshot_mcap": 26710389.495162703,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "zerebro",
+    "t1_market_cap": 24730965.191095315,
+    "t2_market_cap": 38346712.77853419,
+    "t2_error": null
+  },
+  {
+    "slug": "tutorial",
+    "symbol": "tut",
+    "snapshot_mcap": 56934916.87673643,
+    "categories": [
+      "ai-meme-coins",
+      "ai-agents"
+    ],
+    "cg_id": "tutorial",
+    "t1_market_cap": 21698192.259588663,
+    "t2_market_cap": 25208496.68879302,
+    "t2_error": null
+  },
+  {
+    "slug": "ava-ai",
+    "symbol": "ava",
+    "snapshot_mcap": 24240572.36619145,
+    "categories": [
+      "ai-meme-coins",
+      "ai-agents"
+    ],
+    "cg_id": "ava-ai",
+    "t1_market_cap": 21213549.368319113,
+    "t2_market_cap": 8479360.222449675,
+    "t2_error": null
+  },
+  {
+    "slug": "kekius-maximus",
+    "symbol": "kekius",
+    "snapshot_mcap": 21979805.05298627,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "kekius-maximus",
+    "t1_market_cap": 23537168.29794212,
+    "t2_market_cap": 7741251.530398576,
+    "t2_error": null
+  },
+  {
+    "slug": "ribbita-by-virtuals",
+    "symbol": "tibbir",
+    "snapshot_mcap": 17548339.03034306,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "ribbita-by-virtuals",
+    "t1_market_cap": 16754045.35589939,
+    "t2_market_cap": 250606822.2886712,
+    "t2_error": null
+  },
+  {
+    "slug": "arbdoge-ai",
+    "symbol": "aidoge",
+    "snapshot_mcap": 14684271.73927884,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "arbdoge-ai",
+    "t1_market_cap": 14955083.153685298,
+    "t2_market_cap": 2029169.1071173425,
+    "t2_error": null
+  },
+  {
+    "slug": "grok-2",
+    "symbol": "$grok",
+    "snapshot_mcap": 14850679.947482307,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "grok-2",
+    "t1_market_cap": 12424957.734938102,
+    "t2_market_cap": 4818573.129515477,
+    "t2_error": null
+  },
+  {
+    "slug": "pythia",
+    "symbol": "pythia",
+    "snapshot_mcap": 12185714.986463258,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "pythia",
+    "t1_market_cap": 11402846.279965429,
+    "t2_market_cap": 3840249.9096004907,
+    "t2_error": null
+  },
+  {
+    "slug": "pippin",
+    "symbol": "pippin",
+    "snapshot_mcap": 13228790.230448762,
+    "categories": [
+      "ai-meme-coins",
+      "ai-agents"
+    ],
+    "cg_id": "pippin",
+    "t1_market_cap": 11854398.438117882,
+    "t2_market_cap": 17406696.06871748,
+    "t2_error": null
+  },
+  {
+    "slug": "debtreliefbot",
+    "symbol": "drb",
+    "snapshot_mcap": 9958347.422839077,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "debtreliefbot",
+    "t1_market_cap": 13472233.91809482,
+    "t2_market_cap": 17584300.38209171,
+    "t2_error": null
+  },
+  {
+    "slug": "moby-ai",
+    "symbol": "moby",
+    "snapshot_mcap": 9719307.510370832,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "moby-ai",
+    "t1_market_cap": 8215466.794213371,
+    "t2_market_cap": 1549502.5090351978,
+    "t2_error": null
+  },
+  {
+    "slug": "kween",
+    "symbol": "kween",
+    "snapshot_mcap": 7313712.453108405,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "kween",
+    "t1_market_cap": 4649117.841197615,
+    "t2_market_cap": 303515.0656732584,
+    "t2_error": null
+  },
+  {
+    "slug": "borgy",
+    "symbol": "$borgy",
+    "snapshot_mcap": 7181813.030543124,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "borgy",
+    "t1_market_cap": 7148369.354001915,
+    "t2_market_cap": 2298428.4142242316,
+    "t2_error": null
+  },
+  {
+    "slug": "luna-by-virtuals",
+    "symbol": "luna",
+    "snapshot_mcap": 7009842.350230694,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "luna-by-virtuals",
+    "t1_market_cap": 6925677.938493342,
+    "t2_market_cap": 5597776.789508669,
+    "t2_error": null
+  },
+  {
+    "slug": "kiki-2",
+    "symbol": "kiki",
+    "snapshot_mcap": 6214072.265852419,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "kiki-2",
+    "t1_market_cap": 5544945.862163647,
+    "t2_market_cap": 61611.67147842279,
+    "t2_error": null
+  },
+  {
+    "slug": "zen-ai",
+    "symbol": "zai",
+    "snapshot_mcap": 5947914.775729527,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "zen-ai",
+    "t1_market_cap": 5409803.247178307,
+    "t2_market_cap": 3098308.9926795666,
+    "t2_error": null
+  },
+  {
+    "slug": "stardoge",
+    "symbol": "stardoge",
+    "snapshot_mcap": 5884996.855702644,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "stardoge",
+    "t1_market_cap": 5798241.238450976,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "forgive-me-father",
+    "symbol": "$purge",
+    "snapshot_mcap": 5878732.44559788,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "forgive-me-father",
+    "t1_market_cap": 5651349.880115435,
+    "t2_market_cap": 364691.0789361847,
+    "t2_error": null
+  },
+  {
+    "slug": "vaderai-by-virtuals",
+    "symbol": "vader",
+    "snapshot_mcap": 5872567.185502896,
+    "categories": [
+      "ai-meme-coins",
+      "ai-agents"
+    ],
+    "cg_id": "vaderai-by-virtuals",
+    "t1_market_cap": 7374215.344870042,
+    "t2_market_cap": 1110129.1881749828,
+    "t2_error": null
+  },
+  {
+    "slug": "higher",
+    "symbol": "higher",
+    "snapshot_mcap": 4885197.006840913,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "higher",
+    "t1_market_cap": 4554885.441401584,
+    "t2_market_cap": 207471.8625560609,
+    "t2_error": null
+  },
+  {
+    "slug": "opus-2",
+    "symbol": "opus",
+    "snapshot_mcap": 4808713.499575752,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "opus-2",
+    "t1_market_cap": 4063304.473432343,
+    "t2_market_cap": 619078.819116706,
+    "t2_error": null
+  },
+  {
+    "slug": "lea-ai",
+    "symbol": "lea",
+    "snapshot_mcap": 4759305.389432184,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "lea-ai",
+    "t1_market_cap": 4619741.231346563,
+    "t2_market_cap": 123553.18720003823,
+    "t2_error": null
+  },
+  {
+    "slug": "gavun-wud",
+    "symbol": "wud",
+    "snapshot_mcap": 4648369.291686133,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "gavun-wud",
+    "t1_market_cap": 5298669.886973079,
+    "t2_market_cap": 390871.1468719289,
+    "t2_error": null
+  },
+  {
+    "slug": "koala-ai",
+    "symbol": "koko",
+    "snapshot_mcap": 4346647.861371248,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "koala-ai",
+    "t1_market_cap": 3716454.336873991,
+    "t2_market_cap": 176541.7570484132,
+    "t2_error": null
+  },
+  {
+    "slug": "kolin",
+    "symbol": "kolin",
+    "snapshot_mcap": 4105964.8954958557,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "kolin-2",
+    "t1_market_cap": 3902230.3300515753,
+    "t2_market_cap": 145069.70916528412,
+    "t2_error": null
+  },
+  {
+    "slug": "dasha",
+    "symbol": "vvaifu",
+    "snapshot_mcap": 3858310.843675395,
+    "categories": [
+      "ai-meme-coins",
+      "ai-agents",
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "dasha",
+    "t1_market_cap": 3592835.8880199897,
+    "t2_market_cap": 262149.17870771745,
+    "t2_error": null
+  },
+  {
+    "slug": "chompcoin",
+    "symbol": "chomp",
+    "snapshot_mcap": 3787577.0548027596,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "chompcoin",
+    "t1_market_cap": 3713405.93792958,
+    "t2_market_cap": 146145.20587922196,
+    "t2_error": null
+  },
+  {
+    "slug": "limbo",
+    "symbol": "limbo",
+    "snapshot_mcap": 3429700.4286431363,
+    "categories": [
+      "ai-meme-coins",
+      "ai-agents"
+    ],
+    "cg_id": "limbo",
+    "t1_market_cap": 3138788.3562381454,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "bongo-cat",
+    "symbol": "bongo",
+    "snapshot_mcap": 3351866.5647758637,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "bongo-cat",
+    "t1_market_cap": 2601665.1397377173,
+    "t2_market_cap": 719380.3887739304,
+    "t2_error": null
+  },
+  {
+    "slug": "top-hat",
+    "symbol": "hat",
+    "snapshot_mcap": 3195369.383148006,
+    "categories": [
+      "ai-meme-coins",
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "top-hat",
+    "t1_market_cap": 2859114.1527812784,
+    "t2_market_cap": 74705.50730493286,
+    "t2_error": null
+  },
+  {
+    "slug": "degen-spartan-ai",
+    "symbol": "degenai",
+    "snapshot_mcap": 4183129.13885594,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "degen-spartan-ai",
+    "t1_market_cap": 2761088.8125339886,
+    "t2_market_cap": 137052.72177422568,
+    "t2_error": null
+  },
+  {
+    "slug": "aimonica-brands",
+    "symbol": "aimonica",
+    "snapshot_mcap": 3161384.592806224,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "aimonica-brands",
+    "t1_market_cap": 2348559.817857188,
+    "t2_market_cap": 50990.54652678345,
+    "t2_error": null
+  },
+  {
+    "slug": "kiboshib",
+    "symbol": "kibshi",
+    "snapshot_mcap": 3129465.695483841,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "kiboshib",
+    "t1_market_cap": 3083683.525675056,
+    "t2_market_cap": 3046654.6327149128,
+    "t2_error": null
+  },
+  {
+    "slug": "sentio-protocol",
+    "symbol": "sen",
+    "snapshot_mcap": 3108505.041411433,
+    "categories": [
+      "ai-meme-coins",
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "sentio-protocol",
+    "t1_market_cap": 2935069.799094521,
+    "t2_market_cap": 83516.51617210501,
+    "t2_error": null
+  },
+  {
+    "slug": "camel-dad",
+    "symbol": "camel",
+    "snapshot_mcap": 3102852.2886909368,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "camel",
+    "t1_market_cap": 471847.0811901379,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "farm-2",
+    "symbol": "farm",
+    "snapshot_mcap": 3099590.4661938553,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "farm-2",
+    "t1_market_cap": 2556451.7966163987,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "eliza",
+    "symbol": "eliza",
+    "snapshot_mcap": 3034439.4355953108,
+    "categories": [
+      "ai-meme-coins",
+      "ai-agents"
+    ],
+    "cg_id": "eliza",
+    "t1_market_cap": 2687341.9285122515,
+    "t2_market_cap": 157779.41561305686,
+    "t2_error": null
+  },
+  {
+    "slug": "sympson-by-virtuals",
+    "symbol": "$symp",
+    "snapshot_mcap": 2744253.884657064,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "sympson-ai",
+    "t1_market_cap": 2490650.269724275,
+    "t2_market_cap": 66293.18576963102,
+    "t2_error": null
+  },
+  {
+    "slug": "autonomous-virtual-beings",
+    "symbol": "avb",
+    "snapshot_mcap": 2741934.0752442298,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "autonomous-virtual-beings",
+    "t1_market_cap": 2351016.7118482287,
+    "t2_market_cap": 278902.67721116997,
+    "t2_error": null
+  },
+  {
+    "slug": "drpepe-ai",
+    "symbol": "bryan",
+    "snapshot_mcap": 2536586.8596535074,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "drpepe-ai",
+    "t1_market_cap": 2320770.3709898875,
+    "t2_market_cap": 4870.130935214187,
+    "t2_error": null
+  },
+  {
+    "slug": "qstar",
+    "symbol": "q*",
+    "snapshot_mcap": 2544337.741480353,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "qstar",
+    "t1_market_cap": 2077573.0257932588,
+    "t2_market_cap": 292563.7794589822,
+    "t2_error": null
+  },
+  {
+    "slug": "shoggoth",
+    "symbol": "shoggoth",
+    "snapshot_mcap": 2437153.599599995,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "shoggoth",
+    "t1_market_cap": 2632169.7354533128,
+    "t2_market_cap": 736724.3319362844,
+    "t2_error": null
+  },
+  {
+    "slug": "iq6900",
+    "symbol": "iq",
+    "snapshot_mcap": 2431136.1004014164,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "iq6900",
+    "t1_market_cap": 2346789.882729527,
+    "t2_market_cap": 32807.024642846845,
+    "t2_error": null
+  },
+  {
+    "slug": "kizuna",
+    "symbol": "kizuna",
+    "snapshot_mcap": 2203697.875920076,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "kizuna",
+    "t1_market_cap": 1802974.469214575,
+    "t2_market_cap": 700477.8929359546,
+    "t2_error": null
+  },
+  {
+    "slug": "henlo-old",
+    "symbol": "henlo",
+    "snapshot_mcap": 3101618.0618627323,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "henlo-2",
+    "t1_market_cap": 122.23088233902416,
+    "t2_market_cap": 8186.613048894024,
+    "t2_error": null
+  },
+  {
+    "slug": "pigeon-tech",
+    "symbol": "govai",
+    "snapshot_mcap": 2146861.2838118155,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "pigeon-tech",
+    "t1_market_cap": 1786291.7130220362,
+    "t2_market_cap": 10230.94372566389,
+    "t2_error": null
+  },
+  {
+    "slug": "23-turtles",
+    "symbol": "ai23t",
+    "snapshot_mcap": 2139123.068059158,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "23-turtles",
+    "t1_market_cap": 2256968.280735895,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "the-lokie-cabal",
+    "symbol": "cabal",
+    "snapshot_mcap": 2129060.699204443,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "the-lokie-cabal",
+    "t1_market_cap": 1918380.953981003,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "realis-worlds",
+    "symbol": "realis",
+    "snapshot_mcap": 2008877.946854701,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "realis-worlds",
+    "t1_market_cap": 1756934.1780463867,
+    "t2_market_cap": 40514.67347230515,
+    "t2_error": null
+  },
+  {
+    "slug": "astropepex",
+    "symbol": "apx",
+    "snapshot_mcap": 1913925.2221617196,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "astropepex",
+    "t1_market_cap": 2015192.1827376224,
+    "t2_market_cap": 139599.04280471787,
+    "t2_error": null
+  },
+  {
+    "slug": "liquina",
+    "symbol": "lqna",
+    "snapshot_mcap": 1891386.2883502324,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "liquina",
+    "t1_market_cap": 1431121.8299597595,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "numogram",
+    "symbol": "gnon",
+    "snapshot_mcap": 3233538.300406583,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "numogram",
+    "t1_market_cap": 1684130.643827024,
+    "t2_market_cap": 154632.12723284034,
+    "t2_error": null
+  },
+  {
+    "slug": "large-language-model",
+    "symbol": "llm",
+    "snapshot_mcap": 1720635.4215529538,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "large-language-model",
+    "t1_market_cap": 1476643.2043416463,
+    "t2_market_cap": 138938.5504791331,
+    "t2_error": null
+  },
+  {
+    "slug": "byte",
+    "symbol": "byte",
+    "snapshot_mcap": 1651536.958978959,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "byte",
+    "t1_market_cap": 1772862.468338364,
+    "t2_market_cap": 2114539.845762488,
+    "t2_error": null
+  },
+  {
+    "slug": "dok",
+    "symbol": "dok",
+    "snapshot_mcap": 1587690.1301006053,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "dok",
+    "t1_market_cap": 3984.8748857594114,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "kitten-haimer",
+    "symbol": "khai",
+    "snapshot_mcap": 1586966.7284760056,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "kitten-haimer",
+    "t1_market_cap": 1456846.585356458,
+    "t2_market_cap": 93073.16023331546,
+    "t2_error": null
+  },
+  {
+    "slug": "project89",
+    "symbol": "project89",
+    "snapshot_mcap": 1447705.3438881272,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "project89",
+    "t1_market_cap": 1465453.8636553695,
+    "t2_market_cap": 68329.26095540679,
+    "t2_error": null
+  },
+  {
+    "slug": "yuko",
+    "symbol": "yuko",
+    "snapshot_mcap": 1426795.38153211,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "yuko",
+    "t1_market_cap": 490660.3094066807,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "catbat",
+    "symbol": "catbat",
+    "snapshot_mcap": 1394799.0035325524,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "catbat",
+    "t1_market_cap": 588652.1799820361,
+    "t2_market_cap": 71419.6534101665,
+    "t2_error": null
+  },
+  {
+    "slug": "she-rises",
+    "symbol": "aka",
+    "snapshot_mcap": 1323544.5560287968,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "she-rises",
+    "t1_market_cap": 1114041.6325382094,
+    "t2_market_cap": 135261.2298305099,
+    "t2_error": null
+  },
+  {
+    "slug": "ghoad",
+    "symbol": "ghoad",
+    "snapshot_mcap": 1293955.095849684,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "ghoad",
+    "t1_market_cap": 1247220.97903525,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "aria",
+    "symbol": "aria",
+    "snapshot_mcap": 1814134.344892501,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "aria",
+    "t1_market_cap": 1255247.1790194826,
+    "t2_market_cap": 65384.57343722213,
+    "t2_error": null
+  },
+  {
+    "slug": "any-inu",
+    "symbol": "ai",
+    "snapshot_mcap": 1268700.613280657,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "any-inu",
+    "t1_market_cap": 1114198.4414146887,
+    "t2_market_cap": 403573.4283538138,
+    "t2_error": null
+  },
+  {
+    "slug": "state-of-mika-by-virtuals",
+    "symbol": "state",
+    "snapshot_mcap": 1152780.9301210851,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "gmika",
+    "t1_market_cap": 1270343.3875732245,
+    "t2_market_cap": 53920.11273481561,
+    "t2_error": null
+  },
+  {
+    "slug": "nitro-2",
+    "symbol": "nitro",
+    "snapshot_mcap": 1126731.763341918,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "nitro-2",
+    "t1_market_cap": 1017802.2036206368,
+    "t2_market_cap": 374539.0967785176,
+    "t2_error": null
+  },
+  {
+    "slug": "sentai-2",
+    "symbol": "sentai",
+    "snapshot_mcap": 1071889.508768192,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "sentai-2",
+    "t1_market_cap": 843842.642243005,
+    "t2_market_cap": 9596.798095389102,
+    "t2_error": null
+  },
+  {
+    "slug": "devin",
+    "symbol": "devin",
+    "snapshot_mcap": 1053229.1462031999,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "devin-on-solana",
+    "t1_market_cap": 267217.34869676357,
+    "t2_market_cap": 123026.72306990922,
+    "t2_error": null
+  },
+  {
+    "slug": "piggy-2",
+    "symbol": "piggy",
+    "snapshot_mcap": 1036446.5081498743,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "piggy-2",
+    "t1_market_cap": 847566.8633374787,
+    "t2_market_cap": 134358.9721100754,
+    "t2_error": null
+  },
+  {
+    "slug": "tao-inu",
+    "symbol": "taonu",
+    "snapshot_mcap": 1035929.1635437874,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "tao-inu",
+    "t1_market_cap": 888800.5161162342,
+    "t2_market_cap": 232201.10163153734,
+    "t2_error": null
+  },
+  {
+    "slug": "trust-me-bros-by-virtuals",
+    "symbol": "trust",
+    "snapshot_mcap": 1077201.9238797072,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "trust-me-bros-by-virtuals",
+    "t1_market_cap": 900659.358466492,
+    "t2_market_cap": 258004.03148052673,
+    "t2_error": null
+  },
+  {
+    "slug": "limitless",
+    "symbol": "limitless",
+    "snapshot_mcap": 921040.9813722916,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "limitless",
+    "t1_market_cap": 951374.504869368,
+    "t2_market_cap": 13913.018688554152,
+    "t2_error": null
+  },
+  {
+    "slug": "luminous",
+    "symbol": "lum",
+    "snapshot_mcap": 872370.3140450428,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "luminous",
+    "t1_market_cap": 768546.3511593529,
+    "t2_market_cap": 255837.68740503225,
+    "t2_error": null
+  },
+  {
+    "slug": "thales-ai",
+    "symbol": "thales",
+    "snapshot_mcap": 832401.5459226513,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "thales-ai",
+    "t1_market_cap": 726215.7382659427,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "agentaigo",
+    "symbol": "agent",
+    "snapshot_mcap": 808463.6599344381,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "agentaigo",
+    "t1_market_cap": 741101.8405522788,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "calvin-in-the-cabal",
+    "symbol": "calvin",
+    "snapshot_mcap": 800503.6379112258,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "calvin-in-the-cabal",
+    "t1_market_cap": 735485.7101268551,
+    "t2_market_cap": 331673.8292980094,
+    "t2_error": null
+  },
+  {
+    "slug": "satoshai",
+    "symbol": "sai",
+    "snapshot_mcap": 887404.1547835068,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "satoshai",
+    "t1_market_cap": 895158.8951916442,
+    "t2_market_cap": 313818.66544975404,
+    "t2_error": null
+  },
+  {
+    "slug": "moss",
+    "symbol": "moss",
+    "snapshot_mcap": 798408.0923050152,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "moss",
+    "t1_market_cap": 711520.3166241177,
+    "t2_market_cap": 86149.05496328624,
+    "t2_error": null
+  },
+  {
+    "slug": "big-pharmai",
+    "symbol": "drugs",
+    "snapshot_mcap": 1135833.8660200855,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "big-pharmai",
+    "t1_market_cap": 623827.8722347876,
+    "t2_market_cap": 358125.30894936656,
+    "t2_error": null
+  },
+  {
+    "slug": "deep-whales-ai",
+    "symbol": "deepai",
+    "snapshot_mcap": 790919.3470102884,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "deep-whales-ai",
+    "t1_market_cap": 543756.556731353,
+    "t2_market_cap": 532411.5959242948,
+    "t2_error": null
+  },
+  {
+    "slug": "satoshi-ai-agent-by-virtuals",
+    "symbol": "saint",
+    "snapshot_mcap": 769157.3984779097,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "satoshi-ai-agent-by-virtuals",
+    "t1_market_cap": 717583.5919993999,
+    "t2_market_cap": 87495.43878662,
+    "t2_error": null
+  },
+  {
+    "slug": "forest",
+    "symbol": "forest",
+    "snapshot_mcap": 749689.2903614079,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "forest",
+    "t1_market_cap": 751628.9080966122,
+    "t2_market_cap": 190963.90334080358,
+    "t2_error": null
+  },
+  {
+    "slug": "blackrack",
+    "symbol": "racks",
+    "snapshot_mcap": 724615.1163273036,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "blackrack",
+    "t1_market_cap": 622650.4193202507,
+    "t2_market_cap": 7085.026255997823,
+    "t2_error": null
+  },
+  {
+    "slug": "airene-by-virtuals",
+    "symbol": "airene",
+    "snapshot_mcap": 696309.7088590936,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "airene",
+    "t1_market_cap": 633197.545783622,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "lucky-dog",
+    "symbol": "lucky",
+    "snapshot_mcap": 637998.4249083535,
+    "categories": [
+      "ai-meme-coins"
+    ],
+    "cg_id": "lucky-dog",
+    "t1_market_cap": 603327.7891340633,
+    "t2_market_cap": 63752.766751241725,
+    "t2_error": null
+  },
+  {
+    "slug": "dar-open-network",
+    "symbol": "d",
+    "snapshot_mcap": 35273137.46413962,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "dar-open-network",
+    "t1_market_cap": 27987192.334067263,
+    "t2_market_cap": 1943720.3522835353,
+    "t2_error": null
+  },
+  {
+    "slug": "game-by-virtuals",
+    "symbol": "game",
+    "snapshot_mcap": 22206493.68570722,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "game-by-virtuals",
+    "t1_market_cap": 12749048.00718928,
+    "t2_market_cap": 7748198.63437652,
+    "t2_error": null
+  },
+  {
+    "slug": "openserv",
+    "symbol": "serv",
+    "snapshot_mcap": 27347075.14423697,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "openserv",
+    "t1_market_cap": 12409625.440704113,
+    "t2_market_cap": 15094644.841070378,
+    "t2_error": null
+  },
+  {
+    "slug": "empyreal",
+    "symbol": "emp",
+    "snapshot_mcap": 13862622.266296633,
+    "categories": [
+      "ai-agents",
+      "ai-agent-launchpad",
+      "defai"
+    ],
+    "cg_id": "empyreal",
+    "t1_market_cap": 13348320.796278656,
+    "t2_market_cap": 1353080.0843940477,
+    "t2_error": null
+  },
+  {
+    "slug": "vivi-coin",
+    "symbol": "vivi",
+    "snapshot_mcap": 24478009.838147305,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "vivi-coin",
+    "t1_market_cap": 12914184.671358751,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "trias-token",
+    "symbol": "trias",
+    "snapshot_mcap": 12693883.90343515,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "trias-token",
+    "t1_market_cap": 11094974.6667441,
+    "t2_market_cap": 1730487.6614417578,
+    "t2_error": null
+  },
+  {
+    "slug": "openfabric",
+    "symbol": "ofn",
+    "snapshot_mcap": 21467300.345024765,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "openfabric",
+    "t1_market_cap": 9974720.94007646,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "orbit-2",
+    "symbol": "grift",
+    "snapshot_mcap": 11787953.576962333,
+    "categories": [
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "orbit-3",
+    "t1_market_cap": 8047622.313040884,
+    "t2_market_cap": 180325.04413338724,
+    "t2_error": null
+  },
+  {
+    "slug": "yne",
+    "symbol": "yne",
+    "snapshot_mcap": 10118608.72782898,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "yne",
+    "t1_market_cap": 11994744.197264891,
+    "t2_market_cap": 259920.70558909106,
+    "t2_error": null
+  },
+  {
+    "slug": "botto",
+    "symbol": "botto",
+    "snapshot_mcap": 22692553.66631354,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "botto",
+    "t1_market_cap": 10576681.478435175,
+    "t2_market_cap": 2076645.268130002,
+    "t2_error": null
+  },
+  {
+    "slug": "revox",
+    "symbol": "rex",
+    "snapshot_mcap": 31782476.61941775,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "revox",
+    "t1_market_cap": 9097437.015543548,
+    "t2_market_cap": 20115.444261655208,
+    "t2_error": null
+  },
+  {
+    "slug": "jam",
+    "symbol": "jam",
+    "snapshot_mcap": 9173254.179246385,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "geojam",
+    "t1_market_cap": 953361.5742605936,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "edwin",
+    "symbol": "edwin",
+    "snapshot_mcap": 8896867.996834204,
+    "categories": [
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "edwin",
+    "t1_market_cap": 7718664.793979743,
+    "t2_market_cap": 187615.0451488944,
+    "t2_error": null
+  },
+  {
+    "slug": "acolyt",
+    "symbol": "acolyt",
+    "snapshot_mcap": 8312508.9844425535,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "acolyte-by-virtuals",
+    "t1_market_cap": 4785078.274782821,
+    "t2_market_cap": 109747.86694020455,
+    "t2_error": null
+  },
+  {
+    "slug": "wagmi-games",
+    "symbol": "wagmigames",
+    "snapshot_mcap": 7818118.803541591,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "wagmi-game-2",
+    "t1_market_cap": 8039227.742786684,
+    "t2_market_cap": 815652.0131462557,
+    "t2_error": null
+  },
+  {
+    "slug": "strawberry-ai",
+    "symbol": "berry",
+    "snapshot_mcap": 7203849.722777221,
+    "categories": [
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "strawberry-ai",
+    "t1_market_cap": 6673657.527712386,
+    "t2_market_cap": 947540.4027222013,
+    "t2_error": null
+  },
+  {
+    "slug": "sensay",
+    "symbol": "snsy",
+    "snapshot_mcap": 13705486.74081749,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "sensay",
+    "t1_market_cap": 6824051.745826761,
+    "t2_market_cap": 598708.6718690722,
+    "t2_error": null
+  },
+  {
+    "slug": "token-metrics-ai",
+    "symbol": "tmai",
+    "snapshot_mcap": 10446280.77258586,
+    "categories": [
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "token-metrics-ai",
+    "t1_market_cap": 6158903.921347936,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "gigabrain-by-virtuals",
+    "symbol": "brain",
+    "snapshot_mcap": 6630558.786831137,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "gigabrain-by-virtuals",
+    "t1_market_cap": 3042583.707297588,
+    "t2_market_cap": 145009.09892439676,
+    "t2_error": null
+  },
+  {
+    "slug": "altered-state-token",
+    "symbol": "asto",
+    "snapshot_mcap": 19340295.45390231,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "altered-state-token",
+    "t1_market_cap": 7312397.449949925,
+    "t2_market_cap": 720752.0056795917,
+    "t2_error": null
+  },
+  {
+    "slug": "hypergpt",
+    "symbol": "hgpt",
+    "snapshot_mcap": 9104329.12303511,
+    "categories": [
+      "ai-agents",
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "hypergpt",
+    "t1_market_cap": 5771905.297307095,
+    "t2_market_cap": 1394958.4343669016,
+    "t2_error": null
+  },
+  {
+    "slug": "hive-ai",
+    "symbol": "buzz",
+    "snapshot_mcap": 8680212.850592095,
+    "categories": [
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "hive-ai",
+    "t1_market_cap": 9658516.139144575,
+    "t2_market_cap": 389931.70117584517,
+    "t2_error": null
+  },
+  {
+    "slug": "talos",
+    "symbol": "talos",
+    "snapshot_mcap": 6327373.815021708,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "talos",
+    "t1_market_cap": 7556467.840506282,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "gud-tech",
+    "symbol": "gud",
+    "snapshot_mcap": 7031544.873628601,
+    "categories": [
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "gud-tech",
+    "t1_market_cap": 7534096.116689385,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "dogeai-2",
+    "symbol": "$dogeai",
+    "snapshot_mcap": 7572174.906742555,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "dogeai-2",
+    "t1_market_cap": 8666604.017168716,
+    "t2_market_cap": 43149.721245093875,
+    "t2_error": null
+  },
+  {
+    "slug": "draiftking",
+    "symbol": "dking",
+    "snapshot_mcap": 5427817.788734047,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "draiftking",
+    "t1_market_cap": 6367059.582530858,
+    "t2_market_cap": 727309.4864155799,
+    "t2_error": null
+  },
+  {
+    "slug": "layerai",
+    "symbol": "lai",
+    "snapshot_mcap": 6760418.726642709,
+    "categories": [
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "cryptogpt-token",
+    "t1_market_cap": 5021356.833577905,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "dexcheck",
+    "symbol": "dck",
+    "snapshot_mcap": 7111411.36706874,
+    "categories": [
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "dexcheck",
+    "t1_market_cap": 5172679.186434555,
+    "t2_market_cap": 86462.57593149913,
+    "t2_error": null
+  },
+  {
+    "slug": "super-champs",
+    "symbol": "champ",
+    "snapshot_mcap": 5615229.342795061,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "super-champs",
+    "t1_market_cap": 5712662.678292652,
+    "t2_market_cap": 535301.1676649813,
+    "t2_error": null
+  },
+  {
+    "slug": "fomo-3",
+    "symbol": "fomo",
+    "snapshot_mcap": 4871973.851875214,
+    "categories": [
+      "ai-agents",
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "fomo-3",
+    "t1_market_cap": 6299545.823573075,
+    "t2_market_cap": 45739.91801161022,
+    "t2_error": null
+  },
+  {
+    "slug": "neurobro",
+    "symbol": "bro",
+    "snapshot_mcap": 6016350.480535714,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "neurobro",
+    "t1_market_cap": 3286021.4366206494,
+    "t2_market_cap": 332498.3760579931,
+    "t2_error": null
+  },
+  {
+    "slug": "max-2",
+    "symbol": "max",
+    "snapshot_mcap": 4695685.321558476,
+    "categories": [
+      "ai-agents",
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "max-2",
+    "t1_market_cap": 3719897.509123229,
+    "t2_market_cap": 67174.65741516497,
+    "t2_error": null
+  },
+  {
+    "slug": "dolz-io",
+    "symbol": "dolz",
+    "snapshot_mcap": 4567967.684432826,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "dolz-io",
+    "t1_market_cap": 4707117.835523937,
+    "t2_market_cap": 4987765.974809047,
+    "t2_error": null
+  },
+  {
+    "slug": "metaverse",
+    "symbol": "metav",
+    "snapshot_mcap": 4506706.945716182,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "metaverse",
+    "t1_market_cap": 4154408.523771995,
+    "t2_market_cap": 2118429.281640184,
+    "t2_error": null
+  },
+  {
+    "slug": "listen-rs",
+    "symbol": "listen",
+    "snapshot_mcap": 4074731.118807336,
+    "categories": [
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "listen-rs",
+    "t1_market_cap": 3093634.641276224,
+    "t2_market_cap": 38730.82628195249,
+    "t2_error": null
+  },
+  {
+    "slug": "eternalai",
+    "symbol": "eai",
+    "snapshot_mcap": 16995994.30236061,
+    "categories": [
+      "ai-agents",
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "eternalai",
+    "t1_market_cap": 3508643.2155195144,
+    "t2_market_cap": 600412.83798976,
+    "t2_error": null
+  },
+  {
+    "slug": "play-2",
+    "symbol": "play",
+    "snapshot_mcap": 4442002.786607624,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "play-2",
+    "t1_market_cap": 3556006.131903182,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "beeper-coin",
+    "symbol": "beeper",
+    "snapshot_mcap": 2954993.495125375,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "beeper-coin",
+    "t1_market_cap": 2638559.400002187,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "aion-5100",
+    "symbol": "aion",
+    "snapshot_mcap": 2934265.204735895,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "aion-5100",
+    "t1_market_cap": 2566208.062059995,
+    "t2_market_cap": 56579.85787186192,
+    "t2_error": null
+  },
+  {
+    "slug": "thought",
+    "symbol": "tht",
+    "snapshot_mcap": 8469090.24428042,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "thought",
+    "t1_market_cap": 3648907.9662604937,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "tri-sigma",
+    "symbol": "trisig",
+    "snapshot_mcap": 2708205.460964456,
+    "categories": [
+      "ai-agents",
+      "defai"
+    ],
+    "cg_id": "tri-sigma",
+    "t1_market_cap": 2380346.6058587655,
+    "t2_market_cap": 35395.41794935914,
+    "t2_error": null
+  },
+  {
+    "slug": "aiveronica-by-virtuals",
+    "symbol": "aiv",
+    "snapshot_mcap": 2628309.091091333,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "aiveronica",
+    "t1_market_cap": 2833476.359841894,
+    "t2_market_cap": 40194.43771586438,
+    "t2_error": null
+  },
+  {
+    "slug": "rivalz-network",
+    "symbol": "riz",
+    "snapshot_mcap": 11260053.922032217,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "rivalz-network",
+    "t1_market_cap": 2684875.362841033,
+    "t2_market_cap": 255168.59689716485,
+    "t2_error": null
+  },
+  {
+    "slug": "suiai",
+    "symbol": "suai",
+    "snapshot_mcap": 2443307.541323339,
+    "categories": [
+      "ai-agents",
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "suiai",
+    "t1_market_cap": 2037266.647509699,
+    "t2_market_cap": 78007.46667982485,
+    "t2_error": null
+  },
+  {
+    "slug": "aixcb-by-virtuals",
+    "symbol": "aixcb",
+    "snapshot_mcap": 2378117.701840677,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "aixcb-by-virtuals",
+    "t1_market_cap": 1886017.7981524037,
+    "t2_market_cap": 73395.39531467257,
+    "t2_error": null
+  },
+  {
+    "slug": "keke-terminal",
+    "symbol": "keke",
+    "snapshot_mcap": 2360889.683085724,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "keke-terminal",
+    "t1_market_cap": 2110373.572334051,
+    "t2_market_cap": 19320.49231956813,
+    "t2_error": null
+  },
+  {
+    "slug": "cat-call-agent",
+    "symbol": "cat",
+    "snapshot_mcap": 2348752.536181985,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "cat-call-agent",
+    "t1_market_cap": 2407862.932132308,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "1000x-by-virtuals",
+    "symbol": "1000x",
+    "snapshot_mcap": 2199128.512019737,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "1000x-by-virtuals",
+    "t1_market_cap": 1665019.4275490076,
+    "t2_market_cap": 1358148.93432563,
+    "t2_error": null
+  },
+  {
+    "slug": "icpanda-dao",
+    "symbol": "panda",
+    "snapshot_mcap": 2759332.078861096,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "icpanda-dao",
+    "t1_market_cap": 1279968.9720870557,
+    "t2_market_cap": 697098.2415478441,
+    "t2_error": null
+  },
+  {
+    "slug": "ai-shell-nova",
+    "symbol": "nova",
+    "snapshot_mcap": 2123689.918124088,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "ai-shell-nova",
+    "t1_market_cap": 2168419.139280448,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "twin-protocol",
+    "symbol": "twin",
+    "snapshot_mcap": 8372930.132053353,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "twin-protocol",
+    "t1_market_cap": 1999697.2331192524,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "octavia",
+    "symbol": "via",
+    "snapshot_mcap": 2600997.902527652,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "octavia",
+    "t1_market_cap": 1811123.4758121816,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "commune-ai",
+    "symbol": "comai",
+    "snapshot_mcap": 26817662.1796653,
+    "categories": [
+      "ai-agents"
+    ],
+    "cg_id": "commune-ai",
+    "t1_market_cap": 1567576.8103151273,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "swarmnode-ai",
+    "symbol": "snai",
+    "snapshot_mcap": 15806331.0419012,
+    "categories": [
+      "ai-agent-launchpad",
+      "defai"
+    ],
+    "cg_id": "swarmnode-ai",
+    "t1_market_cap": 12956221.243926551,
+    "t2_market_cap": 0,
+    "t2_error": null
+  },
+  {
+    "slug": "vertical-ai",
+    "symbol": "vertai",
+    "snapshot_mcap": 12898249.0793614,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "vertical-ai",
+    "t1_market_cap": 12692531.4005724,
+    "t2_market_cap": 887667.3907041801,
+    "t2_error": null
+  },
+  {
+    "slug": "creatorbid",
+    "symbol": "bid",
+    "snapshot_mcap": 37440064.21934203,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "creatorbid",
+    "t1_market_cap": 11004729.932583056,
+    "t2_market_cap": 2507703.0254373765,
+    "t2_error": null
+  },
+  {
+    "slug": "holdstation",
+    "symbol": "hold",
+    "snapshot_mcap": 36574398.64121991,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "holdstation",
+    "t1_market_cap": 8525658.876255559,
+    "t2_market_cap": 0,
+    "t2_error": null
+  },
+  {
+    "slug": "clustr",
+    "symbol": "clustr",
+    "snapshot_mcap": 13744108.18788122,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "clustr",
+    "t1_market_cap": 11298459.190101525,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "bacon-protocol",
+    "symbol": "bac",
+    "snapshot_mcap": 3367329.655586607,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "bacon-protocol",
+    "t1_market_cap": 3444441.529083224,
+    "t2_market_cap": 13006.375199949753,
+    "t2_error": null
+  },
+  {
+    "slug": "mindscraft",
+    "symbol": "minds",
+    "snapshot_mcap": 2862736.426468572,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "minds",
+    "t1_market_cap": 126602.1720010444,
+    "t2_market_cap": 91470.17649254148,
+    "t2_error": null
+  },
+  {
+    "slug": "cod3x",
+    "symbol": "cdx",
+    "snapshot_mcap": 2237841.5878919153,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "cod3x",
+    "t1_market_cap": 3479275.657748335,
+    "t2_market_cap": 818792.8121409322,
+    "t2_error": null
+  },
+  {
+    "slug": "vapor",
+    "symbol": "vapor",
+    "snapshot_mcap": 2103453.8719344395,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "vapor",
+    "t1_market_cap": 2133438.1090969685,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "spore-2",
+    "symbol": "spore",
+    "snapshot_mcap": 2171487.9300402054,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "spore-2",
+    "t1_market_cap": 1384907.2581187882,
+    "t2_market_cap": 134695.9583501623,
+    "t2_error": null
+  },
+  {
+    "slug": "xrpturbo",
+    "symbol": "xrt",
+    "snapshot_mcap": 1594580.144789845,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "robonomics-network",
+    "t1_market_cap": 10584198.506403208,
+    "t2_market_cap": 0,
+    "t2_error": null
+  },
+  {
+    "slug": "ai-agent-layer",
+    "symbol": "aifun",
+    "snapshot_mcap": 1511934.8746186052,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "ai-agent-layer",
+    "t1_market_cap": 1802021.4565577216,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "sui-agents",
+    "symbol": "suiai",
+    "snapshot_mcap": 1202380.1030276027,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "sui-agents",
+    "t1_market_cap": 1251028.9524587928,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "fame-ai",
+    "symbol": "fmc",
+    "snapshot_mcap": 4417811.089711168,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "fame-ai",
+    "t1_market_cap": 1139292.6093714884,
+    "t2_market_cap": 36957.76041397591,
+    "t2_error": null
+  },
+  {
+    "slug": "orbofi-ai",
+    "symbol": "obi",
+    "snapshot_mcap": 2655366.893023112,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "orbofi-ai",
+    "t1_market_cap": 1394678.7816442149,
+    "t2_market_cap": 288934.0476728709,
+    "t2_error": null
+  },
+  {
+    "slug": "simmi-token",
+    "symbol": "simmi",
+    "snapshot_mcap": 998625.4723171268,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "simmi-token",
+    "t1_market_cap": 1247169.5976917548,
+    "t2_market_cap": 316916.5268749619,
+    "t2_error": null
+  },
+  {
+    "slug": "universal-basic-compute",
+    "symbol": "ubc",
+    "snapshot_mcap": 835437.9463514574,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "universal-basic-compute",
+    "t1_market_cap": 1062354.8744849556,
+    "t2_market_cap": 54605.63731181913,
+    "t2_error": null
+  },
+  {
+    "slug": "paca-ai",
+    "symbol": "paca",
+    "snapshot_mcap": 1209868.6606840307,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "paca-ai",
+    "t1_market_cap": 795812.631301822,
+    "t2_market_cap": 48236.790659341066,
+    "t2_error": null
+  },
+  {
+    "slug": "aipump",
+    "symbol": "aipump",
+    "snapshot_mcap": 1628523.455237455,
+    "categories": [
+      "ai-agent-launchpad",
+      "defai"
+    ],
+    "cg_id": "aipump",
+    "t1_market_cap": 617810.1041921603,
+    "t2_market_cap": 19704.098012066686,
+    "t2_error": null
+  },
+  {
+    "slug": "rabbi-schlomo-by-virtuals",
+    "symbol": "shekel",
+    "snapshot_mcap": 676054.6910606921,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "rabbi-schlomo-by-virtuals",
+    "t1_market_cap": 626462.2844491273,
+    "t2_market_cap": 293276.21193625877,
+    "t2_error": null
+  },
+  {
+    "slug": "ace-data-cloud",
+    "symbol": "$ace",
+    "snapshot_mcap": 641004.1350571421,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "ace-data-cloud",
+    "t1_market_cap": 519790.7096514491,
+    "t2_market_cap": 23714.71577543921,
+    "t2_error": null
+  },
+  {
+    "slug": "volaris-games",
+    "symbol": "vols",
+    "snapshot_mcap": 1800140.782693904,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "volaris-games",
+    "t1_market_cap": 620032.8678524087,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "moe-4",
+    "symbol": "moe",
+    "snapshot_mcap": 415144.4574278439,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "moe-4",
+    "t1_market_cap": 386800.01656865695,
+    "t2_market_cap": 57041.69275340839,
+    "t2_error": null
+  },
+  {
+    "slug": "ai9000",
+    "symbol": "ai9000",
+    "snapshot_mcap": 409011.2353382519,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "ai9000",
+    "t1_market_cap": 424543.86708773,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "overlord-2",
+    "symbol": "over",
+    "snapshot_mcap": 396926.5915369208,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "overtime",
+    "t1_market_cap": 7649170.298499651,
+    "t2_market_cap": 12340302.3116585,
+    "t2_error": null
+  },
+  {
+    "slug": "out-of-body-experience",
+    "symbol": "oobe",
+    "snapshot_mcap": 390300.3303433823,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "out-of-body-experience",
+    "t1_market_cap": 555760.0880303351,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "style-2",
+    "symbol": "style",
+    "snapshot_mcap": 427098.05678019125,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "style-protocol-2",
+    "t1_market_cap": 519714.7197074468,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "mates",
+    "symbol": "mates",
+    "snapshot_mcap": 3165327.516392336,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "mates",
+    "t1_market_cap": 511944.30102451297,
+    "t2_market_cap": 60915.2905113669,
+    "t2_error": null
+  },
+  {
+    "slug": "solaris-ai",
+    "symbol": "solaris",
+    "snapshot_mcap": 355516.63199606526,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "solaris-ai",
+    "t1_market_cap": 399011.36167803855,
+    "t2_market_cap": 0,
+    "t2_error": null
+  },
+  {
+    "slug": "0xmonk-by-virtuals",
+    "symbol": "monk",
+    "snapshot_mcap": 330692.1638304368,
+    "categories": [
+      "ai-agent-launchpad",
+      "defai"
+    ],
+    "cg_id": "0xmonk",
+    "t1_market_cap": 265842.8679916587,
+    "t2_market_cap": 210659.53501887555,
+    "t2_error": null
+  },
+  {
+    "slug": "agentlauncher-token-cvai",
+    "symbol": "cvai",
+    "snapshot_mcap": 1837466.545489157,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "agentlauncher-token-cvai",
+    "t1_market_cap": 279724.03419841384,
+    "t2_market_cap": 31637.976696857622,
+    "t2_error": null
+  },
+  {
+    "slug": "reality-spiral",
+    "symbol": "rsp",
+    "snapshot_mcap": 260434.863835433,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "reality-spiral",
+    "t1_market_cap": 496368.5556908938,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "simsai",
+    "symbol": "simsai",
+    "snapshot_mcap": 244038.1429447451,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "simsai",
+    "t1_market_cap": 308148.6580535284,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "ghostwire",
+    "symbol": "gwire",
+    "snapshot_mcap": 214968.70703905218,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "ghostwire",
+    "t1_market_cap": 238214.39689379945,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "yoko",
+    "symbol": "yoko",
+    "snapshot_mcap": 512817.5852257058,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "yoko",
+    "t1_market_cap": 290639.77486133267,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "bnb-agents",
+    "symbol": "bnbai",
+    "snapshot_mcap": 250449.3037536352,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "bnb-agents",
+    "t1_market_cap": 250101.6189776743,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "otto",
+    "symbol": "$otto",
+    "snapshot_mcap": 195043.7065183798,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "otto",
+    "t1_market_cap": 146624.3257907168,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "dega-2",
+    "symbol": "dega",
+    "snapshot_mcap": 793785.4464018104,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "dega-2",
+    "t1_market_cap": 221947.11555559956,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "osiris",
+    "symbol": "osiri",
+    "snapshot_mcap": 143316.90624370208,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "osiris",
+    "t1_market_cap": 148564.1800759643,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "build-3",
+    "symbol": "build",
+    "snapshot_mcap": 129206.28635119113,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "build-3",
+    "t1_market_cap": 135471.12618257795,
+    "t2_market_cap": 23935.128235006894,
+    "t2_error": null
+  },
+  {
+    "slug": "ai-voice-agents",
+    "symbol": "aiva",
+    "snapshot_mcap": 919471.456173055,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "ai-voice-agents",
+    "t1_market_cap": 88541.19150343681,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "frego",
+    "symbol": "frego",
+    "snapshot_mcap": 114016.89654051726,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "frego",
+    "t1_market_cap": 138207.03207622343,
+    "t2_market_cap": 12025.965450777352,
+    "t2_error": null
+  },
+  {
+    "slug": "cainam",
+    "symbol": "cainam",
+    "snapshot_mcap": 143644.47537639775,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "cainam",
+    "t1_market_cap": 96171.28367189568,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "sentient-memes-producer",
+    "symbol": "memetic",
+    "snapshot_mcap": 97933.43106596693,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "sentient-memes-producer",
+    "t1_market_cap": 76643.28816350529,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "holozone",
+    "symbol": "holo",
+    "snapshot_mcap": 97249.41529243824,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "holozone",
+    "t1_market_cap": 172926.44205653548,
+    "t2_market_cap": 35359.70739961736,
+    "t2_error": null
+  },
+  {
+    "slug": "market-maverick",
+    "symbol": "luigi",
+    "snapshot_mcap": 89157.5236306841,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "market-maverick",
+    "t1_market_cap": 131635.7525447722,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "solaya",
+    "symbol": "solaya",
+    "snapshot_mcap": 99513.35993215295,
+    "categories": [
+      "ai-agent-launchpad",
+      "defai"
+    ],
+    "cg_id": "solaya",
+    "t1_market_cap": 108382.17907784502,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "sentiient",
+    "symbol": "sent",
+    "snapshot_mcap": 69651.35313205673,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "sentiient",
+    "t1_market_cap": 50383.5641280051,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "tokito",
+    "symbol": "tokito",
+    "snapshot_mcap": 121691.04445029976,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "tokito",
+    "t1_market_cap": 62626.865518077786,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "pillzumi",
+    "symbol": "pillzumi",
+    "snapshot_mcap": 52268.090442034976,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "pillzumi",
+    "t1_market_cap": 53002.095994582545,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "intellika-ai",
+    "symbol": "intai",
+    "snapshot_mcap": 47215.04908105506,
+    "categories": [
+      "ai-agent-launchpad",
+      "defai"
+    ],
+    "cg_id": "intellika-ai",
+    "t1_market_cap": 71817.4857705698,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "druid-ai",
+    "symbol": "dru",
+    "snapshot_mcap": 39110.99781511582,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "druid-ai",
+    "t1_market_cap": 52615.45350245425,
+    "t2_market_cap": 13389.054281103205,
+    "t2_error": null
+  },
+  {
+    "slug": "lotion-coin",
+    "symbol": "lotion",
+    "snapshot_mcap": 32586.40085483501,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "lotion-coin",
+    "t1_market_cap": 32393.84478285584,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "launchbot",
+    "symbol": "rocketai",
+    "snapshot_mcap": 23765.702391383205,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "launchbot",
+    "t1_market_cap": 27086.433201172735,
+    "t2_market_cap": 29895.536950016016,
+    "t2_error": null
+  },
+  {
+    "slug": "gigabrain",
+    "symbol": "giga\ud83e\udde0",
+    "snapshot_mcap": 18979.071441981385,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "gigabrain",
+    "t1_market_cap": 17519.84287262736,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "samsara-build",
+    "symbol": "sams",
+    "snapshot_mcap": 16216.81527398013,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "samsara-build",
+    "t1_market_cap": 94785.23799421114,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "moongate-fun",
+    "symbol": "mgtai",
+    "snapshot_mcap": 13934.648105115208,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "moongate-fun",
+    "t1_market_cap": 18262.943473723848,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "saios",
+    "symbol": "sai",
+    "snapshot_mcap": 11856.68190951112,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "sai",
+    "t1_market_cap": 25304982.6098395,
+    "t2_market_cap": 34325292.47883079,
+    "t2_error": null
+  },
+  {
+    "slug": "eco-ai",
+    "symbol": "eco",
+    "snapshot_mcap": 11338.199764964833,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "fantom-eco-2",
+    "t1_market_cap": 159829.92377127294,
+    "t2_market_cap": 18871.805450101452,
+    "t2_error": null
+  },
+  {
+    "slug": "breakbot",
+    "symbol": "break",
+    "snapshot_mcap": 11675.501201215793,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "breakbot",
+    "t1_market_cap": 10791.542525607643,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "boltai",
+    "symbol": "boltai",
+    "snapshot_mcap": 10601.709747598068,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "boltai",
+    "t1_market_cap": 9131.758622668754,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "memecast-ai",
+    "symbol": "mcai",
+    "snapshot_mcap": 4291.255432221555,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "memecast-ai",
+    "t1_market_cap": 3952.1124654042937,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "aisweatshop",
+    "symbol": "defai",
+    "snapshot_mcap": 5153129.318092323,
+    "categories": [
+      "ai-agent-launchpad"
+    ],
+    "cg_id": "defai",
+    "t1_market_cap": 198551.92690493073,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "derive",
+    "symbol": "drv",
+    "snapshot_mcap": 30117908.4550196,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "derive",
+    "t1_market_cap": 13877670.248011224,
+    "t2_market_cap": 143520713.24609005,
+    "t2_error": null
+  },
+  {
+    "slug": "grix",
+    "symbol": "grix",
+    "snapshot_mcap": 19292726.97943107,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "grix",
+    "t1_market_cap": 18615953.707350317,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "tao-bot",
+    "symbol": "taobot",
+    "snapshot_mcap": 17640254.84656613,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "tao-bot",
+    "t1_market_cap": 9089941.956694577,
+    "t2_market_cap": 3818490.936580363,
+    "t2_error": null
+  },
+  {
+    "slug": "sturdy",
+    "symbol": "strdy",
+    "snapshot_mcap": 65120090.54449549,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "sturdy",
+    "t1_market_cap": 10932002.813156843,
+    "t2_market_cap": 217087.16679442723,
+    "t2_error": null
+  },
+  {
+    "slug": "mettalex",
+    "symbol": "mtlx",
+    "snapshot_mcap": 85554517.94408312,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "mettalex",
+    "t1_market_cap": 6753302.874354531,
+    "t2_market_cap": 121478.03289959696,
+    "t2_error": null
+  },
+  {
+    "slug": "mode",
+    "symbol": "mode",
+    "snapshot_mcap": 28345164.59541982,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "mode",
+    "t1_market_cap": 9195166.596384283,
+    "t2_market_cap": 409137.77570902335,
+    "t2_error": null
+  },
+  {
+    "slug": "gt-protocol",
+    "symbol": "gtai",
+    "snapshot_mcap": 8818839.762962986,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "gt-protocol",
+    "t1_market_cap": 5166600.253574897,
+    "t2_market_cap": 670631.3193771911,
+    "t2_error": null
+  },
+  {
+    "slug": "arbius",
+    "symbol": "aius",
+    "snapshot_mcap": 18176771.7322676,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "arbius",
+    "t1_market_cap": 4803907.723896088,
+    "t2_market_cap": 97751.59777380196,
+    "t2_error": null
+  },
+  {
+    "slug": "kleva",
+    "symbol": "kleva",
+    "snapshot_mcap": 3936450.2196432003,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "kleva",
+    "t1_market_cap": 2834584.8438974936,
+    "t2_market_cap": 646316.686809801,
+    "t2_error": null
+  },
+  {
+    "slug": "alphakek-ai",
+    "symbol": "aikek",
+    "snapshot_mcap": 3632063.964072002,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "alphakek-ai",
+    "t1_market_cap": 3606086.73013363,
+    "t2_market_cap": 624718.2512959774,
+    "t2_error": null
+  },
+  {
+    "slug": "neur-sh",
+    "symbol": "neur",
+    "snapshot_mcap": 2841296.9771744106,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "neur-sh",
+    "t1_market_cap": 2370436.6312932908,
+    "t2_market_cap": 79991.94196024926,
+    "t2_error": null
+  },
+  {
+    "slug": "asym",
+    "symbol": "asym",
+    "snapshot_mcap": 2440090.1806947645,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "asym",
+    "t1_market_cap": 597460.7940682743,
+    "t2_market_cap": 27872.257408200763,
+    "t2_error": null
+  },
+  {
+    "slug": "hyperfly",
+    "symbol": "fly",
+    "snapshot_mcap": 1936329.5958203916,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "hyperfly",
+    "t1_market_cap": 1165865.8545832532,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "0xgasless",
+    "symbol": "0xgas",
+    "snapshot_mcap": 1653002.3587485177,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "0xgasless-2",
+    "t1_market_cap": 1888106.87654511,
+    "t2_market_cap": 336154.31261828844,
+    "t2_error": null
+  },
+  {
+    "slug": "velvet-unicorn-by-virtuals",
+    "symbol": "vu",
+    "snapshot_mcap": 1422492.4026464305,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "velvet-unicorn-by-virtuals",
+    "t1_market_cap": 464995.19158420217,
+    "t2_market_cap": 331188.1311991011,
+    "t2_error": null
+  },
+  {
+    "slug": "kudai",
+    "symbol": "kudai",
+    "snapshot_mcap": 1410932.868073696,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "kudai",
+    "t1_market_cap": 1638744.559567924,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "dolos-the-bully",
+    "symbol": "bully",
+    "snapshot_mcap": 1382524.1167181414,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "dolos-the-bully",
+    "t1_market_cap": 1477727.8370773832,
+    "t2_market_cap": 168950.73627078513,
+    "t2_error": null
+  },
+  {
+    "slug": "duck-ai",
+    "symbol": "duckai",
+    "snapshot_mcap": 1359128.8237781792,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "duck-ai",
+    "t1_market_cap": 232506.40155254,
+    "t2_market_cap": 33595.09793319632,
+    "t2_error": null
+  },
+  {
+    "slug": "pell-network-token",
+    "symbol": "pell",
+    "snapshot_mcap": 7939410.411958267,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "pell-network-token",
+    "t1_market_cap": 1264337.1087801657,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "mantis",
+    "symbol": "m",
+    "snapshot_mcap": 1257909.923343834,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "mantis",
+    "t1_market_cap": 1409047.2386311,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "hive-intelligence",
+    "symbol": "hint",
+    "snapshot_mcap": 2583013.181337242,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "hive-intelligence",
+    "t1_market_cap": 1106422.4450947945,
+    "t2_market_cap": 587808.0431629041,
+    "t2_error": null
+  },
+  {
+    "slug": "believe-in-something-2",
+    "symbol": "dtf",
+    "snapshot_mcap": 1158934.9865550683,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "believe-in-something-2",
+    "t1_market_cap": 1012561.8569597772,
+    "t2_market_cap": 101204.86161857724,
+    "t2_error": null
+  },
+  {
+    "slug": "hotkeyswap",
+    "symbol": "hotkey",
+    "snapshot_mcap": 933402.9756918593,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "hotkeyswap",
+    "t1_market_cap": 1177505.5640709654,
+    "t2_market_cap": 95050.3234453799,
+    "t2_error": null
+  },
+  {
+    "slug": "metadrip",
+    "symbol": "drip",
+    "snapshot_mcap": 873145.4179310185,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "metadrip",
+    "t1_market_cap": 606970.1960488069,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "rockee-ai",
+    "symbol": "rock",
+    "snapshot_mcap": 762664.5514898296,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "just-a-black-rock-on-base",
+    "t1_market_cap": 44660.81996010193,
+    "t2_market_cap": 76265.74769999913,
+    "t2_error": null
+  },
+  {
+    "slug": "alphaarc",
+    "symbol": "alpha",
+    "snapshot_mcap": 699742.8451827033,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "alphaarc",
+    "t1_market_cap": 231146.07308737133,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "guru-network",
+    "symbol": "guru",
+    "snapshot_mcap": 2329179.45730742,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "guru-network",
+    "t1_market_cap": 871338.6079296224,
+    "t2_market_cap": 57036.51762661095,
+    "t2_error": null
+  },
+  {
+    "slug": "quain",
+    "symbol": "quain",
+    "snapshot_mcap": 560850.7031395825,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "quain",
+    "t1_market_cap": 198920.76067203472,
+    "t2_market_cap": 58700.87795439263,
+    "t2_error": null
+  },
+  {
+    "slug": "trustinweb3",
+    "symbol": "t3ai",
+    "snapshot_mcap": 521567.20420552,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "trustinweb3",
+    "t1_market_cap": 1163725.5251193207,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "whisp",
+    "symbol": "whisp",
+    "snapshot_mcap": 490990.0374798031,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "whisp",
+    "t1_market_cap": 758041.9989016511,
+    "t2_market_cap": 33905.88811391766,
+    "t2_error": null
+  },
+  {
+    "slug": "ocnest-ai",
+    "symbol": "ocai",
+    "snapshot_mcap": 481618.6891878427,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "onchain-ai",
+    "t1_market_cap": 89520.1361835289,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "fuku-2",
+    "symbol": "fuku",
+    "snapshot_mcap": 481020.70816493797,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "fuku-2",
+    "t1_market_cap": 622640.1726554659,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "project-plutus",
+    "symbol": "ppcoin",
+    "snapshot_mcap": 440561.7680467551,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "project-plutus",
+    "t1_market_cap": 552599.6919454437,
+    "t2_market_cap": 8458.469042635606,
+    "t2_error": null
+  },
+  {
+    "slug": "deployyyyer",
+    "symbol": "deploy",
+    "snapshot_mcap": 439827.8766637472,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "deployyyyer",
+    "t1_market_cap": 335521.69779856835,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "flow-agent",
+    "symbol": "flow",
+    "snapshot_mcap": 361854.20512553287,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "flow-agent",
+    "t1_market_cap": 506364.0473464872,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "kryptonite",
+    "symbol": "seilor",
+    "snapshot_mcap": 910037.1925343117,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "kryptonite",
+    "t1_market_cap": 300086.282546376,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "monai",
+    "symbol": "monai",
+    "snapshot_mcap": 1079716.1116253724,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "monai",
+    "t1_market_cap": 363409.595213927,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "bloomsperg-terminal",
+    "symbol": "sperg",
+    "snapshot_mcap": 308906.0065670353,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "bloomsperg-terminal",
+    "t1_market_cap": 382248.8422258013,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "redacted-terminal",
+    "symbol": "\u2588\u2588\u2588",
+    "snapshot_mcap": 286329.49564863264,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "redacted-terminal",
+    "t1_market_cap": 349618.1900351886,
+    "t2_market_cap": 11345.937100460571,
+    "t2_error": null
+  },
+  {
+    "slug": "gemxbt",
+    "symbol": "gemxbt",
+    "snapshot_mcap": 273779.912429164,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "gemxbt",
+    "t1_market_cap": 180623.5349617281,
+    "t2_market_cap": 35253.533326887875,
+    "t2_error": null
+  },
+  {
+    "slug": "reflect-base",
+    "symbol": "rfl",
+    "snapshot_mcap": 624837.0004726128,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "reflect-base",
+    "t1_market_cap": 378997.8758422772,
+    "t2_market_cap": 28298.04915652686,
+    "t2_error": null
+  },
+  {
+    "slug": "aver-ai",
+    "symbol": "aver",
+    "snapshot_mcap": 314006.5708505173,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "aver-ai",
+    "t1_market_cap": 528390.7499841913,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "717ai-by-virtuals",
+    "symbol": "wire",
+    "snapshot_mcap": 271858.0140390354,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "717ai-by-virtuals",
+    "t1_market_cap": 263434.24038062553,
+    "t2_market_cap": 1284637.7557359787,
+    "t2_error": null
+  },
+  {
+    "slug": "emilia",
+    "symbol": "emilia",
+    "snapshot_mcap": 250863.5811991544,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "emilia",
+    "t1_market_cap": 263111.4000321568,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "zods",
+    "symbol": "zods",
+    "snapshot_mcap": 262194.6686604687,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "zods",
+    "t1_market_cap": 127176.5276103963,
+    "t2_market_cap": 136798.66048271317,
+    "t2_error": null
+  },
+  {
+    "slug": "defai",
+    "symbol": "defai",
+    "snapshot_mcap": 252096.204998999,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "defai",
+    "t1_market_cap": 198551.92690493073,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "hiero-terminal",
+    "symbol": "hterm",
+    "snapshot_mcap": 156505.66666645333,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "hiero-terminal",
+    "t1_market_cap": 391053.9495790507,
+    "t2_market_cap": 15332.937677767237,
+    "t2_error": null
+  },
+  {
+    "slug": "fyde",
+    "symbol": "fyde",
+    "snapshot_mcap": 822710.673110647,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "fyde",
+    "t1_market_cap": 171222.88842976897,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "kwantxbt",
+    "symbol": "kwant",
+    "snapshot_mcap": 149912.7337021305,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "kwantxbt",
+    "t1_market_cap": 315405.6891801921,
+    "t2_market_cap": 21803.831697408263,
+    "t2_error": null
+  },
+  {
+    "slug": "lexicon",
+    "symbol": "lexicon",
+    "snapshot_mcap": 105314.19994335904,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "lexicon",
+    "t1_market_cap": 112198.94568160069,
+    "t2_market_cap": 26827.28288201128,
+    "t2_error": null
+  },
+  {
+    "slug": "alris-agent",
+    "symbol": "alr",
+    "snapshot_mcap": 89831.21584629134,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "alris-agent",
+    "t1_market_cap": 73919.11244344093,
+    "t2_market_cap": 10552.060744363487,
+    "t2_error": null
+  },
+  {
+    "slug": "newmoney-ai",
+    "symbol": "new",
+    "snapshot_mcap": 78189.22902099304,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "newmoney-ai",
+    "t1_market_cap": 67195.57134164359,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "basehoundbot-by-virtuals",
+    "symbol": "$hound",
+    "snapshot_mcap": 51087.66238155334,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "basehoundbot-by-virtuals",
+    "t1_market_cap": 50821.185832146635,
+    "t2_market_cap": 15540.971690829527,
+    "t2_error": null
+  },
+  {
+    "slug": "ocada-ai",
+    "symbol": "ocada",
+    "snapshot_mcap": 48288.32201572499,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "ocada-ai",
+    "t1_market_cap": 162902.8914192225,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "prol-ai",
+    "symbol": "prol",
+    "snapshot_mcap": 25039.213965331357,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "prol-ai",
+    "t1_market_cap": 32643.074768671475,
+    "t2_market_cap": null,
+    "t2_error": null
+  },
+  {
+    "slug": "suidefai-by-suiai",
+    "symbol": "suid",
+    "snapshot_mcap": 2953.104909962992,
+    "categories": [
+      "defai"
+    ],
+    "cg_id": "suidefai-by-suiai",
+    "t1_market_cap": 4848.503355562233,
+    "t2_market_cap": null,
+    "t2_error": null
+  }
+]

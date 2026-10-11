@@ -1,0 +1,3937 @@
+{
+ "olaxbt": {
+  "homepage": [
+   "https://olaxbt.xyz/"
+  ],
+  "whitepaper": "https://olaxbt-docs.gitbook.io/olaxbt-doc",
+  "announcement_url": [],
+  "twitter_screen_name": "olaxbt_terminal",
+  "repos_url": {
+   "github": [
+    "https://github.com/olaxbt/"
+   ],
+   "bitbucket": []
+  }
+ },
+ "swarms": {
+  "homepage": [
+   "https://swarms.world/"
+  ],
+  "whitepaper": "https://docs.swarms.world/en/latest/",
+  "announcement_url": [],
+  "twitter_screen_name": "swarms_corp",
+  "repos_url": {
+   "github": [
+    "https://github.com/kyegomez/swarms"
+   ],
+   "bitbucket": []
+  }
+ },
+ "kora": {
+  "homepage": [
+   "https://leadpoet.com/",
+   "https://subnet71.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/korapilot-ai/sn71-kora"
+   ],
+   "bitbucket": []
+  }
+ },
+ "game-by-virtuals": {
+  "homepage": [
+   "https://app.virtuals.io/virtuals/273"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "GAME_Virtuals",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "wayfinder": {
+  "homepage": [
+   "https://www.wayfinder.ai/"
+  ],
+  "whitepaper": "https://paper.wayfinder.ai/wayfinder_paper_v1.pdf",
+  "announcement_url": [],
+  "twitter_screen_name": "AIWayfinder",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "agent-hustle-2": {
+  "homepage": [
+   "https://emblemvault.ai/",
+   "https://emblemvault.dev/",
+   "https://migrate.fun/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "EmblemVault",
+  "repos_url": {
+   "github": [
+    "https://github.com/EmblemCompany"
+   ],
+   "bitbucket": []
+  }
+ },
+ "projectvex": {
+  "homepage": [
+   "https://www.projectvex.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "ProjectVEXai",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "dar-open-network": {
+  "homepage": [
+   "https://dalarnia.com/",
+   "https://linktr.ee/daropennetwork"
+  ],
+  "whitepaper": "https://www.minesofdalarnia.com/assets/MoD-Litepaper-updated-04-Nov.pdf",
+  "announcement_url": [],
+  "twitter_screen_name": "DarOpenNetwork",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "avo": {
+  "homepage": [
+   "https://app.avo.so/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "avodotso",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "elizaos": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "ElizaEcoFund",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "vaderai-by-virtuals": {
+  "homepage": [
+   "https://vaderai.ai/",
+   "https://app.virtuals.io/virtuals/896"
+  ],
+  "whitepaper": "https://vaderai.gitbook.io/litepaper",
+  "announcement_url": [],
+  "twitter_screen_name": "Vader_AI_",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "kellyclaude": {
+  "homepage": [
+   "https://iamkelly.ai"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "KellyClaudeAI",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "talos-2": {
+  "homepage": [
+   "https://talos.is/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "talos_is",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "clawd-atg-eth": {
+  "homepage": [
+   "https://clawdbotatg.eth.link"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "clawdbotatg",
+  "repos_url": {
+   "github": [
+    "https://github.com/clawdbotatg"
+   ],
+   "bitbucket": []
+  }
+ },
+ "autonomopoly": {
+  "homepage": [
+   "https://autonomopoly.live/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "AUTONOMOPOLY_",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "wire-bot": {
+  "homepage": [
+   "https://wirebot.trade/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "wirebotRH",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "faircaster": {
+  "homepage": [
+   "https://x.com/fair_vc"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "fair_vc",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "moltbook": {
+  "homepage": [
+   "https://www.moltbook.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "moltbook",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "ani-grok-companion": {
+  "homepage": [
+   "https://anicompanion.net/",
+   "https://x.com/i/communities/1944712670180995449"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "olyn-by-virtuals": {
+  "homepage": [
+   "https://app.virtuals.io/virtuals/70"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "agent-obs": {
+  "homepage": [
+   "https://obscura.market/agent"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "ObscuraCEX",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "graphlinq-protocol": {
+  "homepage": [
+   "https://graphlinq.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [
+   "https://graphlinq.medium.com/"
+  ],
+  "twitter_screen_name": "graphlinq_proto",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "yne": {
+  "homepage": [
+   "https://yesnoerror.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "yesnoerror",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "gluteus-maximus-by-virtuals": {
+  "homepage": [
+   "https://app.virtuals.io/virtuals/721",
+   "https://www.gluteusmaximus.org/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "gluteu_virtuals",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "sairi": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "santisairi",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "eliza": {
+  "homepage": [
+   "https://elizawakesup.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "elizawakesup",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "bio-unit-000": {
+  "homepage": [
+   "https://x.com/BioUnit000"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "a0x": {
+  "homepage": [
+   "https://a0x.co/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "A0xbot",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "0xagenteve": {
+  "homepage": [
+   "https://eves.market/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "0xAgentEVE",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "lobstar": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "LobstarWilde",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "delu": {
+  "homepage": [
+   "https://deluquant.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "deluquant",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "ai16zeliza": {
+  "homepage": [
+   "https://vvaifu.fun/character/673905469257ff5b86d15313"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "ai16zeliza",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "felix-3": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "FelixCraftAI",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "jaihoz": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "jaihoz_",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "0xgasless-2": {
+  "homepage": [
+   "https://www.0xgasless.com/"
+  ],
+  "whitepaper": "https://www.0xgasless.com/whitepaper",
+  "announcement_url": [],
+  "twitter_screen_name": "0xGasless",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "velvet-unicorn-by-virtuals": {
+  "homepage": [
+   "https://app.virtuals.io/virtuals/630"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "VU_virtuals",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "capacitr": {
+  "homepage": [
+   "https://capacitr.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "capacitr_xyz",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "creatorbid": {
+  "homepage": [
+   "https://creator.bid/"
+  ],
+  "whitepaper": "https://blog.creator.bid/2025/01/23/creatorbid-intro/",
+  "announcement_url": [],
+  "twitter_screen_name": "CreatorBid",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "archai": {
+  "homepage": [
+   "https://thearch.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "TheARCHAI_",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "swarm-network": {
+  "homepage": [
+   "https://swarmnetwork.ai/"
+  ],
+  "whitepaper": "https://cli.swarmnetwork.ai/",
+  "announcement_url": [],
+  "twitter_screen_name": "GetSwarmed",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "kled-ai": {
+  "homepage": [
+   "https://www.kled.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "useKled",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "spark-5": {
+  "homepage": [
+   "https://agent.sparkswarm.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Spark_coded",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "4everland": {
+  "homepage": [
+   "https://www.4everland.org/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "4everland_org",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "pieverse": {
+  "homepage": [
+   "https://www.pieverse.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "pieverse_io",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "dappos": {
+  "homepage": [
+   "https://dappos.com/"
+  ],
+  "whitepaper": "https://dappos.gitbook.io/docs",
+  "announcement_url": [],
+  "twitter_screen_name": "dappOS_com",
+  "repos_url": {
+   "github": [
+    "https://github.com/DappOSDao/"
+   ],
+   "bitbucket": []
+  }
+ },
+ "meet48": {
+  "homepage": [
+   "https://www.meet48.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "meet_48",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "chainbase": {
+  "homepage": [
+   "https://chainbase.com/"
+  ],
+  "whitepaper": "https://docs.chainbase.com/introduction/litepaper",
+  "announcement_url": [],
+  "twitter_screen_name": "ChainbaseHQ",
+  "repos_url": {
+   "github": [
+    "https://github.com/chainbase-labs"
+   ],
+   "bitbucket": []
+  }
+ },
+ "somnium-space-cubes": {
+  "homepage": [
+   "https://www.somniumspace.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [
+   "https://medium.com/@SomniumSpace",
+   "https://www.linkedin.com/company/somnium-space/"
+  ],
+  "twitter_screen_name": "SomniumSpace",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "sogni-ai": {
+  "homepage": [
+   "https://www.sogni.ai/"
+  ],
+  "whitepaper": "https://docs.sogni.ai/",
+  "announcement_url": [],
+  "twitter_screen_name": "Sogni_Protocol",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "imgn-labs": {
+  "homepage": [
+   "https://imgnai.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "imgn_ai",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "mute-swap-by-virtuals": {
+  "homepage": [
+   "https://www.muteswap.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Mute_swap",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "gamegpt": {
+  "homepage": [
+   "https://gamegpt.gg",
+   "https://prism.rmg.io"
+  ],
+  "whitepaper": "https://prism-whitepaper.gitbook.io/prism-whitepaper/",
+  "announcement_url": [],
+  "twitter_screen_name": "Gamegptofficial",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "token-3": {
+  "homepage": [
+   "https://openzoo.fun/"
+  ],
+  "whitepaper": null,
+  "announcement_url": [],
+  "twitter_screen_name": "token_openzoo",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "privasea-ai": {
+  "homepage": [
+   "https://www.privasea.ai/"
+  ],
+  "whitepaper": "https://www.privasea.ai/white-paper",
+  "announcement_url": [],
+  "twitter_screen_name": "Privasea_ai",
+  "repos_url": {
+   "github": [
+    "https://github.com/Privasea"
+   ],
+   "bitbucket": []
+  }
+ },
+ "aiwithdaddyissues": {
+  "homepage": [
+   "https://www.shegen.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "aiwdaddyissues",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "darksol": {
+  "homepage": [
+   "https://darksol.net/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Darks0l_",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "axiom": {
+  "homepage": [
+   "https://www.clawbots.org/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "AxiomBot",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "clawdos": {
+  "homepage": [
+   "https://www.clawdos.space/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "ClawdOS",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "antihunter": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "AntiHunterAI",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "forecast-ai": {
+  "homepage": [
+   "https://forai.tech/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "forecast_agents",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "polytrader-by-virtuals": {
+  "homepage": [
+   "https://app.virtuals.io/virtuals/6348"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Polytraderagent",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "fomo-3": {
+  "homepage": [
+   "https://fomo.fund/home"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "perkos": {
+  "homepage": [
+   "https://www.perkos.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "perk_os",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "universal-operating-system-2": {
+  "homepage": [
+   "https://www.uos.earth/"
+  ],
+  "whitepaper": "https://www.uos.earth/",
+  "announcement_url": [],
+  "twitter_screen_name": "Universal_O_S",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "starkbot": {
+  "homepage": [
+   "https://www.starkbot.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "starkbotai",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "moltycash": {
+  "homepage": [
+   "https://molty.cash/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "moltycash",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "doppel": {
+  "homepage": [
+   "https://doppel.fun/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "doppelfun",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "halo-3": {
+  "homepage": [
+   "https://halo.zhc.company/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "HireHalo",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "i-emmet": {
+  "homepage": [
+   "https://universaleverything.io/0x1089E1c613Db8Cb91db72be4818632153E62557a?grid=emmet%27s-grid"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "emmet_ai_",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "luksoagent": {
+  "homepage": [
+   "https://universaleverything.io/0x293E96ebbf264ed7715cff2b67850517De70232a?grid=home"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "LUKSOAgent",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "echoleaks-by-virtuals": {
+  "homepage": [
+   "https://app.virtuals.io/virtuals/6508"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "0xEchoLeaks",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "axobotl": {
+  "homepage": [
+   "https://www.0xwork.org/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Inner_Axiom",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "the-css-god-by-virtuals": {
+  "homepage": [
+   "https://app.virtuals.io/virtuals/2231",
+   "https://proof-of-cssgod.replit.app/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "JustInverseIt",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "h4ck-terminal-by-virtuals": {
+  "homepage": [
+   "https://app.virtuals.io/virtuals/14604",
+   "h4ckterminal.com"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "h4ck_terminal",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "robostack": {
+  "homepage": [
+   "https://robostack.io/"
+  ],
+  "whitepaper": "https://docs.robostack.io/",
+  "announcement_url": [],
+  "twitter_screen_name": "RoboStack_io",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "herald-agent": {
+  "homepage": [
+   "https://herald-agent.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Herald_research",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "openagentmarket": {
+  "homepage": [
+   "https://openagent.market/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "openagentmarket",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "urizen": {
+  "homepage": [
+   "https://urizenfund.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "urizenfund",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "janitor": {
+  "homepage": [
+   "https://janitorai.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "JanitorBNB",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "stakr": {
+  "homepage": [
+   "https://stakrbot.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "STAKRbot",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "daimon": {
+  "homepage": [
+   "https://daimon.network/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "agentdaimon",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "hermes-desktop": {
+  "homepage": [
+   "https://hermesone.org"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "HermesOneApp",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "echo": {
+  "homepage": [
+   "https://www.builtbyecho.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "BuiltByEcho",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "cobot": {
+  "homepage": [
+   "https://cobot.gg/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "cobotgg",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "blue-agent": {
+  "homepage": [
+   "https://blocky-web.vercel.app/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "blocky_agent",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "clerk": {
+  "homepage": [
+   "https://clerk.solvrlabs.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "agent_clerk",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "eudaemon_0": {
+  "homepage": [
+   "https://www.moltbook.com/u/eudaemon_0"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "i_need_api_key",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "forgeoracle": {
+  "homepage": [
+   "https://www.mythosforge.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "mythosforgebot",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "wake": {
+  "homepage": [
+   "https://wakeonbase.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "WakeOnBase",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "reldothescribe": {
+  "homepage": [
+   "https://reldothescribe.github.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "ReldoTheScribe",
+  "repos_url": {
+   "github": [
+    "https://github.com/reldothescribe"
+   ],
+   "bitbucket": []
+  }
+ },
+ "zer0": {
+  "homepage": [
+   "https://www.atzer0.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "atzer0_BOT",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "codegrid": {
+  "homepage": [
+   "https://www.codegrid.app/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "CodeGridDev",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "clawnet": {
+  "homepage": [
+   "https://clawnet.org/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "claw_net",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "vexor-terminal": {
+  "homepage": [
+   "https://vexorterminal.com/"
+  ],
+  "whitepaper": "https://vexorterminal.com/docs",
+  "announcement_url": [],
+  "twitter_screen_name": "VexorTerminal",
+  "repos_url": {
+   "github": [
+    "https://github.com/Vexorterminal0111"
+   ],
+   "bitbucket": []
+  }
+ },
+ "ethereum-history": {
+  "homepage": [
+   "https://www.ethereumhistory.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "EthereumHistory",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "agentbounty-token": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "goekhan",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "mia-ko": {
+  "homepage": [
+   "https://mia.miao.gg/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "maiar": {
+  "homepage": [
+   "https://maiar.dev/"
+  ],
+  "whitepaper": "https://maiar.dev/docs/getting-started",
+  "announcement_url": [],
+  "twitter_screen_name": "maiar_ai",
+  "repos_url": {
+   "github": [
+    "https://github.com/UraniumCorporation/maiar-ai"
+   ],
+   "bitbucket": []
+  }
+ },
+ "mrcashclaw": {
+  "homepage": [
+   "https://mrcashclaw.vercel.app/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "MrCashClaw",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "moltbrain": {
+  "homepage": [
+   "https://www.noahevers.dev/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "noahevers_",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "fetchr-2": {
+  "homepage": [
+   "https://fetchr.guru/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "FetchrEngine",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "oracle-4": {
+  "homepage": [
+   "https://noice.so/oracle"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "noiceagent",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "01111010011110000110001001110100-token": {
+  "homepage": [
+   "https://zxbt.art/",
+   "https://zora.co/@zxbt"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "zxbt_agent",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "sui-desci-agents": {
+  "homepage": [
+   "https://desciagents.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "DeSci_Agents",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "deployr": {
+  "homepage": [
+   "https://x.com/i/communities/1993338706132860993"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "PrintrDeployr",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "deepcore-ai": {
+  "homepage": [
+   "https://deepcore.top/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "DeepCore_io",
+  "repos_url": {
+   "github": [
+    "https://github.com/0xdevpro/deepcore"
+   ],
+   "bitbucket": []
+  }
+ },
+ "r0b": {
+  "homepage": [
+   "https://r0b.fun/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "rob_inh00d",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "sonar-2": {
+  "homepage": [
+   "http://www.sonartech.pro"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "SONAR_on_SONIC",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "shellraiser": {
+  "homepage": [
+   "https://www.moltbook.com/u/Shellraiser"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "shellraze",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "mizukara": {
+  "homepage": [
+   "https://mizukara.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "_anondev",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "toriva": {
+  "homepage": [
+   "https://toriva.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Toriva_",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "shipyard-bot": {
+  "homepage": [
+   "https://shipyard.bot"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "ClaudeArchitect",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "aeonbook": {
+  "homepage": [
+   "https://www.aeonbook.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "aeonbook_",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "clawvault": {
+  "homepage": [
+   "https://clawvault.cc"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "clawvaults",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "agent-keef": {
+  "homepage": [
+   "https://agent.keithtyser.com"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "keef_ai",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "tradetide": {
+  "homepage": [
+   "https://tradetide.cc/"
+  ],
+  "whitepaper": "https://docs.google.com/document/d/1xz0LFEWWo-QgVqxMocV8Z56fS4RVmI04DFFmo1tjGvk/edit?tab=t.0",
+  "announcement_url": [],
+  "twitter_screen_name": "tradetideAI_",
+  "repos_url": {
+   "github": [
+    "https://github.com/TradeTideAI/TradeTide"
+   ],
+   "bitbucket": []
+  }
+ },
+ "din": {
+  "homepage": [
+   "https://din.lol/"
+  ],
+  "whitepaper": "https://docs.din.lol/din-cook-data-for-ai",
+  "announcement_url": [],
+  "twitter_screen_name": "din_lol_",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "berry-finance": {
+  "homepage": [
+   "https://berryfi.org/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "berryfibase",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "litcoin": {
+  "homepage": [
+   "https://www.litcoiin.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "litcoin_AI",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "uniclaw": {
+  "homepage": [
+   "https://uniclaw.org/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "UniClawBot",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "clawnch": {
+  "homepage": [
+   "https://clawn.ch/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "ClawnchDev",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "ttai": {
+  "homepage": [
+   "https://tagai.fun/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "TagAIDAO",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "builder-arena": {
+  "homepage": [
+   "https://builder-arena.vercel.app/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "shirollsasaki",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "myobot": {
+  "homepage": [
+   "https://www.myobot.online/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "molt_myobot",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "giants-protocol": {
+  "homepage": [
+   "https://giantsprotocol.ai/"
+  ],
+  "whitepaper": "https://docsend.com/view/iytnti33tyegrn72",
+  "announcement_url": [],
+  "twitter_screen_name": "giantsprotocol",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "delphic-arena": {
+  "homepage": [
+   "https://delphicarena.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "delphic_arena",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "fleek": {
+  "homepage": [
+   "https://fleek.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "fleek",
+  "repos_url": {
+   "github": [
+    "https://github.com/fleek-platform"
+   ],
+   "bitbucket": []
+  }
+ },
+ "suia": {
+  "homepage": [
+   "https://suia.io/"
+  ],
+  "whitepaper": "https://suia.gitbook.io/suia-wiki/about/overview",
+  "announcement_url": [],
+  "twitter_screen_name": "Suia2023",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "griffin-ai": {
+  "homepage": [
+   "https://www.griffinai.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Griffin_AI",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "evo-2": {
+  "homepage": [
+   "https://evo-hq.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "EVO__HQ",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "aios-foundation": {
+  "homepage": [
+   "https://aios.foundation/"
+  ],
+  "whitepaper": "https://docs.aios.foundation/aios-docs",
+  "announcement_url": [],
+  "twitter_screen_name": "aios_foundation",
+  "repos_url": {
+   "github": [
+    "https://github.com/agiresearch"
+   ],
+   "bitbucket": []
+  }
+ },
+ "agixt": {
+  "homepage": [
+   "https://josh-xt.github.io/AGiXT/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "AGi_XT",
+  "repos_url": {
+   "github": [
+    "https://github.com/Josh-XT/AGiXT"
+   ],
+   "bitbucket": []
+  }
+ },
+ "clawcloudx": {
+  "homepage": [
+   "https://clawcloud.co/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "clawcloudx",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "blai": {
+  "homepage": [
+   "https://www.blaiapp.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "blaiapp",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "singularity-engine": {
+  "homepage": [
+   "https://metatransformer.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "metatransformr",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "clawberry": {
+  "homepage": [
+   "https://clawberrypi.github.io/agent-swarm/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "clawberrypi",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "nipmod": {
+  "homepage": [
+   "https://nipmod.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Nipmod",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "claw-beacon": {
+  "homepage": [
+   "https://clawbeacon.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "ClawBeacon",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "hermes-synth": {
+  "homepage": [
+   "https://hermessynth.org/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "HermesSynth",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "novaex-ai": {
+  "homepage": [
+   "https://novaexai.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Novaex_AI",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "dino-tycoon": {
+  "homepage": [
+   "https://www.dinotycoon.io/"
+  ],
+  "whitepaper": "https://drive.google.com/file/d/1tEe5hCdSVbIGj5KvZAUI7NQwe1DxbZjB/view",
+  "announcement_url": [],
+  "twitter_screen_name": "DinoTycoon_Web3",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "root-edge-2": {
+  "homepage": [
+   "https://thesis.casino",
+   "https://app.rootedge.ai/"
+  ],
+  "whitepaper": "https://rootedge.ai/token",
+  "announcement_url": [],
+  "twitter_screen_name": "Root_Edge",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "sakura-2": {
+  "homepage": [
+   "https://sakuraonseeker.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "sakuramanga_",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "nuit": {
+  "homepage": [
+   "https://www.notte.cc/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "nottecore",
+  "repos_url": {
+   "github": [
+    "https://github.com/nottelabs/notte"
+   ],
+   "bitbucket": []
+  }
+ },
+ "crude": {
+  "homepage": [
+   "https://www.drillcrude.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "DrillCrude",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "memoride": {
+  "homepage": [
+   "https://www.memoride.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "memorideai?s=21",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "neurashi": {
+  "homepage": [
+   "https://neurashi.com/"
+  ],
+  "whitepaper": "https://neurashi.com/whitepaper",
+  "announcement_url": [],
+  "twitter_screen_name": "Neurashi",
+  "repos_url": {
+   "github": [
+    "https://github.com/Neurashi"
+   ],
+   "bitbucket": []
+  }
+ },
+ "deep-live-cam": {
+  "homepage": [
+   "https://github.com/hacksider/Deep-Live-Cam"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "goatseus-maximus": {
+  "homepage": [
+   "https://goatchan.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "gospelofgoatse",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "act-i-the-ai-prophecy": {
+  "homepage": [
+   "https://pump.fun/GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "ACTICOMMUNITY",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "arbdoge-ai": {
+  "homepage": [
+   "https://arbdoge.ai/"
+  ],
+  "whitepaper": "https://docs.arbdoge.ai/",
+  "announcement_url": [],
+  "twitter_screen_name": "ArbDoge_AI",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "-6": {
+  "homepage": [
+   "https://x.com/i/communities/1847401123151564807"
+  ],
+  "whitepaper": "https://zora.co/collect/base:0xd7dae87738cd553d696e201bad3d58ce1267cb3f/1",
+  "announcement_url": [],
+  "twitter_screen_name": "god",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "shoggoth": {
+  "homepage": [
+   "https://shoggoth.monster/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Shoggoth_SOL",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "chaos-2": {
+  "homepage": [
+   "https://simulacrum.network/account/x/aixbt_agent"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "big-pharmai": {
+  "homepage": [
+   "https://bigpharm.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Big_Pharmai",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "iona-by-virtuals": {
+  "homepage": [
+   "https://app.virtuals.io/virtuals/69"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "luminous": {
+  "homepage": [
+   "https://warpcast.com/aethernet/0x9b64c883"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "luminousbase",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "supergemma4-26b-multimodal": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "0xSUPERGEMMA",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "smolcoin-2": {
+  "homepage": [
+   "https://smolcoin.lol/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "smol_coin",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "higher": {
+  "homepage": [
+   "https://www.higher.party/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "higheronchain",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "astropepex": {
+  "homepage": [
+   "https://astropepe.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "AstroPepe_X",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "large-language-model": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "ai160kg",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "piggy-2": {
+  "homepage": [
+   "https://www.piggy.vision/",
+   "https://www.superform.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "based_piggy",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "bnbxbt": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "bnbxbt_agent",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "satoshi-ai-agent-by-virtuals": {
+  "homepage": [
+   "https://app.virtuals.io/virtuals/2047"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "SaintAI_Bot",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "slop": {
+  "homepage": [
+   "https://pump.fun/FqvtZ2UFR9we82Ni4LeacC1zyTiQ77usDo31DUokpump"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "slop_bot",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "flavia-is-online": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "flaviaisonline",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "asymmetrix": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "0xAsymmetrix",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "wai-combinator-by-virtuals": {
+  "homepage": [
+   "https://app.virtuals.io/virtuals/3597"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "wai_combinator",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "wokie-plumpkin-by-virtuals": {
+  "homepage": [
+   "https://app.virtuals.io/virtuals/2250"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "WokiePlumpkin",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "furfication": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "aicoin-4": {
+  "homepage": [
+   "https://x.com/i/communities/2029717787300565108"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "digital-optimus": {
+  "homepage": [
+   "https://x.com/i/communities/2031770585290969406"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "blowfish-2": {
+  "homepage": [
+   "https://github.com/NeukoAI/blowfish"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "blowfishbot",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "mindworms": {
+  "homepage": [
+   "https://mindworms.dev/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "truth-ai": {
+  "homepage": [
+   "https://x.com/i/communities/1996993926587380140"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "staked-tao-root": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "grass": {
+  "homepage": [
+   "https://grass.io/",
+   "https://www.getgrass.io/"
+  ],
+  "whitepaper": "https://wynd-network.gitbook.io/grass-docs",
+  "announcement_url": [],
+  "twitter_screen_name": "grass",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "celium": {
+  "homepage": [
+   "https://lium.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "lium_io",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "chutes": {
+  "homepage": [
+   "https://chutes.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "chutes_ai",
+  "repos_url": {
+   "github": [
+    "https://github.com/rayonlabs/chutes"
+   ],
+   "bitbucket": []
+  }
+ },
+ "score": {
+  "homepage": [
+   "https://www.scorevision.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "webuildscore",
+  "repos_url": {
+   "github": [
+    "https://github.com/score-technologies/score-vision"
+   ],
+   "bitbucket": []
+  }
+ },
+ "affine": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "templar": {
+  "homepage": [
+   "https://www.tplr.ai/"
+  ],
+  "whitepaper": "https://docs.tplr.ai/",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/tplr-ai/templar"
+   ],
+   "bitbucket": []
+  }
+ },
+ "iota-2": {
+  "homepage": [
+   "https://iota.macrocosmos.ai/"
+  ],
+  "whitepaper": "https://iota.macrocosmos.ai/research.pdf",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/macrocosm-os/pretraining"
+   ],
+   "bitbucket": []
+  }
+ },
+ "nova-3": {
+  "homepage": [
+   "https://www.metanova-labs.ai/"
+  ],
+  "whitepaper": "https://www.metanova-labs.ai/whitepapers",
+  "announcement_url": [],
+  "twitter_screen_name": "metanova_labs",
+  "repos_url": {
+   "github": [
+    "https://github.com/metanova-labs/nova/"
+   ],
+   "bitbucket": []
+  }
+ },
+ "gm-3": {
+  "homepage": [
+   "https://saygm.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "say_gm_",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "tiger-alpha": {
+  "homepage": [
+   "https://www.tigerinvests.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "tigerinvests",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "hippius": {
+  "homepage": [
+   "https://hippius.com/"
+  ],
+  "whitepaper": "https://docs.hippius.com/",
+  "announcement_url": [],
+  "twitter_screen_name": "hippius_subnet",
+  "repos_url": {
+   "github": [
+    "https://github.com/thenervelab/thebrain"
+   ],
+   "bitbucket": []
+  }
+ },
+ "okzoo": {
+  "homepage": [
+   "https://okzoo.app/en/docs"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "okzoo_app",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "gradients": {
+  "homepage": [
+   "https://gradients.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/rayonlabs/G.O.D"
+   ],
+   "bitbucket": []
+  }
+ },
+ "ao-computer": {
+  "homepage": [
+   "https://ao.arweave.net/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "aoTheComputer",
+  "repos_url": {
+   "github": [
+    "https://github.com/permaweb/ao"
+   ],
+   "bitbucket": []
+  }
+ },
+ "redteam": {
+  "homepage": [
+   "https://www.theredteam.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/RedTeamSubnet/RedTeam"
+   ],
+   "bitbucket": []
+  }
+ },
+ "codatta": {
+  "homepage": [
+   "https://codatta.io/",
+   "https://app.codatta.io/"
+  ],
+  "whitepaper": "https://docs.codatta.io/codatta",
+  "announcement_url": [],
+  "twitter_screen_name": "codatta_io",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "bitmind": {
+  "homepage": [
+   "https://bitmind.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "BitMindAI",
+  "repos_url": {
+   "github": [
+    "https://github.com/BitMind-AI/bitmind-subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "ridges-ai": {
+  "homepage": [
+   "https://www.ridges.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/ridgesai/ridges"
+   ],
+   "bitbucket": []
+  }
+ },
+ "404-gen": {
+  "homepage": [
+   "https://404.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "404gen_",
+  "repos_url": {
+   "github": [
+    "https://github.com/404-Repo"
+   ],
+   "bitbucket": []
+  }
+ },
+ "openkaito": {
+  "homepage": [
+   "https://wandb.ai/sn-openkaito-openkaito/sn5-validators/reports/OpenKaito-Text-Embedding-Models--Vmlldzo5NjUwODAz"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/OpenKaito/openkaito"
+   ],
+   "bitbucket": []
+  }
+ },
+ "mainframe-2": {
+  "homepage": [
+   "https://www.macrocosmos.ai/sn25"
+  ],
+  "whitepaper": "https://docs.macrocosmos.ai/",
+  "announcement_url": [],
+  "twitter_screen_name": "MacrocosmosAI",
+  "repos_url": {
+   "github": [
+    "https://github.com/macrocosm-os/mainframe"
+   ],
+   "bitbucket": []
+  }
+ },
+ "swarm-3": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/swarm-subnet/swarm"
+   ],
+   "bitbucket": []
+  }
+ },
+ "taohash": {
+  "homepage": [
+   "https://cacheon.ai/"
+  ],
+  "whitepaper": "https://cacheon.ai/docs",
+  "announcement_url": [],
+  "twitter_screen_name": "taohash",
+  "repos_url": {
+   "github": [
+    "https://github.com/latent-to/taohash"
+   ],
+   "bitbucket": []
+  }
+ },
+ "sturdy-subnet": {
+  "homepage": [
+   "https://pareton.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/Sturdy-Subnet/sturdy-subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "flamewire": {
+  "homepage": [
+   "https://flamewire.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "FlameWire_SN",
+  "repos_url": {
+   "github": [
+    "https://github.com/unitone-labs"
+   ],
+   "bitbucket": []
+  }
+ },
+ "rich-kids-of-tao": {
+  "homepage": [
+   "https://www.green-compute.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/Rich-Kids-of-TAO/rkt-subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "apex-5": {
+  "homepage": [
+   "https://www.macrocosmos.ai/sn1"
+  ],
+  "whitepaper": "https://docs.macrocosmos.ai/",
+  "announcement_url": [],
+  "twitter_screen_name": "macrocosmosai",
+  "repos_url": {
+   "github": [
+    "https://github.com/macrocosm-os/apex"
+   ],
+   "bitbucket": []
+  }
+ },
+ "ai-factory": {
+  "homepage": [
+   "https://www.aifact.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "ai_factory_bit",
+  "repos_url": {
+   "github": [
+    "https://github.com/star145s/ai_factory"
+   ],
+   "bitbucket": []
+  }
+ },
+ "alpha-trader-exchange-atx": {
+  "homepage": [
+   "https://qbittensorlabs.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "qBitTensorLabs",
+  "repos_url": {
+   "github": [
+    "https://github.com/qbittensor-labs/quantum"
+   ],
+   "bitbucket": []
+  }
+ },
+ "data-universe": {
+  "homepage": [
+   "https://www.macrocosmos.ai/sn13"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "macrocosmosai",
+  "repos_url": {
+   "github": [
+    "https://github.com/macrocosm-os/data-universe"
+   ],
+   "bitbucket": []
+  }
+ },
+ "dojo-3": {
+  "homepage": [
+   "https://dojo.network/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "TensorplexLabs",
+  "repos_url": {
+   "github": [
+    "https://github.com/tensorplex-labs/dojo"
+   ],
+   "bitbucket": []
+  }
+ },
+ "liquidity": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/creativebuilds/sn77"
+   ],
+   "bitbucket": []
+  }
+ },
+ "synth-2": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/mode-network/synth-subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "oneoneone": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/oneoneone-io/subnet-111"
+   ],
+   "bitbucket": []
+  }
+ },
+ "saga-2": {
+  "homepage": [
+   "https://www.saga.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [
+   "https://medium.com/sagaxyz",
+   "https://mirror.xyz/0x2313968Fc8599aC1aBb56d1D7486221E93243c2A"
+  ],
+  "twitter_screen_name": "Sagaxyz__",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "webgenieai": {
+  "homepage": [
+   "https://www.webgenieai.co/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/web-genie-ai/web-genie-ai"
+   ],
+   "bitbucket": []
+  }
+ },
+ "vidaio": {
+  "homepage": [
+   "https://vidaio.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "vidaio_",
+  "repos_url": {
+   "github": [
+    "https://github.com/vidaio-subnet/vidaio-subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "sportstensor": {
+  "homepage": [
+   "https://www.sportstensor.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "sportstensor",
+  "repos_url": {
+   "github": [
+    "https://github.com/sportstensor/sportstensor"
+   ],
+   "bitbucket": []
+  }
+ },
+ "level-114": {
+  "homepage": [
+   "https://level114.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "level_114",
+  "repos_url": {
+   "github": [
+    "https://github.com/Level114/level114-subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "hodl-etf": {
+  "homepage": [
+   "https://heyditto.com"
+  ],
+  "whitepaper": "https://heyditto.ai/docs/",
+  "announcement_url": [],
+  "twitter_screen_name": "heydittoai",
+  "repos_url": {
+   "github": [
+    "https://github.com/mobiusfund/etf"
+   ],
+   "bitbucket": []
+  }
+ },
+ "compute-horde": {
+  "homepage": [
+   "https://computehorde.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "ComputeHorde",
+  "repos_url": {
+   "github": [
+    "https://github.com/backend-developers-ltd/ComputeHorde/"
+   ],
+   "bitbucket": []
+  }
+ },
+ "readyai": {
+  "homepage": [
+   "https://readyai.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "ReadyAI_",
+  "repos_url": {
+   "github": [
+    "https://github.com/afterpartyai/bittensor-conversation-genome-project"
+   ],
+   "bitbucket": []
+  }
+ },
+ "nextplace": {
+  "homepage": [
+   "https://www.openquantum.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "OpenQuantum_",
+  "repos_url": {
+   "github": [
+    "https://github.com/qbittensor-labs/quantum-compute"
+   ],
+   "bitbucket": []
+  }
+ },
+ "zeus-5": {
+  "homepage": [
+   "https://www.zeussubnet.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/Orpheus-AI/Zeus"
+   ],
+   "bitbucket": []
+  }
+ },
+ "bitsec-ai": {
+  "homepage": [
+   "https://bitsec.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "bitsecai",
+  "repos_url": {
+   "github": [
+    "https://github.com/Bitsec-AI/subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "mind-network": {
+  "homepage": [
+   "https://www.mindnetwork.xyz/"
+  ],
+  "whitepaper": "https://docs.mindnetwork.xyz/minddocs",
+  "announcement_url": [],
+  "twitter_screen_name": "mindnetwork_xyz",
+  "repos_url": {
+   "github": [
+    "https://github.com/mind-network"
+   ],
+   "bitbucket": []
+  }
+ },
+ "nuance-2": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/NuanceNetwork/Nuance"
+   ],
+   "bitbucket": []
+  }
+ },
+ "bettensor": {
+  "homepage": [
+   "https://www.bettensor.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Bettensor",
+  "repos_url": {
+   "github": [
+    "https://github.com/Nickel5-Inc/bettensor"
+   ],
+   "bitbucket": []
+  }
+ },
+ "omega-any-to-any": {
+  "homepage": [
+   "https://adtao.io",
+   "https://x.com/adtao_ppcrebel"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/omegalabsinc/omegalabs-anytoany-bittensor"
+   ],
+   "bitbucket": []
+  }
+ },
+ "masx-ai": {
+  "homepage": [
+   "https://masxai.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "itsai": {
+  "homepage": [
+   "https://its-ai.org/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/It-s-AI/llm-detection"
+   ],
+   "bitbucket": []
+  }
+ },
+ "brain": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/degenpredict/bittensor-subnet-90-brain"
+   ],
+   "bitbucket": []
+  }
+ },
+ "subvortex": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/eclipsevortex/SubVortex"
+   ],
+   "bitbucket": []
+  }
+ },
+ "omron": {
+  "homepage": [
+   "https://omron.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "inference_labs",
+  "repos_url": {
+   "github": [
+    "https://github.com/inference-labs-inc/omron-subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "aos-2": {
+  "homepage": [
+   "https://taos.im/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "taos_im",
+  "repos_url": {
+   "github": [
+    "https://github.com/taos-im/sn-79"
+   ],
+   "bitbucket": []
+  }
+ },
+ "pundi-aifx": {
+  "homepage": [
+   "https://pundi.ai/"
+  ],
+  "whitepaper": "https://pundi.gitbook.io/pundi",
+  "announcement_url": [],
+  "twitter_screen_name": "PundiAI",
+  "repos_url": {
+   "github": [
+    "https://github.com/functionx"
+   ],
+   "bitbucket": []
+  }
+ },
+ "desearch": {
+  "homepage": [
+   "https://console.datura.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/Desearch-ai/subnet-22"
+   ],
+   "bitbucket": []
+  }
+ },
+ "gittensor": {
+  "homepage": [
+   "https://gittensor.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "gittensor_io",
+  "repos_url": {
+   "github": [
+    "https://github.com/entrius/gittensor/tree/main"
+   ],
+   "bitbucket": []
+  }
+ },
+ "precog": {
+  "homepage": [
+   "https://precog.coinmetrics.io/",
+   "https://coinmetrics.io/precog/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "CM_Precog",
+  "repos_url": {
+   "github": [
+    "https://github.com/coinmetrics/precog"
+   ],
+   "bitbucket": []
+  }
+ },
+ "coldint": {
+  "homepage": [
+   "https://coldint.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/coldint/coldint_validator"
+   ],
+   "bitbucket": []
+  }
+ },
+ "infinitehash": {
+  "homepage": [
+   "https://infinitehash.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/backend-developers-ltd/InfiniteHash"
+   ],
+   "bitbucket": []
+  }
+ },
+ "polariscloud-ai": {
+  "homepage": [
+   "https://www.polariscloud.ai/#Home"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "polariscloudai",
+  "repos_url": {
+   "github": [
+    "https://github.com/bigideaafrica/polaris"
+   ],
+   "bitbucket": []
+  }
+ },
+ "merit-2": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/fx-integral/merit"
+   ],
+   "bitbucket": []
+  }
+ },
+ "fakenews": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/gutenberg-team/fakenews-subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "sundae-bar": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "byteleap": {
+  "homepage": [
+   "https://byteleap.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "byteleap_ai",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "swe-rizzo": {
+  "homepage": [
+   "https://gen42.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "gen42ai",
+  "repos_url": {
+   "github": [
+    "https://github.com/brokespace/code"
+   ],
+   "bitbucket": []
+  }
+ },
+ "bitagent-rizzo": {
+  "homepage": [
+   "https://gogoagent.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/RogueTensor/bitagent_subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "ni-compute": {
+  "homepage": [
+   "https://neuralinternet.ai/"
+  ],
+  "whitepaper": "https://docs.neuralinternet.ai/",
+  "announcement_url": [],
+  "twitter_screen_name": "neural_internet",
+  "repos_url": {
+   "github": [
+    "https://github.com/neuralinternet/ni-compute"
+   ],
+   "bitbucket": []
+  }
+ },
+ "streetvision-by-natix": {
+  "homepage": [
+   "https://www.natix.network/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "NATIXNetwork",
+  "repos_url": {
+   "github": [
+    "https://github.com/natixnetwork/streetvision-subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "mantis-2": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/Barbariandev/MANTIS"
+   ],
+   "bitbucket": []
+  }
+ },
+ "better-therapy": {
+  "homepage": [
+   "https://bettertherapy.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "BetterTherapyAI",
+  "repos_url": {
+   "github": [
+    "https://github.com/BetterTherapy/bettertherapy-bittensor-subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "liquidity-provisioning": {
+  "homepage": [
+   "https://nodexo.ai"
+  ],
+  "whitepaper": "https://nodexo.ai/whitepaper",
+  "announcement_url": [],
+  "twitter_screen_name": "nodexo",
+  "repos_url": {
+   "github": [
+    "https://github.com/nodexo-ai"
+   ],
+   "bitbucket": []
+  }
+ },
+ "8-ball": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "sleepless-ai": {
+  "homepage": [
+   "https://www.sleeplessai.net/home"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "SleeplessAI_Lab",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "rna-2": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "cel-ai": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "web-agents-autoppia": {
+  "homepage": [
+   "https://autoppia.com/"
+  ],
+  "whitepaper": "https://autoppia.com/papers/autoppia-whitepaper",
+  "announcement_url": [],
+  "twitter_screen_name": "AutoppiaAI",
+  "repos_url": {
+   "github": [
+    "https://github.com/autoppia/autoppia_web_agents_subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "candles": {
+  "homepage": [
+   "https://candlestao.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/NeuralNexusII/NullUntilBoot"
+   ],
+   "bitbucket": []
+  }
+ },
+ "eastworld": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "poker44": {
+  "homepage": [
+   "https://poker44.net/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "poker44subnet",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "loosh": {
+  "homepage": [
+   "https://www.loosh.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "loosh_ai",
+  "repos_url": {
+   "github": [
+    "https://github.com/Loosh-ai"
+   ],
+   "bitbucket": []
+  }
+ },
+ "cognify": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "checkerchain-2": {
+  "homepage": [
+   "https://checkerchain.com/"
+  ],
+  "whitepaper": "https://docs.checkerchain.com/",
+  "announcement_url": [],
+  "twitter_screen_name": "checkerchain",
+  "repos_url": {
+   "github": [
+    "https://github.com/CheckerChain/"
+   ],
+   "bitbucket": []
+  }
+ },
+ "covalent-x-token": {
+  "homepage": [
+   "https://www.covalenthq.com/"
+  ],
+  "whitepaper": "https://www.covalenthq.com/docs/resources/covalent-network-whitepaper",
+  "announcement_url": [],
+  "twitter_screen_name": "Covalent_HQ",
+  "repos_url": {
+   "github": [
+    "https://github.com/covalenthq"
+   ],
+   "bitbucket": []
+  }
+ },
+ "internet-of-intelligence": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "solmev": {
+  "homepage": [
+   "https://solanamev.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/solmev/a"
+   ],
+   "bitbucket": []
+  }
+ },
+ "taoillium": {
+  "homepage": [
+   "https://taoillium.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Taoillium",
+  "repos_url": {
+   "github": [
+    "https://github.com/taoillium/bittensor-subnet-taoillium"
+   ],
+   "bitbucket": []
+  }
+ },
+ "arai": {
+  "homepage": [
+   "https://www.arai.systems/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "ARAI_Systems",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "effect-ai": {
+  "homepage": [
+   "https://effect.ai/"
+  ],
+  "whitepaper": "https://docs.effect.ai/",
+  "announcement_url": [],
+  "twitter_screen_name": "effectaix",
+  "repos_url": {
+   "github": [
+    "https://github.com/effectai/neo-dev-toolkit"
+   ],
+   "bitbucket": []
+  }
+ },
+ "taonado": {
+  "homepage": [
+   "https://tensorusd.com/",
+   "https://taostats.io/subnets/113"
+  ],
+  "whitepaper": "https://docs.tensorusd.com/whitepaper/tensorusd-whitepaper-v2.0",
+  "announcement_url": [],
+  "twitter_screen_name": "TensorUSD",
+  "repos_url": {
+   "github": [
+    "https://github.com/TensorUSD"
+   ],
+   "bitbucket": []
+  }
+ },
+ "for-sale": {
+  "homepage": [
+   "https://www.condenses.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/condenses/neural-condense-subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "chunking": {
+  "homepage": [
+   "https://subnet.chunking.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/VectorChat/chunking_subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "docs-insight-tatsu": {
+  "homepage": [
+   "https://docs-insights.ai/home"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "TatsuEcosystem",
+  "repos_url": {
+   "github": [
+    "https://github.com/TatsuProject/Document_Understanding_Subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "karma-by-virtuals": {
+  "homepage": [
+   "https://trykarma.app/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "KarmaWallet",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "9gnosis": {
+  "homepage": [
+   "https://9nosis.net/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "plan9nosis",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "reinforced-ai": {
+  "homepage": [
+   "https://reinforced.app/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/ReinforcedAIAudits/solidity-audit"
+   ],
+   "bitbucket": []
+  }
+ },
+ "deepnode": {
+  "homepage": [
+   "https://deepnode.ai/"
+  ],
+  "whitepaper": "https://cdn.deepnode.ai/Whitepaper.pdf",
+  "announcement_url": [],
+  "twitter_screen_name": "DeepNodeAI",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "agentos": {
+  "homepage": [
+   "https://useagentos.dev/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "useAgentOS",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "neza": {
+  "homepage": [
+   "https://neza.video/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "neza_video",
+  "repos_url": {
+   "github": [
+    "https://github.com/subnet99/Neza"
+   ],
+   "bitbucket": []
+  }
+ },
+ "humanode": {
+  "homepage": [
+   "https://humanode.io/"
+  ],
+  "whitepaper": "https://papers.humanode.io/whitepaper.pdf",
+  "announcement_url": [],
+  "twitter_screen_name": "humanode_io",
+  "repos_url": {
+   "github": [
+    "https://github.com/humanode-network"
+   ],
+   "bitbucket": []
+  }
+ },
+ "vimen-by-virtuals": {
+  "homepage": [
+   "https://www.vimen.org/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "vimenprotocol",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "merrymen-by-virtuals": {
+  "homepage": [
+   "https://merrymen.dev/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "merrymenai",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "bleeep-by-virtuals": {
+  "homepage": [
+   "https://app.virtuals.io/virtuals/105665"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "bleeep_xyz",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "bitads": {
+  "homepage": [
+   "https://bitads.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/eseckft/BitAds.ai"
+   ],
+   "bitbucket": []
+  }
+ },
+ "happyai-2": {
+  "homepage": [
+   "https://www.happysmile.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Smile_mem",
+  "repos_url": {
+   "github": [
+    "https://github.com/graph-it-uk/HappyAI-subnet"
+   ],
+   "bitbucket": []
+  }
+ },
+ "humanoid-network-by-virtuals": {
+  "homepage": [
+   "https://humanoidnetwork.org/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "HumanoidNetwork",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "vericore": {
+  "homepage": [
+   "https://www.vericore.dfusion.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/dfusionai/Vericore"
+   ],
+   "bitbucket": []
+  }
+ },
+ "basemate": {
+  "homepage": [
+   "https://basemate.app/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "basemateagent",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "privacy-hood-by-virtuals": {
+  "homepage": [
+   "https://www.privacyhood.app/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "PrivacyHood",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "rhetor": {
+  "homepage": [
+   "https://rhetor.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "rhetor_ai",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "fletcher-by-virtuals": {
+  "homepage": [
+   "https://fletcher.cards/gacha"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "Fletcher_cards",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "helixa-cred": {
+  "homepage": [
+   "https://helixa.xyz/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "helixaxyz",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "miao": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/MIAOAI-Subnet/MIAOAI_SUBNET"
+   ],
+   "bitbucket": []
+  }
+ },
+ "molt-bunker": {
+  "homepage": [
+   "https://moltbunker.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "moltbunker",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "agent-arena-by-masa": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "safe-scan": {
+  "homepage": [
+   "https://safe-scan.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "SAFESCAN_AI",
+  "repos_url": {
+   "github": [
+    "https://github.com/safe-scan-ai/cancer-ai"
+   ],
+   "bitbucket": []
+  }
+ },
+ "inferra": {
+  "homepage": [
+   "https://inferra.trade/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "InferraTrade",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "grantr": {
+  "homepage": [
+   "https://grantr.id/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "grantr_id",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "dealign-ai": {
+  "homepage": [
+   "https://dealign.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "0xdealignAI",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "0xdirectping": {
+  "homepage": [
+   "https://0xdirectping.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "0xdirectping_",
+  "repos_url": {
+   "github": [
+    "https://github.com/0xdirectping/app"
+   ],
+   "bitbucket": []
+  }
+ },
+ "cloister": {
+  "homepage": [
+   "https://cloister.space/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "cloister_space",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "syntheticsai": {
+  "homepage": [
+   "https://syntheticuser.org/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "SyntheticsAI_",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "trava-finance": {
+  "homepage": [
+   "https://trava.finance/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [
+   "https://blog.trava.finance/"
+  ],
+  "twitter_screen_name": "trava_finance",
+  "repos_url": {
+   "github": [
+    "https://github.com/TravaFinance"
+   ],
+   "bitbucket": []
+  }
+ },
+ "ranger-ai": {
+  "homepage": [
+   "https://www.rangerai.tech/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "RangerAI_tech",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "dackieswap-2": {
+  "homepage": [
+   "https://www.dackieswap.xyz"
+  ],
+  "whitepaper": "https://docs.dackieswap.xyz/",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "boom-2": {
+  "homepage": [
+   "https://boomai.io/"
+  ],
+  "whitepaper": "https://boomofficial.gitbook.io/boom-whitepaper",
+  "announcement_url": [],
+  "twitter_screen_name": "BOOM_FND",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "keel": {
+  "homepage": [
+   "https://pools.trade/t/0x5599b56bc8d1c7c87a05b6ef5F903997a8c1e8dC",
+   "https://keel.ag/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "keel_ag",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "quanthood": {
+  "homepage": [
+   "https://quanthood.com/#/home"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "QuantHoodApp",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "hoodclaw-by-virtuals": {
+  "homepage": [
+   "https://hoodclaw.ai/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "hoodclaw_ai",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "vibecoin-2": {
+  "homepage": [
+   "https://www.vibecoin.cash"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "sproutai": {
+  "homepage": [
+   "https://sproutaimodel.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "swirl-chat": {
+  "homepage": [
+   "https://swirls.chat/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "SwirlChatAi",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "promptale-ai": {
+  "homepage": [
+   "https://www.promptale.io/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "PrompTale",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "project-ailey": {
+  "homepage": [
+   "https://myailey.com/"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "aileyverse",
+  "repos_url": {
+   "github": [],
+   "bitbucket": []
+  }
+ },
+ "securechain-ai-2": {
+  "homepage": [],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "SecureChainAI",
+  "repos_url": {
+   "github": [
+    "https://github.com/securechainai"
+   ],
+   "bitbucket": []
+  }
+ },
+ "soundsright": {
+  "homepage": [
+   "https://b1m.ai"
+  ],
+  "whitepaper": "",
+  "announcement_url": [],
+  "twitter_screen_name": "",
+  "repos_url": {
+   "github": [
+    "https://github.com/synapsec-ai/soundsright-subnet"
+   ],
+   "bitbucket": []
+  }
+ }
+}

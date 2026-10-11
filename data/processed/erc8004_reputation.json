@@ -1,0 +1,36 @@
+{
+ "_source": "Dune query 8617120 (IdentityRegistry.register and ReputationRegistry.giveFeedback, agent_erc8004_multichain plus the ethereum_ethereum mainnet namespace), through the 2026-09-01 T2 cutoff. Transcribed by hand; the free tier has no export.",
+ "cutoff": "2026-09-01",
+ "chains": [
+  {
+   "chain": "base",
+   "calls": 458700,
+   "senders": 13378
+  },
+  {
+   "chain": "bnb",
+   "calls": 29626,
+   "senders": 108
+  },
+  {
+   "chain": "monad",
+   "calls": 9170,
+   "senders": 7690
+  },
+  {
+   "chain": "gnosis",
+   "calls": 4341,
+   "senders": 1
+  },
+  {
+   "chain": "ethereum",
+   "calls": 3319,
+   "senders": 680
+  },
+  {
+   "chain": "polygon",
+   "calls": 411,
+   "senders": 15
+  }
+ ]
+}

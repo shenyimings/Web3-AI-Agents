@@ -1,0 +1,258 @@
+{
+  "nodecoin": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "\"monetize their unused internet bandwidth by contributing to AI training and development\" via \"bandwidth sharing, real-time data retrieval\" -- a Grass-shaped data-contribution network",
+    "sibling": null
+  },
+  "tatsu": {
+    "labels": ["infrastructure"],
+    "facet": "model",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"decentralized platform where users can access a variety of AI services...powered by distributed machine learning models running on the Bittensor network\" -- sells model answers, not machine time",
+    "sibling": null
+  },
+  "sallar-2": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "\"transform smartphones into computational nodes...share their devices' processing power in exchange for rewards\" -- metered compute marketplace, DePIN label",
+    "sibling": null
+  },
+  "clore-ai": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "\"connects individuals and businesses seeking to utilize high-performance GPUs...minute-by-minute billing system\" -- DePIN label, metered GPU hours",
+    "sibling": null
+  },
+  "chatoshi": {
+    "labels": ["copilot"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"proprietary AI-powered Web3 browser and search engine that enables its users to simply and effectively navigate...blockchain and the wider Web3 ecosystem\" -- a chat/search interface to the chain, for humans",
+    "sibling": null
+  },
+  "meta-financial-ai": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"delivers real-time structural market bias signals for strategic decision-making\" -- the product is information, no execution described",
+    "sibling": null
+  },
+  "replycorp": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"puts fully functional applications directly onto every major social media platform...AI-powered flows right in the comments\" -- a platform for deploying AI-driven social apps, closest to an agent-app hosting layer; genuinely borderline",
+    "sibling": null
+  },
+  "gaimin": {
+    "labels": ["infrastructure", "game"],
+    "facet": "compute",
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "explicit dual function: \"Decentralized computation: Biggest active decentralized GPU sharing network\" and separately \"Gaming: We own Gaimin Gladiators, one of the top esports organizations\" -- DePIN + Gaming(GameFi) labels both fire",
+    "sibling": null
+  },
+  "deepnode": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"DeepNode is the foundation for open, honest AI. Rewarding relevance and solving a whole world of problems.\" -- pure marketing, no product function stated",
+    "sibling": null
+  },
+  "vericore": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Open Semantic Verification - dFusion AI Bittensor Subnet\" -- a verification service, github one-line summary",
+    "sibling": null
+  },
+  "play-ai": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"primary economic incentive for the Orchestration Layer...soon $PLAI will be the backbone powering all automation across the internet\" -- token-utility marketing with no description of what the orchestration layer actually does",
+    "sibling": null
+  },
+  "dtravel": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"Dtravel is building the trust layer for peer-to-peer travel...TRVL is the token underpinning the network's trust and reputation layer\" -- no AI or agent content anywhere in the description despite the AI frame category",
+    "sibling": null
+  },
+  "meridian-2": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"provides payment rails as a service for any AI agent framework...universal payment infrastructure...enabling true cross-platform agent collaboration\" -- moves money for agents; no infrastructure facet (chain/compute/model/data) fits a payment-rail product",
+    "sibling": null
+  },
+  "cudos": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "rule",
+    "confidence": "medium",
+    "why": "in_t1_cohort true but no t1_label supplied, coded fresh: \"CUDOS powers a decentralised compute network...decentralised computing layer bridging on-chain and off-chain resources\" -- DePIN label, compute is the sold layer despite the L1 validator plumbing underneath",
+    "sibling": null
+  },
+  "bitscrunch-token": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "\"decentralized, AI-enhanced data network delivers unmatched analytics and forensic data for NFTs, wallets, and other digital assets\" -- Analytics label fires",
+    "sibling": null
+  },
+  "infraxa": {
+    "labels": ["defai", "analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "explicit three-layer architecture: \"execution layer...offering gasless token swaps\" and \"payments layer...for machine-to-machine transactions\" (defai) plus \"intelligence layer providing deep research APIs, vector database storage, and web search capabilities\" (analytics)",
+    "sibling": null
+  },
+  "9gnosis": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"9NOSIS 9nosis loading... scroll zoom drag pan dbl-click reset...\" -- garbled homepage scrape, no legible description",
+    "sibling": null
+  },
+  "agentos": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"local-first AI agent with native agentic trading, across CLI, Web UI, and chat channels\" -- an agent that trades",
+    "sibling": null
+  },
+  "ratio1": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "\"decentralized AI compute network that enables trustless execution of machine learning workloads across independently operated edge nodes\" -- DePIN label, metered compute/license model",
+    "sibling": null
+  },
+  "purefi": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"one-stop compliance protocol for DeFi...compliance tools (AML, KYC) through Verifiable Credentials & Self Sovereign Identity\" -- no AI or agent content anywhere despite the AI frame category",
+    "sibling": null
+  },
+  "humanode": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"Humanode is the first blockchain secured by verified humans, not machines or money.\" -- no AI or agent content in the description",
+    "sibling": null
+  },
+  "myrad": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"two-sided marketplace for verifiable human data...On the other side, AI, robotics, and consumer teams buy access to that data\" -- a data resource layer the agent stack reads from, Ocean-Protocol/Grass-shaped",
+    "sibling": null
+  },
+  "armaraos": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"sovereign AI operating system designed for local-first agent deployment...Core agents are included with the operating system, while premium agents are unlocked through the $ARMARA token\" -- agent hosting/app-store shape; the generic \"Infrastructure\" CG label is not fired on",
+    "sibling": null
+  },
+  "bleeep-by-virtuals": {
+    "labels": ["launchpad"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "\"These agents are tokenized through Agent Tokens, enabling capital formation, permissionless participation, and incentive alignment\" -- Virtuals Protocol Ecosystem label, description is about launching agents not memecoins",
+    "sibling": null
+  },
+  "alpie": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"building complete artificial intelligence infrastructure that supports the development, deployment, and operation of AI systems...work with AI models, tooling, and workflows\" -- vague enterprise AI-tooling framing, genuinely borderline",
+    "sibling": null
+  },
+  "token-3": {
+    "labels": ["infrastructure"],
+    "facet": "model",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"Pay-per-call access to hundreds of language models...Each call settles itself on chain in USDC\" -- sells model answers, not machine time",
+    "sibling": null
+  },
+  "nuklai": {
+    "labels": ["infrastructure"],
+    "facet": "chain",
+    "provenance": "rule",
+    "confidence": "medium",
+    "why": "\"Layer 1 blockchain infrastructure designed to accommodate big data infrastructure that is used to enhance and empower next generation AI models\" -- Layer 1 (L1) label, ships a chain so consensus dominates the facet call",
+    "sibling": null
+  },
+  "atlas-navi": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"uses A.I. and the smartphone camera to avoid traffic by detecting road conditions\" -- a computer-vision feature in a Drive-to-Earn NFT app, no agent and no agent-serving function; genuinely borderline",
+    "sibling": null
+  },
+  "vantis-by-virtuals": {
+    "labels": ["builder", "analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "explicit dual function across the product line: \"Pabrik, an AI application builder\" and \"Trillion, an invite-only interface that makes brokerage portfolios readable by AI assistants over the Model Context Protocol\"; genuinely borderline given the breadth of the product line",
+    "sibling": null
+  },
+  "eden-3": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"mapping wild, edible plants globally, educating on natural medicine, and launching a healthy products marketplace. With AI, AR, and RWA tech\" -- AI is a marketing tag-along, no substantive function described",
+    "sibling": null
+  },
+  "bitrecs": {
+    "labels": ["infrastructure"],
+    "facet": "model",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"leverages a consortium of large language model (LLM) calls from miners to generate a 'best guess' of what a customer might be interested in\" -- Bittensor subnet whose output is a model answer",
+    "sibling": null
+  },
+  "shadow-combat-league": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"next-generation combat sports league where humanoid robots compete in real-world arenas, powered by AI, robotics, and blockchain technology\" -- agent competition, Game & Metaverse shape",
+    "sibling": null
+  }
+}

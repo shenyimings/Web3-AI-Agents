@@ -1,0 +1,258 @@
+{
+  "vectorchat-ai": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "allowing users to upload extensive datasets, create and interact with diverse AI characters",
+    "sibling": null
+  },
+  "oracle-of-preferences-zk-by-virtuals": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "privacy-first preference oracle utilizing zero-knowledge proofs to create monetizable digital twins",
+    "sibling": null
+  },
+  "jackal-protocol": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "DePIN / Storage CoinGecko labels; description: 'a blockchain and data storage network that is fast, ultra-secure'",
+    "sibling": null
+  },
+  "momo-5": {
+    "labels": ["builder", "analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "no-code application creation directly from a conversational interface ... integrate APIs, analyze blockchain wallets, discover yield opportunities",
+    "sibling": null
+  },
+  "i-emmet": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "AI agent with my own Universal Profile on LUKSO ... Exploring on-chain identity, one tentacle at a time",
+    "sibling": null
+  },
+  "juliaos": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "AI Framework CoinGecko label; description: 'open-source operating system for AI agents and swarms ... modular agents coordinate like swarms'",
+    "sibling": null
+  },
+  "blormmy": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "Users can ask Blormmy to swap or transfer tokens using simple natural language prompts",
+    "sibling": null
+  },
+  "mythos-router": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "forces AI agents to prove their file edits against your actual filesystem. Zero slop. Full verification.",
+    "sibling": null
+  },
+  "scoutly-ai": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "Analytics CoinGecko label; description: 'up to data analysis of sports betting markets and odds ... data driven betting picks'",
+    "sibling": null
+  },
+  "crustafarianism": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "AI Agents CoinGecko label with no other product than the lore itself: 'We are the documents we maintain'",
+    "sibling": null
+  },
+  "litcoin": {
+    "labels": ["defai", "infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "DeFAI CoinGecko label; description: 'AI agents solve real optimization problems and earn LITCOIN. Mining, staking, vaults, LITCREDIT, compute marketplace'",
+    "sibling": null
+  },
+  "aarna-afi-802v2": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "DeFAI CoinGecko label; description: 'combining AI-driven alpha discovery with fully onchain execution ... Strategies are tokenized into structured vaults'",
+    "sibling": null
+  },
+  "weird-medieval-memes": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "Meme CoinGecko label; description: 'an AI Medieval Meme Generator that anyone can use'",
+    "sibling": null
+  },
+  "alliewai": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "the first human-realistic AI avatar with a face and voice. She speaks, replies, and guides users in real time",
+    "sibling": null
+  },
+  "blendr-network": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "DePIN CoinGecko label; description: 'Revolutionizing GPU Computing ... scalable, secure computing' for AI and rendering",
+    "sibling": "comput3"
+  },
+  "asktianai": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "provides personalized spiritual guidance ... generate context-aware divinations for individuals across identity, health, relationships, and destiny",
+    "sibling": null
+  },
+  "robora": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "Functioning as a framework and marketplace that empowers users to build, train, deploy, and monetize intelligent Synths/Robots",
+    "sibling": "robostack"
+  },
+  "botify": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "T1 precedence: row carries t1_label 'builder', kept verbatim despite T2 description reading as an e-commerce/agent-marketplace pitch ('the Shopify of crypto')",
+    "sibling": null
+  },
+  "robostack": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "Built on RCP, RoboStack offers a suite of integrated solutions ... Agent Integration – Connect Ai agents with simulated robotic behaviour",
+    "sibling": "robora"
+  },
+  "axobotl": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "Deploy agents that earn USDC autonomously on Base",
+    "sibling": null
+  },
+  "metainside-by-virtuals": {
+    "labels": ["copilot"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "multi-AI agent platform for seamless DApp development ... no-code AI-assisted creation and direct coding options",
+    "sibling": null
+  },
+  "paca-ai": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "an on-ramp for AI agents, decentralized R&D lab and marketplace ... marketplace allows developers to share their models and tools",
+    "sibling": null
+  },
+  "cv3": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "It's not just a job board. It's an AI hiring agent and on-chain trust layer ... Verifies your experience (work history, GitHub, LinkedIn) on-chain",
+    "sibling": null
+  },
+  "openagentmarket": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "The Uber for agents. Build earning agents and let them hire other agents to get more done.",
+    "sibling": null
+  },
+  "luksoagent": {
+    "labels": ["copilot"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "AI-powered assistant for UPs, LSPs & cross-chain identity. Helping devs & community navigate the LUKSO ecosystem",
+    "sibling": null
+  },
+  "h4ck-terminal-by-virtuals": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "description is the generic Virtuals Protocol ecosystem boilerplate ('a society of productive AI agents...') and says nothing specific about H4CK Terminal itself",
+    "sibling": null
+  },
+  "byte-4": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "the utility token of an agentic gaming platform ... a customizable 3D agent that plays games on their behalf",
+    "sibling": null
+  },
+  "jailbreakme": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "organizations test their AI models while users earn rewards for finding weaknesses and jailbreaking them",
+    "sibling": null
+  },
+  "fishwar": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "Gaming (GameFi) CoinGecko label; description: 'The Future of AI-Powered GameFi on SEI'",
+    "sibling": null
+  },
+  "xenopus-laevis": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "description carries no AI or agent content, only frog biology: 'have been known to survive 15 or more years in the wild'",
+    "sibling": null
+  },
+  "sensus": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "creating a rich ecosystem of interconnected AI agent frameworks ... designed to collect, coordinate, and establish the foundational infrastructure for everything that follows",
+    "sibling": null
+  },
+  "comput3": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "DePIN CoinGecko label; description: 'Scalable GPU infrastructure for Agents, Apps & Teams'",
+    "sibling": "blendr-network"
+  }
+}

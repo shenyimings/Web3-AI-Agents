@@ -1,0 +1,39 @@
+{
+ "_source": "Dune queries 8573849 and 8573851 over x402x_base.settlementrouter_evt_settled (Base), all activity through the 2026-09-01 T2 cutoff. Transcribed by hand because the free tier has no API export; re-run the queries to refresh. The 2025-12-04 block comes from the same table filtered to that day.",
+ "cutoff": "2026-09-01",
+ "contract": "SettlementRouter",
+ "chain": "Base",
+ "asset": "USDC",
+ "settlements": 432913,
+ "payers": 7079,
+ "payees": 1341,
+ "usd": 130170.97,
+ "median_usd": 0.001171,
+ "p90_usd": 0.005724,
+ "p99_usd": 0.5815,
+ "mean_usd": 0.3,
+ "largest_usd": 9997.01,
+ "under_cent": 410744,
+ "under_dollar": 429637,
+ "burst": {
+  "date": "2025-12-04",
+  "settlements": 2544,
+  "usd": 103687,
+  "addresses": 1473,
+  "relaying_addresses": 622,
+  "forwarded_usd": 43586,
+  "uniform_payments": 763,
+  "uniform_usd": 100.01,
+  "seed_usd": 9997
+ },
+ "month_detail": {
+  "2025-12": {
+   "median_usd": 8.63,
+   "largest_usd": 9997.01
+  },
+  "2026-03": {
+   "median_usd": 0.0012,
+   "largest_usd": 0.1
+  }
+ }
+}

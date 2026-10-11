@@ -1,0 +1,258 @@
+{
+  "openkaito": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "the only text is a Weights & Biases boilerplate line, \"Publish your model insights with interactive plots for performance metrics, predictions, and hyperparameters\", which describes the hosting tool and not the subnet's product",
+    "sibling": null
+  },
+  "404-gen": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"democratize 3D content creation, empowering everyone to create immersive 3D worlds, games, and AR/VR/XR experiences effortlessly, from a text prompt\" — the product is generated media",
+    "sibling": null
+  },
+  "nineteen-ai": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"decentralised RPC infrastructure on Bittensor. Subnet 19 miners run blockchain nodes ... behind a load-balanced gateway\" sold as \"low-latency RPC\" priced against QuickNode and Infura — metered node throughput, so the compute facet",
+    "sibling": null
+  },
+  "lagrange": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CoinGecko label \"Zero Knowledge (ZK)\" fires the manual's trust rule; the blurb confirms it — \"ZK Prover Network\" whose coprocessor \"can generate a proof of correct computation\"",
+    "sibling": null
+  },
+  "mainframe-2": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Generalized Scientific Compute on BIttensor ... dft molecular-dynamics\" — machine time sold for scientific workloads; a one-line github-sourced summary, hence low",
+    "sibling": null
+  },
+  "swarm-3": {
+    "labels": ["infrastructure"],
+    "facet": "model",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Swarm — Autonomous Drone Navigation ai ai-agents drone robotics robotics-competition\" — an incentivized competition whose output is a navigation policy, i.e. a model; github-sourced one-liner, hence low",
+    "sibling": null
+  },
+  "frok-ai": {
+    "labels": ["infrastructure"],
+    "facet": "model",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"intelligence (test-time compute) is priced and distributed similarly to blockspace and gas markets\" with the form-factor being \"pay-per-use, raw intelligence\" — what is sold is the answer, not machine time; T1 cohort member but carries no T1 coded label, so no precedence applies",
+    "sibling": null
+  },
+  "taohash": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"Compete to write the fastest GPU kernels for LLM inference ... real reason to route traffic\" — the subnet's product is inference-serving throughput",
+    "sibling": null
+  },
+  "alpha-trader-exchange-atx": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Decentralized deep tech. Innovation from everywhere. Quantum computing, AI, and decentralized networks powered by Bittensor\" names no product or function to code",
+    "sibling": "graphite"
+  },
+  "forta": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"AI-powered on-chain security and compliance solution that proactively blocks harmful activity\" and \"stops malicious transactions before execution at the RPC level\" — a network that attests to transaction safety, not a tool a human writes code with",
+    "sibling": null
+  },
+  "rich-kids-of-tao": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"Rent 4090s and 5090s by the hour, run OpenAI-compatible inference, or earn rewards as a miner\" — metered hardware time; same shape as basilica",
+    "sibling": "w-ai-parked"
+  },
+  "w-ai-parked": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"a decentralized compute marketplace ... provides high-performance GPU compute resources for AI workloads\"; same shape as Green Compute",
+    "sibling": "rich-kids-of-tao"
+  },
+  "apex-5": {
+    "labels": ["infrastructure"],
+    "facet": "model",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Each competition rewards the best-performing algorithm submitted by the agent network\" — the output rewarded is a submitted model; the rest of the scraped page is an empty dashboard, hence low",
+    "sibling": null
+  },
+  "limewire-token": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "the token \"powers the LimeWire Network, a leading decentralized storage network with enterprise-grade performance and full S3 compatibility\"; the AI side of the blurb names no second explicit function, so single-label",
+    "sibling": null
+  },
+  "dippy": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"AI friends that care about you\" — a virtual companion, which the manual places under Game & Metaverse; same shape as the emotional-companion sibling",
+    "sibling": "solace-2"
+  },
+  "marlin": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"High-performance network infrastructure for modern decentralized networks\" — relay and throughput capacity; the blurb is one line, so the facet call is weak",
+    "sibling": null
+  },
+  "sturdy-subnet": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"continuously discovers, validates, and deploys the optimal serving configuration for your inference workload\" — what is sold is inference-serving capacity, not the model itself",
+    "sibling": null
+  },
+  "data-universe": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"Data collection from billions of social media conversations. Access data from X, Reddit, and YouTube — ready for AI, analytics, research\" — a data marketplace, coded as the manual codes Tagger/PublicAI/Reppo",
+    "sibling": "oneoneone"
+  },
+  "agoras-currency-of-tau": {
+    "labels": ["infrastructure"],
+    "facet": "chain",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"the native cryptocurrency of Tau Net's economy\" whose \"tokenomics ... automatically evolves ... from block to block\" and which runs \"much more powerful smart contracts\" — the project ships a chain",
+    "sibling": null
+  },
+  "ai-factory": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "the homepage text is a domain-sale page — \"Own aifact.io today. Secure checkout and guided transfer support. No hidden fees.\" — so no self-description exists",
+    "sibling": "dojo-3"
+  },
+  "patrol-tao-com": {
+    "labels": ["infrastructure"],
+    "facet": "model",
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"the reinforcement learning fine-tuning and post-training layer\" that \"transforms foundation models from pre-training subnets into deployable, aligned AI systems\" — what is produced is weights",
+    "sibling": null
+  },
+  "dojo-3": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "the recorded description is GitHub boilerplate — \"Contribute to tensorplex-labs/dojo development by creating an account on GitHub\" — and states no function",
+    "sibling": "ai-factory"
+  },
+  "hera-finance": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"an AI-powered multichain dex aggregator offering ... the best route discovery between any token pairs\" — routing and executing swaps moves money",
+    "sibling": null
+  },
+  "saga-2": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"builds AI agents that turn characters, brands, and worlds into living digital participants that can engage, adapt, and grow\" — agent characters and worlds; the description outranks the L1/Appchain labels in the evidence order, and no T1 coded label exists for this cohort member",
+    "sibling": null
+  },
+  "oneoneone": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"specializes in collecting, validating, and serving high-quality user-generated content from platforms across the web\" — the resource layer the agent stack reads from; same shape as Data Universe",
+    "sibling": "data-universe"
+  },
+  "natix-network": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"a decentralized multi-camera data network that crowdsources real-world driving footage to power Physical AI\"; the DePIN label agrees, and the facet follows the crowdsourced dataset being sold",
+    "sibling": "data-universe"
+  },
+  "zeus-5": {
+    "labels": ["infrastructure"],
+    "facet": "model",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Zeus API for energy traders: ERA5-benchmarked vs ECMWF IFS and 4.5h ahead of ECMWF\" — the subnet sells a forecasting model's answers; the buyer being a trader does not make the product crypto market intelligence",
+    "sibling": null
+  },
+  "graphite": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Delivering state-of-the-art graph solutions\" does not say whether the graphs are knowledge graphs, an optimization service, or an indexing layer",
+    "sibling": "alpha-trader-exchange-atx"
+  },
+  "kryll": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CoinGecko label \"Analytics\" fires the manual's analytics rule; the blurb agrees — \"X-Ray is a market analysis tool using AI to evaluate tokens\" and \"Gem Detector identifies emerging high-potential tokens\", with no execution claimed",
+    "sibling": null
+  },
+  "readyai": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"10,000+ websites crawled, cleaned, and structured into machine-readable data for AI agents\" — crawling and data supply; same shape as Data Universe",
+    "sibling": "data-universe"
+  },
+  "mind-network": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"pioneering FHE for a Fully Encrypted Web3 ... end-to-end encryption for the whole industry, starting with AI, modular chains, gaming, and DePin\" — a cryptographic assurance layer under the stack",
+    "sibling": null
+  },
+  "vidaio": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"provides scalable, affordable, and high-quality video processing solutions\" — metered transcoding throughput, the facet the manual assigns Livepeer and Theta",
+    "sibling": null
+  }
+}

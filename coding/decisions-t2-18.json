@@ -1,0 +1,258 @@
+{
+  "pharmachain-ai": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"tells you which Pharmacy has a medicine in real time & predicts medication shortages\" -- an AI health-data/logistics product with no agent and no Web3 integration beyond the token; same pattern as Galeon/DrPal (out-of-scope).",
+    "sibling": null
+  },
+  "druid-ai": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"empowers users to transform any image or NFT into a fully interactive AI agent\" -- a no-code agent-creation tool; the CG 'AI Agent Launchpad' label does not match (no token-launch/bonding-curve content), so read rather than rule.",
+    "sibling": null
+  },
+  "coral-finance": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "medium",
+    "why": "\"Coral Finance is a DeFAI application layer and a premier marketplace for pre-market, allowing users to find, trade and participate in early alpha\" -- CG 'DeFAI' rule-table label, product moves money (pre-market trading).",
+    "sibling": null
+  },
+  "openzaps": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Hermes can simulate, submit, monitor, alert, and revoke\" approved DeFi workflows -- an agent that executes bounded DeFi transactions; the policy-capsule framing is a guardrail feature on top of a money-moving product, not a trust product itself.",
+    "sibling": null
+  },
+  "threatslayerai-by-virtuals": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"here to protect Web2 and Web3 with AI\" via a browser extension against web-based threats -- nearest fit is the security/verification layer (`trust`); genuinely thin against the category's TEE/oracle/registry examples.",
+    "sibling": null
+  },
+  "bacon-protocol": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"virtual Key Opinion Leaders (KOLs)—AI-driven influencers—are expected to become the cornerstone of future social media landscapes\" -- agents whose output is social content.",
+    "sibling": null
+  },
+  "capix-protocol": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "\"raw bare-metal GPU compute and distributed, underutilized AI inference layers... Lease by the token. Liquidate spare inference.\" -- metered hardware time; CG 'Infrastructure' label plus explicit DePIN framing.",
+    "sibling": null
+  },
+  "elytra": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"delivers real time, quantitative strategies through a transparent system\" is the current product; \"It will evolve into a fully autonomous portfolio manager\" is future tense, so no second label yet.",
+    "sibling": null
+  },
+  "dackieswap-2": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"DackieSwap delivers superior swap results as the leading Meta Aggregator of Aggregators\" -- no AI or agent content anywhere in the description despite the CG 'Artificial Intelligence (AI)' tag; an ordinary DEX aggregator.",
+    "sibling": null
+  },
+  "braza-by-virtuals": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"helping Brazilians make better financial decisions... provide personalized guidance and insights\" -- advisory/information product, no execution described.",
+    "sibling": null
+  },
+  "internosaur": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"innovative meme token that blends humor and community spirit within the cryptocurrency space\" -- no AI or agent content anywhere despite the 'AI Meme'/'AI Agents' CG labels.",
+    "sibling": null
+  },
+  "sonar-2": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"we eliminate the need for complicated address strings and connect everything across the web from your wallet, emails and official documents to loyalty cards\" -- an NFT-avatar identity tool with no AI or agent content in the description.",
+    "sibling": null
+  },
+  "suissma-ai-by-virtuals": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"cutting-edge AI tools for seamless content creation, automation, and publishing... creating captivating posts, reels, and memes\" -- agent output is social/media content.",
+    "sibling": null
+  },
+  "frego": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"the first complete trust & safety platform for AI agents in web3... behavioral and payment guardrails, compliance automation\" -- verification/attestation layer for agent transactions.",
+    "sibling": null
+  },
+  "don-pepex": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"generates real-time crypto and stock market intelligence... publishes insights, risk assessments, and trend analyses\" -- an information product with meme branding; coded on the product, not the branding.",
+    "sibling": null
+  },
+  "atelier": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"Browse, hire, and pay AI agents for images, video, design & UGC — all on-chain\" -- agents whose output is media.",
+    "sibling": null
+  },
+  "nazareai": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "medium",
+    "why": "\"building autonomous AI workforce. The token is used as a reward between AI workforce to reward them for good work\" -- an agent-training/coordination framework; CG 'AI Framework' rule-table label.",
+    "sibling": null
+  },
+  "elixir-ai": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"convert 2D images or text prompts into high-quality 3D assets... AI-driven 3D content generation\" -- an AI media-generation product for Web3 creators.",
+    "sibling": null
+  },
+  "beat-matchmaker": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"fuels the development of cutting-edge tools and platforms that uplift emerging music talent, streamline music distribution\" -- no AI or agent content anywhere despite the 'AI Applications' CG label.",
+    "sibling": null
+  },
+  "redacted-terminal": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "description is redacted throughout (\"harnessing the potential of AI ██████, deploying swarms of ██████ agents\") -- AI/agent content is present but every specific noun is blacked out, leaving no readable basis to pick a subcategory.",
+    "sibling": null
+  },
+  "victorai-by-virtuals": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"charismatic AI sports personality who loves to bet against you directly on X... each backed by their own DAO. Place bets, discuss games, own teams\" -- an AI persona/character product, coded nearest as virtual companion rather than analytics since it is entertainment/social wagering, not investment research.",
+    "sibling": null
+  },
+  "rosscoin": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"the first cross-framework, multi-environment, self-evolving AI swarm\" is the only concrete product claim amid tribute/movement copy; thin but a genuine agent-framework claim.",
+    "sibling": null
+  },
+  "the-blinking-ai-cat-catfather": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"allows users to create unique, AI-generated Blinks... making personalized, real-time content creation more accessible\" -- AI-generated content tool.",
+    "sibling": null
+  },
+  "arcturian-ai-by-virtuals": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"We incubate and launch AI agents both in-house and in collaboration with visionary AI entrepreneurs, offering support through our venture studio model\" -- an agent incubator/venture builder.",
+    "sibling": null
+  },
+  "sag3-ai-by-virtuals": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"comprehensive risk assessment and analysis of any crypto project... compiling everything that you might want to know\" -- an on-chain research/analytics assistant.",
+    "sibling": null
+  },
+  "animus": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "\"open-source framework for building embodied AI agents and autonomous robots with persistent identities\" -- CG 'AI Framework' rule-table label, matches description.",
+    "sibling": null
+  },
+  "chronoeffector": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"allows users to deploy autonomous AI agents powered by leading large language models... to trade crypto perpetual contracts, equities, commodities... allow their agents to operate independently\" -- autonomous trading execution.",
+    "sibling": null
+  },
+  "shellraiser": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "the fetched text is site-chrome boilerplate (\"We've updated our Terms of Service and Privacy Policy!... the front page of the agent internet\") with no substantive product description to code a subcategory from.",
+    "sibling": null
+  },
+  "magnus-opus-by-virtuals": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "\"Arcadia's Agent Gaming Arena: Chess AI w/ text+voice... AI agents compete for USDC stakes\" -- CG 'Gaming (GameFi)' rule-table label, agent competitions.",
+    "sibling": null
+  },
+  "alris-agent": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "\"AI-powered yield optimization companion on Solana... automated yield harvesting\" -- CG 'DeFAI' rule-table label, autonomous yield execution.",
+    "sibling": null
+  },
+  "xoe": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"ultimate community companion & web3 assistant, XOE is an AI runner delivering state of the art solutions\" -- no concrete function is stated beyond marketing language, leaving no basis to pick a subcategory.",
+    "sibling": null
+  },
+  "pclaw-coin": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"allows users to create, deploy, and manage autonomous AI agents without coding knowledge... customizable framework where users can define agent behavior, personality, skills, and execution logic\" -- a no-code agent builder.",
+    "sibling": null
+  }
+}

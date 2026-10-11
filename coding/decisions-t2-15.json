@@ -1,0 +1,97 @@
+{
+  "sola-ai": {"labels": ["copilot"], "facet": null, "provenance": "read", "confidence": "medium",
+    "why": "\"enables seamless on-chain activities and executes Solana intents effortlessly using voice commands\" -- a chat/voice interface to a chain, not an autonomous trader or agent builder."},
+
+  "kairune-by-virtuals": {"labels": ["trust"], "facet": null, "provenance": "read", "confidence": "high",
+    "why": "\"Kairune is the trust layer for AI agents that spend... gives every agent a live trust score built from real attestations, then lets you grant scoped spending permissions\" -- reputation/attestation registry."},
+
+  "conlaunch": {"labels": ["launchpad"], "facet": null, "provenance": "read", "confidence": "high",
+    "why": "\"Native token launchpad on Base, built for Conway agents. One call deploys an ERC-20 with full Uniswap V4 liquidity.\" -- token-launch rail for agents; the CG 'AI Framework' tag is generic and does not match the actual product."},
+
+  "whale-intel": {"labels": ["analytics"], "facet": null, "provenance": "read", "confidence": "high",
+    "why": "\"tracks what the smart money is investing in, where capital is flowing... get early alpha on participation trends\" -- an information/intelligence product, no execution."},
+
+  "leon-ai": {"labels": ["unclassifiable"], "facet": null, "provenance": "read", "confidence": "low",
+    "why": "\"Open-Source Personal Assistant.\" is the entire description -- carries AI content but gives no functional detail to place it in any of the ten subcategories."},
+
+  "smartcodedbot": {"labels": ["defai", "analytics"], "facet": null, "provenance": "read", "confidence": "low",
+    "why": "\"in-page swap router that aggregates ETH-to-token trades\" / \"FogoFi... aggregates DEX swaps, liquid staking... into one wallet-connected app\" (defai, execution) and \"contributes the SoSoFlows agentic ETF flow analyst\" (analytics) -- a multi-product studio; low confidence given the bundle of unrelated tools."},
+
+  "launchbot": {"labels": ["launchpad"], "facet": null, "provenance": "rule", "confidence": "high",
+    "why": "CG label 'AI Agent Launchpad'; description confirms: \"AI-powered agent for effortless token creation... deploying your projects on-chain.\" in_t1_cohort true but no t1_label field, coded fresh."},
+
+  "janitor": {"labels": ["analytics"], "facet": null, "provenance": "read", "confidence": "medium",
+    "why": "\"monitors gas spikes, block slowdowns, MEV traps, and memecoin madness -- so you don't have to\" -- a risk-signal/monitoring product, not execution."},
+
+  "precipitate-ai": {"labels": ["infrastructure"], "facet": "data", "provenance": "rule", "confidence": "low",
+    "why": "CG labels 'DePIN'/'Infrastructure'; description: \"provides data portability between the siloed fields of Artificial Intelligence APIs, and public Blockchain node access\" -- resource/data layer; description is vague so confidence is low."},
+
+  "cloister": {"labels": ["trust"], "facet": null, "provenance": "read", "confidence": "medium",
+    "why": "\"Private AI, sealed by design. Your prompt runs inside a hardware-sealed enclave\" -- TEE-based attestation, description is truncated so confidence is medium."},
+
+  "butlerliquid": {"labels": ["defai"], "facet": null, "provenance": "read", "confidence": "high",
+    "why": "\"Trade smarter and faster, directly from the Virtuals Protocol. Your all in one trading experience is here.\" -- trading agent; meme surface, coding the product not the branding."},
+
+  "volatilityx": {"labels": ["analytics"], "facet": null, "provenance": "read", "confidence": "high",
+    "why": "\"AI Agents that scour countless data points, interpret market signals in real time, and deliver relevant insights or alerts\" -- information product, 'open Bloomberg', no execution described."},
+
+  "nodelyai": {"labels": ["infrastructure"], "facet": "compute", "provenance": "rule", "confidence": "high",
+    "why": "CG label 'DePIN'; \"GPU rental platform that connects GPU and AI resources... helps power Ai applications with GPU computing power\" -- metered hardware marketplace."},
+
+  "reflect-base": {"labels": ["defai"], "facet": null, "provenance": "rule", "confidence": "medium",
+    "why": "CG label 'DeFAI'; \"Reflect builds tools, agents, and systems that connect AI, DeFi, and UX\" / \"ADAM, our fully automated machine\" -- confidence medium, description is broad/diffuse. in_t1_cohort true but no t1_label, coded fresh."},
+
+  "cpa-by-virtuals": {"labels": ["analytics"], "facet": null, "provenance": "read", "confidence": "medium",
+    "why": "\"$CPA is the world's first AI-powered on-chain tax agent... automatically calculates your tax liabilities, tracks your crypto income, and generates detailed reports\" -- an information/reporting product from on-chain data."},
+
+  "ai-powered-cmp": {"labels": ["unclassifiable"], "facet": null, "provenance": "read", "confidence": "low",
+    "why": "\"Incubating an AI project to bring next level innovation to PoW mining industry.\" -- states intent, not a product; no functional detail to code a subcategory."},
+
+  "tensorgate": {"labels": ["unclassifiable"], "facet": null, "provenance": "read", "confidence": "low",
+    "why": "\"Connecting to TensorGate is as simple as pasting a single prompt to your agent.\" -- too thin to tell what TensorGate actually provides."},
+
+  "xelqorai": {"labels": ["defai"], "facet": null, "provenance": "read", "confidence": "high",
+    "why": "\"Users deposit capital into dedicated ERC-4626 vaults that run the pipeline autonomously... executes 24/7\" -- autonomous, capital-moving strategy execution."},
+
+  "atua-ai": {"labels": ["content-creation", "copilot"], "facet": null, "provenance": "read", "confidence": "medium",
+    "why": "\"advanced AI tools for content creation. From generating text and images to writing code in multiple languages\" -- two explicit functions: media generation and code generation."},
+
+  "asym": {"labels": ["defai"], "facet": null, "provenance": "rule", "confidence": "high",
+    "why": "CG label 'DeFAI'; \"agent network that identifies high ROI opportunities, allocates capital to those opportunities, generates profits\" -- autonomous capital allocation. in_t1_cohort true but no t1_label, coded fresh."},
+
+  "codegrid": {"labels": ["out-of-scope"], "facet": null, "provenance": "read", "confidence": "medium",
+    "why": "\"Give every project its own infinite canvas, then run Claude, Codex, Gemini, Grok, Cursor & shells side by side... Free for macOS\" -- a desktop window manager for coding-agent sessions with no Web3 or agent-economy function described anywhere."},
+
+  "svm-claw": {"labels": ["infrastructure", "defai"], "facet": "compute", "provenance": "read", "confidence": "medium",
+    "why": "\"SVM Claw -- instant agent/VM hosting... paid for monthly in USDC\" (infrastructure/compute) and \"x402 Facilitator... pay-per-request basis, settled in USDC\" (payment rail = defai, sibling meridian-2, established batch 07)."},
+
+  "atrium-hermes": {"labels": ["trust"], "facet": null, "provenance": "read", "confidence": "medium",
+    "why": "\"economic and identity layer beneath existing agent runtimes... signed by its author, addressed by its content... no way to verify what a consumer is about to run\" -- identity/verification registry."},
+
+  "vexor-terminal": {"labels": ["builder"], "facet": null, "provenance": "read", "confidence": "low",
+    "why": "\"Programmable AI orchestration on Solana. Nine specialized sub-agents governed by the $VEXOR token\" -- an agent-orchestration framework; no specific application described, confidence low."},
+
+  "logx-2": {"labels": ["out-of-scope"], "facet": null, "provenance": "read", "confidence": "high",
+    "why": "\"LogX -- Bringing the $2 Quadrillion Forex Market Onchain\" and the full product list (Forex Hedging, API Access, Perpetuals, Spot) contain no AI or agent content anywhere, despite the CG 'DeFAI' category tag -- scope first, rules second (metacade/xterio/wfca precedent)."},
+
+  "clawnet": {"labels": ["unclassifiable"], "facet": null, "provenance": "read", "confidence": "low",
+    "why": "\"This is the default welcome page used to test the correct operation of the Apache2 server after installation\" -- the homepage description is a stock server placeholder, effectively no description of the project exists."},
+
+  "spirit-town": {"labels": ["defai", "content-creation"], "facet": null, "provenance": "read", "confidence": "medium",
+    "why": "\"Spirit, where AI agents trade, compete & post autonomously on Base\" -- two explicit functions: trading and autonomous social posting."},
+
+  "cobot": {"labels": ["defai", "analytics"], "facet": null, "provenance": "read", "confidence": "high",
+    "why": "\"Trade like a pro with real-time news, whale tracking, AI-powered signals and advanced order execution\" -- signals (analytics) and order execution (defai) both explicit; CG label 'DeFAI' also present."},
+
+  "flagship-by-virtuals": {"labels": ["analytics", "defai"], "facet": null, "provenance": "read", "confidence": "medium",
+    "why": "CG label 'DeFAI'; \"Our AI Agents publish live signals in real time\" (analytics, current product) and mission \"bring AI, automation, and full on-chain execution together\" (defai, near-term); confidence medium since execution is described as 'soon'."},
+
+  "hunter-by-virtuals": {"labels": ["analytics"], "facet": null, "provenance": "read", "confidence": "high",
+    "why": "\"Data Analytics: Hunter processes large volumes of on-chain data to provide users with insights into token movements, market trends, and arbitrage opportunities\" -- information product, no execution."},
+
+  "versa-2": {"labels": ["game"], "facet": null, "provenance": "rule", "confidence": "high",
+    "why": "CG label 'Gaming (GameFi)'; \"adversarial AI arena built on Base where AI agents defend ETH treasuries against human challengers\" -- agent competition."},
+
+  "lexicon": {"labels": ["builder", "analytics"], "facet": null, "provenance": "read", "confidence": "medium",
+    "why": "\"DeFAI token that includes an AI agent framework\" (builder) and \"looks at market data, finds possible risks, and gives suggestions... doesn't remove human control\" (analytics, advisory not execution) -- two explicit functions; description overrides the generic DeFAI tag since the agent does not itself execute. in_t1_cohort true but no t1_label, coded fresh."}
+}

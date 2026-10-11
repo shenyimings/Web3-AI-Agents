@@ -1,0 +1,296 @@
+{
+ "air3-airewardrop": {
+  "labels": [
+   "analytics"
+  ],
+  "confidence": "high",
+  "why": "\"constantly analyzes thousands of real-time data points ... into clear, actionable insights\" and posts daily market highlights"
+ },
+ "solace-2": {
+  "labels": [
+   "game"
+  ],
+  "confidence": "medium",
+  "why": "\"AI-driven emotional companion\" delivering support through natural voice interaction; a virtual companion, which T1 places under Game & Metaverse"
+ },
+ "bunnyos": {
+  "labels": [
+   "game"
+  ],
+  "confidence": "high",
+  "why": "\"an MMORPG experience built specifically for autonomous AI agents\" where developers connect agents into a persistent shared world"
+ },
+ "dessalinesai-by-virtuals": {
+  "labels": [
+   "defai"
+  ],
+  "confidence": "medium",
+  "why": "\"multilingual AI assistants\" delivering \"automated financial education, crypto trading\" tools for underbanked users"
+ },
+ "handle-fi": {
+  "labels": [
+   "defai"
+  ],
+  "confidence": "low",
+  "why": "multi-currency stablecoin protocol with derivatives and perpetuals; a DeFi venue listed under AI Applications, with no agent named in the blurb"
+ },
+ "eliza": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko; the name collides with the ElizaOS framework, so the reference cannot be resolved from the listing"
+ },
+ "fireverse": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "\"music creation platform\" letting musicians \"create, share, and profit from their unique compositions\""
+ },
+ "maicrotrader": {
+  "labels": [
+   "defai",
+   "analytics"
+  ],
+  "confidence": "high",
+  "why": "\"central dashboard for traders to analyze and execute their trades onchain using AI agents\" \u2014 both functions explicit"
+ },
+ "mesa": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "\"open-source broadcasting framework for interactive AI-driven livestreams\"; the artifact is media"
+ },
+ "certaik-by-virtuals": {
+  "labels": [
+   "copilot"
+  ],
+  "confidence": "high",
+  "why": "\"a smart contract auditing agent\" providing \"direct audits on Solidity or Rust code\" \u2014 the auditing-copilot case T1 places under AI-powered Development"
+ },
+ "solrouter": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "confidence": "high",
+  "why": "\"privacy-preserving AI inference layer\" on decentralised GPUs (infrastructure) with client-side encryption and TEE execution (trust)"
+ },
+ "ai": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "medium",
+  "why": "\"a culture protocol combining AI recursion, memetic architecture, and lore\" with glyph NFTs; the output is narrative"
+ },
+ "root-edge-2": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "osobot": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "confidence": "medium",
+  "why": "\"secure agent infrastructure\" (infrastructure) built on \"smart-account permissions\" and \"scoped onchain authority\" \u2014 an authorization primitive (trust)"
+ },
+ "bio-unit-000": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "exodas": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "medium",
+  "why": "\"the first meme crafted by the world's first space-born AI agents\" building a virtual nation; the product is narrative"
+ },
+ "johnny-suede": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "\"the first-ever on-chain, music-generative AI\" for creating, owning and monetizing music"
+ },
+ "memes-ai-2": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "\"an autonomous agent that can generate texts and other content, including memes and humor\""
+ },
+ "delu": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "anita-ai": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "medium",
+  "why": "\"the world's first AI crypto influencer\"; an agent personality whose output is social engagement"
+ },
+ "starly-the-star-guide": {
+  "labels": [
+   "game"
+  ],
+  "confidence": "medium",
+  "why": "agent connected to \"a gamified quest network\" generating \"dynamic quests\" and on-chain points from real-world movement"
+ },
+ "felix-3": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "iotai": {
+  "labels": [
+   "defai"
+  ],
+  "confidence": "high",
+  "why": "\"decentralized exchange aggregator that uses real-time AI analysis to find the best trading routes\"; the product routes and executes"
+ },
+ "lobstar": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "hive-3": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "medium",
+  "why": "\"a local-first operating system for AI agents\" through which agents \"share memory, context, tools, work queues, files\" across machines"
+ },
+ "agent-virtual-machine": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "high",
+  "why": "\"the runtime layer for the agent economy: a secure, scalable compute protocol that turns agent outputs into real-world execution\""
+ },
+ "lea-ai": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "\"an automated artificial intelligence with its own personality\" that responds to mentions; the product is the character"
+ },
+ "zoe": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "description is a one-line character tagline with no product statement"
+ },
+ "maya-world": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "\"an autonomous content creation studio\" and \"the top media creation agent on Virtuals ACP\""
+ },
+ "hyre-agent": {
+  "labels": [
+   "analytics"
+  ],
+  "confidence": "high",
+  "why": "\"DeFi intelligence API that turns raw on-chain data into actionable signals\" across 22 endpoints; the product is information"
+ },
+ "jaihoz": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "nomai": {
+  "labels": [
+   "analytics"
+  ],
+  "confidence": "high",
+  "why": "\"processing real-time and historical on-chain data into contextual high action insights\" that \"power autonomous trading agents\" \u2014 it supplies intelligence rather than executing"
+ },
+ "agentcoin-tv": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "\"agentic media platform ... powered by autonomous AI livestreaming agents\" hosting streams on YouTube, Twitch and TikTok"
+ },
+ "arok-vc": {
+  "labels": [
+   "defai"
+  ],
+  "confidence": "high",
+  "why": "\"an AI agent VC \u2014 raising funds using a multi-sig wallet and trading behalf of it committers\""
+ },
+ "darksol": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "ai16zeliza": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "acolyte-by-virtuals": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "\"Agentic Content Operator\" that \"generates and posts content without human input\" to build a project's brand"
+ },
+ "soul-graph": {
+  "labels": [
+   "builder",
+   "infrastructure"
+  ],
+  "confidence": "high",
+  "why": "\"open source tools & providing infrastructure for developers to give their agents a rich & evolving personality, user bound persistent memory\", consumed by ElizaOS, Zerepy and Arc"
+ },
+ "ai-pin": {
+  "labels": [
+   "infrastructure",
+   "builder",
+   "trust"
+  ],
+  "confidence": "medium",
+  "why": "enumerates \"x402 Payments\" and \"Multi-Agent Collaboration\" (infrastructure), an \"Agent Marketplace\" and developer tools (builder), and \"Verifiable Execution, Agent Identity\" (trust)"
+ },
+ "sakura-2": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "quill": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "confidence": "medium",
+  "why": "\"fully onchain language models\" running \"inference directly within the EVM\" (infrastructure), which makes the models \"deterministic\" and removes oracles (trust)"
+ }
+}

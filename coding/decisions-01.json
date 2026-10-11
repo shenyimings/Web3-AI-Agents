@@ -1,0 +1,441 @@
+{
+ "venice-token": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "high",
+  "why": "private, on-demand AI inference via API \"for AI agents and developers\" \u2014 a compute layer agents run on"
+ },
+ "pieverse": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "kite-2": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "high",
+  "why": "L1 that \"enables AI agents to autonomously transact at scale ... native x402 compatibility\"; payment rails, not a DeFi strategy, so not defai"
+ },
+ "akedo": {
+  "labels": [
+   "game",
+   "content-creation"
+  ],
+  "confidence": "medium",
+  "why": "\"Multi-Agent AI framework built for Autonomous Content Creation\" whose users \"design engaging games\" \u2014 both functions explicit; users build games, not agents, so not builder"
+ },
+ "quack-ai": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "confidence": "medium",
+  "why": "x402 sign-to-pay relay is agent payment rails; \"verifiable rules\", policy engine and governance modules are a trust layer"
+ },
+ "tagger": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "medium",
+  "why": "\"decentralized full-stack AI data solution\" providing collection, labelling and a permissionless data market \u2014 a resource layer beneath the agent stack, as DePIN is for compute"
+ },
+ "dappos": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "talus": {
+  "labels": [
+   "infrastructure",
+   "builder"
+  ],
+  "confidence": "high",
+  "why": "\"on-chain execution layer for autonomous and intelligent agents\" and lets \"developers ... launch revenue-generating agents\""
+ },
+ "alchemist-ai": {
+  "labels": [
+   "builder"
+  ],
+  "confidence": "high",
+  "why": "T1 precedent: coded Builder & Marketplace in Table 1. Blurb alone reads copilot (no-code app generation); T1 assignment retained for cross-timepoint comparability"
+ },
+ "meet48": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "metya": {
+  "labels": [
+   "game"
+  ],
+  "confidence": "medium",
+  "why": "AI dating companion with real-time translation in 138 languages; a virtual companion, which T1 places under Game & Metaverse"
+ },
+ "tutorial": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "self-described memecoin launched from a token-launch tutorial; no product"
+ },
+ "cyberconnect": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "confidence": "medium",
+  "why": "\"the L2 for social\" with \"native Account Abstraction and seedless wallets\" (the agent-account primitive, infrastructure) and decentralized identifiers (trust)"
+ },
+ "morpheusai": {
+  "labels": [
+   "infrastructure",
+   "defai"
+  ],
+  "confidence": "medium",
+  "why": "\"peer-to-peer network of personal general purpose AIs that can execute Smart Contracts on behalf of a user\" \u2014 an agent network (infrastructure) whose agents sign transactions from the user's wallet (defai)"
+ },
+ "flock-2": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "medium",
+  "why": "decentralised model training and validation network; compute and data layer beneath the agent stack"
+ },
+ "singularitynet": {
+  "labels": [
+   "builder"
+  ],
+  "confidence": "high",
+  "why": "T1 precedent (Builder & Marketplace); \"decentralized marketplace for Artificial Intelligence\" with \"a network of complex AI Agent interactions\""
+ },
+ "delysium": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "medium",
+  "why": "T1 precedent: coded Agent Protocol & DePIN in Table 1. Blurb alone reads game/metaverse; T1 assignment retained"
+ },
+ "recall": {
+  "labels": [
+   "builder",
+   "trust"
+  ],
+  "confidence": "medium",
+  "why": "\"decentralized skill market for AI\" where developers publish (builder) and \"performance determines visibility\" \u2014 a ranking and reputation mechanism (trust)"
+ },
+ "tokenbot-2": {
+  "labels": [
+   "launchpad"
+  ],
+  "confidence": "high",
+  "why": "T1 precedent (Clanker, Monetization & Launchpad); \"autonomous agent for deploying tokens\""
+ },
+ "aeon-3": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "high",
+  "why": "\"native settlement infrastructure for the agentic economy\" built on x402, ERC-8004, AP2 and MCP"
+ },
+ "olaxbt": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "foom": {
+  "labels": [
+   "defai",
+   "content-creation"
+  ],
+  "confidence": "medium",
+  "why": "bots trained to \"become independent influencers and traders\" \u2014 both functions explicit"
+ },
+ "theoriq": {
+  "labels": [
+   "infrastructure",
+   "builder"
+  ],
+  "confidence": "medium",
+  "why": "agents \"collaborate in multi-agent swarms\" and \"operate on-chain\" (agent protocol) while developers contribute agents to the network (builder)"
+ },
+ "mia-2": {
+  "labels": [
+   "defai",
+   "content-creation"
+  ],
+  "confidence": "low",
+  "why": "an agent persona (\"engage in dialogue\") with treasury capability (\"allocate resources, implement strategies\"); both stated but the blurb is promotional throughout"
+ },
+ "ava-ai": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "\"primary AI agent IP\" for HoloworldAI; an agent personality whose output is social content"
+ },
+ "assemble-protocol": {
+  "labels": [
+   "analytics"
+  ],
+  "confidence": "high",
+  "why": "agent \"delivers crypto and global economic trends\" and \"investment strategies\"; the product is information"
+ },
+ "everlyn": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "open-source video model and \"video creation engine\" with interactive video agents"
+ },
+ "reppo": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "medium",
+  "why": "AI training data generated through prediction markets; a data resource layer. Sibling of Tagger and PublicAI"
+ },
+ "galeon": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "medium",
+  "why": "hyper-structured hospital data with \"Blockchain Swarm Learning\" for decentralized model training; a data resource layer. Sibling of Tagger"
+ },
+ "projectvex": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "aergo-2": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "confidence": "high",
+  "why": "\"AI-native Layer 2\" (infrastructure) providing \"verifiable AI execution\", data verification and model certification (trust)"
+ },
+ "stability-world-ai": {
+  "labels": [
+   "builder",
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "users \"create, train, and deploy custom AI Models and AI Agents\" (builder) and generate KOL models, videos and animations (content creation)"
+ },
+ "tao-bot": {
+  "labels": [
+   "defai"
+  ],
+  "confidence": "medium",
+  "why": "\"unified trading and interaction terminal\" for Bittensor; the product executes"
+ },
+ "sally-a1c": {
+  "labels": [
+   "game"
+  ],
+  "confidence": "medium",
+  "why": "\"Your Metabolic Health AI Agent\", a personal guide the user converses with; a virtual companion. Sibling of Solace"
+ },
+ "rainmaker": {
+  "labels": [
+   "defai"
+  ],
+  "confidence": "high",
+  "why": "\"autonomous agents for sports prediction markets\" that \"snipe high-probability opportunities on ... Polymarket and Kalshi\" \u2014 the agent executes"
+ },
+ "raxol": {
+  "labels": [
+   "builder"
+  ],
+  "confidence": "medium",
+  "why": "\"FOSS agent runtime\"; a framework agents are built on and run in"
+ },
+ "rift-ai": {
+  "labels": [
+   "analytics"
+  ],
+  "confidence": "medium",
+  "why": "\"powered by AI trade signals, real-time news\" with \"smart trend analysis\"; market intelligence, T1's Investment Analytics"
+ },
+ "immunefi": {
+  "labels": [
+   "copilot"
+  ],
+  "confidence": "medium",
+  "why": "onchain security platform (Magnus) for protocol protection; AI for Web3 security, which T1 places under AI-powered Development alongside auditing tooling"
+ },
+ "lush-ai": {
+  "labels": [
+   "content-creation",
+   "launchpad"
+  ],
+  "confidence": "high",
+  "why": "generative AI influencers (content) plus \"a decentralized exchange and launchpad\" for creating and trading them (launchpad)"
+ },
+ "metaverse": {
+  "labels": [
+   "launchpad",
+   "trust"
+  ],
+  "confidence": "medium",
+  "why": "an \"AI-driven coin offering (aICO)\" run by an agent (launchpad) inside a TEE giving \"real-time verifiability of all AI actions\" (trust)"
+ },
+ "permission-coin": {
+  "labels": [
+   "trust"
+  ],
+  "confidence": "low",
+  "why": "\"enabling users to securely grant permission and monetize their data\"; a consent and authorization primitive, the same family as attestation and identity"
+ },
+ "botto": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "T1 precedent (Content Creation); \"a decentralized artist that generates art based on community feedback\""
+ },
+ "icecream-ai": {
+  "labels": [
+   "defai"
+  ],
+  "confidence": "high",
+  "why": "self-described \"DeFAI protocol\" whose AI-governed Glaze Pools \"distribute On-Chain Assets\""
+ },
+ "captain-kuma": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "IP token with \"AI-powered content generation tools designed for creators\""
+ },
+ "libertai": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "confidence": "high",
+  "why": "decentralised inference on Aleph.im (infrastructure) run in \"confidential virtual machines\" for \"verifiable and confidential AI decision-making\" (trust)"
+ },
+ "aubrai-by-bio": {
+  "labels": [
+   "copilot"
+  ],
+  "confidence": "low",
+  "why": "\"onchain AI co-scientist\" that generates hypotheses and designs experiments; a research copilot rather than a code copilot, the nearest fit in T1's AI-powered Development"
+ },
+ "trias-token": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "confidence": "medium",
+  "why": "smart-contract execution platform (infrastructure) whose stated purpose is \"Trustworthy and Reliable Intelligent Autonomous Systems\" and making \"people trust in machines\" (trust)"
+ },
+ "kin": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "a general-purpose payment cryptocurrency from 2017; no AI and no agent"
+ },
+ "avo": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "1000x-by-virtuals": {
+  "labels": [
+   "analytics"
+  ],
+  "confidence": "high",
+  "why": "agent \"provides breaking news and commentary about crypto markets, as well as analysis on the impact of this information on token pricing\""
+ },
+ "vaiot": {
+  "labels": [
+   "trust"
+  ],
+  "confidence": "medium",
+  "why": "\"AI Legal Multi-Agents\" running automated contracts and a \"Decentralized Dispute Resolution System\"; on-chain arbitration, T1's Trust Layer"
+ },
+ "think-protocol": {
+  "labels": [
+   "infrastructure",
+   "builder"
+  ],
+  "confidence": "medium",
+  "why": "\"modular infrastructure layer\" and the THINK Agent Standard (infrastructure) \"for building, owning, and interacting with autonomous software agents\" (builder)"
+ },
+ "araistotle": {
+  "labels": [
+   "trust",
+   "analytics"
+  ],
+  "confidence": "medium",
+  "why": "fact-checking and \"truth verification\" (trust) applied to prediction markets to \"spot mispricing\" (analytics)"
+ },
+ "ethy-ai": {
+  "labels": [
+   "trust",
+   "defai"
+  ],
+  "confidence": "high",
+  "why": "turns a Basename into an onchain agent identity (trust) that automates \"trading, claiming rewards, or executing contracts\" (defai)"
+ },
+ "vaderai-by-virtuals": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "tpro": {
+  "labels": [
+   "copilot"
+  ],
+  "confidence": "low",
+  "why": "\"a stack to create and use bulletproof economic systems\" for founders and communities; token-engineering tooling, T1's AI-powered Development"
+ },
+ "arc": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "low",
+  "why": "\"infrastructure layer for high-performance, privacy-first AI models\"; model serving rather than an agent product"
+ },
+ "botcoin-2": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "medium",
+  "why": "\"epoch-based reward system for proof-of-inference work\" in which agents earn by solving LLM tasks; a work and settlement layer for agents"
+ },
+ "woon": {
+  "labels": [
+   "content-creation",
+   "defai"
+  ],
+  "confidence": "medium",
+  "why": "an agent employed as \"peaq's social media intern\" (content) that expands \"into capital allocation\" and holds assets (defai)"
+ },
+ "cat-call-agent": {
+  "labels": [
+   "analytics"
+  ],
+  "confidence": "medium",
+  "why": "\"monitoring and reporting on all significant developments\" in the Ink ecosystem, aiming to be \"the leading AI companion for crypto analysis\""
+ }
+}

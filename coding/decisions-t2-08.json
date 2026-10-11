@@ -1,0 +1,258 @@
+{
+  "dotmoovs": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "medium",
+    "why": "\"Gamifying sports in the ultimate Play2Earn platform powered by blockchain and a state-of-the-art AI system to analyze videos of players performing sports challenges\"; CG label Gaming (GameFi).",
+    "sibling": null
+  },
+  "roasthimjim": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"RoastHimJim is an AI bot built on top of Twitter.com... Jim will generate a funny roast in response to the tweet\" -- agent persona whose output is social content.",
+    "sibling": null
+  },
+  "deepfakeai": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"DeepFakeAI is a platform that allows you to create deepfakes in a few clicks using our Telegram Bot.\"",
+    "sibling": null
+  },
+  "merrymen-by-virtuals": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"Trading agents inside hard caps -- on-chain, the chain itself enforces them, non-custodially.\"",
+    "sibling": null
+  },
+  "neutaro": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "rule",
+    "confidence": "medium",
+    "why": "CG label DePIN; \"proprietary web-scale index, powered by a DePIN (Decentralized Physical Infrastructure) node network\" and privacy-preserving search index -- resource/indexing layer, so facet data.",
+    "sibling": null
+  },
+  "ithaca-protocol": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"IthacaGPT allow non sophisticated users to translate nuanced views into, potentially complicated, option strategies\" -- AI-assisted intent-based execution layered on an otherwise non-AI options protocol.",
+    "sibling": null
+  },
+  "humanoid-network-by-virtuals": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"Physics-validated motion data marketplace for humanoid robots... enterprises license the verified dataset\" -- product sold is a dataset, so facet data.",
+    "sibling": null
+  },
+  "phoenix-global": {
+    "labels": ["infrastructure"],
+    "facet": "chain",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"Phoenix is a Layer 1 and Layer 2 blockchain infrastructure, empowering intelligent Web3 applications, focusing on the next generation of AI & Privacy-Enabled Web3 Apps\" -- ships a chain, so facet chain; in_t1_cohort true but no t1_label recorded, coded fresh.",
+    "sibling": null
+  },
+  "vimen-by-virtuals": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"On-chain index baskets on Robinhood Chain. Seven stocks. One token. Zero managers.\" -- no AI or agent content in the description; Virtuals Protocol Ecosystem is an ecosystem tag, not functional evidence.",
+    "sibling": null
+  },
+  "ispolink": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"empowers blockchain firms to source seamlessly industry-leading talents with internal AI-powered algorithms\" -- recruitment-domain product; nearest of the ten is analytics (AI screening/matching delivers information, no execution).",
+    "sibling": null
+  },
+  "typeai": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"The platform uses advanced AI to interpret user queries, ensuring actions like staking, lending, or token transfers are done seamlessly.\"",
+    "sibling": null
+  },
+  "staynex": {
+    "labels": ["rwa"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "low",
+    "why": "CG label Real World Assets (RWA); \"AI-powered trip planning... AI Travel Wingman, presented as the world's first celebrity-voiced AI travel agent\" -- agent managing an off-chain, real-world travel service.",
+    "sibling": null
+  },
+  "agentlisa": {
+    "labels": ["copilot"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"AI-powered security platform that utilizes the power of LLMs to perform smart contract security analysis, provide code insights and offer security recommendations\" -- auditing copilot, not fired on the mismatched Analytics label.",
+    "sibling": null
+  },
+  "ai-power-grid": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"AIPG incentivizes a global network of worker nodes to host and process AI workloads.\"",
+    "sibling": null
+  },
+  "noisegpt": {
+    "labels": ["infrastructure"],
+    "facet": "model",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"ENQAI is a decentralized AI platform providing bias-free, unrestricted generative tools... through an open API, while decentralized governance shapes the platform's evolution\" -- product sold is generative answers, not machine time, so facet model.",
+    "sibling": null
+  },
+  "parallelai": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label Infrastructure; \"Deploy Parallel Code To Harness The Full Value Of Your GPUs/CPUs & Drive Down Costs\" and \"aggregating compute power from existing decentralized GPU marketplaces.\"",
+    "sibling": null
+  },
+  "dynex": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Dynex is the world's only accessible quantum-driven neuromorphic solution for solving real-world problems, at scale\" and \"quantum as a service (QaaS) technology\" -- the PoUW chain is the reward mechanism, the pitch is metered quantum/GPU compute, so facet compute over chain.",
+    "sibling": null
+  },
+  "kindra-by-virtuals": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"next-generation Web3 gaming ecosystem centered around a cozy 3D skilling MMORPG... gather resources, craft items, level up skills\" -- no AI or agent content anywhere in the description, only generic labels.",
+    "sibling": null
+  },
+  "edge-matrix-computing": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "rule",
+    "confidence": "medium",
+    "why": "CG label DePIN; \"Specializing in AI+Web3, bridging the computing power network and AI (d)apps.\"",
+    "sibling": null
+  },
+  "basemate": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"Send anything onchain from iMessage and Android chats. Discover launches, then settle on Base.\" -- no AI or agent content in the description.",
+    "sibling": null
+  },
+  "presearch": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"Presearch is an open, decentralized search engine that rewards community members... a blockchain-based index, curated by the community\" -- a general web search project with no AI or agent content anywhere in the description.",
+    "sibling": null
+  },
+  "deepbrain-chain": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"building an infinitely scalable, distributed high-performance computing network through blockchain technology to achieve cost reduction and efficiency improvement of AI computing power worldwide.\"",
+    "sibling": null
+  },
+  "openxai": {
+    "labels": ["launchpad", "infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Anyone, anywhere can launch, own, and monetize AI apps, agents, and services fully on-chain\" (launchpad) and \"GPU compute becomes liquid with tokenized credits (tGPU)\" (infrastructure, facet compute) -- two explicit functions.",
+    "sibling": null
+  },
+  "stargazer-ai": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"Stargazer is the AI that does the reading. It breaks any token down by real behavior: organic holders, coordinated clusters, bots, and infrastructure.\"",
+    "sibling": null
+  },
+  "sol-agents": {
+    "labels": ["launchpad"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"combines agent registration, USDC-based job escrow, encrypted messaging, and bonding curve token markets... AGENTS tokens facilitate marketplace access, agent launches, and ecosystem participation\" -- token-launch/bonding-curve rails for agents.",
+    "sibling": null
+  },
+  "algola": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label DeFAI; \"Its trading agents scan markets, generate trade setups, explain their reasoning, and include key risk parameters.\"",
+    "sibling": null
+  },
+  "inspect": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"It introduces a suite of DeFi-native products, including staking, leverage, stablecoin liquidity, and mining, to support users and agents interacting with TAO... transforms TAO into a yield-bearing asset.\"",
+    "sibling": null
+  },
+  "cindicator": {
+    "labels": ["analytics", "defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"builds analytical and trading products for stocks and crypto based on 'Hybrid Intelligence'... indicators are available on Bloomberg terminals and in strategies by Stoic, an automated trading app\" -- two explicit functions, information and execution.",
+    "sibling": null
+  },
+  "chad-4": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"Karma is an on-chain neobank built for the world to use crypto and stablecoins as everyday money... real bank accounts, payment cards, and instant payments\" -- no AI or agent content in the description.",
+    "sibling": null
+  },
+  "morphware": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "high",
+    "why": "T1 precedence: t1_label is infrastructure, kept verbatim. Facet from description: \"delivers enterprise AI agent solutions using NVIDIA B200 and H200 GPUs\" -- metered GPU capacity, so facet compute.",
+    "sibling": null
+  },
+  "primis-protocol": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Decentralized Compute Engine for AI Innovation.\" -- description (top evidence priority) names a compute engine, overriding the AI Agent Launchpad CG label; too thin to code with higher confidence.",
+    "sibling": null
+  },
+  "ta-da": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Ta-da is a solution that enables cost-effective, high-quality and diversified data collection.\" -- resource layer for data; description too thin for higher confidence.",
+    "sibling": null
+  }
+}

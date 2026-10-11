@@ -1,0 +1,323 @@
+{
+ "altura": {
+  "labels": [
+   "game"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"enables developers to create immersive gaming experiences with intelligent non-player characters (NPCs) and dynamic in-game assets\" \u2014 agent NPCs in games; the users build games, not agents, so not builder",
+  "sibling": null
+ },
+ "nextplace": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"universal quantum computing platform that connects you to leading QPUs from IonQ, Rigetti, IQM, AQT\" \u2014 rented metered hardware time, so the compute facet; homepage-sourced blurb carries no AI or agent wording, hence low",
+  "sibling": null
+ },
+ "dolz-io": {
+  "labels": [
+   "game"
+  ],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "medium",
+  "why": "CoinGecko `Gaming (GameFi)` with a description about \"NFT trading cards and 3D items designed for our upcoming gaming ventures\"; medium because the blurb itself states no AI function",
+  "sibling": null
+ },
+ "destra-network": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"decentralized AI-native network, purpose-built to run autonomous agents, decentralized compute\" and \"From inference to execution\" \u2014 capacity agents run on, not a chain of its own",
+  "sibling": null
+ },
+ "surplus-intelligence": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"a free market for AI inference on Base\" that \"turns unused capacity into revenue\" \u2014 metered inference-serving capacity sold by the unit",
+  "sibling": null
+ },
+ "webgenieai": {
+  "labels": [
+   "unclassifiable"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "the only description is the repository one-liner \"WebGenieAI Subnet for a Bittensor subnetwork\", which states no function",
+  "sibling": null
+ },
+ "farcana": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"We connect consumer and enterprise GPUs into a single network, intelligently routing inference requests to optimal nodes\" \u2014 metered GPU capacity, so compute",
+  "sibling": null
+ },
+ "messier": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"developing a wide range of decentralized products & services, designed to help further the DeFi space\" plus a DAO treasury buy-and-burn; no AI or agent content anywhere in the description",
+  "sibling": null
+ },
+ "level-114": {
+  "labels": [
+   "unclassifiable"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "homepage text is a development-agency pitch \u2014 \"Websites, web apps, iOS and Android apps, AI assistants and custom systems for UK businesses\" \u2014 naming no product the taxonomy can place",
+  "sibling": null
+ },
+ "pinlink": {
+  "labels": [
+   "rwa"
+  ],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "medium",
+  "why": "CoinGecko `Real World Assets (RWA)`; \"the first RWA-Tokenized DePIN platform, empowering users with fractionalized ownership of DePIN assets\" \u2014 the product sold is ownership of physical infrastructure, so rwa rather than the DePIN capacity itself",
+  "sibling": null
+ },
+ "omega-labs": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"a 1-click miner that anyone can install and start earning TAO for doing productive work, powered by Subnet 24\" \u2014 participation in a Bittensor training/inference network; the blurb does not say what the subnet produces, hence low",
+  "sibling": null
+ },
+ "staking-2": {
+  "labels": [
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "the entire description is \"Optimizing staking strategies\" \u2014 yield routing, which is defai, but three words is thin evidence",
+  "sibling": null
+ },
+ "omega-any-to-any": {
+  "labels": [
+   "analytics"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"the decision layer for AI-managed Google Ads ... continuously evaluated prediction based on real outcome history\" \u2014 the product shipped is predictions, so analytics; the domain (advertising, not asset markets) is outside anything T1 saw",
+  "sibling": null
+ },
+ "neuralai": {
+  "labels": [
+   "game"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"the infrastructure layer for games and virtual worlds\" shipping the \"SPARQ Engine\" so \"Anyone can build and ship worlds\"; the Neural Launchpad launches \"game and world tokens\", not agent tokens, so not launchpad",
+  "sibling": null
+ },
+ "pundi-aifx": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"users can actively contribute by tagging and annotating data\" and \"an Pundi AI Data Marketplace will be launched for trading untrained and trained datasets\" \u2014 a crowdsourced AI training-data marketplace, coded as Tagger was",
+  "sibling": "tagger"
+ },
+ "tars-protocol": {
+  "labels": [
+   "builder"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "T1 precedence: coded builder in the T1 card sort (panel_attrition.json); T2 blurb read as infrastructure but the T1 label is retained. Original T2 reading: \"AI-driven, scalable Web3 modular infrastructure platform ... one-stop BaaS (Blockchain-as-a-Service)\" \u2014 chain services provisioned to projects; the blurb never names a concrete product, so the facet is the weakest part of this row",
+  "sibling": null
+ },
+ "gittensor": {
+  "labels": [
+   "copilot"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"The workforce for open source. Compete for rewards by contributing quality code to open source repositories\" \u2014 the artifact produced is code, which is the copilot test, but the blurb does not say who or what writes it",
+  "sibling": null
+ },
+ "itsai": {
+  "labels": [
+   "trust"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Free AI checker online ... Detect ChatGPT, Claude & Gemini \u2014 deep scan, plagiarism check\" \u2014 provenance verification of content, which the manual places in the trust layer",
+  "sibling": null
+ },
+ "masx-ai": {
+  "labels": [
+   "analytics"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"builds autonomous forecasting systems ... producing calibrated, Brier-scored probabilistic predictions\" \u2014 the product is information, as with Precog",
+  "sibling": "precog"
+ },
+ "finetuning": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"a decentralized platform for generating high-quality AI alignment data by systematically probing language models\" \u2014 what is sold is a dataset, not machine time or a model, so the data facet",
+  "sibling": null
+ },
+ "neural3d": {
+  "labels": [
+   "rwa"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"a decentralized intelligence layer for real estate\" connecting \"$400 trillion in physical property assets to decentralized finance protocols\" with \"an oracle providing real-time valuations\" \u2014 agents over off-chain property assets",
+  "sibling": null
+ },
+ "polariscloud-ai": {
+  "labels": [
+   "builder"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"OpenClaw An agent runtime for your prompts, tools, and workspace\" and \"Choose your agent's brain. Platform inference, or a provider you already use\" \u2014 agent hosting, which the manual puts in builder; the scraped homepage text is fragmentary",
+  "sibling": null
+ },
+ "omron": {
+  "labels": [
+   "trust"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Verifiable inference on Bittensor bittensor zk zkml\" \u2014 ZK proof of inference, the manual's trust-layer example; github-sourced one-liner, hence medium",
+  "sibling": null
+ },
+ "aleph": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"a decentralized cloud storage, database and computing platform\" \u2014 persistent storage and indexing lead the description and CoinGecko labels it `Storage`, so data rather than compute",
+  "sibling": null
+ },
+ "precog": {
+  "labels": [
+   "analytics"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"an arena to express market knowledge and accelerate the dissemination of hidden information relevant to asset prices\" \u2014 a signal/prediction product, coded as Masx.ai was",
+  "sibling": "masx-ai"
+ },
+ "silencio": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"ethically sourced, user-owned audio data at scale ... we are building the foundational layer for machine hearing\" via \"a decentralized network of real-world audio sensors\" \u2014 a data resource layer, as with the other crowdsourced training-data networks",
+  "sibling": "tagger"
+ },
+ "infinitehash": {
+  "labels": [
+   "unclassifiable"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "the description is boilerplate \u2014 \"Explore InfiniteHash for blockchain technology, cryptocurrency, digital assets, decentralized solutions\" \u2014 with no function stated",
+  "sibling": null
+ },
+ "tao-private-network": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Developer-friendly Decentralised VPN infrastructure\" \u2014 bandwidth and throughput, which the manual places in the compute facet",
+  "sibling": null
+ },
+ "logicnet": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"a decentralized perpetual trading protocol built to bring real global markets on-chain\" whose only AI-adjacent element is that liquidity incentives are \"powered by Bittensor's incentive model\"; no AI or agent function in the product",
+  "sibling": null
+ },
+ "dither": {
+  "labels": [
+   "analytics"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"build the world's most powerful AI time-series models for trading. The AI arm trains on Memecoin data for traders\" \u2014 what is shipped to the user is signals, as with Rift AI",
+  "sibling": "rift-ai"
+ },
+ "gitlawb": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "two functions are explicit: \"repositories are stored across IPFS, Filecoin, and Arweave\" (a storage/data layer for agents and developers) and \"Identity on Gitlawb is based on decentralized identifiers (DIDs) ... Each identity carries an on-chain trust score derived from verified contributions\" (an identity and reputation registry)",
+  "sibling": null
+ },
+ "olivia-ai-2-0": {
+  "labels": [
+   "builder"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"the AI agent platform powering enterprise automation, consumer messaging, and the decentralized agent economy\" with \"agents deployed across WhatsApp, Telegram, and 9 more channels\" \u2014 the user is someone deploying an agent",
+  "sibling": null
+ }
+}

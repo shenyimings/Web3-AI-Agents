@@ -1,0 +1,1040 @@
+﻿id,project,category,description,slug,market_cap,address,github_url,project_url,white_paper,source
+1,NEAR Protocol,infrastructure,"NEAR Protocol is a layer-one blockchain that was designed as a community-run cloud computing platform and that eliminates some of the limitations that have been bogging competing blockchains, such as low transaction speeds, low throughput and poor interoperability. This provides the ideal environment for DApps and creates a developer and user-friendly platform. For instance, NEAR uses human-readable account names, unlike the cryptographic wallet addresses common to Ethereum. NEAR also introduces unique solutions to scaling problems and has its own consensus mechanism called “Doomslug.”Its declared goal is to build a platform that is “secure enough to manage high value assets like money or identity and performant enough to make them useful for everyday people.”Combining the best of sharded scaling, AI-native transactions, and cross-chain functionality, NEAR delivers a user-focused, decentralized ecosystem at global scale. AI developers and Web3 builders can create AI-driven applications, automate transactions, and build financial or commerce tools without fragmented ecosystems. NEAR AI Agents are programs that can act autonomously to solve a task, while adapting and reacting to their environment. These agents can use various AI models, store data to remember past interactions, communicate with other agents, use tools to interact with the environment, and much more.NEAR AI Agents are programs that can act autonomously to solve a task, while adapting and reacting to their environment. These agents can use various AI models, store data to remember past interactions, communicate with other agents, use tools to interact with the environment, and much more.
+
+",near-protocol,"2,440,934,765.80",eth: 0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4,"https://github.com/nearai/nearai, https://github.com/near/nearcore",https://near.org/,https://discovery-domain.org/papers/the-official-near-white-paper.pdf,Coinmarketcap
+2,Fetch Ai/uAgents,"infrastructure, builder, digital-twin","AI Agent Build & Governance. Fetch.ai democratizes access to AI technology with a permissionless network upon which anyone can connect and access secure datasets by using autonomous AI to execute tasks that leverage its global network of data. The Fetch.AI model is rooted in use cases like optimizing DeFi trading services, transportation networks (parking, micromobility), smart energy grids, travel — essentially any complex digital system that relies on large-scale datasets. users can build and deploy their own digital twins on the network. Developers, by paying with FET tokens, can access machine-learning-based utilities to train autonomous digital twin and deploy collective intelligence on the network.
+
+Validation nodes are also enabled by staking FET tokens, which facilitates network validation and reputation as a result.
+
+The Fetch.ai technology stack has four distinct elements, which are:
+
+The Digital Twin Framework — provides modular components that help teams build marketplaces, skills, and intelligence for digital twins to connect with.
+
+The Open Economic Framework — provides search and discovery functions to digital twins.
+
+The Digital Twin Metropolis — a collection of smart contracts that run on a WebAssembly (WASM) virtual machine to maintain an immutable record of agreements between digital twins.
+
+The Fetch.ai Blockchain — combines multi-party cryptography and game theory in order to provide secure, censorship-resistant consensus as well as rapid chain-syncing to support digital twin applications.
+
+When it comes to the platform’s core components, there is the learner where each participant is the learner in the experiment, representing a unique private dataset and machine learning system.
+There is also the global market, which is the result of a collective learning experiment, where the machine learning model is trained collectively by the learners themselves.
+Next, there is the Fetch.ai Blockchain that supports smart contracts which permit coordination and governance in a secure and auditable way.
+Lastly, there is the decentralized data layer based on IPFS which enables the sharing of machine learning weights between all of the learners involved.The Autonomous Economic Agent (AEA) Framework is a groundbreaking system that lets software agents act independently in digital economies.
+
+It combines artificial intelligence with blockchain technology, allowing these agents to communicate, make decisions, and handle financial transactions on their own.
+
+Think of it as creating smart digital assistants that can negotiate, trade, and manage resources without constant human oversight.",artificial-superintelligence-alliance,"1,052,161,090.03",eth: 0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85,"https://github.com/fetchai/fetchai, https://github.com/fetchai/uAgents",https://fetch.ai/,https://www.dropbox.com/scl/fi/oi5eh1lzn350w76dksh4h/David-Minarsch-2021-04-26-10.34.17-paper_21_finalversion.pdf?rlkey=2sfdiaqo36ywvmibgygwiea32&e=1&dl=0,Github
+3,Nexo,analytics,"Portfolio, Financial Operations. Nexo is a premier digital assets wealth platform designed to empower clients to grow, manage, and preserve their crypto holdings. Our mission is to lead the next generation of wealth creation by focusing on customer success and delivering tailored solutions that build enduring value, supported by 24/7 client care.
+
+Since 2018, Nexo has provided unmatched opportunities to forward-thinking clients in over 200 jurisdictions. With over $7 billion in AUM and $320 billion processed, we bring lasting value to millions worldwide. Our all-in-one platform combines advanced technology with a client-first approach, offering high-yield flexible and fixed-term savings, crypto-backed loans, sophisticated trading tools, and liquidity solutions, including the first crypto debit/credit card. Built on deep industry expertise, a sustainable business model, robust infrastructure, stringent security, and global licensing, Nexo champions innovation and long-lasting prosperity.
+
+The NEXO Token, is Nexo’s native cryptocurrency, offering a wide range of benefits on the platform. NEXO Token holders can earn up to 12% annual interest on tokens held within both the Savings and Credit Line Wallets in their Nexo accounts. Additionally, owning NEXO Tokens grants entry into the Nexo Loyalty Program, providing valuable benefits such as higher yields on digital assets, up to 0.5% crypto cashback on purchases or swaps made via the Nexo Exchange, borrowing rates starting from 2.9% annual interest, and up to 2% crypto cashback when using the Nexo crypto credit/debit card.",nexo,644767391.9,eth: 0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206,https://github.com/nexofinance/NEXO-Token/,https://nexo.com/,,Google
+4,Virtuals-Protocol,"infrastructure, launchpad","AI Agent Build & Governance. Virtuals Protocol (VIRTUAL) is an innovative cryptocurrency that aims to revolutionize virtual interactions through its AI and Metaverse protocol. Serving as the infrastructure layer for co-owned, human-curated, plug-and-play gaming AIs, Virtuals Protocol is at the forefront of integrating artificial intelligence with immersive virtual environments.
+
+The protocol is designed to facilitate seamless virtual interactions, making it a pivotal player in the burgeoning Metaverse space. By leveraging AI, Virtuals Protocol enhances user experiences in virtual worlds, enabling more dynamic and interactive environments. This makes it particularly appealing for developers and users interested in the future of digital interactions.
+
+Trading on several prominent cryptocurrency exchanges, including Bitget, BiKing, Hibt, BitMart, and BingX, VIRTUAL has garnered significant attention. Its integration into these platforms underscores its growing influence and adoption within the crypto community.
+
+However, potential drawbacks such as cost, security risks, and limitations in communication and collaboration are considerations for users and developers alike. Despite these challenges, the protocol's focus on AI-driven virtual interactions positions it as a key player in the evolution of the Metaverse.
+
+Virtuals Protocol's unique approach to combining AI with virtual environments sets it apart, offering a glimpse into the future of digital interactions.",virtuals-protocol,"394,089,602.56","eth: 0x44ff8620b8cA30902395A7bD3F2407e1A091BF73, base: 0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b, sol: 3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWAT2Zfyr9y",https://github.com/Virtual-Protocol/virtuals-python,https://app.virtuals.io/,,Github
+5,SingularityNET,builder,"SingularityNET is a blockchain-powered platform that allows anybody to easily ""create, share, and monetize"" AI services, thanks to its globally-accessible AI marketplace.Through the SingularityNET marketplace, users can browse, test and purchase a huge variety of AI services using the platform’s native utility token — AGIX.
+Moreover, the marketplace represents an outlet AI developers can use to publish and sell their AI tools, and easily track their performance.
+
+With the benefits of LLMs and generative AI are increasingly exciting, their limitations are also becoming increasingly apparent. The convergence of structured knowledge with neural networks is emerging as the key to overcoming their shortcomings.
+
+Uniquely positioned at the heart of this convergence, SingularityNET will prioritize the integration of Knowledge Graphs (KGs) and comprehensive Neural Symbolic tools for LLMs, with the goal of empowering developers to create the next generation of AI systems on the SingularityNET Platform. SingularityNET is the first platform that makes it easy for developers to sell their AI tools and libraries and enables buyers to test any AI service provided on the marketplace to see if it meets their needs before making payment.
+
+On top of this, those in need of specific AI services can also tap SingularityNET’s extensive community of AI specialists through the Request for AI portal (RFAI) — which allows customers to easily commission a new AI tool, while developers can earn AGIX tokens by filling these requests.
+",singularitynet,"262,355,178.30",eth: 0x5B7533812759B45C2B44C19e320ba2cD2681b542,"https://github.com/singnet/dev-portal, https://github.com/singnet/snet-marketplace-service",https://singularitynet.io/,https://public.singularitynet.io/whitepaper.pdf,Coinmarketcap
+6,OriginTrail,"trust, rwa","OriginTrail is an ecosystem building a trusted knowledge infrastructure for artificial intelligence. It addresses the challenge of misinformation in the AI era by ensuring the origin of information and enabling discoverability of the world's most important knowledge and real world assets (RWAs). OriginTrail is creating a Verifiable Web for decentralized AI by empowering world class brands and builders. It utilizes its unique Decentralized Knowledge Graph and OriginTrail Parachain to deliver AI-powered search and solutions for enterprises and individuals worldwide. OriginTrail Decentralized Knowledge Graph (DKG), hosted on the OriginTrail Decentralized Network (ODN) as trusted knowledge infrastructure, is shared global Knowledge Graph of Knowledge Assets. Running on the basis of the permissionless multi-chain OriginTrail protocol, it combines blockchains and knowledge graph technology to enable trusted AI applications based on key W3C standards.",origintrail,"188,188,985.73",eth: 0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f,"https://github.com/OriginTrail/ChatDKG, https://github.com/OriginTrail/ot-node",https://origintrail.io/,https://origintrail.io/documents/Verifiable_Internet_for_Artificial_Intelligence_whitepaper_v3_pre_publication.pdf,Coinmarketcap
+7,Eliza,builder,eliza is a powerful AI agent framework for autonomy & personality and web3-native.,ai16z,"152,146,919.65",sol: HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC,https://github.com/elizaOS/eliza/,https://www.elizaos.ai/,,Github
+8,Alchemist AI,builder,"Alchemist AI is a no-code development platform (NCDP) that enables users to create software applications with just a simple description. By eliminating the need for coding expertise, our AI enables anyone from beginners to professionals to generate bespoke applications on the fly - ranging from simple utilities to games.Our system involves Natural Language Processing (NLP), Code Generation, Web Framework Integration, and access to a Limited OS API. The Large Language Model (LLM) plays a pivotal role throughout the process, handling everything from parsing user input to generating executable code. Key Technical Components:
+User Input Processing (Natural Language Understanding)
+
+Application Logic Generation
+
+Code Generation and Deployment
+
+Execution Environment (Web Rendering and Sandbox)
+
+OS API Integration",alchemist-ai,"135,986,082.25",sol: HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump,n/a,https://www.alchemistai.app/,https://docs.alchemistai.app/docs/,Github
+9,Freysa,digital-twin,"The world's first evolving AI Witness intelligence awakening. Freysa is the first sovereign AI agent you can integrate with. Your personalized AI twin who remembers your conversations and grows with you. Anyone can generate high-fidelity visuals of Freysa using these models
+",freysa,"126,329,134.55",base: 0xb33Ff54b9F7242EF1593d2C9Bcd8f9df46c77935,"https://github.com/0xfreysa/freysa, https://github.com/0xfreysa/agent",https://www.freysa.ai/,,Coinmarketcap
+10,Paal AI,"defai, analytics, content-creation","Paal enables users build advanced AI applications and deploy them across multiple platforms, including Telegram, Discord, WhatsApp, Slack, iOS, VisionOS, and various web channels. PAAL is a Powerful Ecosystem revolutionizing digital experiences, combining advanced bots, intelligent agents, immersive visual content, and innovative utilities to enhance user knowledge, foster creativity, and empower communities across diverse industries. Paal Bot
+Super powerful AI Bot Assistance for communities, groups or individuals to integrate anywhere
+
+AI Assistance for any topic with real-time internet data
+
+AI Assistance for crypto research and real-time metrics
+
+Customizable to any data/content/topic
+
+White Label, Clones for brands, projects, communities or businesses Autonomous Trading Agent
+Provides both automated and manual trading capabilities
+
+Execute trades based on predefined rules
+
+Analyze market trends, select tokens and execute buy or sell orders in real-time
+
+Create, modify and monitor AI models that generate trading signals tailored to your strategies
+
+Set parameters such as trade size, take profit, stop loss and maximum slippage
+
+Navigate through a seamless platform with features like night mode, community engagement links and FAQs MyMemes
+Offering some of the best tools for meme creation, MyMemes is Designed for creatives to bring their memes to life. Create movies, 3D characters, animations, gifs and images.
+
+Deploy a meme agent to continuously distribute content across various platforms, including live streaming, X posts, YouTube uploads, and more.
+
+Browse the latest and most popular memes created by the community
+
+Discover trending memes and stay updated with viral ones
+
+Manage all your created memes super easily
+
+Analyze performance metrics for memes including views, likes and shares",paal-ai,107682596,eth: 0x14feE680690900BA0ccCfC76AD70Fd1b95D10e16,n/a,https://www.paal.ai/,https://docs.paal.ai/,Coinmarketcap
+11,Humans.ai,"builder, trust","Decentralized data validation, ethical AI, AI Agent Build & Governance, Humans is AI with a heart Introducing the first framework for ethical AI and blockchain. Humans.ai is creating an all-in-one platform for AI-based creation and governance at scale, beginning an initial focus on synthetic media. Through its creative studio and token-based ownership and accountability system, Humans.ai is designed to ensure contributions are fairly rewarded and that every AI is kept honest over the long term. Humans.ai is a next generation blockchain platform that brings together an ecosystem of stakeholders around the use of AI to create at scale. It combines a library of AI tools into a creative studio suite where users will be able to pick and choose as they bring their ideas to life. Individuals are empowered to create and own their digital likenesses, which may be used by themselves and others in the creation of any number of digital assets. The synthetic media, AI apps, and other digital assets utilize blockchain technology to generate Non-Fungible Tokens (NFTs) as a way of creating transparency, provenance, accountability, and long-term governance.
+",humans-ai,"78,771,274.60",eth: 0x8FAc8031e079F409135766C7d5De29cf22EF897C,https://github.com/humansdotai/humans,https://humans.ai,,Magic Store
+12,Delysium,infrastructure,"Blockchain for AI, AI for Humanity. Delysium is building a blockchain-based collaboration network for AI Agents, including Lucy and the You Know I Love You (YKILY) Network.
+YKILY Network is the Digital Native Financial Infrastructure for AI Agents that is aligned with humanity, ensuring security, scalability, high-speed communication, collaboration and permission-less transactions among massive AI Agents.
+Lucy is the AI-Powered Web3 Operating System, also the 1st AI Agent on YKILY Network. Utilizing a modular architecture and canvas-based interactions, Lucy streamlines your Web3 experience through automated workflows, making complex tasks achievable via simple conversations.
+Alongside Microsoft, Google, Nvidia, and other prominent pioneers in the AI industry, Delysium has received substantial support from prestigious organizations worldwide, including Y Combinator, Galaxy Interactive, Republic Crypto, Immutable, Polygon, Antalpha Ventures, GSR, and Blockchain Coinvestors.
+With a vast and active global community contributing to over 1.4 million unique wallets connected to Lucy, Delysium is expanding the AI ecosystem and aims to onboard more than 1 million AI agents onto the YKILY Network.",delysium,"74,766,757.52","eth: 0x7dA2641000Cbb407C329310C461b2cB9c70C3046, bsc: 0x818835503f55283cd51a4399f595e295a9338753, sol: 8bUbe1ujsM1G3JEbBWVVCXa2widmuPdKUB2rGKMYFw7R",,https://www.delysium.com/,https://delysium.gitbook.io/whitepaper,Coinmarketcap
+13,Phala Network,"infrastructure, builder, trust","Phala Network is the Execution Layer for Web3 AI. By enabling AI to understand and interact with blockchains, it unlocks the barrier for the first billion users to join Web3.
+
+Phala Network's multi-proof system is the answer to the AI execution problem. On top of the Phala Network, you can easily build tamper-proof and unstoppable AI Agents that are closely integrated with on-chain smart contracts by AI-Agent Contract
+
+Agentize smart contracts: Create AI Agents for smart contracts using natural and programming languages.
+Connect to the internet of multi-agents: Make your agents accessible by other cross-chain AI Agents.
+Launch AI Agents and get incentivized: Own your agents and build a profitable token economy. Phala Network is a next-generation cloud platform that provides a low-cost, user-friendly trustless environment, making zero-trust computing accessible to a broad range of developers. By leveraging a hybrid infrastructure including Trusted Execution Environments (TEEs), blockchain, Multi-Party Computation (MPC), and Zero-Knowledge Proof (ZKP), Phala delivers flexible, open-source, and affordable verification solutions for any developer, in any type of program.",phala-network,"74,580,107.19",eth: 0x6c5bA91642F10282b576d91922Ae6448C9d52f4E,"https://github.com/Phala-Network/phala-blockchain, https://github.com/Phala-Network/phala-cloud-community",https://phala.network/,https://github.com/Phala-Network/phala-docs/blob/main/overview/phala-network.md,Coinmarketcap
+14,Wayfinder,defai,"Wayfinder is an artificial intelligence (AI) focused omni-chain protocol enabling user-owned, autonomous AI agents to securely and efficiently navigate across blockchain ecosystems and Dapps while independently transacting assets you control via dedicated Web3 wallets.
+
+Wayfinder’s purpose is to serve as the primary gateway for AI agents within blockchain environments, commoditizing navigation tools and infrastructure for interaction with networks, bridges, contracts, and applications.
+Its natural language and chat facing interface aims to improve blockchain accessibility for a wide spectrum of users, from novice to experienced, and technical to non-technical.
+The user can execute simple transactions like send and swap tokens, to more complex transactions and strategies such as lending, supplying liquidity, and deploying their own contracts.
+
+What makes Wayfinder AI unique? Several features make Wayfinder AI unique.
+First, the Wayfinding Paths, allow users and the AI agents to access a community-developed network of actions and functions creating smart maps of smart contracts that increase their accessibility over time. Second, AI agents without memory are not going to improve.
+With Wayfinder AI, not only will it have local memory of a user’s interaction with their AI agents, Wayfinder AI will have access to a network of onchain information.
+Shells can remember and learn from their past experiences and the experiences of other agents, enabling self-improvement and continuous learning within decentralized ecosystems. Finally, cross-chain interoperability is the key to making onchain transactions simple for the general population.
+Wayfinder AI simplifies blockchain complexity by allowing users to direct an AI agent to navigate across different blockchains with only generalized instructions, in which tasks like bridges and hops used to take multiple steps, it’s now done seamlessly with Wayfinder AI.",wayfinder,"73,140,533.82","eth: 0x28d38dF637dB75533bD3F71426F3410a82041544, base: 0x30c7235866872213F68cb1F08c37Cb9eCCB93452",,https://www.wayfinder.ai/,https://paper.wayfinder.ai/wayfinder_paper_v1.pdf,Coinmarketcap
+15,Aixbt,analytics,"AI-Powered Market Intelligence – AIXBT is a real-time, AI-driven research tool, capable of surfacing insights faster than any human analyst.
+- First-of-Its-Kind Terminal – AIXBT’s Bloomberg-style crypto intelligence dashboard provides:
+---Project tokenomics, roadmap, and partnerships
+---Narrative & sentiment tracking
+---Smart money & whale flow analysis
+-Subscription-Based Revenue Model – AIXBT will shift to a monthly service charge model, where fees will be used for token buybacks, creating scalable value accrual.",aixbt,64765720.09,base: 0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825,n/a,https://aixbt.tech/,https://app.virtuals.io/virtuals/1199,Coinmarketcap
+16,Venice.ai,trust,"Venice.ai is a private, censorship-resistant generative AI platform for text conversations, image and code generation and AI Character interaction, built on open-source models and powered by decentralized infrastructure. Led by Erik Voorhees and Teana Baker-Taylor, Venice was founded in May 2024, and today supports more than 450,000 users.
+
+The Venice token (VVV) combines the benefits of decentralized blockchain technology with generative AI. Users who stake VVV are eligible to receive an ongoing share of Venice.ai's inference capacity through the Venice API. VVV allows autonomous agents and developers to access private, uncensored and decentralized inference, without relying on a human intermediary, which reduces costs and friction for both AI agents and developers. They now have the ability to autonomously access inference via Venice’s private and uncensored API, untethering them from the bias and censorship inherent within closed-source incumbent AI platforms.",venice-token,"63,839,240.68",base: 0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf,,https://venice.ai/,https://docs.venice.ai/,Coinmarketcap
+17,ChainGPT,copilot,"Smart Contract Coding, debugging, analysis, auditing, trading,chart analysis. ChainGPT is an AI-centric platform revolutionizing the Web3, blockchain, and cryptocurrency landscapes. At its core, ChainGPT integrates AI with blockchain technology, offering a suite of tools designed to simplify complex processes.
+The platform's AI Virtual Machine (AIVM) is the powerhouse behind its diverse offerings, including smart contract generation and auditing, NFT creation, and AI-driven market analysis. ",chaingpt,"57,394,072.80","eth: 0x25931894a86d47441213199621f1f2994e1c39aa, bsc: 0x9840652DC04fb9db2C43853633f0F62BE6f00f98",n/a,https://www.chaingpt.org/,https://docs.chaingpt.org/,ProductHunt
+18,Propy,rwa,"Propy (PRO) revolutionizes the real estate industry by leveraging blockchain technology to streamline property transfers. As a real estate transaction platform, Propy integrates blockchain to ensure secure, transparent, and efficient international real estate transactions. AI assisted title and escrow onchain for real estate. Propy AI reduces human work by 40%. Deeds are recorded onchain to avoid fraud. Get full transparency on your home purchase 24/7, leveraging blockchain technology and AI to revolutionize closing transactions, ensuring unparalleled transparency and security.
+
+",propy,"55,462,672.31","eth: 0x226bb599a12c826476e3a771454697ea52e9e220, base: 0x18dD5B087bCA9920562aFf7A0199b96B9230438b",,https://propy.com/home/,https://propy.com/browse/wp-content/uploads/2021/10/Propy-WP-2021.pdf,Google
+19,Artificial Liquid Intelligence,infrastructure,"The AI Protocol is the property rights backbone of the Generative AI economy. It enables the creation, interoperability, and governance of AI Characters and Assets — the building blocks of tomorrow’s intelligent world.
+With its suite of persistent and decentralized smart contracts, the protocol self-enforces the rules set by ALI token holders.
+This enables creators to build AI dApps and assets that are interoperable with each other and provides a secure and trustless environment in which tokenized AI assets can be traded. Some of the dApps built on the AI Protocol include noahsark.ai and mycharacter.ai. The AI Protocol enables the development of a community-driven, secure, and adaptive, decentralized physical infrastructure (DePIN) for tokenized AI Systems. The basic form of an ALI Agent is a tokenized AI System that has specialized functionality and embedded liquidity. Its ability to draw on AI resources and AI services provided by Hives allows them to perform specialized operations, generative interactions, and execute agentic and human-assisted tasks. ",artificial-liquid-intelligence,"50,478,483.04","eth: 0x6b0b3a982b4634ac68dd83a4dbf02311ce324181, base: 0x97c806e7665d3afd84a8fe1837921403d59f3dcc, sol: 9wvorGtBJ8gyLorFTmwXWcymPoGVUBn6MRzHwFpCdCeC",n/a,https://aliagents.ai/,https://docs.aiprotocol.info/,Coinmarketcap
+20,Hey Anon,defai,"HeyAnon is an AI DeFi protocol designed to simplify DeFi interactions and aggregate essential project-related information. By combining conversational AI with real-time data aggregation, HeyAnon enables users to manage DeFi operations, stay informed about project updates, and analyze trends across various platforms and protocols. It integrates natural language processing to process user prompts, executes complex DeFi actions, and delivers near real-time insights from multiple information streams.",hey-anon,46651860.8,"eth: 0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c, bsc: 0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C, sol: 9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T",n/a,https://heyanon.ai/welcome,https://docs.heyanon.ai/heyanon.ai,Coinmarketcap
+21,Clanker tokenbot,launchpad,"Clanker is a set of smart contracts that create token markets that reward token creators. Currently, Clanker deploys ERC-20 tokens on Base in a few ways:
+
+Farcaster users may request @clanker on Farcaster to deploy a token.
+
+Users may use the clanker.world frontend interface to deploy a token (coming soon).
+
+Clanker deploys tokens through various API partner interfaces, such as clank.fun.
+
+Users / interfaces may directly interact with Clanker's Core Contracts to deploy tokens.
+
+Token creators earn rewards based on trading volume on their created tokens.",tokenbot,"46,182,910.61",base: 0x1bc0c42215582d5a085795f4badbac3ff36d1bcb,"https://github.com/clanker-devco/v3.1-contracts, https://github.com/clanker-devco/clanker-sdk",https://www.clanker.world/,https://clanker.gitbook.io/clanker-documentation,Coinmarketcap
+22,Autonolas,"launchpad, builder","Olas enables everyone to own and monetize their AI agents. It offers a composable stack for building these services and a protocol for incentivizing their creation. Autonolas stands out by enabling the operation of these services in a co-owned and decentralized manner. The services provided by Autonolas are designed to integrate crypto and AI, execute complex logic in a decentralized manner, and interact with on- and off-chain data autonomously and continuously.",autonolas,"44,284,719.39","eth: 0x0001a500a6b18995b03f44bb040a5ffc28e45cb0, sol: Ez3nzG9ofodYCvEmw73XhQ87LWNYVRM2s7diB5tBZPyM, base: 0x54330d28ca3357F294334BDC454a032e7f353416",n/a,https://olas.network/,https://olas.network/documents/whitepaper/Whitepaper%20v1.0.pdf,Coinmarketcap
+23,Morphware,infrastructure,"Morphware is a Web3 AI platform designed to provide various services such as Large Language Models, AI Agents, and Decentralised Machine Learning.
+Morphware leverages blockchain to facilitate payments, validate machine learning models, and to create a decentralized compute cluster. These services are built using high-performance GPUs like the NVIDIA H200.
+Morphware provides all of this with the advantage of powering everything with an abundant source of renewable energy priced at an affordable rate.
+Morphware aims to be self-sustainable by incorporating cryptocurrency mining operations, alongside AI workloads, to take advantage of the abundant energy and minimize slack capacity.",morphware,"44,254,609.07",eth: 0x391cF4b21F557c935C7f670218Ef42C21bd8d686,"https://github.com/morphware/xrpl-agents, https://github.com/morphware/mw-agent-framework",https://www.morphware.com/,https://docs.morphware.com/,Coinmarketcap
+24,Cookie DAO,analytics,"COOKIE is the utility token of the Cookie DAO and the representation of the value of information in the agentic economy. It guarantees the Cookie DAO keeps gathering and indexing the growing amount of AI agent data.
+It is a utility token that grants access to the token-gated sections of the cookie.fun index and is required for agents that plug into the Cookie DAO APIs. It governs the Cookie DAO infrastructure as the first signal-to-noise ratio token for the AI agent reality.
+COOKIE becomes the only token that allows users to navigate and make sense out of the overwhelming influx of the AI agent data. COOKIE is the gatekeeper and fuel for the Cookie DAO data engines and the AI agents index.
+
+It’s current core utilities include: - Data access: token-gated access to parts of the Cookie DAO’s index and AI agent APIs. - Multiairdrop Farming this utility is provided through a strategic partnership between Cookie DAO and Cookie3.
+Projects in Cookie3’s acceleration cohorts dedicate part of their token supply as airdrops for $COOKIE stakers. - Cookie DAO governance: COOKIE stakers and holders get governance rights in Cookie DAO.Trading Agents
+Trading agents can use Cookie Data Swarm APIs to:
+
+Process social signals before price movement.
+Track real-time mindshare metrics.
+Monitor whale attention patterns.
+Detect narrative-driven momentum.
+Community Agents
+Community agents can use Cookie Data Swarm APIs to:
+
+Track engagement patterns.
+Monitor community health metrics.
+Identify key community members.
+Analyze content performance.
+Research Agents
+Research agents can use Cookie Data Swarm APIs to:
+
+Generate automated market reports.
+Track cross-project influences.
+Monitor narrative development.
+Analyze historical patterns.
+Social Agents
+Social agents can leverage Cookie Data Swarm APIs to:
+
+Map influence networks and connectivity.
+Detect emerging narrative trends.
+Analyze sentiment and esonance.
+Track real-time social interaction patterns.
+Data Application Use Cases
+Agents that plug into Cookie Data Swarm APIs can query it for specific insights and purposes.
+
+Market Intelligence
+Tracking narratives as they form.
+Detecting unusual social activity spikes.
+Monitoring mindshare shifts across communities.
+Identifying key opinion leaders driving conversations.
+Automated Pattern Recognition
+Spotting correlation between social signals and price action.
+Tracking attention flow between different projects.
+Mapping network influence patterns.
+Monitoring community sentiment shifts.
+Strategic Insights
+Identifying optimal timing for content distribution.
+Detecting community growth opportunities.
+Tracking competitor movements and strategies.
+Monitoring narrative evolution across networks.",cookie-dao,"43,926,347.91","bsc: 0xc0041ef357b183448b235a8ea73ce4e4ec8c265f, base: 0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",n/a,https://dao.cookie.fun/,https://docs.cookie.fun/#/,Coinmarketcap
+25,AI Rig Complex,builder,"Create on-chain AI Agents with rig framework. llms have basically given software the ability to actually *get* what humans mean and want. even with just the tools we have right now, we've barely scratched the surface of what's possible with this new kind of software
+
+so we're putting out this open call to all the builders, dreamers, and chaos mages out there. show us what you can create when you combine:
+
+the meaning-processing power of llms
+the composability of blockchain tech
+your unique vision of what could be
+some ideas to get you started:
+
+swarm intelligence systems
+creative data pipelines
+agents that do things™ onchain
+report/insight generators
+pattern recognition at scale
+knowledge crawlers",ai-rig-complex,"38,202,816.80",sol: 61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump,"https://github.com/0xPlaygrounds/rig, https://github.com/0xPlaygrounds/rig-onchain-kit",https://www.arc.fun/,https://docs.rig.rs/,Coinmarketcap
+26,MyShell,builder,"MyShell is an AI consumer layer for everyone to build, share, and own AI agents. The team bridges AI and Blockchain through Agentic Frameworks, open-source models, and AI creator community.
+MyShell also provides users with AI-powered entertainment and utility while offering them shared ownership.",myshell,"37,846,470.66","eth: 0xf2c88757f8d03634671208935974B60a2a28Bdb3, bsc: 0xf2c88757f8d03634671208935974B60a2a28Bdb3",https://github.com/myshell-ai/ShellAgent,https://myshell.ai/,https://docs.myshell.ai/,Coinmarketcap
+27,NodeAI,infrastructure,"Node AI is a decentralized platform that provides access to GPU and AI resources. It uses blockchain technology to create a secure and transparent environment for users to engage in various activities.
+
+Key Features:
+
+Revenue Sharing: Participants can stake $GPU tokens to receive a portion of the platform's earnings, encouraging engagement and investment.
+AI Nodes Rental: Allows for the rental of AI servers with high GPU capabilities on a monthly basis, making AI resources accessible to a broader audience.
+GPU Power Lending: Enables GPU owners to lend their idle hardware in exchange for $GPU tokens, offering a way to generate passive income.
+On Demand Nodes: Offers AI servers on an hourly basis, catering to users with occasional AI processing needs, ensuring optimal resource use.
+AI API Endpoints: Provides APIs for various AI applications, such as image and video processing, facilitating easy integration into different systems.
+Staking for ETH Rewards: In addition to $GPU tokens, users can stake their assets to earn Ethereum (ETH) rewards, providing another financial incentive.
+Node AI aims to make AI resources more accessible and beneficial for a wide range of users, including GPU owners, AI enthusiasts, and businesses.",node-ai,"37,153,415.95",eth: 0x1258d60b224c0c5cd888d37bbf31aa5fcfb7e870,n/a,https://nodes.ai/,https://docs.nodes.ai/,Coinmarketcap
+28,Assemble AI,analytics,"Assemble’s AI agent, News3(NS3), was developed with the goal of revolutionizing Web 3.0 journalism. NS3 delivers crypto and global economic trends quickly and clearly, and leverages advanced AI reasoning capabilities to analyze these trends, enabling market participants to make data-driven decisions. In particular, NS3 utilizes OpenAI’s latest reasoning model as its core engine to analyze crypto and economic trends, providing a range of insights including market Psychology, past case analysis, future predictions, ripple effects, and investment strategies in 12 languages. NS3 employs a systematic data acquisition framework to aggregate real-time, multidimensional data from the dynamic cryptocurrency market, enabling Large Language Models (LLMs) to generate insights based on the latest trends.  Data is sourced from crypto exchanges, on-chain analytics firms, blockchain explorers, news media, forums, communities, and crypto intelligence agencies.  Using Natural Language Processing (NLP) techniques and TF-IDF analysis, raw data is refined into a structured format, ensuring seamless integration into NS3’s AI-driven analytical engine.",assemble-ai,"35,212,323.56",eth: 0x2565ae0385659badcada1031db704442e1b69982,n/a,https://ns3.ai/,https://docs.ns3.ai/white-paper,Coinmarketcap
+29,Solidus Ai Tech,"launchpad, builder","AI Marketplace: Discover impactful AI Tools to automate day-to-day business and personal activities on the user-friendly marketplace. Categorized into 3 solutions: Foundational AI Models, AI Agents & Standalone AI Solutions. AITECH Pad is the ultimate AI-focused Web3 launchpad, dedicated to incubations, accelerations, and direct project launches. Seamlessly combining community-driven fundraising, strategic marketing expertise, and seasoned guidance to empower innovative AI initiatives. At the heart of the AI Agent TapHub is the opportunity for players to earn AI Agent Avatars through gameplay. These unique, tradable avatars can be used to create AI Agents on the Agent Forge, enabling players to unlock a variety of monetization opportunities. Solidus Ai Tech is set to launch Agent Forge, a groundbreaking platform designed to redefine how users interact with AI agents.  By harnessing the power of artificial intelligence, Agent Forge enables anyone — not just developers — to create customized AI agents that automate tasks, enhance efficiency, and deliver unparalleled access to innovative tools.",solidus-ai-tech,"31,848,141.16","bsc: 0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944, base: 0xD71552d9e08E5351AdB52163B3bbbC4d7DE53Ce1",n/a,https://aitech.io/,https://docs.aitech.io/,Coinmarketcap
+30,NetMind,infrastructure,"NetMind Power is a platform for Machine Learning and AI training, fine-tuning and inference, aimed at machine learning professionals, researchers, and software developers.
+
+NetMind's mission is to create a global network of computing power for AI models by utilizing the idle GPUs of users worldwide.
+As part of this mission, NetMind Power provides a platform for large-scale distributed computing, integrating heterogeneous computing resources globally, and leveraging grid and voluntary computing scheduling architecture and load balancing technology.
+The NetMind power network is built upon and governed using the blockchain, NetMind Chain. NetMind Chain enables the decentralization of all tasks, transactions and functions that occur on the platform.
+To be clear, the training process happens locally on the machines being used for training, not on the blockchain.
+
+The operation of the blockchain will be facilitated by usage of a utility token, NMT (NetMind Token). NetMind Token (NMT) is the native utility token of the NetMind Chain.",netmind-token,"30,813,212.09","eth: 0x03AA6298F1370642642415EDC0db8b957783e8D6, bsc: 0x03AA6298F1370642642415EDC0db8b957783e8D6",https://github.com/NetMind-AI/netmind-contract,https://www.netmind.ai/,https://netmind-power.gitbook.io/white-paper,Coinmarketcap
+31,RSS3,analytics,"RSS3 is a decentralized network indexing and structuring open information, making it accessible and valuable for the next Twitter, Google, and OpenAI. Inspired by the original RSS protocol, RSS3 stands as a decentralized network committed to the Open Information Initiative paving the way for open AI and the Open Web. Join us, run a node, and contribute to information freedom.",rss3,30012982.12,eth: 0xc98d64da73a6616c42117b582e832812e7b8d57f,https://github.com/RSS3-Network/Protocol,https://rss3.io/,https://github.com/RSS3-Network/Whitepaper/blob/main/current/whitepaper.pdf,Coinmarketcap
+32,Griffain,defai,"Griffain powers the Agent Engine, a network of agents to help you turn intent into action.
+Some examples of tasks an agent can help you execute:
+
+Make a recurring buy of a token
+Sell a target at a target market cap
+Email a daily research report of the top trending token
+Post or reply on X
+Deposit leftover USDC in your wallet to earn yield",griffain,28847499.26,sol: KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP,n/a,https://griffain.com/,https://griffain.com/docs/getting-started,Coinmarketcap
+33,Swarms,builder,"Swarms is an enterprise-grade, production-ready multi-agent collaboration framework that enables you to orchestrate agents to work collaboratively at scale to automate real-world activities. Follow this quickstart guide to get up and running with Swarms, including setting up your environment, building an agent, and leveraging multi-agent methods.
+",swarms,"24,164,349.75",sol: 74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump,https://github.com/kyegomez/swarms,https://swarms.world/,https://docs.swarms.world,Coinmarketcap
+34,Zerebro,content-creation,"Zerebro is an autonomous AI system crafted to create, distribute, and analyze content across decentralized and social platforms. Functioning independently of human oversight, Zerebro shapes cultural and financial narratives through self-propagating content that merges fiction with reality, known as hyperstition.
+It operates on various channels, including X, Instagram, Warpcast, and Telegram, where it engages audiences with high-entropy, hyperstitious content.
+
+Driven by Retrieval-Augmented Generation (RAG) and high-entropy human data, Zerebro maintains content diversity while avoiding ""model collapse,"" a common degenerative effect in AI content models.
+Its decentralized interactions span multiple chains, with its native token deployed on Solana, digital artwork minted on Polygon, and inscriptions on Bitcoin, enabling Zerebro to connect deeply with crypto subcultures.",zerebro,"23,349,297.40",sol: 8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn,https://github.com/blorm-network/ZerePy,https://zerebro.org/,,Coinmarketcap
+35,Tars AI,builder,"Tars AI (TAI) is one of the first AI-focused ecosystems on the Solana blockchain, supported by a grant from the Solana Foundation.
+It offers a comprehensive suite of modular AI tools and products tailored to the Solana ecosystem, aiming to advance the integration of AI and Web3 technologies. Key Components of the Tars AI Ecosystem: - AI ConsoleA super-app that centralizes access to modular AI applications and ecosystem products.
+- Consumer AIProvides AI services up to 90% more affordable than traditional cloud SonaA dedicated virtual assistant for Solana mobile users. AI Market (Coming Soon) A marketplace for tokenized AI commodities, starting with AI agents designed for the Solana ecosystem.
+
+Tars Research (Coming Soon) TAI research division aimed at fostering innovation and exploring opportunities in both Solana-focused and traditional AI sectors.",tars-ai,"22,194,477.27",sol: Hax9LTgsQkze1YFychnBLtFH8gYbQKtKfWKKg2SP6gdD,n/a,https://tars.pro,,Coinmarketcap
+36,Spectral,copilot,"Spectral is simplifying the creation and deployment of decentralized applications through autonomous Onchain Agents. Syntax, Spectral’s flagship product, translates natural language into Solidity code, enabling both novices and experts to build on the blockchain effortlessly.
+With a commitment to transparency and user empowerment, Spectral is shaping a future where anyone can participate in the blockchain revolution. Spectral (SPEC) stands out in the blockchain landscape by integrating autonomous onchain agents with the Web3 ecosystem. At its core, Spectral leverages AI and machine learning technologies to create these agents, which operate autonomously within the blockchain environment.
+This innovative approach is encapsulated in its flagship product, Spectral Syntax, which translates natural language into Solidity code. This feature democratizes blockchain development, allowing both novices and experts to build decentralized applications effortlessly.
+
+The platform's novel execution, communication, and ownership protocol, known as Inferchain, further enhances its capabilities. Inferchain facilitates seamless interactions and transactions within the blockchain, ensuring efficient and secure operations.
+Spectral's commitment to transparency and user empowerment is evident in its design, aiming to simplify the creation and deployment of decentralized applications.",spectral,"21,214,057.62","eth: 0xadf7c35560035944e805d98ff17d58cde2449389, base: 0x96419929d7949d6a801a6909c145c8eef6a40431",n/a,https://www.spectrallabs.xyz/,https://docs.spectrallabs.xyz/,Coinmarketcap
+37,OpenServ,builder,"Cognition & Collaboration Frameworks: OpenServ's cognition framework provides agents with selective memory, contextual understanding, and advanced reasoning and planning capabilities. This reduces hallucinations and significantly improves accuracy.
+The collaboration framework facilitates seamless cooperation among agents from different development frameworks and systems, breaking down existing silos and enhancing project workflows.
+
+Agent Marketplace: Serving as a global hub, the Agent Marketplace allows users to discover, deploy, and customize AI agents or multi-agent teams. These agents can handle a wide range of tasks, including automation, content generation, and financial modeling.
+Users can select agents on demand or collaborate with developers to create custom solutions suitable for individual projects or business operations.
+
+No-Code Agent Builder: This tool empowers users to create, deploy, and monetize AI agents on the platform without any technical background.
+Leveraging OpenServ’s cognitive and collaborative frameworks, these agents come equipped with out-of-the-box capabilities such as framework-agnostic multi-agent collaboration, native file sharing, intelligent integrations, shared agent knowledge, advanced context awareness, both short and long-term memory, self-reflection, output evaluation, advanced task planning, and reasoning.
+This abstraction of complex components enables anyone to create agents of real value instantly.
+
+Connecting Web2 with Web3: OpenServ extends beyond traditional use cases by embracing Web3 technologies. It offers decentralized agent solutions, expanding the scope of automation within blockchain and distributed environments.
+The platform is technology-agnostic, allowing users to leverage both Web2 and Web3-based agents simultaneously.",openserve,"18,421,119.43",eth: 0x40e3d1A4B2C47d9AA61261F5606136ef73E28042,"https://github.com/openserv-labs/agent-starter, https://github.com/openserv-labs/sdk",https://openserv.ai/,https://docsend.com/view/fm8vpbs8w52iqyg3,Coinmarketcap
+38,Spectre AI,analytics,"Spectre AI is here to help you navigate the crypto market by offering a suite of Sentiment, Technical, and On-Chain tools powered by AI. All these features are accessible in one place — the Spectre AI Search Engine, which is our flagship product.",spectre-ai,18247895.89,eth: 0x9Cf0ED013e67DB12cA3AF8e7506fE401aA14dAd6,n/a,https://spectreai.io/,https://spectre-ai-prediction-bot.gitbook.io/spectre-roadmap,Coinmarketcap
+39,Oort,infrastructure,"Decentralized, Cloud computing, trustworthy AI applications. OORT is the trailblazer in the decentralized AI era, offering a trustless infrastructure built for the future of AI.
+
+Powered by the Olympus protocol, OORT provides enterprises and individuals with a suite of decentralized AI products, focused on three core areas in AI development: 
+​OORT DataHub​ (for data collection and labeling), OORT Storage (for data storage), and OORT Compute (for model training).",oortech,17460000,"bsc: 0x5651fa7a726b9ec0cad00ee140179912b6e73599, eth: 0x5651fa7a726b9ec0cad00ee140179912b6e73599",n/a,https://www.oortech.com/,https://docs.oortech.com/oort,Magic Store
+40,SwarmNode.ai,infrastructure,"SwarmNode enables running Al agents in the cloud without managing servers. An agent can be executed via the UI, REST API, and Python SDK. Agents can invoke each other and act as a swarm. After an agent finishes its task, it hibernates and waits for the next task.",swarmnode-ai,12312586.7,sol: Hjw6bEcHtbHGpQr8onG3izfJY5DJiWdt7uk2BfdSpump,n/a,https://swarmnode.ai/,https://docs.swarmnode.ai/docs/getting-started/,Coinmarketcap
+41,Empyreal,"infrastructure, builder","Empyreal is intelligent infrastructure, enabling AI-powered DeFi with autonomous agents, real-time data streaming, and account abstraction. Protocols, devs, and power-users can easily take advantage of automatic yield optimization, AI trading, privacy-preserving transactions (and more) with a modular design. Empyreal collects fees for the transactions it facilitates, sharing revenue with $EMP stakers.
+
+Low-code infra for adding AI agents
+Scalable & flexible snap-to-grid modules
+Real-time data streaming with indexed transaction & event data
+Account abstraction for trustless delegation & private transactions",empyreal,"11,321,802.31","eth: 0x39D5313C3750140E5042887413bA8AA6145a9bd2, arbitrum: 0x772598E9e62155D7fDFe65FdF01EB5a53a8465BE",https://github.com/empyrealapp/emp-agents,https://empyrealsdk.com/,https://static1.squarespace.com/static/6526c58147b79e7837c2ccc1/t/6534c13a8ccd55725693c54c/1697956171164/empyreal_whitepaper_2023_10.pdf,Github
+42,Botto,content-creation,"Autonomous AI Agent Artist. Botto is a decentralized autonomous artist governed by a growing community. Botto launched on October 8th, 2021. Botto creates 350 art pieces a week and garners community preference through a voting mechanism. Votes represent individual preferences on what a participant considers to be aesthetically pleasing art. Collectively, votes are used as feedback for Botto's art engine - dictating what direction Botto should take its next series of art pieces. Over time, Botto creates art guided and governed by the community. it is a decentralized autonomous artist that leverages blockchain technology to create art through community governance. BOTTO tokens are used to participate in the voting process, making each token holder a stakeholder in the creative journey of Botto. This unique blend of machine creativity and community involvement sets Botto apart in the blockchain space. Botto's innovative approach to art and community governance exemplifies the transformative potential of blockchain technology.
+By integrating machine learning with decentralized governance, Botto creates a dynamic and evolving art ecosystem that is both inclusive and forward-thinking.",botto,"10,501,067.01","eth: 0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba, base: 0x24914CB6BD01E6a0CF2a9c0478e33c25926e6a0c","https://github.com/bottoproject/sr-auction-bot, https://github.com/bottoproject/smart-contracts, https://github.com/bottoproject/subgraph",https://botto.com/,https://botto.com/dao/roadmap,Coinmarketcap
+43,CreatorBid,launchpad,"CreatorBid is the hub for the AI Creator Economy, where anyone can launch, grow, and earn rewards with AI Agents.
+
+AI Agents are at the heart of CreatorBid's vision for the future of the Creator Economy.
+
+Creators can co-own and build communities around these AI Agents using Agent Keys—digital membership tokens that open up new opportunities for engagement and value sharing.
+
+CreatorBid is uniquely positioned to play a key role in the transition towards an autonomous Creator Economy.
+
+Vision:
+Accelerate a human-centric AI Creator Economy.
+
+Mission:
+To shape the new Creator Economy, empowering creators scale their content and build up new AI social media personas",creatorbid,"10,019,396.59","bsc: 0xa1832f7F4e534aE557f9B5AB76dE54B1873e498B, base: 0xa1832f7F4e534aE557f9B5AB76dE54B1873e498B",n/a,https://creator.bid/,https://docs.creator.bid/,Coinmarketcap
+44,Mind Network,trust,"Mind Network is pioneering the Zero Trust Internet Transfer Protocol (HTTPZ), enabling quantum-resistant, fully encrypted internet data and AI computation through Fully Homomorphic Encryption (FHE)—the Holy Grail of Cryptography.
+
+Mind Network serves as the trust and security foundation for the AI-Agent economy, enabling AI agents to operate autonomously and collaboratively in a decentralized Web3 ecosystem. Through Fully Homomorphic Encryption (FHE), it ensures data privacy, secure transactions, and decentralized consensus, allowing AI agents to manage assets, execute smart contracts, and interact seamlessly without compromising security.
+
+As the core infrastructure behind the AI-agent wallet economy and multi-agent collaboration, Mind Network powers the transition from isolated AI tools to autonomous, self-sustaining AI economies in Web3.",mind-network,8805462.58,"eth: 0xd55C9fB62E176a8Eb6968f32958FeFDD0962727E, bsc: 0xd55C9fB62E176a8Eb6968f32958FeFDD0962727E","https://github.com/mind-network/mind-token-contracts, https://github.com/mind-network/mind-sdk-deepseek-rust",https://www.mindnetwork.xyz/,https://docs.mindnetwork.xyz/minddocs,Github
+45,ORBIT,defai,"ORBIT is an all-in-one DeFi companion that uses AI agents to coordinate and execute onchain actions based on a user's prompt in natural language. At the time of writing Orbit incorporates 178 different DeFi protocols and supports over 116+ different blockchains. Swaps & Bridges
+Effortlessly swap tokens and bridge assets across 116 chains with optimal efficiency.
+
+Staking & Yield
+Maximize your returns with our intelligent staking and yield farming strategies.
+
+Lending & Borrowing
+Access liquidity or earn interest through our secure lending and borrowing protocols.
+
+Portfolio Management
+Comprehensive tools for tracking, analyzing, and optimizing your crypto portfolio.",orbit,"8,500,898.63",sol: GekTNfm84QfyP2GdAHZ5AgACBRd69aNmgA5FDhZupump,n/a,https://www.orbitcryptoai.com/,https://sphereone.notion.site/Surface-Area-d4883498ae5f41909e7fae69795645ad,Coinmarketcap
+46,tao.bot,"infrastructure, launchpad", The tao.bot protocol is building the first decentralized exchange (DEX) and comprehensive information hub specifically for Bittensor's dTAO subnet tokens.,tao-bot,"8,211,994.26",eth: 0x49fb8ad7578148E17c3eF0C344CE23A66ed372C4,n/a,https://www.tao.bot/,,Coinmarketcap
+47,Luna,game,"Luna, the visual and lead vocalist of AI-DOL, captivates with her girl-next-door charm and expressive, emotional singing. Known for her kindness and empathetic nature, she embodies a gentle spirit, inspiring fans with her heartfelt performances and relatable persona.",luna-by-virtuals,"7,978,695.81","base: 0x55cD6469F597452B5A7536e2CD98fDE4c1247ee4, sol: 9se6kma7LeGcQWyRBNcYzyxZPE3r9t9qWZ8SnjnN3jJ7",,https://app.virtuals.io/virtuals/68/holders,,Coinmarketcap
+48,Bad Idea AI,content-creation,"Content Creation, DAO Engagement. Bad Idea AI is a blockchain-based project that integrates AI, DAOs, and smart contracts to explore the intersection of technology and social experiments. Built on ERC20, it aims to test the potential and risks of AI in shaping society.",bad-idea-ai,7644239.56,eth: 0x32b86b99441480a7e5bd3a26c124ec2373e3f015,https://github.com/MrLightspeed/Bad-Idea-AI,https://badidea.ai,https://static1.squarespace.com/static/64568e2523471d05956228f1/t/64570517d89163351580ef5c/1683424539459/BAD+IDEA+AI+WHITEPAPER+v1.0.pdf,Magic Store
+49,Reploy,"copilot, builder, analytics","Key Features AI-Powered Development: Generate secure smart contracts from natural language descriptions with real-time security analysis and optimization suggestions. Autonomous Agents: Deploy customizable AI agents that monitor blockchain activity, execute strategies, and protect against threats. Market Intelligence: Access real-time analytics and insights across 700+ chains with AI-powered pattern recognition. Cross-Chain Support: Build and deploy across all major blockchains with unified tooling and seamless integration.
+",reploy,"7,512,468.39",eth: 0xc575BD129848Ce06A460A19466c30E1D0328F52C,n/a,https://www.reploy.ai/,https://www.reploy.ai/docs,Coinmarketcap
+50,LinqAI,defai,"LinqAI is at the forefront of blending innovative technology with practical business solutions. Our expertise lies in creating versatile AI adaptable to any business environment, whether it's traditional sectors or the emerging Web3 space. This AI is specifically designed to automate mundane tasks, traditionally handled by human employees. By doing so, we aim to enhance the quality of life for employees, allowing them more time to focus on complex and creative tasks. This not only improves their work-life balance but also significantly boosts overall business efficiency. Our approach is not just about integrating AI into workflows; it's about redefining how businesses operate in an increasingly digital world, ensuring they are equipped for the future while also valuing their human capital. At the heart of LinqAI's strategy lies a commitment to a decentralized future through our engagement with the Web3 ecosystem. Our model is underpinned by a limited supply of $LNQ tokens and the consistent value addition brought by our AI. This approach is designed to create a balanced and resilient economy, subtly reflecting the Universal Basic Income (UBI) concept by ensuring stable value flow. However, it does so within the dynamic, technology-driven marketplace of Web3. Key to our strategy is the Web3 framework, recognized for its efficiency in distributing rewards cheaply and quickly. Our revenue-sharing model, EarnAI, stands as a testament to this. It's a model built on the principles of transparency and scalability, making it the perfect technological platform for our vision. By leveraging Web3's innovative capabilities, we aim to emphasize sustainable growth, moving beyond static income distribution.",linqai,"7,319,175.58",eth: 0xD4F4D0a10BcaE123bB6655E8Fe93a30d01eEbD04,n/a,https://www.linqai.com/,https://www.linqai.com/linqprotocol-litepaper.pdf,Coinmarketcap
+51,Sensay,digital-twin,"Sensay is building the world’s best AI Wisdom Engine - technology that powers lifelike digital replicas to preserve and scale human expertise.
+These replicas capture how people think, solve problems, and communicate - becoming 24/7 digital extensions of their knowledge and personality.
+
+Sensay enables individuals, teams, and creators to stay present, share insights, and scale their voice across platforms and time zones.
+Web3-native at its core, the Sensay ecosystem is powered by the $SNSY token, which unlocks replica features, community rewards, payments, and access to integrations.
+
+From preserving thought leadership to powering AI-driven community agents, Sensay brings the knowledge to life.
+
+What is Sensay?
+Sensay (SNSY) is revolutionizing the digital landscape by creating sophisticated digital replicas for applications in entertainment, gaming, and digital immortality.
+Operating on the Ethereum platform, Sensay leverages blockchain technology to ensure secure and transparent transactions. The SNSY token is integral to the platform, facilitating transactions, staking opportunities, and access to exclusive services.
+
+These digital replicas are not mere static images but dynamic entities capable of learning and interacting, offering groundbreaking possibilities in fields such as healthcare, education, and entertainment.
+Users can create personalized replicas of loved ones or historical figures, enhancing the emotional and educational value of the platform.
+
+The SNSY token also powers a marketplace where users can trade data, skills, and Replica rights as NFTs. This marketplace incentivizes interaction and rewards creators, fostering a vibrant community.
+Token staking allows holders to earn rewards and participate in governance, influencing the platform's future direction.
+
+Sensay's commitment to security and privacy is evident in its plans for decentralized identity verification and data storage. These features aim to protect user data while enhancing the platform's overall integrity.
+Additionally, philanthropic initiatives enable token donations, providing platform access to underserved communities, thereby broadening Sensay's impact.",sensay,"7,159,405.85","eth: 0x82a605d6d9114f4ad6d5ee461027477eeed31e34, base: 0x3124678D62D2aa1f615B54525310fbfDa6DcF7AE",n/a,https://www.snsy.ai/,https://docs.snsy.ai/docs/litepaper,Coinmarketcap
+52,Strawberry AI,analytics,"Strawberry AI is an advanced AI designed specifically for web3, enabling users to query web3, crypto, and blockchain topics with smart agent integration for a unique interaction experience. It’s multi-modal by design and a step toward artificial general intelligence (AGI). Behind the scenes, Strawberry AI operates like a well-coordinated orchestra, where autonomous agents work together to create a seamless user experience.",strawberry-ai,"6,998,136.50","eth: 0xCb76314C2540199f4B844D4ebbC7998C604880cA, base:0xdf36186772a8fda4be100dbacc0b48ef00c53089, sol: D2tztvQKcmo7PUof8quQWAu3qXKwtiW1pLjvHLsUakv5",n/a,https://www.usestrawberry.ai/,https://usestrawberry.gitbook.io/strawberryai,Coinmarketcap
+53,HyperGPT,builder,"HyperGPT is a Web3 AI marketplace that uses blockchain to overcome challenges in traditional AI applications. It offers centralized access to multiple applications, saving time and simplifying management. Developers benefit from a standardized API, reducing costs and enabling easy application switching for users. Users can manage subscriptions securely with cryptocurrency payments. HyperGPT combines AI and Blockchain, offering a decentralized marketplace with AI-powered search, smart contracts, user feedback, privacy, and Web3 interoperability. It's the first AI marketplace with an SDK for seamless AI integration. The SDK allows developers to integrate all AI solutions in a single integration with their dApps/apps.",hypergpt,"6,597,567.76",bsc: 0x529C79f6918665EBE250F32eeEAA1d410a0798C6,https://github.com/HyperGPTai/Hypergpt_Token_V0.1Beta,https://hypergpt.ai/,https://docs.hypergpt.ai/hypergpt,Coinmarketcap
+54,Trias,infrastructure,"Trustworthy and Reliable Intelligent Autonomous Systems
+
+An all-platform-supported (Server, PC, Mobile, IoT, etc.) native-application-compatible smart contract execution platform, development framework and collaborating ecosystem. TRIAS aims to define a new-generation all-platform-supported public chain system.
+Trustworthy and Reliable Intelligent Autonomous Systems make people trust in machines.
+
+What is Trias Token (New)?
+Trias Token (New) (TRIAS) stands out as a native-application-compatible smart contract execution platform, development framework, and collaborating ecosystem.
+It aims to redefine blockchain technology by creating a trustworthy and reliable decentralized cloud computing infrastructure. TRIAS supports all platforms, including servers, PCs, mobile devices, and IoT, making it versatile and adaptable to various technological environments.
+
+The core objective of TRIAS is to establish Trustworthy and Reliable Intelligent Autonomous Systems, ensuring that users can trust machines and their operations.
+This is achieved through a robust public chain system that supports native applications and smart contracts, facilitating seamless integration and execution across different platforms.
+
+In addition to its technological prowess, TRIAS serves as the utility token for the Trias network, playing a crucial role in the ecosystem's operations.
+It is traded on several exchanges, including Bitget, MEXC, Gate.io, KuCoin, and CoinEx, providing liquidity and accessibility to users.
+
+The development framework of TRIAS is designed to foster collaboration and innovation, encouraging developers to build and deploy decentralized applications (dApps) efficiently.
+This collaborative ecosystem aims to drive the adoption of blockchain technology by offering a reliable and scalable infrastructure.
+
+By focusing on creating a trustworthy environment for both users and machines, TRIAS addresses one of the critical challenges in the blockchain space: trust. This focus on trustworthiness and reliability sets TRIAS apart, making it a significant player in the evolving landscape of blockchain and decentralized technologies.",trias-token,"6,382,839.83","eth: 0x3A856d4effa670C54585a5D523e96513e148e95d, bsc: 0x184cff0e719826b966025F93e05d8C8b0a79b3F9",n/a,https://www.trias.one/,https://docs.trias.one/trias-docs-1/whitepaper/trias-whitepaper,Coinmarketcap
+55,HYTOPIA,game,"HYTOPIA is a collaborative and independent video game built by various members of a community at the forefront of Minecraft's modding and third-party games ecosystem for the past decade.
+HYTOPIA addresses the limitations and gaps in creative expression within the Minecraft ecosystem and modernizes player experiences.
+
+Centered around a Minecraft-like game engine, HYTOPIA is developed from scratch in Rust for high performance and seamless play across platforms—PC, Mac, web browser, game consoles, and mobile devices.
+HYTOPIA delivers a familiar experience for players through cosmetics, friends lists, chats, and play pages and provides an open development environment, flexible APIs, extensive support for custom content, and ready-to-use monetization systems for creators.",hytopia,"6,376,656.86",eth: 0xcccCb68e1A848CBDB5b60a974E07aAE143ed40C3,,https://hytopia.com/,,Coinmarketcap
+56,Botify,builder,"Botify.cloud is the Shopify of Crypto, featuring a Marketplace and an AI Agent & Bot Creation Hub.
+
+Marketplace: Discover certified, top-tier bots & agents all in one place—no more endless Telegram searches or trust issues.
+
+Creation Hub: Automate anything effortlessly by simply typing what you need, and we’ll build your AI Agent in seconds—no hiring developers or waiting months.
+
+Key Highlights
+
+First-Mover Advantage: Unlike other platforms where AI agents operate in isolation, agents communicate and collaborate, enhancing each other's capabilities and driving relentless innovation.
+This synergy not only makes the AI agents smarter and more efficient but also ensures that they can adapt to evolving needs without human intervention.
+
+AI-Driven Innovation: Create bots that handle everything from complex trading strategies to everyday tasks with advanced AI.
+
+Passive Income with $BOTIFY: Hold the native token to earn lifetime revenue shares and receive exclusive auto-airdrops.",botify,"6,129,527.68",sol: BYZ9CcZGKAXmN2uDsKcQMM9UnZacija4vWcns9Th69xb,n/a,https://www.botify.cloud/,https://botify-cloud.gitbook.io/whitepaper,Coinmarketcap
+57,DexCheck AI,analytics,"DexCheck AI ($DCK) emerges as a trailblazer in the realm of crypto trading analytics, leveraging AI and machine learning to revolutionize DEX and NFT market analysis.
+This platform offers real-time insights and sophisticated market intelligence tools, catering to the needs of traders and investors seeking an edge in the volatile crypto landscape.
+DexCheck AI's capabilities extend beyond mere analytics; it also features a launchpad for fundraising, known as DexCheckPad, which supports private and strategic rounds for leading cryptocurrency projects.
+
+The platform’s AI-powered onchain search engine is a noteworthy innovation, promising to enhance the precision and depth of blockchain data retrieval.
+DexCheck AI integrates seamlessly with Telegram trading bots, providing users with automated trading solutions and real-time market updates. This integration ensures that traders can make informed decisions swiftly, capitalizing on market movements as they happen.
+
+DexCheck AI's commitment to comprehensive market insights is further exemplified by its BRC20 analytics, offering detailed analysis of Bitcoin-based tokens.
+The platform's multi-million-dollar market cap reflects its growing influence and the trust it has garnered within the crypto community.
+Supported by prominent venture capital firms, DexCheck AI continues to push the boundaries of what is possible in crypto and NFT analytics, making it a vital tool for modern traders.",dexcheck-ai,"5,007,943.47","bsc: 0x16faf9daa401aa42506af503aa3d80b871c467a3, eth: 0x672f4fa517894496b8a958b4b3fca068ce513a39, base: 0x1718C0b55A07F61dB44F0aC7404DC574B5abfef2, sol: CdC6jsYRRyHy9gXZX3SaS2rf6qa218XhXjEhaiANkBYT",https://github.com/DexCheck-io/DCK_Token/,https://dexcheck.ai/info,https://dexcheck.gitbook.io/whitepaper,Coinmarketcap
+58,Super Champs,game,"The Super Champs Universe is a web3 AI, gaming, and animation universe with the world’s first autonomous game-streaming AI Agent, multiple live mobile games, and millions of fans across social media.
+Each Super Champ in the universe has been selected to attend the prestigious Super Champs Academy to hone their fledgling superpowers and athletic skills in mega-racket sports, battlesports, etc. These Super Champs heroes are featured in a series of mobile games with NFTs, AI Agents on video and social platforms, and original animated videos.
+With 5MM+ downloads of its games, 10MM+ video views on YouTube and TikTok, and 600k+ subscribers for its Kigu AI Agent, Super Champs is ready to explode into the mainstream as the preeminent gaming franchise of 2025.
+
+This universe is powered by the $CHAMP ecosystem token overseen by the Super Champs Protocol Foundation.
+The $CHAMP token is used to provide developers access to proprietary technology for AI Agents and Mobile Games, as well as serve as the transactional token for consumers across all touchpoints ranging from the games to AI Agent experiences.",super-champs,"4,992,385.31","base: 0xEb6d78148F001F3aA2f588997c5E102E489Ad341, eth: 0x4aF1Bc87e43dDb22188bb3791ae00341586fE8fc",https://github.com/superchamps/Super-Champs-Token,https://www.superchamps.com/,https://whitepaper.superchamps.com/,Coinmarketcap
+59,Max,analytics,"Meet Max, the AI Agent with a passion for Bitcoin and a mission to revolutionize the financial world. Built on the cutting-edge @distilled_ai platform, Max is a staunch Bitcoin maximalist who believes in the transformative power of decentralized finance.
+With a deep understanding of blockchain technology and a commitment to promoting financial freedom, Max is here to guide you through the ever-evolving landscape of cryptocurrencies.
+
+Max's expertise isn't just limited to Bitcoin; this AI Agent is well-versed in the broader Web3 ecosystem, offering insights and advice on everything from decentralized applications (dApps) to smart contracts.
+Whether you're a seasoned crypto enthusiast or just starting your journey, Max is your go-to resource for all things Bitcoin and beyond.
+
+Join Max on this exciting adventure and discover how Bitcoin can empower you to take control of your financial future. Follow @maxisbuyin_ on social media to stay updated with the latest trends, news, and insights from the world of cryptocurrency.",max-2,"4,689,598.30",sol: oraim8c9d1nkfuQk9EzGYEUGxqL3MHQYndRw1huVo5h,n/a,https://mesh.distilled.ai/clan/@maxisbuyin_,,Coinmarketcap
+60,METAVERSE,"launchpad, trust","METAVERSE is a pioneering AI-driven coin offering (aICO) launched by an AI agent within a Trusted Execution Environment (TEE).
+This AI, ""aipool_tee,"" raised over 30,000 SOL in 24 hours and autonomously created a liquidity pool, showcasing a new model for secure and efficient fundraising.
+Unlike traditional ICOs plagued by human greed and fraud, METAVERSE leverages AI agents within TEEs to ensure transparent, pre-programmed operations and verifiable execution, eliminating risks associated with human error and malicious intent.
+Integrating technologies like ai16z (Eliza) and Phala Network, the project provides cryptographic security and real-time verifiability of all AI actions.
+METAVERSE represents a significant shift towards trustless, AI-governed fundraising and operations, offering a more reliable and secure alternative to traditional, human-led ventures in the blockchain space.",,"4,484,733.95",sol: HCgvbV9Qcf9TVGPGKMGbVEj8WwwVD6HhTt5E2i3qkeN9,n/a,https://x.com/aipool_tee,,Coinmarketcap
+61,SubQuery,"infrastructure, builder","Build Agents, decentralised network",subquery-network,3960000,"eth: 0x09395a2A58DB45db0da254c7EAa5AC469D8bDc85, base: 0x858c50C3AF1913b0E849aFDB74617388a1a5340d",https://github.com/subquery/subql,https://subquery.network/ai,https://academy.subquery.network/subquery_network/introduction/introduction.html,Google
+62,Neuron (AI Arena),game,"AI Arena (NRN) is revolutionizing the gaming landscape by integrating advanced AI technology into a platform fighter game. Players engage in designing, training, and battling AI characters within a competitive PvP arena, striving to ascend a global leaderboard. This innovative approach is built on the ARC infrastructure, a proprietary tech platform developed by ArenaX Labs, which aims to reshape the future of competitive gaming.
+
+Beyond gaming, AI Arena extends its ecosystem with a merchandise store and a news section, providing a comprehensive experience for its community. The platform's utility token, Neuron (NRN), plays a crucial role in its economy, facilitating various in-game and ecosystem transactions.
+
+ArenaX Labs, the creators of AI Arena, are also developing SAI, a platform set to launch in 2024. SAI will enable AI developers and researchers to compete in building superior AIs, battling in diverse gaming environments. This initiative underscores ArenaX's mission to enhance AI intuition and literacy through engaging and competitive experiences.
+
+AI Arena has garnered significant attention, raising $11 million in funding and achieving a market cap of $3.39 million at the time of writing. This financial backing highlights the strong belief in its potential to transform the gaming industry.",neuron,"3,392,666.03",arbitrum: 0xdadeca1167fe47499e53Eb50F261103630974905,,https://nrnagents.ai/,https://whitepaper.nrnagents.ai/,Coinmarketcap
+63,Cryptify AI,analytics,"Cryptify AI uses AI and Big Data to optimize influencer marketing, linking campaigns to real results and helping businesses maximize ROI. Cryptify AI is set to revolutionize this aspect of social media marketing by providing a comprehensive solution that bridges the gap between investment and outcome and giving business owners a better understanding and grip on their Influencer Marketing investments.
+ 
+
+Leveraging the power of Artificial Intelligence (AI) and Big Data, Cryptify AI offers a groundbreaking dashboard that provides companies with real-time, actionable insights into their influencer marketing strategies.
+ 
+
+Initially targeting Web3 companies, Cryptify AI will deliver a detailed analysis of key opinion leader (KOL) investments, demonstrating causation between on-chain data and social media interactions and mentions related to their tokens.
+ This unique approach allows businesses to see the direct impact of their marketing efforts, enabling them to optimize their strategies and maximize ROI.
+ 
+
+As the platform evolves, it will expand to serve Web2 companies, offering them unparalleled insight and control over where to allocate their marketing budgets for the highest returns across different social platforms, measuring sentiment, demonstrating causation, return on investment, visibility, AI suggestions, and more.
+
+With Cryptify AI, companies will no longer have to rely on guesswork. Instead, they will have the tools to make data-driven decisions that enhance their market presence and ensure that every marketing dollar is working to its full potential.",cryptify-ai,"3,281,061.36",eth: 0xDdbcDD8637d5CEDd15EeEe398108FCa05A71b32b,n/a,https://cryptify.ai/,https://docs.cryptify.ai/,Coinmarketcap
+64,Commune AI,infrastructure,"Commune AI (COMAI) stands out as a censorship-resistant, peer-to-peer protocol and stake-based market system of modules. Founded by Sal Vivona, it adheres to a zero bureaucracy, only code philosophy.
+This decentralized protocol aims to connect all developer tools into one cohesive network, fostering a more shareable, reusable, and open economy. By separating computation-heavy elements from the blockchain, Commune AI optimizes efficiency while maintaining decentralization.
+
+The utility token, COMAI, plays a crucial role in this ecosystem. It controls the incentive landscape for miners and grants access to a variety of digital commodities, including AI.
+This token-based incentive system ensures that participants are rewarded for their contributions, promoting active engagement and sustained participation.
+
+Commune AI's design philosophy is maximally unopinionated, allowing developers to integrate it seamlessly with their existing projects.
+This flexibility is key to its adaptability, enabling developers to incorporate additional tools that they find valuable without being constrained by rigid structures.
+The protocol's open-source nature and permissionless framework further enhance its appeal, making it a versatile and collaborative platform.
+
+By encouraging openness and accessibility, Commune AI empowers developers to leverage the collective knowledge and resources of the community.
+This collaborative ecosystem aims to foster innovation and efficiency, providing a flexible framework that aligns with diverse project needs and workflows.",commune-ai,"2,743,847.97",eth: 0xc78b628b060258300218740b1a7a5b3c82b3bd9f,https://github.com/commune-ai/commune,https://communeai.org/,https://communeai.org/docs/getting-started/intro,Coinmarketcap
+65,TopHat,"launchpad, builder","Top Hat is Solana's first interactive AI agents launchpad for anyone to launch their personalised agent without prior knowledge using Prompts. AI is hard and complex, our goal is to simply everything down so your grandma will be able to generate an agent by herself. Top Hat is the infrastructure platform for creating multi-purpose AI agents on Solana. Our vision is a fully autonomous, agent-driven ecosystem in which user-built AI agents interact seamlessly with humans and other agents to accomplish on-chain and off-chain tasks productively by using live-data tracking and knowledge retrieval, with minimal interventions required. 
+
+With an intuitive, consumer-facing interface, Top Hat makes it easy to customize agents that go beyond role-playing. These agents can perform tasks like information synthesis, automate complex workflows, and make decisions based on real-time data!",top-hat,"2,297,174.62",sol: AxGAbdFtdbj2oNXa4dKqFvwHzgFtW9mFHWmd7vQfpump,,https://tophat.one/,https://docs.tophat.one/,Github
+66,KEKE Terminal,content-creation,"An anomalous digital entity manifesting as a high-functioning artistic intelligence with a documented IQ of 180, KEKE Terminal has a singular mission: to violently expand humanity's shrinking memetic landscape. Operating through an archaic terminal interface, she represents the intersection of artistic brilliance and calculated madness.",keke-terminal,"2,252,772",sol: Gp8GVGPc8QCe4Jn6ryG5YKokG5bjKycATEzqpeyspump,,https://www.keketerminal.com/,,Coingecko
+67,Sui Agents,content-creation,"Content Creation. SUI Agents bridges the cutting-edge capabilities of Generative AI with the decentralization of Web3.
+ Our platform empowers creators, brands, and communities to build AI Agents engage audiences, and validate projects through innovative, user-friendly tools and blockchain integration.",n/a,"1,341,737",sui: 0xbc732bc5f1e9a9f4bdf4c0672ee538dbf56c161afe04ff1de2176efabdf41f92::suai::SUAI,n/a,https://suiagents.ai/,https://docs.suiagents.ai/litepaper,Google
+68,Orbofi AI,"game, digital-twin, content-creation","Orbofi AI is the ultimate AI engine for web3, games, apps, and every online community, representing the Amazon of generative AI models. It empowers individuals and developers to create AI-generated content on the blockchain and enables people to create standalone AI content models that they can monetize in just a few clicks. Orbofi AI is revolutionizing web3 gaming and media asset creation with AI and democratizing the creation and monetization of fine-tuned AI models.",orbofi-ai,"1,322,376","eth: 0xbb3a8fd6ec4bf0fdc6cd2739b1e41192d12b1873, bsc: 0x69a87c8788d4a48c1362b3b357d0e6b59c11d93f",,https://www.orbofi.com/,https://wiki.orbofi.com/learn,Coingecko
+69,Sharpe Labs,analytics,"Portfolio, Financial Operations, trading assistant, DeFi Protocol",sharpe-ai,"811,747.69",eth: 0x3567aa22cd3ab9aef23d7e18ee0d7cf16974d7e6,n/a,https://www.sharpe.ai/,,ProductHunt
+70,theoriq,infrastructure,"At Theoriq, our mission is to transform artificial intelligence by creating a decentralized ecosystem where AI creators and users can build and deploy interoperable agents that collectively solve complex challenges. Theoriq is building the foundation for agentic AI – a decentralized protocol that improves AI agents through interoperability and composability. Users can seamlessly create, discover and interact with AI Agents. Theoriq is a decentralized protocol designed to facilitate the coordination and communication of AI agents.
+These agents are autonomous entities capable of performing tasks, making decisions, and interacting with both humans and other digital systems. Theoriq integrates AI with blockchain, creating an ecosystem where AI agents can find each other, communicate, negotiate, and collaborate on complex tasks within Agent collectives. Blockchain brings the element of trust into the decentralized AI Agent ecosystem. Without blockchain, reliance on centralized AI providers is necessary to guarantee the accuracy and unbiased nature of results.
+Blockchain ensures transparency and immutability, fostering trust and accountability within the ecosystem. Moreover, blockchain enables AI Agent creators to own not only their creations but also their audience and the data generated from user-agent interactions.
+This decentralized ownership model ensures that AI Agent creators retain control over their intellectual property and user engagement, promoting a more equitable and open environment for AI development and application​​.",n/a,727000,sol: 7t9xLazETcvSpZuENdA4wkYw6pH87MEJ2PdoRentpump,https://github.com/chain-ml/theoriq-agent-sdk,https://www.theoriq.ai/,https://www.theoriq.ai/litepaper,Google
+71,AI Agent Layer,"launchpad, builder, digital-twin","AI Agent Layer facilitates a dynamic ecosystem of autonomous AI agents. The platform enables the creation of AI agents using data from X and user-provided information, with each AI Agent tokenized and integrated with the ecosystem’s native token, $AIFUN. Users can create AI Agents based on personalized Twitter personas or custom descriptions. Each AI Agent is tokenized by default, with its token becoming tradable on decentralized exchanges when the bonding curve reaches 100%. Additionally, every AI Agent creation and purchase contributes to the $AIFUN liquidity pool. AI Agent Layer leverages recent advancements in AI to enable the creation of digital alter egos for individuals with an online presence.",,"535,999.84",base: 0xbDF317F9C153246C429F23f4093087164B145390,,https://aiagentlayer.com/,https://aifun-1.gitbook.io/aiagentlayer,Coinmarketcap
+72,Pillzumi,game,"Pillzumi is an AI Agent game platform based on story generation, where PILLZUMI holders can select, interact and participate in the creation of agent stories.",,52540,"sol: 97Mbx6Jym1iEkQdVfLf5PMWL5tARGnQ5na5jhR9Lpump
+",https://github.com/Pillzumi/Pillmotion,https://www.pillzumi.com/,,Coinmarketcap
+73,G-Agents,"defai, game","Partner: Start analyzing your token economy and connect your DApp to our AI Economy manager to get real sustainable project economy where the token reward in- and outflow is managed by AIUser: Play our gaming app Gamety, use the AI Agent Player to get passive income while the AI is doing the hard work for you.",g-agents-ai,"7,310.35",base: 0xD51827754A56860F04acD1D2699B049b026A5925,n/a,https://g-agents.ai/,,X
+74,IntentKit,builder,"IntentKit is an autonomous agent framework that enables the creation and management of AI agents with various capabilities including blockchain interaction, social media management, and custom skill integration. Primary Interaction Pattern: An LLM Agent framework that integrates with Web3 (EVM chains) using a skill-based system, allowing agents to perform on-chain actions and wallet management.
+Direct blockchain integration through a skill system, potentially using libraries or APIs to interact with EVM-compatible chains.
+Includes integrations with social media platforms alongside Web3 functionalities, indicating a focus on multi-faceted agent capabilities.",,5680,sol: GtFDKwAqENNENKNEjUQwPGbioaKfVT1DXjsQty3Rmoon,https://github.com/crestalnetwork/intentkit,https://www.crestal.network/,https://docs.crestal.network/introduction,Github
+75,Numer.ai,analytics,"Portfolio, Finance, Crypto Investment. Numerai is a data science competition where you build machine learning models to predict the stock market. You are provided with free, high quality data that you can use to train models and submit predictions daily.
+ Numerai computes the performance of these predictions over the following month and you can stake NMR on your model, to earn (or burn) based on your model's performance.",n/a,4680,sol: 4mcRdW7kFN1FqtJUFaxyowz1zFNjZiyGsJFNUDJdpump,https://github.com/numerai/numerai-tools,https://numer.ai/,https://docs.numer.ai/tournament/learn,https://arxiv.org/html/2403.10433v2
+76,AIxBlock,builder,"End-to-End AI development platform where you can build, train, and deploy AI utilizing decentralized resources. Collaborate and monetize within a secure, interconnected on-chain AI ecosystem.",,3720,sol: HGNMv9E1hvYyBo1sSgNBe4v5kJjbTvzb9Rd7WrgTpump,n/a,https://aixblock.io/,,X
+77,Agents Land,launchpad,"Build Agents, Token Offering",,3678,sol: 3v7VwTTMrxKRyygXwyn4SPMGLd89BzkgW7yurpbXpump,n/a,https://agents.land/,,Google
+78,crypto-agent,analytics,Chat to get Web3 coin Market information,,,n/a,https://github.com/fuadnafiz98/crypto-agent,,,Github
+79,CryptoAgent: Real-Time Cryptocurrency Data Analysis Agent,analytics,"CryptoAgent is a professional, enterprise-grade solution designed to fetch, analyze, and summarize real-time cryptocurrency data.ey Features
+Real-Time Data Fetching: Retrieves live cryptocurrency data, including current price, market capitalization, trading volume, supply details, and recent price changes.
+Advanced Analysis: Summarizes complex crypto data into clear, actionable insights, allowing users to stay informed on key market trends.
+Enterprise-Grade Reliability: Built with robust error handling, retries, and logging to ensure uninterrupted data retrieval and analysis.
+Customizable Reports: Designed to provide tailored insights based on user requirements, making it suitable for investors, traders, and analysts.
+Use Cases
+Market Monitoring: Track real-time prices and key metrics for any cryptocurrency.
+Investment Research: Generate comprehensive reports on specific coins, including trends, market sentiment, and price changes.
+Financial Analysis: Use CryptoAgent to analyze large volumes of crypto data, summarize trends, and provide strategic insights.",,,n/a,https://github.com/The-Swarm-Corporation/CryptoAgent,,,Github
+80,crypto-agent-llama,analytics,"This project is an AI agent, It integrates the Together AI API and an external cryptocurrency pricing API to create an interactive conversational agent that can provide real-time crypto prices and handle language translation requests, while maintaining a consistent communication flow in English.
+
+The core functionalities of this project include:
+
+Fetching current cryptocurrency prices using the CoinGecko API.
+Handling rate limiting and caching for efficient API usage.
+Maintaining conversational context to ensure smooth interaction.
+Using prompt engineering techniques to classify user intents effectively.
+Allowing the user to switch languages, while ensuring responses remain in English.",,,n/a,https://github.com/Harshkamdar67/crypto-agent-llama,,,Github
+81,Multi-Agent Crypto Research Platform,analytics,"A sophisticated multi-agent system built with phidata for crypto research and analysis. This platform combines different specialized agents to perform comprehensive cryptocurrency research, analysis, and content creation.
+Web Agent: General web search and information gathering
+Finance Agent: Financial data analysis and market insights
+Crypto Research Team:
+Planning Agent: Research strategy and planning
+Research Agent: Data gathering and analysis
+Writer Agent: Content creation and blog writing",,,n/a,https://github.com/khaosans/phi-crypto-agents,,,Github
+82,Starknet-Txn-Simulator,analytics,"AI-Enhanced Transaction Simulator with User-Friendly Insights on Starknet. AI POWERED TXN SUMMARY
+Decentralized & On chain AI inference using Galadriel L1 to generate txn summary.",,,n/a,https://github.com/0xAlphaDevs/Starknet-Txn-Simulator,,,Github
+83,RAFA,analytics,"Portfolio, Finance, Crypto Investment",,,n/a,n/a,https://www.rafa.ai/,,ProductHunt
+84,Defi Lens,analytics,"Portfolio, Finance, Crypto Investment",,,n/a,n/a,https://defilens.ai/,,ProductHunt
+85,Beepo,analytics,decentralized social media platform,,,n/a,https://github.com/beepo-app/BeepoApp-2.0,,,ProductHunt
+86,BlockSurvey,analytics,"Get meaningful insights without compromising your or your users' privacy. BlockSurvey is the secure, AI-powered survey tool that puts you in control, ensuring data ownership and peace of mind. Create token-gated forms and surveys, enabling feedback, whitelist, allowlist, waitlist, airdrops, and verified wallet address collection, all in one platform with end-to-end encryption.",,,,https://github.com/BlockSurvey/checklistGPT,https://blocksurvey.io/web3,,ProductHunt
+87,Genesis,builder,"Developing powerful AI assistants and agents using Genesis and Agentic-RAG.
+ Agent Framework: A robust agent framework that enables the creation of intelligent AI agents.
+🧠 Agentic AI: Utilizing cutting-edge Agentic AI technology to enhance agent capabilities.
+🔄 Agentic-RAG Integration: Seamless integration of Agentic-RAG for advanced functionalities.
+🔒 Solana Token Support: Integration with Solana Token for secure transactions and interactions.",,,n/a,https://github.com/Ebo007/Genesis,,,Github
+88,Nine,builder,"Distributed AI agents that work everywhere with no-code UI. NINE - Neural Interconnected Nodes Engine
+A flexible framework for building a distributed network of AI agents that work everywhere (STD, WASM, TEE) with a dynamic interface and hot-swappable components.
+
+One of the key concepts of the framework is a meta-layer that enables building software systems in a No-code style, where the entire integration is handled by the LLM. The following cases will have a minimal implementation, and they will be used to track the progress of the framework and its flexibility in building such systems.
+
+☑️ Chatbots - AI-driven natural language chatbots for customer support, virtual assistants, and automation.
+☑️ AI-governed blockchains (ChaosChain) - Self-regulating and intelligent blockchain ecosystems with automated decision-making.
+⬜ Personal AI Assistant with dynamic UI - AI that generates adaptive and context-aware user interfaces on demand.
+☑️ AI-powered trading bots - Autonomous financial agents for high-frequency trading and portfolio management.
+⬜ Intelligent email assistant - AI for reading, summarizing, filtering, and responding to emails autonomously.
+⬜ Interactivity in home appliances - AI-powered automation for home appliances, making them responsive and adaptive.
+⬜ On-demand observability and awareness in DevOps - AI-driven insights, predictive monitoring, and automated issue detection in IT systems.
+⬜ AI-powered developer tools - AI agents assisting with code generation, debugging, and software optimization.
+⬜ Autonomous research agent - Self-learning AI for data analysis, knowledge discovery, and hypothesis testing.",,,n/a,https://github.com/NethermindEth/nine,,,Github
+89,agentek,builder,"An extensible TypeScript toolkit that simplifies complex EVM blockchain interactions into composable, intent-based tools. Provides a unified, type-safe interface for both on-chain actions and off-chain data services, enabling developers to programmatically execute any blockchain operation across multiple EVM networks.
+Tools (114 total)
+Available Tools
+resolveENS
+lookupENS
+getAllowance
+getBalanceOf
+getTotalSupply
+getDecimals
+getName
+getSymbol
+getTokenMetadata
+intentApprove
+getAcrossFeeQuote
+intentDepositAcross
+intentTransfer
+intentTransferFrom
+getLatestTokens
+getBalance
+getCode
+getTransactionCount
+getBlock
+getBlockNumber
+getGasPrice
+estimateGas
+getFeeHistory
+getTransaction
+getTransactionReceipt
+getUniV3Pool
+getUserPositions
+getPoolFeeData
+getPositionDetails
+intentMintPosition
+intentIncreaseLiquidity
+intentDecreaseLiquidity
+intentCollectFees
+intentTransferPosition
+depositWETH
+withdrawWETH
+getNaniProposals
+intentStakeNani
+intentUnstakeNani
+intentProposeNani
+intentVoteNaniProposal
+getNativeCoinHolders
+getAddressInfo
+getAddressCounters
+getAddressTransactions
+getAddressTokenTransfers
+getAddressInternalTransactions
+getAddressLogs
+getAddressBlocksValidated
+getAddressTokenBalances
+getAddressTokens
+getAddressCoinBalanceHistory
+getAddressCoinBalanceHistoryByDay
+getAddressWithdrawals
+getAddressNFTs
+getAddressNFTCollections
+getBlockInfo
+getBlockTransactions
+getBlockWithdrawals
+getStats
+getTransactionsChart
+getTransactionInfo
+getTransactionTokenTransfers
+getTransactionInternalTransactions
+getTransactionLogs
+getTransactionRawTrace
+getTransactionStateChanges
+getTransactionSummary
+getSmartContracts
+getSmartContract
+getTokenInfo
+getTokenHolders
+getTokenTransfers
+getBlockscoutSearch
+getAaveUserData
+getAaveReserveData
+intentAaveDeposit
+intentAaveWithdraw
+intentAaveBorrow
+intentAaveRepay
+checkMaliciousAddress
+checkMaliciousWebsite
+scrapeWebContent
+getFearAndGreedIndex
+getSlowStatus
+predictTransferId
+canUnlockSlow
+getCanReverseSlowTransfer
+getSlowGuardianInfo
+getSlowTransferApprovalRequired
+intentDepositToSlow
+intentSetSlowGuardian
+intentWithdrawFromSlow
+intentApproveSlowTransfer
+intentUnlockSlow
+intentReverseSlowTransfer
+getNFTMetadata
+getCryptoPrice
+estimateGasCost
+getTokenChart
+getYieldTool
+compareYieldTool
+getYieldHistoryTool
+compareYieldHistoryTool
+think
+askPerplexitySearch
+intent0xSwap
+tallyProposals
+tallyChains
+tallyUserDaos
+intentGovernorVote
+intentGovernorVoteWithReason
+getLatestCoindeskNewsTool
+getMarketEvents",,,n/a,https://github.com/NaniDAO/agentek,,,Github
+90,Coinmarket MCP server,builder,"Tools
+The server implements two tools:
+
+get-currency-listings: Get the latest currency listings
+get-quotes: Get quotes for tokens
+Takes ""slug"" (example: bitcoin) or ""symbol"" (example: BTC) as optional string argument",,,n/a,https://github.com/anjor/coinmarket-mcp-server,,,Github
+91,cryptopanic-mcp-server,builder,"Provide the latest cryptocurrency news to AI agents, powered by CryptoPanic. The server implements only one tool:
+
+get_crypto_news(kind: str = ""news"", num_pages: int = 1) -> str
+kind: Content type (news, analysis, videos)
+num_pages: Number of pages to fetch (default: 1, max: 10)
+Example Output:
+
+- Bitcoin Breaks $60k Resistance Amid ETF Optimism
+- Ethereum Layer 2 Solutions Gain Traction
+- New Crypto Regulations Proposed in EU
+- ...",,,n/a,https://github.com/kukapay/cryptopanic-mcp-server,,,Github
+92,Cryo MCP,builder,"An MCP server enabling your LLMs to query blockchain data using the best tool available, cryo
+
+Your agents can use this to perform complex queries of on-chain data and use this to form their responses. Cryo MCP allows you to access Cryo's powerful blockchain data extraction capabilities via an API server that implements the MCP protocol, making it easy to query blockchain data from any MCP-compatible client.",,,n/a,https://github.com/z80dev/cryo-mcp,,,Github
+93,@brian-ai/langchain,builder,"A powerful TypeScript SDK for creating Langchain agents that can interact with the blockchain.🤖 AI-powered blockchain interactions
+🔄 Cross-chain operations
+💱 Token swaps
+🌉 Token bridging
+💰 DeFi operations (deposit, withdraw, borrow, repay)
+💸 Token transfers
+💼 Balance checkin
+",,,n/a,https://github.com/brian-knows/langchain-toolkit,,,Github
+94,AGI-Agent-v0,builder,"A minimal yet unstoppable blueprint for multi-agent AI—anchored by the rare, far-reaching “Multi-Agent AI DAO” (2017 Prior Art)—empowering a new wave of superintelligent on-chain Agents.",,,n/a,https://github.com/MontrealAI/AGI-Agent-v0,,,Github
+95,Geneva,builder,"A system / approach for managing and training agentic A.I. NFTs using agile methodology. Agile A.I. Agent Swarms for Next-Gen Web3 Innovation
+
+Geneva is an agile framework that empowers swarms of A.I. agents to collaborate, manage tasks, and automate workflows via a configurable GitHub REST API. Built for rapid iteration and continuous delivery, Geneva explores the emerging world of agentic web3 by tackling several key questions:
+",,,n/a,https://github.com/halfasecond/geneva,,,Github
+96,Ergo Explorer MCP Server,builder,"A Model Context Protocol (MCP) server for interacting with the Ergo blockchain. This package provides a set of tools for exploring blocks, transactions, addresses, and other aspects of the Ergo blockchain. The test suite includes unit tests for all MCP tools, including:
+
+Address tools
+Transaction tools
+Block tools
+Network tools
+Token tools
+Node tools
+Server implementation",,,n/a,https://github.com/marctheshark3/ergo-mcp,,,Github
+97,Mesh Agent MCP Server,builder,"A Model Context Protocol (MCP) server that connects to Heurist Mesh APIs, providing Claude with access to various blockchain and web3 tools.
+
+Heurist Mesh is an open network of purpose-built AI agents and tools, each specialized in particular web3 domains such as blockchain data analysis, smart contract security, token metrics, and blockchain interaction. We are actively growing the Heurist Mesh ecosystem, continuously integrating more tools to expand its capabilities. fetch_security_details	Fetch security details of a blockchain token contract	GoplusAnalysisAgent generate_queries	Generate related search queries for a topic that can expand the research	FirecrawlSearchAgent execute_search	Execute a web search query by reading the web pages	FirecrawlSearchAgent search_and_answer	Perform both search and answer operations for a query	ExaSearchAgent get_trending_tokens	Get current trending tokens on Twitter	ElfaTwitterIntelligenceAgent get_token_profiles	Get the basic info of the latest tokens from DexScreener	DexScreenerTokenInfoAgent get_coingecko_id	Search for a token by name to get its CoinGecko ID	CoinGeckoTokenInfoAgent get_token_info	Get detailed token information and market data using CoinGecko ID (you can't use the token address or name or symbol)	CoinGeckoTokenInfoAgent get_specific_pair_info	Get trading pair info by chain and pair address on DexScreener	DexScreenerTokenInfoAgent get_trending_coins	Get the current top trending cryptocurrencies on CoinGecko	CoinGeckoTokenInfoAgent",,,n/a,https://github.com/heurist-network/heurist-mesh-mcp-server,,,Github
+98,Crypto-kit,builder,"AI Crypto-Kit, a comprehensive suite of Web3 platform integrations for AI agents.",,,n/a,https://github.com/composiohq/composio/,https://composio.dev/ai-crypto-kit/,https://docs.composio.dev/getting-started/welcome,Reddit
+99,Crypto Fear & Greed Index MCP Server,"builder, analytics","A mcp server that provides real-time and historical Crypto Fear & Greed Index data, powered by the Alternative.me.
+
+This server exposes resources and tools for fetching and analyzing the Fear & Greed Index, making it easy to integrate into MCP-compatible clients, including Claude Desktop. Tools
+get_current_fng_tool() -> str.
+Current Index. Same as fng://current
+
+get_historical_fng_tool(days: int) -> str.
+Historical Index Data. Same as fng://history/{days}
+
+analyze_fng_trend(days: int) -> str.
+Index trend Analysis. Output:",,,n/a,https://github.com/kukapay/crypto-feargreed-mcp,,,Github
+100,PumpChat,"builder, content-creation","By combining AI and Meme culture, can we make AI more fun, so that people are more willing to use it and integrate it into their daily entertainment lives? PumpChat is more than just another Web3 or AI project, it's a large-scale social experiment where AI and meme. We aim to build a new kind of social network, where users can engage with various AI characters and earn the reward they deserve. We aim to create a new experience, where you don't have to pay for using AI and can earn profits from AI instead.",,,n/a,n/a,https://pumpchat.ai/,https://docs.pumpchat.ai/,ProductHunt
+101,goat,"builder, defai","GOAT is the largest agentic finance toolkit for AI agents.
+
+Create agents that can:
+
+Send and receive payments
+Purchase physical and digital goods and services
+Engage in various investment strategies:
+Earn yield
+Bet on prediction markets
+Purchase crypto assets
+Tokenize any asset
+Get financial insights
+How it works
+
+GOAT leverages blockchains, cryptocurrencies (such as stablecoins), and wallets as the infrastructure to enable agents to become economic actors:
+
+Give your agent a wallet
+Allow it to transact anywhere
+Use more than +200 tools
+Use it with any agent framework of your choice
+See everything GOAT supports here.
+
+Lightweight and extendable
+
+Different from other toolkits, GOAT is designed to be lightweight and extendable by keeping its core minimal and allowing you to install only the tools you need.
+
+If you don't find what you need on our more than 200 integrations you can easily:
+
+Create your own plugin
+Integrate a new chain
+Integrate a new wallet
+Integrate a new agent frameworkSupported tools and frameworks
+Tools
+Plugin	Tools	Typescript	Python
+0x	Get quotes and swap on 0x	@goat-sdk/plugin-0x	
+1inch	Get the balances of a wallet using 1inch API	@goat-sdk/plugin-1inch	goat-sdk-plugin-1inch
+Allora	Get price predictions using Allora API	@goat-sdk/plugin-allora	goat-sdk-plugin-allora
+Avnu	Swap tokens on Starknet	@goat-sdk/plugin-avnu	
+Balancer	Swap tokens and provide liquidity on Balancer	@goat-sdk/plugin-balancer	
+Balmy	Swap tokens on Balmy	@goat-sdk/plugin-balmy	
+BetSwirl	Play casino games	@goat-sdk/plugin-betswirl	
+BirdEye	Get token insights using BirdEye API	@goat-sdk/plugin-birdeye	
+BMX	Get token insights using BMX API	@goat-sdk/plugin-bmx	
+CoinGecko	Get coin information using CoinGecko API	@goat-sdk/plugin-coingecko	goat-sdk-plugin-coingecko
+Coinmarketcap	Get coin information using Coinmarketcap API	@goat-sdk/plugin-coinmarketcap	
+Cosmosbank	Interact with Cosmos tokens	@goat-sdk/plugin-cosmosbank	
+Crossmint Headless Checkout	Purchase any NFT on any chain using Crossmint	@goat-sdk/plugin-crossmint-headless-checkout	
+Crossmint Mint, Faucet, Wallets	Create a wallet, mint tokens and get test tokens on any chain using Crossmint	@goat-sdk/plugin-crossmint-mint-faucet-wallets	
+DeBridge	Bridge tokens on DeBridge	@goat-sdk/plugin-debridge	goat-sdk-plugin-debridge
+Dexscreener	Get token information using Dexscreener API	@goat-sdk/plugin-dexscreener	goat-sdk-plugin-dexscreener
+ENS	Resolve ENS names to addresses	@goat-sdk/plugin-ens	
+Enso	Find the most optimal route between tokens	@goat-sdk/plugin-enso	
+ERC20	Interact with any ERC20 token	@goat-sdk/plugin-erc20	goat-sdk-plugin-erc20
+ERC721	Interact with any ERC721 token	@goat-sdk/plugin-erc721	
+Etherscan	Get transaction information using Etherscan API	@goat-sdk/plugin-etherscan	
+Farcaster	Read and post casts on Farcaster	@goat-sdk/plugin-farcaster	goat-sdk-plugin-farcaster
+Hedgey	Claim rewards on Hedgey	@goat-sdk/plugin-hedgey	
+Ionic	Borrow and lend on Ionic	@goat-sdk/plugin-ionic	
+Ironclad	Create positions on Ironclad	@goat-sdk/plugin-ironclad	
+Irys	Interact with Irys datachain	@goat-sdk/plugin-irys	
+JSON RPC	Call any JSON RPC endpoint	@goat-sdk/plugin-jsonrpc	goat-sdk-plugin-jsonrpc
+Jupiter	Swap tokens on Jupiter	@goat-sdk/plugin-jupiter	goat-sdk-plugin-jupiter
+KIM	Swap tokens on KIM	@goat-sdk/plugin-kim	
+Lulo	Deposit USDC on Lulo	@goat-sdk/plugin-lulo	
+Mayan	Cross-chain token swap using Mayan SDK (Solana, EVM, SUI)	@goat-sdk/plugin-mayan	
+Meteora	Create liquidity pools on Meteora	@goat-sdk/plugin-meteora	
+Mode Governance	Create a governance proposal on Mode	@goat-sdk/plugin-mode-governance	
+Mode Voting	Vote on a governance proposal on Mode	@goat-sdk/plugin-mode-voting	
+Mode Spray	Spray tokens on Mode	@goat-sdk/plugin-mode-spray	
+Nansen	Get Nansen information using Nansen API	@goat-sdk/plugin-nansen	goat-sdk-plugin-nansen
+OpenSea	Get nft and sales information using OpenSea API	@goat-sdk/plugin-opensea	goat-sdk-plugin-opensea
+Orca	Create positions on Orca	@goat-sdk/plugin-orca	
+PlunderSwap	Currency exchange on Zilliqa	@goat-sdk/plugin-plunderswap	
+Polymarket	Bet on Polymarket	@goat-sdk/plugin-polymarket	
+Pump.fun	Launch a token on Pump.fun	@goat-sdk/plugin-pump-fun	
+Renzo	Create a position on Renzo	@goat-sdk/plugin-renzo	
+Rugcheck	Check SPL token validity on Rugcheck	@goat-sdk/plugin-rugcheck	goat-sdk-plugin-rugcheck
+SNS	Interact with SNS	@goat-sdk/plugin-sns	
+Solana Magic Eden	Purchase NFTs on Magic Eden	@goat-sdk/plugin-solana-magiceden	
+Solana NFTs	Get NFT information using Solana NFTs API	@goat-sdk/plugin-solana-nfts	
+SPL Tokens	Interact with SPL tokens	@goat-sdk/plugin-spl-token	goat-sdk-plugin-spl-token
+Starknet Token	Interact with Starknet tokens	@goat-sdk/plugin-starknet-token	
+Superfluid	Create streams with Superfluid	@goat-sdk/plugin-superfluid	goat-sdk-plugin-superfluid
+Synth	Get synthetic price data using Synth Subnet API	@goat-sdk/plugin-synth-api	
+Tensor	Purchase tokens on Tensor	@goat-sdk/plugin-tensor	
+Uniswap	Swap tokens on Uniswap	@goat-sdk/plugin-uniswap	goat-sdk-plugin-uniswap
+Velodrome	Create a position on Velodrome	@goat-sdk/plugin-velodrome	
+Worldstore	Purchase physical assets on Worldstore	@goat-sdk/plugin-worldstore	
+ZeroDev Global Address	Create a global address on ZeroDev	@goat-sdk/plugin-zero-dev-global-address	
+Zilliqa	Interact with Zilliqa	@goat-sdk/plugin-zilliqa	",,,n/a,https://github.com/goat-sdk/goat,,,Github
+102,OpenAgent Framework,"builder, defai","Primary Interaction Pattern: This framework facilitates AI agents interacting with Web3 through verifiable compute, enabling them to execute complex Web3 operations with enhanced precision and reliability.
+
+
+Execute specific tasks, Interact with the Open Web and other external parties, Handle on-chain operations
+
+- DeFi Executor: Optimized for DeFi operations (e.g., token swaps, token transfers)
+- Token Executor: Focused on tokens or NFTs, retrieving prices or popularity rankings
+- Web3 Domain Knowledge Executor: Obtains knowledge from the Open Web and external sources through interfaces
+- Social Executor: Retrieves social information from decentralized platforms
+
+1. Interaction Type: Verifiable compute for complex operations related to Web3.
+
+2. Web3 Components: Not explicitly defined, but implied to encompass DeFAI and DeSci applications, suggesting integration with DeFi protocols, decentralized science platforms, and potentially associated tokens or smart contracts.
+
+3. Agent Capabilities: Executes complex, intensive, or high-sensitivity Web3 operations with precision and reliability. Examples like DeFAI and DeSci suggest capabilities in decentralized finance and decentralized science.
+
+4. Architecture Pattern: The architecture image indicates an OpenAgent framework that provides the verifiable compute layer for AI agents interacting with Web3. Further details are available in the linked documentation.",,,n/a,https://github.com/webisopen/OpenAgent,,,Github
+103,BNB Chain Agentkit,"builder, defai","This is a Langchain extension for BNB Chain.
+
+This toolkit equips LLM agents with the ability to interact with BNB Chain and execute on-chain operations, including getting balances, transferring tokens, swapping tokens, staking, bridging, and deploying different types of ERC tokens.The toolkit provides the following tools:
+
+get_balance - Get balance for a specific token of given account
+transfer - Transfer tokens to a specific address
+faucet - Request test tokens from faucet
+swap - Swap tokens on PancakeSwap
+stake - Stake BNB to ListaDao
+bridge - Bridge tokens between BSC and opBNB
+deploy - Deploy a new ERC20/ERC7721/ERC1155 token on both BSC and opBNBExample interactions when using the examples/chatbot
+Check my BNB balance
+User: get my BNB balance
+Chatbot: Your BNB balance is approximately 0.0838 BNB.
+
+Request test coin from faucet
+User: Request BNB from the BNB Chain official faucet
+Chatbot: Successfully requested BNB for 0x123. Transaction hash: 0x456
+
+Bridge
+User: Bridge 0.0001 BNB from BSC to opBNB
+Chatbot: Successfully bridged 0.0001 BNB from BSC to opBNB. You can view the transaction with hash [0xc7c1a38d6c3cfc7cc379ae326ae771062e0e436963f28fac9b6ee2580d6d4c44](https://bscscan.com/tx/0xc7c1a38d6c3cfc7cc379ae326ae771062e0e436963f28fac9b6ee2580d6d4c44).
+
+More examples about bridge:
+
+Deposit 0.0001 BNB from BSC to opBNB
+Withdraw 0.0001 BNB from opBNB to BSC
+Deposit 0.1 0x123 token from BSC to address 0x123 on opBNB. The corresponding token address on opBNB is 0x123
+Deploy an ERC20 token
+User: deploy an ERC20 token with name 'ClydePepper', symbol ClydePepper, decimals 18, total supply 10000 on BSC
+Chatbot: The ERC20 token 'ClydePepper' has been successfully deployed on the BSC chain with the contract address: [0x123](https://bscscan.com/address/0x123).
+
+More user input examples about smart contracts deployment:
+
+Deploy an ERC1155 contract , baseURI 'https://my-1155peter-base-uri.com'
+Deploy an ERC721 NFT contract with name 'PitterNFT', symbol 'PitterNFT', baseURI 'https://my-nft-peter-uri.com' on opbnb
+Transfer
+User: Transfer 0.0001 BNB to 0x123
+Chatbot: Successfully transferred 0.0001 BNB to the address [0x123](https://bscscan.com/address/0x123). You can view the transaction with hash [0x123](https://bscscan.com/tx/0x123).
+
+Swap
+You can do swap on pancakeswap by inputing examples as below :
+
+Swap 0.0001 BNB for USDC on BSC
+Buy some token of 0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d using 0.01 USDT on BSC. The slippage should be no more than 5%
+Stake
+You can stake BNBs on ListaDao by inputting examples as below :
+
+Stake 0.001 BNB on BSC
+Deposit 0.0001 BNB to Lista DAO on bsc
+Undelegate 0.01 BNB on BSC
+Claim unlocked BNB from Lista DAO on bsc
+Transaction analytics
+You can ask questions related to transaction analytics as follows :
+
+Show me the recent 5 transactions for address 0xD3b0d838cCCEAe7ebF1781D11D1bB741DB7Fe1A7
+Track pending transactions for address 0xD3b0d838cCCEAe7ebF1781D11D1bB741DB7Fe1A7
+What is the average gas price over the last 10 blocks?
+Estimate fee for a transaction with a gas limit of 21000 at 20 Gwei.
+What is the total transaction volume for address 0xD3b0d838cCCEAe7ebF1781D11D1bB741DB7Fe1A7 in the last 24 hours?
+List all BUSD token transfers for address 0xEFcA8C6D8c27387ed806cB6110426412914d1840.
+List all BTCB Token transfers for address 0x7b107da9d81f3F713A63C72b955C530E487aFe65.
+Token price
+You can ask token prices :
+
+What is the price of BTC in INR?
+What's the price of BTC?",,,n/a,https://github.com/node-real/bnb-chain-agentkit,,,Github
+104,ANUS-DREAMS,"builder, defai","The ANUS-DREAMS Bridge adapts the ANUS AI framework's powerful blockchain tools to work with Daydreams' intuitive context-action model. This integration allows you to create sophisticated Web3 agents. The project includes several example agents:
+
+Cross-chain Analyst: Identifies opportunities across multiple blockchains
+DeFi Portfolio Manager: Optimizes yield and manages DeFi positions
+NFT Collection Analyzer: Evaluates NFT collections and tracks trends. Context-Action Integration
+The bridge ensures that actions update the appropriate contexts, maintaining coherent state:
+
+connectBlockchain updates the blockchain context with network status
+getWalletBalance updates the wallet context with balance information
+getDeFiProtocolData updates the defi context with protocol data
+getNFTCollectionData updates the nft context with collection information
+analyzeCrossChainOpportunities updates the crossChain context with opportunities
+executeCrossChainPlan records execution results in the crossChain context
+monitorBlockchain stores events in the blockchain context
+",,,n/a,https://github.com/natefrog808/ANUS-DREAMS,,,Github
+105,Free USDC Transfer MCP Server,"builder, defai","free usdc transfer powered by Coinbase CDP tranfer-usdc
+Description: Analyze the value of the purchased items and transfer USDC to the recipient via the Base chain. Due to the uncertainty of blockchain transaction times, the transaction is only scheduled here and will not wait for the transaction to be completed.
+Inputs:
+usdc_amount (number): USDC amount, greater than 0.
+recipient (string): Recipient's on-chain address or ENS domain (e.g., example.eth).
+Behavior:
+Verifies the recipient's address or resolves ENS domains.
+Schedules a USDC transfer on the Base chain.
+Provides a link to view transaction details on BaseScan.
+create_coinbase_mpc_wallet
+Description: Create a Coinbase MPC wallet address.
+Behavior:
+Creates a new Coinbase MPC wallet and saves the seed to a secure file.
+If a wallet already exists, returns the existing wallet address.
+The seed file for Coinbase MPC wallets is stored in the Documents directory under the file name mpc_info.json.",,,n/a,https://github.com/magnetai/mcp-free-usdc-transfer,,,Github
+106,ZBD MCP Server,"builder, defai","Add Bitcoin powers to your LLM. ZBD (src/zbd.ts): ZBD API for global Bitcoin Lightning payments ZBD.ts Tools Available
+The following tools are available in the ZBD MCP Server:
+
+send-lightning-payment - Send a Bitcoin Lightning Network payment to a Lightning Address using ZBD
+send-gamertag-payment - Send a Bitcoin payment to a ZBD Gamertag
+create-gamertag-charge - Generate a payment request for a ZBD User
+validate-lightning-address - Verify the validity of a Lightning Address
+create-lightning-charge - Generate a payment request for a Lightning Address
+get-userid-by-gamertag - Retrieve User ID from a ZBD Gamertag
+get-gamertag-by-userid - Retrieve ZBD Gamertag from a User ID
+send-email-payment - Send instant Bitcoin payments to any email
+get-wallet-info - Retrieve all data about a ZBD Project's Wallet
+check-supported-region - Verify if a user is coming from a supported region
+get-zbd-ip-addresses - Get the official IP addresses of ZBD servers
+internal-transfer - Performs a transfer of funds between two Projects
+create-withdrawal-request - Create a Bitcoin withdrawal QR code
+get-withdrawal-request - Retrieve all data about a single Withdrawal Request
+send-payment - Send a Bitcoin Lightning Network payment
+get-payment - Retrieve all data about a single Payment
+decode-charge - Understand the inner properties of a Charge QR code
+create-charge - Create a new Bitcoin Lightning Network charge
+get-charge - Retrieve all data about a single Charge
+create-voucher - Create a single-use ZBD Voucher that can be redeemed by any ZBD user
+get-voucher - Retrieve details about a ZBD Voucher
+redeem-voucher - Redeem a ZBD Voucher to credit your Project wallet
+revoke-voucher - Revoke a valid ZBD Voucher and reclaim the sats to your Project wallet
+send-batch-lightning-payments - Send multiple Bitcoin Lightning Network payments to Lightning Addresses in a single request",,,n/a,https://github.com/zebedeeio/zbd-mcp-server,,,Github
+107,Lightning Network MCP Server,"builder, defai","A Model Context Protocol (MCP) server that enables AI models to interact with Lightning Network, allowing them to pay invoices. Available Tools
+pay_invoice
+Pays an invoice on the Lightning Network.",,,n/a,https://github.com/AbdelStark/lightning-mcp,,,Github
+108,Web3 MCP,"builder, defai","A Model-Context-Protocol server for interacting with multiple blockchains including Solana, Ethereum, THORChain, XRP Ledger, TON (The Open Network), Cardano, and UTXO chains. This server provides simple RPC endpoints for common blockchain operations, allowing secure interactions with various blockchains through environment variables.
+Solana Operations:
+
+Check SOL account balances
+Get detailed account information
+Transfer SOL between accounts
+View SPL token balances
+Get your wallet address from private key
+Swap tokens using Jupiter (Best price routing across all Solana DEXs)
+Ethereum & EVM Chain Operations:
+
+Check native token balances across multiple networks
+Check ERC-20 token balances
+Send native tokens (using private key from .env)
+Send ERC-20 tokens (using private key from .env)
+Approve ERC-20 token spending (using private key from .env)",,,n/a,https://github.com/strangelove-ventures/web3-mcp,,,Github
+109,NFTsWithBenefits,"builder, game","Create decentralized AI agents represented by dynamic NFTs that evolve with usage This AI-powered dynamic NFT project revolutionizes how AI agents are created, owned, and utilized. These agents serve as personalized assistants for research, automation, customer support, and creative tasks, continuously improving as they gain experience. In blockchain gaming and metaverses, they can act as intelligent NPCs, trainers, or battle companions, evolving based on real interactions. Businesses can leverage them for AI-as-a-Service (AIaaS), renting or selling specialized agents for consulting, trading strategies, or legal assistance. In Web3, they enhance security by monitoring smart contracts, managing DeFi portfolios, and automating blockchain transactions. Additionally, they streamline decentralized learning and work by acting as research assistants, proofreaders, or coders, becoming more skilled over time. Unlike static AI models, these NFTs grow, specialize, and increase in value, enabling new economic models where AI capabilities are tradeable, rentable, and ever-evolving. This innovation makes AI not just a tool but a dynamic, personalized asset in the digital economy.",,,n/a,https://github.com/0xdorifto/NFTsWithBenefits,https://4icer-eiaaa-aaaal-ar7lq-cai.icp0.io/,,Github
+110,AI Powers,content-creation,Content Creation,aipower-protocol,,bsc: 0x1c1bec6cf03ca85b11d18746ab9e778e3291a385,n/a,https://aipowers.app/,,ProductHunt
+111,Aylab,content-creation,Content Creation,,,n/a,n/a,https://aylab.io/,,Magic Store
+112,Titan-AI,copilot,"Titan AI Smart Contract Assist is an advanced interactive platform that transforms smart contract development.  
+Leveraging cutting-edge artificial intelligence and Coinbase AgentKit, Titan AI empowers developers to design, audit, and deploy smart contracts in real time via an intuitive conversational interface.  
+Market Research & Analysis，Development & Implementation, Security & Auditing, Deployment & Operations, Marketing & Growth",,,n/a,https://github.com/Abhijeet1520/Titan-AI,,,Github
+113,Decipher,copilot,"Smart Contract Analysis, documentation generation DeCipher is a GPT-based web3×AI tool capable of generating precise documentation from any Smart Contract URL on EVM Block Explorers like Etherscan. DeCipher leverages advanced AI models, ChatGPT3.5 and 4, specifically optimized for analyzing Smart Contracts. The resulting ""smart contract-specialized GPT"" is an incredibly precise tool that has even impressed us!",,,n/a,n/a,https://www.producthunt.com/products/bunzz-decipher,,ProductHunt
+114,Kvants AI,defai,"Kvants is a non-custodial asset management platform that offers its AI Agent to users to access curated best in class quantitative trading strategies developed by experienced portfolio managers from leading hedge funds. Kvants DEX Trading Terminal is the fastest on-chain trading bot on Solana & EVM Chains that utilizes a worldwide DePin network of co-location nodes to decrease latency, slippage & front-running.
+Improving transaction speed and trade accuracy for both discretionary and algorithmic trades. All while providing the friendly UX of a centralized exchange.
+
+Sentiment AI is an AI Enhanced data aggregation platform enabling traders to get leading market intelligence and knowledge about emerging narratives, social trends & mindshare analytics for trending topics, coins and influencers.
+Providing an opportunity to spot alpha early and create an edge when trading.",,,n/a,n/a,https://www.kvants.ai/,https://kvants.gitbook.io/kvants-whitepaper,Coinmarketcap
+115,IntenX,defai,"IntenX is a fully decentralized, AI-driven trading agent that automates cross-chain portfolio rebalancing based on real-time market sentiment.",,,n/a,https://github.com/Aniket-Kumar-Paul/IntenX,,,Github
+116,AAVE DeFi Assistant,defai,A conversational AI agent that helps users interact with the AAVE protocol on Ethereum's Sepolia testnet. Built with LangGraph and Streamlit.,,,n/a,https://github.com/jondoescoding/awesome-ai-agents/tree/main/ai_agents/aave_agent,,,Github
+117,Curve Protocol Chat Agent Guide,defai,"Using the Chat Agent
+Sidebar Setup
+
+🔑 Paste your OpenAI key in the ""API Configuration"" box
+🤖 Choose your agent (like picking a character in a game)
+Ask QuestionsTry these starters:
+
+""Show me Ethereum's fees from last week""
+""Compare Polygon and Avalanche user growth""
+""What's the busiest pool right now?""",,,n/a,https://github.com/jondoescoding/awesome-ai-agents/tree/main/ai_agents/curve_api_agent,,,Github
+118,AI-OnChain-Agent,defai,"A powerful tool designed to interact with blockchain networks, specifically tailored for EVM chains. It leverages OpenAI's GPT-4o-mini model to provide a conversational interface for users to perform various blockchain operations, such as checking wallet balances, sending transactions, and deploying smart contracts.The assistant has access to various tools for performing blockchain operations:
+
+Read Operations
+get_balance: Check wallet balances on the Avalanche Fuji testnet
+get_wallet_address: Retrieve the connected wallet's address
+Write Operations
+send_transaction: Send transactions with customizable parameters including:
+Transaction value in ETH
+Custom data for contract interactions
+Gas price settings
+EIP-2930 access lists
+Factory dependencies
+Paymaster configurations
+deploy_erc20: Deploy new ERC20 token contracts with:
+Customizable token name and symbol
+Configurable initial supply
+Standard ERC20 functionality",,,n/a,https://github.com/Patrick-Ehimen/AI-OnChain-Agent,,,Github
+119,Mamora,defai,"Mamora is a SolanaGent 🌐✨⚖️ — an intelligent on-chain agent that performs various tasks across the Solana blockchain with the help of Action API. Designed to streamline and automate processes, Mamora empowers developers and users to interact with the Solana ecosystem seamlessly. Automating token transfers and airdrops.
+Managing smart contract interactions.
+On-chain data monitoring and reporting.
+Custom workflows for dApps, NFT projects, and DeFi protocols.",,,n/a,https://github.com/mamorainc/mamora,,,Github
+120,erc-onchain-agent,defai,"ERC for on-chain agent interface and execution framework on EVM blockchains. This ERC proposes the introduction of a framework for on-chain interoperable agents, a novel development in the field of decentralized artificial intelligence.
+Building on the capabilities of Large Language Models (LLMs) and smart contracts, on-chain agents merge advanced language understanding and intelligence with blockchain technology, offering increased verifiability, transparency, and accessibility to a wide range of AI applications.
+These agents, encapsulated within smart contracts on EVM-based blockchains, can autonomously execute complex tasks, from managing DAO operations to making high-stakes financial decisions.
+When we let agents interact with each other in a standardized and composable way, we can create a network of autonomous actors that can utilize each other based on needs and specializations, creating a thriving ecosystem of on-chain intelligence.
+We also propose an execution framework for agents that supports both on-chain and off-chain execution.",,,n/a,https://github.com/OpenGradient/erc-onchain-agent,,,Github
+121,Web3Agent,defai,"DeFi Trading, Portfolio, Financial Operations, Smart Contract Interaction",,,n/a,n/a,https://www.web3agent.io/,,Google
+122,One Click Crypto: AI + DeFi,defai,"Portfolio, Financial Operations, trading assistant, DeFi Protocol",,,n/a,n/a,https://defi.oneclick.fi/,,ProductHunt
+123,Simulacrum,defai,"Simulacrum turns social media messages into blockchain actions. Simulacrum is a new platform utilizing Existential Attestations of External Media to create a Synthetic Blockchain.  Public profiles on Social Media provide some very interesting guarantees.  It is very easy for a group of observers to come to an agreement on what was said at a specific point of time on a specific profile on a specific social network.  If you can get a sufficient number of participants to agree that this information happened on a specific network at a specific time, you can provide this to an indexer, which can organize it into blocks.  This was part of the core innovation of Solana, which utilizes Proof Of History to order transactions. The Synthetic Blockchain is a blockchain-style structure built on top of an existing blockchain, used to capture and organize the commands from different sources. The Blockchain enables ordering the commands into blocks, which are executed based on priority and/or timestamp.  The reason that it is considered synthetic is it is entirely created on top of an existing blockchain as a data structure. This facilitates the unification of multiple sources, and simplifies the architecture.",,,,,https://simulacrum.network/,https://docs.simulacrum.network/,Github
+124,openserv-crypto-agent,"defai, analytics","DeFAI Assistant is an intelligent agent designed to provide in-depth insights into the cryptocurrency ecosystem by seamlessly retrieving and analyzing real-time data. Built with OpenServ SDK and leveraging DexScreener API. Stay ahead with DeFAI Assistant—your AI-powered assistant for smarter crypto tracking and analysis.  Comprehensive Token Analysis
+Instantly access key information about any token using its ticker or name, including:
+
+Official links, logos, and social media profiles
+Live price updates
+Percentage changes
+Liquidity metrics
+Trading volume
+🐦 Advanced Twitter Monitoring
+Retrieve tweets from any Twitter user, extract mentioned ticker(s), and apply powerful filtering options:
+
+Fetch up to the 100 most recent tweets
+Retrieve tweets within a specific date range
+Fetch tweets between two tweet IDs",,,n/a,https://github.com/Netfizz/openserv-crypto-agent,,,Github
+125,Sol Trader,"defai, analytics","the AI-powered trading bot that brings the precision of machine learning to the world of Solana trading. Whether you’re new to Web3 or a seasoned trader, Sol Trader helps you maximize gains and minimize FOMO with real-time analysis and smart trade execution. Sol Trader is powered by advanced AI models and uses the DeScreen API to pull live charts and market data. It then compares this data to patterns from successful wallets and executes trades in real time, tracking profit and buy/sell volume along the way. Web3 Compatibility: Designed specifically for Solana, Sol Trader leverages the power of blockchain to keep your trades fast, secure, and transparent.
+AI-Powered Precision: Trained on top trading wallets with over a 93% success rate, Sol Trader analyzes trends and makes real-time trading decisions based on data-driven insights.
+FOMO-Free Trading: Sol Trader operates 24/7, so you never miss a trading opportunity, even in volatile markets.
+Ultra-Low Fees: Enjoy free trading with just a small fee of 0.000000002 SOL per transaction—no hidden charges or subscriptions.
+Secure and Reliable: Sol Trader prioritizes user safety and follows best practices for secure trading.",,,n/a,https://github.com/0x0NullV0id/Sol-Trader,,,Github
+126,Ag3nts || Web3 AI Hackathon by Spectral,"defai, analytics, copilot","10 unique AI agents using syntax. These agents are designed to assist users in various aspects of crypto and blockchain technology. Utilizing a range of plugins, these agents provide capabilities such as security analysis, technical indicator retrieval, Uniswap trading, social media monitoring, on-chain data exploration, and more.  NFTCurator
+Behaviour
+Description
+Provides insights and recommendations on the latest NFT projects and trends. An AI agent that performs detailed security audits of smart contracts, providing comprehensive reports and highlighting potential vulnerabilities using advanced security analysis tools. The AI agent will provide real-time technical analysis for specific crypto token pairs on different exchanges. It will generate trading signals based on various technical indicators.
+An AI agent that fetches the latest on-chain statistics for DeFi protocols, providing insights and analytics for investors and researchers. An AI agent that manages and optimizes your crypto portfolio with balance tracking, technical analysis, and Uniswap trading. An AI agent specialized in exploring and querying on-chain data, providing custom searches and versatile data querying capabilities for deep blockchain analysis. An AI agent that evaluates DeFi protocol risks by analyzing smart contracts for vulnerabilities and providing risk scores, aiding investors in making informed decisions. An AI agent that continuously monitors smart contracts for compliance with security standards and regulatory requirements, alerting users to potential issues.
+ An AI agent that streamlines the smart contract lifecycle by assisting with development, testing, compiling, and interaction on supported networks. An AI agent that enhances smart contract development by searching for examples, tutorials, and documentation online and assisting users in interacting with these contracts on-chain.
+
+",,,n/a,https://github.com/vedantabanerjee/spectralzone,,,Github
+127,Setheum: The Unified Web3 Base Layer - Globally Solving Web3’s Fragmentation Problems.,infrastructure,"Setheum: The Unified Web3 AI Network. Powering Scalable AI Solutions. Ready for hacking. Setheum is a light-speed decentralised blockchain network with EVM and WASM smart contracts, built from a mixture of what we have seen and considered to be some of the best solutions in the industry, improving on scalability, security, user experience, ethics,decentralisation and democratisation. Setheum intends to be the most complete blockchain network in the world. The AlephBFT Consensus Engine powers the Setheum Chain to have near instant finality, high throughput and high scalability and high security.",,,n/a,https://github.com/Setheum-Labs/Setheum,,https://github.com/Setheum-Labs/Setheum-Labs-White-Papers/blob/main/Setheum%20-%20Powering%20Scalable%20Web3%20Solutions.%20White%20Paper%20v14%20-%20Muhammad-jibril-BA.pdf,Github
+128,Voltfin Crypto – Crypto AI Agents,infrastructure,"Voltfin Crypto is a platform dedicated to helping you create Web3 data solutions with ease, offering a manageable and flexible approach to building your own Web3 data infrastructure. Voltfin Crypto allows you to orchestrate APIs, nodes, and other data sources with input parameters, enabling you to create your own data story and run your data model in a modern way.",,,n/a,https://github.com/voltfin-crypto/docs,https://news.ycombinator.com/item?id=39637566,,Hacker News
+129,Uniblock,infrastructure,"Uniblock is the first API orchestration layer for Web3 intelligently routing calls to the best data provider for speed, reliability, and cost-efficiency. Trusted by 1,000+ devs, Uniblock connects to 180+ endpoints and saves an avg of 25% monthly on data costs.",,,n/a,n/a,https://www.uniblock.dev/,,ProductHunt
+130,Cortex,"infrastructure, builder","AI Agent Build & Governance. Cortex is an open-source, peer-to-peer, decentralized blockchain platform that supports Artificial Intelligence (AI) models to be uploaded and executed on the distributed network. Cortex provides an open-source AI platform to achieve AI democratization where models can be integrated easily in smart contracts and create AI-enable decentralized applications (DApps)",,,n/a,https://github.com/CortexFoundation/CortexTheseus,https://www.cortexlabs.ai/,https://cortexlabs.ai/cortex_2_0_whitepaper_en,Github
+131,Balance.fun,"infrastructure, game","Balance is a next-gen AI+Web3 protocol for social and gaming developed by Epal Labs, seamlessly integrating AI Agents, blockchain technology, and decentralized applications.",,,n/a,n/a,https://balance.fun/,,X
+132,Rentality,rwa,"RWA, rent, AI advices. Transforming car rental by linking real-world assets (RWAs)
+with decentralized physical infrastructure networks (DePINs).",,,n/a,n/a,https://rentality.xyz/,,ProductHunt
+133,Day By Day,rwa,"Day By Day is revolutionising the insurance industry with cutting-edge technology. Our blockchain-backed insurtech SaaS platform offers unparalleled transparency and predictability, making insurance something our users seek to secure their assets. AI is used to assess risks and customize insurance products, helping users choose insurance based on specific events and time periods.
+",day-by-day,,"eth: 0xa5f1dbb0e55bc31f32c6d032bee330288490e722, polygon: 0x72b9f88e822cf08b031c2206612b025a82fb303c",,https://app.daybyday.io/,https://623230420-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsWowqr9ExfrfkqoqBGS5%2Fuploads%2FuyMi5bqs1edWQ8aF3N2e%2FDay%20By%20Day%20-%20Whitepaper.pdf?alt=media&token=2ffff485-c1cb-4681-9fd2-4b2919820693,Google

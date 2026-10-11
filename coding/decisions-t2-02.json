@@ -1,0 +1,326 @@
+{
+ "proprietary-trading-network": {
+  "labels": [
+   "analytics"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"incentivizes quantitative and machine learning models to provide high-performing trading signals across multiple asset classes\" \u2014 the product shipped is signals, T1's Investment Analytics. Sibling of Rift AI",
+  "sibling": "rift-ai"
+ },
+ "sahara-ai": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"the first full-stack, AI-native blockchain platform\" and \"Built on the Sahara blockchain\" \u2014 ships consensus, which the manual's second boundary rule says dominates the developer platform and marketplace layered on it (Sahara AI is the manual's own `chain` exemplar)",
+  "sibling": null
+ },
+ "nosana": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko category `DePIN`; facet read from \"Our crowd-computing platform\" and \"the first decentralized computation platform powered by the Solana Network\" \u2014 metered machine time",
+  "sibling": null
+ },
+ "openledger-2": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"OpenLedger is the AI blockchain, unlocking liquidity to monetize data, models, apps and agents\" \u2014 ships a chain (CG `Layer 2 (L2)`, `Rollup`). Same shape as Sahara AI",
+  "sibling": "sahara-ai"
+ },
+ "world-mobile-token": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "medium",
+  "why": "CoinGecko category `DePIN`; \"a decentralized mobile network at the forefront of the DePIN space\" where operators \"earn rewards for providing telco services\" \u2014 metered bandwidth, the facet's delivery arm. Medium because the blurb carries no AI content of its own; admitted on the manual's DePIN precedent",
+  "sibling": null
+ },
+ "vana": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Vana is an EVM-compatible Layer 1 blockchain network that enables users to transform personal data into financial assets\" \u2014 ships a chain, so `chain` by the facet test even though the pitch (\"Data Liquidity Pools\") reads as a data layer",
+  "sibling": null
+ },
+ "perle": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"connects verified experts with enterprises and research teams to train and improve AI models\" through \"high-quality data annotation and validation tasks\" \u2014 a crowdsourced training-data resource layer, the established Tagger/PublicAI/Reppo pair",
+  "sibling": "tagger"
+ },
+ "robo-token-2": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"enabling the construction, governance, and collaborative evolution of general-purpose robots through verifiable computing and agent-native infrastructure\" and it \"coordinates data, computation, and regulation via a public ledger\" \u2014 a coordination layer for physical machine capacity; low because robots sit near `rwa` and the blurb never says what the token buys",
+  "sibling": null
+ },
+ "nillion": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"a decentralized network for Encrypted Markets\" where an instruction \"posts it onchain\" and $NIL pays \"Staking to operate a node and secure the network\" \u2014 ships and secures its own settlement layer; medium because the blind-computation service could equally read as `compute`",
+  "sibling": null
+ },
+ "nova-3": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"an AI drug discovery company coordinating a global network of researchers to find novel therapeutics through open, merit-based competition\" \u2014 a network that coordinates and rewards participants whose output is a model's answer, per the `model` facet; medium because the domain (medicine) has no T1 instance",
+  "sibling": "the-innovation-game"
+ },
+ "gensyn": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"an open infrastructure layer for AI. It provides the foundational infrastructure AI needs to operate at scale, including compute, data, and information exchange\" \u2014 capacity sold for training runs; medium because \"continual learning over new decentralised AI models\" pulls toward `model`",
+  "sibling": null
+ },
+ "carv": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "two functions made explicit: \"its proprietary CARV SVM Chain\" (ships a chain) and \"CARV ID/Agent ID system (ERC-7231)\" enabling \"verifiable, consent-based AI Beings\" \u2014 an identity registry, the manual's Trust Layer",
+  "sibling": null
+ },
+ "the-innovation-game": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"an open, collaborative ecosystem for algorithmic research by leveraging a decentralized network of highly skilled contributors\" \u2014 coordinates and rewards contributors whose output is an algorithm, not machine time. Same shape as NOVA",
+  "sibling": "nova-3"
+ },
+ "tiger-alpha": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Tiger brings together world-class expertise and cutting-edge opportunities in the utility memecoins and natural resources sectors\" \u2014 no AI and no agent content anywhere in the description",
+  "sibling": null
+ },
+ "opengradient": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "two functions made explicit: \"a decentralized infrastructure network designed to host, inference, and verify AI models at scale\" (the sold output is a model's answer) and \"The validator set verifies every computational proof (TEE attestation or zkML proof)\" \u2014 the manual's TEE / ZK-proof-of-inference Trust Layer",
+  "sibling": null
+ },
+ "zelcash": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko category `DePIN`; facet from \"purchasing resources\" and \"rewarding both miners and FluxNode operators for providing computational resources\" \u2014 metered hardware time",
+  "sibling": null
+ },
+ "okzoo": {
+  "labels": [
+   "game"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"where virtual pets sync with smart devices\" \u2014 virtual companions, which the manual places in Game & Metaverse; the \"intelligent sensor network\" clause is a second reading but the product named is the pet",
+  "sibling": null
+ },
+ "hippius": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Decentralized and transparent storage... Storage, virtual machines, apps backed by a blockchain\" \u2014 persistent storage leads, so `data`; medium because the virtual machines clause is `compute`",
+  "sibling": null
+ },
+ "zentry": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"a next-gen AI + crypto infrastructure\" whose \"tri-layer stack (zApp, zAI, zData)\" \"transforms everyday activity into structured data, trains intelligent agents\" \u2014 a resource layer feeding models; low because the same sentence claims model training and the CG tags are gaming",
+  "sibling": null
+ },
+ "halo-4": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"a permissionless peer-to-peer marketplace for AI inference on Base\" where \"Operators around the world serve the models they can reach\" \u2014 what is sold is an answer, not machine time",
+  "sibling": "opengradient"
+ },
+ "dkargo": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"dKargo uses blockchain technology to solve trust issues among participants scattered in the logistics industry\" \u2014 no AI or agent content anywhere, and a logistics ledger with no agent serves neither the agent stack nor the `rwa` test",
+  "sibling": null
+ },
+ "codatta": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"AI teams commission accountable data campaigns; qualified contributors and experts get paid upfront and keep attribution\" \u2014 a crowdsourced training-data resource layer, the established Tagger/PublicAI/Reppo pair",
+  "sibling": "perle"
+ },
+ "ao-computer": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"AO is the hyper parallel computer: a decentralized supercomputer built on Arweave\" \u2014 an execution layer for onchain processes rather than metered rented hardware; medium because \"supercomputer\" reads as `compute` and the blurb is one line",
+  "sibling": null
+ },
+ "sapien-2": {
+  "labels": [
+   "trust"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"building Proof of Quality, or PoQ, an evaluation system for AI work\" that \"measures data, reasoning, outputs, decisions, and actions against the customer's own standard\" \u2014 verification of AI output, the manual's Trust Layer",
+  "sibling": null
+ },
+ "bitcast": {
+  "labels": [
+   "content-creation"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"The Decentralized Creators Economy\" \u2014 the only functional word is creators, placing it in Content Creation; low because the description is a seven-word tagline",
+  "sibling": null
+ },
+ "tokenos-ai": {
+  "labels": [
+   "copilot"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"designed to turn natural language prompts into fully functional, production-ready blockchain applications\" and it \"automates the creation, deployment, and auditing of smart contracts and dApps\" \u2014 the artifact produced is code and transactions, not an agent",
+  "sibling": "chaingpt"
+ },
+ "bluwhale": {
+  "labels": [
+   "builder",
+   "analytics"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "two functions made explicit: \"developers and enterprises deploy AI agents to serve 3.6 million users\" (agent hosting) and \"multi-chain infrastructure for AI-driven financial intelligence\" (the product is information, not execution)",
+  "sibling": null
+ },
+ "chromaway": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "Adjudicated for consistency with dkargo/metacade: the blurb -- \"Chromia is a standalone Layer-1 blockchain and EVM compatible Layer-2 enhancement\" -- carries no AI and no agent content anywhere, and a general-purpose smart-contract L1 with no agent positioning fails the `chain` facet test (\"positioning themselves as the settlement or execution layer for agents\"), so the DePIN/compute precedent that keeps nosana and world-mobile-token in scope does not reach it.",
+  "sibling": "dkargo"
+ },
+ "redteam": {
+  "labels": [
+   "trust"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"Transform your skills in circumventing and breaking detection mechanisms into meaningful, rewarding work\" \u2014 adversarial hardening of AI content detection, the same verification layer as its counterpart subnet BitMind; low because the homepage tagline never names AI",
+  "sibling": "bitmind"
+ },
+ "bitmind": {
+  "labels": [
+   "trust"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Industry-leading deepfake detection and AI content verification\" \u2014 verification, the manual's Trust Layer. Sibling of RedTeam",
+  "sibling": "redteam"
+ },
+ "secret": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "two functions made explicit: \"the native coin of the Secret Network, a decentralized network for private / secure computation\" running \"secret contracts\" (ships a chain), and \"Through Secret VM, developers can create a confidential virtual machine that allows any application to become cryptographically verifiable\" \u2014 the manual's TEE-style Trust Layer",
+  "sibling": null
+ },
+ "ridges-ai": {
+  "labels": [
+   "unclassifiable"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "the recovered text is site chrome \u2014 \"Ridges.AI Ridgeline Upload Competitions Docs Toggle theme\" \u2014 with no sentence describing a product; \"Active Agent openhands-act\" is a status readout, not a self-description",
+  "sibling": null
+ }
+}

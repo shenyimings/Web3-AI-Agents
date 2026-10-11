@@ -1,0 +1,53 @@
+{
+ "mesh-gateway": {
+  "labels": [
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "Adjudicated across batches for consistency with meridian-2 (batch 07): an x402 / HTTP-402 agent payment rail moves money and ships no chain, so the `chain` facet test (\"the project ships a chain\") is false for it and `infrastructure` forces a facet none of the four fits. Coded `defai` on the money-movement test. Original pass-1 reading: \"machine payments gateway\" implementing an HTTP 402 flow \"so that AI agents and automated software can pay for API calls\"",
+  "sibling": "meridian-2"
+ },
+ "aeon-3": {
+  "labels": [
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "Adjudicated across batches for consistency with meridian-2 (batch 07): an x402 / HTTP-402 agent payment rail moves money and ships no chain, so the `chain` facet test (\"the project ships a chain\") is false for it and `infrastructure` forces a facet none of the four fits. Coded `defai` on the money-movement test. Original pass-1 reading: \"native settlement infrastructure for the agentic economy\" built on x402, ERC-8004, AP2 and MCP",
+  "sibling": "meridian-2"
+ },
+ "dexter-ai": {
+  "labels": [
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "Adjudicated across batches for consistency with meridian-2 (batch 07): an x402 / HTTP-402 agent payment rail moves money and ships no chain, so the `chain` facet test (\"the project ships a chain\") is false for it and `infrastructure` forces a facet none of the four fits. Coded `defai` on the money-movement test. Original pass-1 reading: links an agent to Solana wallets to \"execute trades\" (defai) and runs \"its very own x402 Facilitator\", making it a provider of settlement services (infrastructure)",
+  "sibling": "meridian-2"
+ },
+ "quack-ai": {
+  "labels": [
+   "defai",
+   "trust"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "Adjudicated across batches for consistency with meridian-2 (batch 07): an x402 / HTTP-402 agent payment rail moves money and ships no chain, so the `chain` facet test (\"the project ships a chain\") is false for it and `infrastructure` forces a facet none of the four fits. Coded `defai` on the money-movement test. Original pass-1 reading: x402 sign-to-pay relay is agent payment rails; \"verifiable rules\", policy engine and governance modules are a trust layer",
+  "sibling": "meridian-2"
+ },
+ "klef": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "Adjudicated: \"a crypto-native AI gateway on Solana that turns digital assets into access to every major AI model\" -- the description carries AI content and the product is crypto-native, so neither ground for `out-of-scope` applies (batch 14 extended the chromaway no-agent-positioning reasoning here, but chromaway had no AI content at all). It sells the model's answer rather than machine time, which is the `compute`/`model` boundary rule; adjacent case diem, coded infrastructure/compute in batch 01 for tokenized API capacity.",
+  "sibling": "diem"
+ }
+}

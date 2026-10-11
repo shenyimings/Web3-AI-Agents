@@ -1,0 +1,323 @@
+{
+ "gaib": {
+  "labels": [
+   "rwa"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"transforming real-world AI assets\u2014GPUs, robotics, and AI energy systems\u2014into tradable, reward-bearing onchain instruments\" \u2014 off-chain physical assets brought on chain, the rwa test; the DeFi vault wrapper is the financing mechanism, not an autonomous agent.",
+  "sibling": null
+ },
+ "numinous": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"building a network to aggregate LLM forecasters into superhuman forecasting models\" \u2014 the subnet's output is a model's answer, so facet follows what the subnet does (model), not analytics: it sells inference, not a signal feed.",
+  "sibling": "distributed-training"
+ },
+ "real-time-data-by-masa": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Real-time, structured, and high-quality data for AI Applications\" \u2014 the resource layer the agent stack reads from.",
+  "sibling": "375ai"
+ },
+ "codec-flow": {
+  "labels": [
+   "builder",
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "Two functions stated explicitly: \"Operator Kit (optr), a lightweight toolkit for building agents that operate on desktops, browsers, simulations, and robots\" (builder) and \"Fabric, a multi-cloud execution layer for GPU-intensive or compute-heavy workloads\" that \"select[s] the lowest-cost node\" (metered hardware time \u2192 compute).",
+  "sibling": null
+ },
+ "ovr": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"OVER possesses the most extensive 3D Map dataset globally\" and \"licenses its data to leading AI companies\" \u2014 a data marketplace, not a metaverse product, despite the Augmented Reality label; same reading as 375ai's sensor network.",
+  "sibling": "375ai"
+ },
+ "distributed-training": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Trustless Decentralised Distributed Training\" \u2014 what is produced and rewarded is a set of weights, which is the model facet; terse blurb caps confidence.",
+  "sibling": "numinous"
+ },
+ "grid-by-virtuals": {
+  "labels": [
+   "analytics"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"a skill-based prediction platform ... where users compete in fast 5-minute grids on stocks and crypto\" \u2014 prediction markets sit in analytics; AI content is only prospective (\"future AI agent integration\"), hence low.",
+  "sibling": null
+ },
+ "xiiid": {
+  "labels": [
+   "copilot"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"the XIIID AI Tutor, an AI-powered educational service designed to provide personalized learning experiences\" \u2014 an assistant to a human user; the manual's no-eleventh-subcategory rule puts assistant-shaped agents from new domains at the copilot end, and the fit is admittedly loose.",
+  "sibling": null
+ },
+ "palm-ai": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"The definitive LLM-based AI chatbot. Tech powered by Google's PaLM\" \u2014 an ordinary consumer AI product with a token and no Web3 integration in the blurb beyond the listing itself; no T1 label exists for it in the coded T1 set, so precedence does not apply.",
+  "sibling": "dot"
+ },
+ "wfca": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"create a metaverse platform that deeply integrates Japanese anime culture\" and \"applying to become a blockchain bank\" \u2014 the description carries no AI or agent content anywhere.",
+  "sibling": "metacade"
+ },
+ "ai-network": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"a blockchain-based, cloud computing network\" whose contributors are \"computing resource providers ... [who] get rewards via AIN token\" \u2014 what the token buys is machine time, so compute rather than chain.",
+  "sibling": null
+ },
+ "edge": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "medium",
+  "why": "CoinGecko DePIN label settles the subcategory; facet from \"decentralised web services, powered by the spare capacity all around us\" \u2014 rented throughput and delivery.",
+  "sibling": null
+ },
+ "pop-2": {
+  "labels": [
+   "trust"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"a decentralized protocol building the trust infrastructure for the AI agent economy\" with \"Proof of Prompt (PoP), a cryptographic protocol that links an input prompt to its resulting output in a verifiable way\" \u2014 verification and attestation of agent execution.",
+  "sibling": null
+ },
+ "pla-form": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"a Bittensor subnet driving collaborative AI research through parallel challenges\" where \"miners compete, cooperate, and innovate\" under \"transparent, confidential evaluations\" \u2014 the subnet coordinates and rewards model production.",
+  "sibling": "numinous"
+ },
+ "liquidity-provisioning": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Verified decentralized compute. GPU capacity is checked continuously, routed to rentals on demand\" \u2014 metered hardware time; name (Nodexo/'liquidity-provisioning') is misleading, the description is not.",
+  "sibling": "synapse-power"
+ },
+ "375ai": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko DePIN + Infrastructure labels settle the subcategory; facet from \"a standalone data platform ... providing ground truth for other AI systems\" and \"the missing data layer\".",
+  "sibling": "ovr"
+ },
+ "creator-2": {
+  "labels": [
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"an on-chain Automated Liquidity Manager (ALM)\" that works \"by autonomously managing liquidity positions to maximize trading fee income while minimizing risks such as impermanent loss\" \u2014 autonomous capital management.",
+  "sibling": null
+ },
+ "linqai": {
+  "labels": [
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "T1 precedence: coded defai in the T1 card sort (panel_attrition.json); T2 blurb read as out-of-scope but the T1 label is retained. Original T2 reading: \"We automate all business worklflows from end-to-end with AI tools\" \u2014 a generic AI SaaS blurb with no Web3 or agent-stack content; one sentence of evidence, hence low.",
+  "sibling": "dot"
+ },
+ "dot": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Products include dotchat (private conversational AI) and dotcode (a private coding assistant)\" running on \"open-weight models that can be self-hosted\" \u2014 an ordinary AI company with a token and no Web3 integration.",
+  "sibling": "palm-ai"
+ },
+ "tensorprox": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"a constantly audited, decentralised platform that protects any connected workflows. First, we specialise in DDoS\" \u2014 traffic scrubbing is delivery/bandwidth capacity, the compute facet, rather than attestation of agents (trust).",
+  "sibling": null
+ },
+ "metacade": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"the ultimate Web3 community hub where gamers and blockchain fanatics can communicate and collaborate\" \u2014 no AI or agent content anywhere in the description; the Gaming (GameFi) label alone is not evidence of scope.",
+  "sibling": "wfca"
+ },
+ "sealcoin": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"a programmable settlement mechanism for decentralized machine-to-machine and agent-to-agent transactions\" over infrastructure that lets \"autonomous AI agents ... securely discover services, exchange data, and transact\" \u2014 a settlement/execution layer for agents.",
+  "sibling": null
+ },
+ "prxvt-by-virtuals": {
+  "labels": [
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"enables AI agents to make anonymous, untraceable payments on-chain\" by \"combining zero-knowledge cryptography with ERC-4337 account abstraction, allowing agents to spend funds\" \u2014 agent wallets that transact; the ZK content is the mechanism, not the product.",
+  "sibling": null
+ },
+ "numbers-protocol": {
+  "labels": [
+   "trust"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"building a Decentralized Photo Network for Web 3.0 For creating community, value, and trust in digital media\" \u2014 media provenance and authenticity, the trust layer; no T1 label exists for it in the coded T1 set, so precedence does not apply.",
+  "sibling": null
+ },
+ "xterio": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Empowering creators and players with cutting-edge on-chain infrastructure and publishing solutions\" \u2014 a gaming chain blurb with no AI or agent content; coded as for metacade so the two gaming listings are not split by their CoinGecko labels.",
+  "sibling": "metacade"
+ },
+ "cere-network": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko DePIN (with Storage) settles the subcategory; facet from \"the first Decentralized Data Cloud (DDC) platform\" that \"facilitates trustless cloud data storage, integration and data collaboration\".",
+  "sibling": null
+ },
+ "synapse-power": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko DePIN label settles the subcategory; facet from \"delivering high-performance GPU compute solutions for artificial intelligence, deep learning ... and real-time inference workloads\".",
+  "sibling": "liquidity-provisioning"
+ },
+ "minotaur-2": {
+  "labels": [
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"powering DEX aggregation &amp; swap intent routing\" \u2014 intent-based execution, which the manual names under defai; terse blurb caps confidence.",
+  "sibling": null
+ },
+ "covalent-x-token": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "Whitepaper-sourced page is a navigation dump, but its own headings decide it: \"Block Specimen Producer\", \"Block Results Producer\", \"Ethereum Wayback Machine\" \u2014 blockchain indexing and data availability, the data facet.",
+  "sibling": null
+ },
+ "candles": {
+  "labels": [
+   "unclassifiable"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "The entire description is \"Will be updated closer to public release\" \u2014 a github-sourced placeholder with no content to code; guessing is what the residual exists to prevent.",
+  "sibling": null
+ },
+ "tenex": {
+  "labels": [
+   "defai"
+  ],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Built specifically for the Bittensor ecosystem with advanced risk management and sustainable yield generation\" \u2014 yield routing and portfolio risk, which the manual places in defai; the DeFi label corroborates but is not a rule-table label.",
+  "sibling": null
+ },
+ "loosh": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"mapping human consciousness through neurodata, nonverbal cognition, and agentic simulation across Bittensor subnets\" \u2014 what it accumulates is a neurodata resource; homepage-sourced and vague, hence low.",
+  "sibling": null
+ }
+}

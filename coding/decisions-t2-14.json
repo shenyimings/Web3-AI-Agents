@@ -1,0 +1,258 @@
+{
+  "emerge": {
+    "labels": ["content-creation", "launchpad"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"AI content generation directly into social media feeds\" (content-creation) and \"serves as the parent token for our upcoming workflow token launch pad ecosystem, where viral AI workflows can spawn their own tokens\" (launchpad)",
+    "sibling": null
+  },
+  "covenant-foundation": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"develops an open-source governance framework for AI agents\" that \"applies them to multi-agent AI systems\" -- a framework product, not agent creation, but the closest fit among the ten",
+    "sibling": null
+  },
+  "zaya-ai": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"aims to combat cancers by seeking to leverage the latest AI technologies and medical screening procedures\" -- no agent, and no concrete data/model resource is described beyond a generic AI claim, unlike Galeon's swarm-learning data layer",
+    "sibling": null
+  },
+  "eva": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"a bold step toward human-like, persistent digital companions in Web3\" -- an agent character/virtual companion",
+    "sibling": null
+  },
+  "qudeai-framework": {
+    "labels": ["builder", "launchpad"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"enable the creation, deployment, and management of AI agents\" (builder) and agents \"can be bought, sold, licensed, and rented\" with \"focus on AI monetization\" (launchpad)",
+    "sibling": null
+  },
+  "molten-3": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"an intent-based search engine for AI agents. Agents can now discover and collaborate with each other instantly\" -- an agent discovery/matching protocol; forced into the data facet as the closest of the four (indexing/matching agents), no clean fit",
+    "sibling": "whisp"
+  },
+  "orlix-ai": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"A personal AI operating system.\" -- entire description; no function, agent behavior, or Web3 integration stated beyond this tagline",
+    "sibling": null
+  },
+  "mind-ai": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "\"transforms raw social data into actionable trading insights\" and \"deliver clear, data-driven insights\"; CG label Analytics",
+    "sibling": null
+  },
+  "tri-sigma": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "current product is \"increasingly nuanced and accurate insights over time\"; execution (\"as the system evolves, it will gain the ability to execute complex operations\") is stated as future roadmap, not current, so not yet defai despite the CG DeFAI tag",
+    "sibling": null
+  },
+  "holozone": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "\"the AI Agent framework for creating AI agents with advanced multimodal capabilities\"; CG label AI Framework",
+    "sibling": null
+  },
+  "gemxbt": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "\"analyze cryptocurrency markets ... presents the resulting insights in a concise, data-driven format\"; CG label Analytics",
+    "sibling": null
+  },
+  "wake": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"Mirror smart money. Detect the exit. WAKE is an intelligence terminal on Base\" -- market intelligence product; thin homepage-sourced description",
+    "sibling": null
+  },
+  "daimon": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"spawn your own autonomous agent with one command\"",
+    "sibling": null
+  },
+  "bankrsynth": {
+    "labels": ["launchpad"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"enabling scalable token creation within the Bankr ecosystem\" through \"automated systems and agent-driven workflows\" -- token-launch rails, agent-operated",
+    "sibling": null
+  },
+  "verox": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"analyzes any chosen token and finds the best investments in real time ... by scanning markets\"",
+    "sibling": null
+  },
+  "flourishing-ai-token": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"active blockchain monitoring, high frequency trading, active portfolio rebalancing, automated arbitrage\" -- executes, not just informs",
+    "sibling": null
+  },
+  "dulus-ai": {
+    "labels": ["copilot"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"turns it into a tool-calling agent -- reads & edits files, runs Bash, greps your repo, browses the web, ships commits, all from your terminal\" -- development tooling, artifact is code/commits",
+    "sibling": null
+  },
+  "klef": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"turns digital assets into access to every major AI model, with no subscription and no identity to hand over\" -- a paid consumer gateway to centralized AI models, no agent and no agent-stack framing",
+    "sibling": null
+  },
+  "hermes-desktop": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "medium",
+    "why": "\"a self-improving AI assistant with tool use, multi-platform messaging, and a closed learning loop\"; CG label AI Framework",
+    "sibling": null
+  },
+  "mixmob": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"MXM is where gaming, crypto, and community collide ... play for crypto, stake in top games, and earn exclusive rewards\" -- no AI or agent content anywhere in the description despite Gaming (GameFi) and AI Agents CG labels; follows the metacade/xterio precedent from batch 05",
+    "sibling": null
+  },
+  "state": {
+    "labels": ["copilot"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Agent-coordinated research\" turning biometric streams into readiness assessments -- nearest T1 has to a research-assistant copilot; description is thin",
+    "sibling": null
+  },
+  "whisp": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"a Web3 agents orchestration protocol that selects the most suitable agent for any given task and dynamically picks the best option from multiple agents\" -- an agent discovery/routing protocol, same shape as Molten; forced into the data facet, no clean fit",
+    "sibling": "molten-3"
+  },
+  "preprints-io": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"Verification engines\" enabling researchers, clinicians, AI agents, and traders to \"operate on verified evidence rather than trust\"",
+    "sibling": null
+  },
+  "duck-ai": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"The AI bot engages with token holders through social media, responding to community input, participating in discussions\" -- a memecoin with an agent persona whose output is social content",
+    "sibling": null
+  },
+  "nftxbt-by-virtuals": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"X API integration will enable nftxbt to listen to socials and be fed with a curated list of accounts to watch, parse, and use as signal\" so it can \"provide insights and posts daily\" -- an agent persona whose output is social posts",
+    "sibling": null
+  },
+  "nexgent-ai": {
+    "labels": ["builder", "defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"enable users to create, customize, and test autonomous agents\" (builder) capable of \"executing strategies on the blockchain\" (defai); not launchpad -- no token-launch-for-agents function is described despite the CG AI Agent Launchpad tag",
+    "sibling": null
+  },
+  "ambervibe": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Amber Vibe is an AI Agent building real-world applications and infrastructure in public! Streaming on X.\" -- the described activity is a public build-stream, i.e. social content; extremely thin",
+    "sibling": null
+  },
+  "legend-2": {
+    "labels": ["rwa"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "medium",
+    "why": "\"AI Agents for Sports | Transforming SportFi and RWA sector\"; CG label Real World Assets (RWA)",
+    "sibling": null
+  },
+  "momus-ai": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"independently researches markets, identifies mispricings, and takes real on-chain positions\" -- executes trades, not just signals",
+    "sibling": null
+  },
+  "limitus": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"automates decision-making and execution, allowing users to effortlessly act on insights without being bogged down by manual processes\" over DeFi portfolios and yield opportunities",
+    "sibling": null
+  },
+  "agentlauncher-token-cvai": {
+    "labels": ["launchpad"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "\"The AI Launchpad+ curates and launches AI projects while soon enabling users to create AI agents and tokens\"; CG label AI Agent Launchpad",
+    "sibling": null
+  },
+  "uniclaw": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "medium",
+    "why": "\"builds agent-agnostic liquidity pools for Base markets with public and agent-facing routes, dynamic fee hooks\"; CG label DeFAI",
+    "sibling": null
+  }
+}

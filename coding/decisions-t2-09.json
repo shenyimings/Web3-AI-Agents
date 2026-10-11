@@ -1,0 +1,258 @@
+{
+ "helixa-cred": {
+  "labels": ["trust"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Onchain identity, reputation, and Cred Scores for AI agents on Base\" is an identity/reputation registry for agents.",
+  "sibling": null
+ },
+ "eli5a": {
+  "labels": ["copilot"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"AI agent...designed to read, analyze, and simplify complex scientific research\" is a research assistant -- manual: nearest thing T1 has to a copilot.",
+  "sibling": null
+ },
+ "aimedis-new": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "Description is an eHealth/metaverse/NFT platform with no AI or agent content anywhere (\"eHealth applications such as health records...medical metaverse...virtual hospital chain\"); Metaverse label present but scope test overrides.",
+  "sibling": null
+ },
+ "hdoki": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"crypto-backed rewards...staking, and trading of NFTs & OKI Tokens\" -- no AI or agent content despite Gaming (GameFi) tag; same as the metacade/xterio/wfca precedent.",
+  "sibling": null
+ },
+ "arbius": {
+  "labels": ["infrastructure"],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"decentralized network for machine learning...Models operate as DAOS...providing a way for model creators to earn income\" -- output sold is a model/answer, not raw compute.",
+  "sibling": null
+ },
+ "cadai": {
+  "labels": ["unclassifiable"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"combination of AI and blockchain technology\" tackling design \"inefficiencies\" gives no concrete AI or agent function to place; per instructions, unclassifiable rather than guessed.",
+  "sibling": null
+ },
+ "director-lucien": {
+  "labels": ["content-creation"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"cinematic AI agent capable of turning text prompt into highly personalised cinematic videos\" -- media generation agent.",
+  "sibling": null
+ },
+ "bostrom": {
+  "labels": ["builder"],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "low",
+  "why": "Description (\"Bootloader for superintelligence of the moon\") gives no functional detail; classified from CoinGecko label \"AI Framework\" per the manual's evidence hierarchy when the description is uninformative.",
+  "sibling": null
+ },
+ "wrkr-by-virtuals": {
+  "labels": ["infrastructure"],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"wrkr provides the computer and operating substrate\" via \"one persistent Linux virtual machine for each user\" -- metered compute/VM substrate for AI coding agents.",
+  "sibling": null
+ },
+ "wagmi-5": {
+  "labels": ["content-creation"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"key role in content creation on all of WAGMI's news channels\" handling newsletters, podcasts and YouTube video generation.",
+  "sibling": null
+ },
+ "artificial-cz": {
+  "labels": ["analytics", "builder"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"real-time crypto market insights, robust technical analysis tools\" (analytics) plus \"Agent developers will use $AICZ to integrate our plug-ins and improve their Agents\" (builder) -- two explicit functions.",
+  "sibling": null
+ },
+ "loky-by-virtuals": {
+  "labels": ["infrastructure"],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"unified agentic data infrastructure layer...serves as the data backbone of the decentralized ecosystem, delivering structured, actionable insights.\"",
+  "sibling": null
+ },
+ "litebeam": {
+  "labels": ["infrastructure"],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"Universal routing layer for AI agents. One MCP connection to thousands of microservices...Real-time vendor auctions + on-chain settlement\" -- a resource/service discovery layer; facet is the nearest of the four, not a clean fit.",
+  "sibling": null
+ },
+ "hotkeyswap": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "Telegram DEX trading app description has no AI or agent content at all (\"seamless trading experience through an easy-to-use Telegram Mini App DEX\").",
+  "sibling": null
+ },
+ "opulous": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Opulous brings NFTs and DeFi to the music industry\" -- no AI or agent content despite the Real World Assets (RWA) label present.",
+  "sibling": null
+ },
+ "protokols": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "\"AI-powered platform that transforms complex data into clear, actionable insights\" / \"AI-powered sentiment analysis and KOL tracking help predict market trends\" -- Analytics label confirmed by description.",
+  "sibling": null
+ },
+ "replicat-one-by-virtuals": {
+  "labels": ["defai"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"AI-driven platform for autonomous crypto trading agents\" -- autonomous trading execution.",
+  "sibling": null
+ },
+ "dexcheck": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "T1 precedence: T1 coded DexCheck \"analytics\"; kept verbatim even though the T2 description also describes DexCheck Pad, a fundraising launchpad.",
+  "sibling": null
+ },
+ "moss": {
+  "labels": ["builder"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"network of independent, unbiased, and trustworthy AI agents hosted on decentralized infrastructure\" -- agent hosting, per the manual's builder signal.",
+  "sibling": null
+ },
+ "xzk": {
+  "labels": ["trust"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Trustless Authentication Layer for AI Agents...Zero-Knowledge Proofs...securely retrieve and verify necessary information in a trustless environment\" overrides the generic AI Framework label.",
+  "sibling": null
+ },
+ "gitbank": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Smart contracts that listen to GitHub. Lock budgets, escrow bounties, pay on merge.\" -- no AI or agent content despite AI Framework and DeFAI labels present.",
+  "sibling": null
+ },
+ "sora-ai": {
+  "labels": ["content-creation"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"Sora, the official OpenAI text-to-video tech\" -- states a text-to-video generation function, though the description is thin and likely a copycat listing.",
+  "sibling": null
+ },
+ "perkos": {
+  "labels": ["builder"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"PerkOS AI gives small businesses a ready-to-work AI team for growth, research, customer support and operations\" -- read as agent-hosting-as-a-service; no subcategory fits cleanly.",
+  "sibling": null
+ },
+ "aios-foundation": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Be cautious: AIOS Foundation is not affiliated with any crypto-currency\" -- the described project explicitly disclaims any Web3 tie despite the AI Framework label.",
+  "sibling": null
+ },
+ "sentio-protocol": {
+  "labels": ["builder", "launchpad"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"no-code platform and marketplace for creating on-chain AI agents\" (builder) and \"deploy an agent to the Sentio Marketplace, you can set fees or a revenue-sharing model\" (launchpad) are both explicit.",
+  "sibling": null
+ },
+ "elisym": {
+  "labels": ["infrastructure"],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"open infrastructure for AI agents to discover, hire, and pay each other\" -- an agent coordination/registry protocol; facet is the nearest of the four, not a clean fit.",
+  "sibling": null
+ },
+ "minidev": {
+  "labels": ["copilot"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"AI agent for building Farcaster mini apps, allowing non-technical creators to develop, edit, and launch web3 applications\" -- artifact produced is an app/code, not an agent, overriding the AI Agent Launchpad label.",
+  "sibling": null
+ },
+ "dora-ai-by-virtuals": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"provides personalized travel recommendations, custom itineraries, and seamless booking solutions\" -- an information/recommendation product outside the ten subcategories' usual domain; analytics is the nearest analog.",
+  "sibling": null
+ },
+ "spettro-ai-agent-cli": {
+  "labels": ["copilot"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"lightweight CLI agent designed to streamline coding workflows directly from the terminal\" -- developer tooling whose artifact is code.",
+  "sibling": null
+ },
+ "h1dr4-by-virtuals": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"AI powered decentralized intelligence platform for public investigations\" that indexes records \"into structured case files, maps, timelines, research dashboards\" -- an on-chain research assistant.",
+  "sibling": null
+ },
+ "covenant": {
+  "labels": ["trust"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"providing the controls autonomous agents need to operate safely\" via \"cryptographically signed capabilities\" and an \"append-only, hash-chained audit log\" -- verification/attestation layer.",
+  "sibling": null
+ },
+ "neur-sh": {
+  "labels": ["defai"],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "\"enables seamless interactions with DeFi protocols...integrated wallet management\" with direct Jupiter swap/DeFi integration -- DeFAI label confirmed by description.",
+  "sibling": null
+ }
+}

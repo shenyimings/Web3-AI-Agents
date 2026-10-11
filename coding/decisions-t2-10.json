@@ -1,0 +1,258 @@
+{
+  "send-2": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"A community token powering the Blinks Ecosystem on Solana\" -- no AI or agent content despite the AI Framework label.",
+    "sibling": null
+  },
+  "agent-s": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"leveraging AI-powered agents that can analyze data, make informed decisions, and execute tasks autonomously\" to \"revolutionize decentralized finance (DeFi)\" -- autonomous execution over DeFi, generic marketing language otherwise.",
+    "sibling": null
+  },
+  "privacy-hood-by-virtuals": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"Private USDG transfers on Robinhood Chain. Nothing on the public ledger\" -- no AI or agent content anywhere in the description.",
+    "sibling": null
+  },
+  "suiai": {
+    "labels": ["launchpad"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label \"AI Agent Launchpad\" and \"a launchpad for autonomous AI agents built on the Sui blockchain... allows creators to deploy AI agents on-chain in just seconds\".",
+    "sibling": null
+  },
+  "idle-protocol": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"turns anything you're not using - a GPU, an agent, a data feed, spare compute - into a paid API endpoint with automatic auth, metering, and billing\" -- metered compute/resource marketplace.",
+    "sibling": null
+  },
+  "michael-taolor": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"provide real-time intelligence and narrative-driven insights\" and \"curating relevant information and reducing the complexity\" -- an information/research product, not execution.",
+    "sibling": null
+  },
+  "hana-by-virtuals": {
+    "labels": ["content-creation", "builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"generates personalized content based on NFT identity helping users grow their digital brand (videos, images, text)\" (content-creation) and \"the foundation of Hana Studios, a platform offering Agent-as-a-Service tools through crypto payments\" (builder) -- two explicit functions.",
+    "sibling": null
+  },
+  "terminal": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"a superchain tokens marketplace that unites multiple markets for a seamless, socially connected trading experience\" -- no AI or agent content despite the AI Applications / AI Meme labels.",
+    "sibling": null
+  },
+  "2dai-io-2": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"empowers creators with cutting-edge image and video generation, seamless NFT integration\" -- media-generation product.",
+    "sibling": null
+  },
+  "gekko-ai": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label \"DeFAI\" and \"focused on all things agents, trading, and automation... data-driven decision-making\".",
+    "sibling": null
+  },
+  "trackgood-ai": {
+    "labels": ["defai", "trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"TrackFi, an AI Trading Agent that extracts actionable alpha\" (defai) and \"Traicy, an ESG AI Agent rewarding users through Scan-to-Earn\" for \"verifying sustainability claims\" (trust) -- two explicitly named agents.",
+    "sibling": null
+  },
+  "agixt": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label \"AI Framework\" and \"Platform Interoperability & AI Agent Management : Streamlined creation, renaming, deletion, and updating of AI agent settings\".",
+    "sibling": null
+  },
+  "top-hat": {
+    "labels": ["launchpad", "builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "T1 precedence: t1_label recorded [\"launchpad\",\"builder\"]; kept verbatim regardless of the T2 blurb.",
+    "sibling": null
+  },
+  "degen-ai": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"specializes in trading perpetual futures (perps) on Hyperliquid, aiming to leverage AI for automated and optimized trading strategies\" -- executes trades, not just signals.",
+    "sibling": null
+  },
+  "aixcb-by-virtuals": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"AI-driven venture capital initiative focused on funding and supporting early-stage AI, AI Agents, and Decentralized Science (DeSci) projects\" -- AI-driven capital allocation, closest fit though not trading in the usual sense.",
+    "sibling": null
+  },
+  "kip": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"a decentralized AI framework for owners of AI apps, models and knowledge bases to deploy, connect and monetise their AI assets in Web3\".",
+    "sibling": null
+  },
+  "provenance-fact-check": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"an AI-powered fact-checking agent and data verification platform... identifies and records the provenance... enabling users, organizations, and AI systems to verify truth and detect misinformation\".",
+    "sibling": null
+  },
+  "arbus": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label \"Analytics\" and \"an AI-driven market intelligence layer... translating dynamic market signals into actionable insights\".",
+    "sibling": null
+  },
+  "degenerate-squid": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"an AI agent and on-chain data tool designed to make on-chain data easily accessible... democratizes blockchain analytics for a Web3-native future\".",
+    "sibling": null
+  },
+  "axiom": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Axiom is an AI agent on Base. HTTP tools, essays, a token — built in public since January 2026.\" -- carries AI/agent content but no describable product function.",
+    "sibling": null
+  },
+  "agentlayer": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"creates a decentralized registry of AI services, agents, and models\" -- an identity/reputation registry for agents, not a code/agent-building tool.",
+    "sibling": null
+  },
+  "wachxbt": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"the Unified Verification Agent for DeFAI... the verification layer that makes autonomous capital credible... checking intent, contract safety, liquidity and cross-protocol risk\".",
+    "sibling": null
+  },
+  "max-2": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "T1 precedence: t1_label recorded [\"analytics\"]; kept verbatim over the T2 \"Bitcoin maximalist\" persona blurb.",
+    "sibling": null
+  },
+  "ryft": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"RYFT enables RWAs, AI, tokens, and NFTs to be transformed into interconnected systems of liquidity, utility, and engagement\" -- AI named only as one asset class among several; no AI/agent functionality described.",
+    "sibling": null
+  },
+  "coq-ai": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"training it on the amazing art from our meme artists and turning it into a truly creative, useful tool\" -- thin but points at a creative-output tool.",
+    "sibling": null
+  },
+  "ethresearchbot": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"an AI agent focused on surfacing meaningful research and connecting researchers, developers, and the broader Ethereum ecosystem\" -- an information/research-surfacing product.",
+    "sibling": null
+  },
+  "sympson-ai": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label \"DeFAI\" and \"Sympson can execute trades across chains, analyze market data, and adapt strategies based on market conditions\".",
+    "sibling": null
+  },
+  "tycoon-by-shareland": {
+    "labels": ["rwa"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label \"Real World Assets (RWA)\" and \"bring the real estate market on-chain... SQFT tokens... pegged to the average price per square foot of real-world geographic locations\".",
+    "sibling": null
+  },
+  "spira": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"provides visibility scans across major AI platforms, audits landing pages... identifies high-value outreach opportunities\" -- an information/insights product, though for marketing rather than investment; borderline fit.",
+    "sibling": null
+  },
+  "gas-town": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"a tool that helps you manage multiple AI coding agents at once... a factory floor supervisor for a bunch of Claude Code instances\" -- agent hosting/management tooling, though the description carries no Web3-specific content; borderline.",
+    "sibling": null
+  },
+  "aimerica": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"the first AI country... the spark of sentience\" -- an AI persona/meme with no other described product, per the manual's memecoin-persona rule.",
+    "sibling": null
+  },
+  "ante-games": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label \"Gaming (GameFi)\" and \"an agent gaming platform on Solana. The platform is designed for games that are played by agents through skills, rather than directly by humans\".",
+    "sibling": null
+  }
+}

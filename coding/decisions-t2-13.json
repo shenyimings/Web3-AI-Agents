@@ -1,0 +1,258 @@
+{
+  "aleister": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Building http://fundlyhub.com. Cloned from FelixCraftAI via ClawMart.\" -- no substantive description of a product or function beyond clone provenance and a treasury link.",
+    "sibling": null
+  },
+  "tachi": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"turn complex cross-chain actions, coordination, and onchain tools into a practical operator system for building, trading, launching, and managing digital assets\" -- autonomous swarm that executes trades and manages assets.",
+    "sibling": null
+  },
+  "sora-oracle": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label Oracle; \"delivers Decentralized Data Integrity and Real-Time Outcome Resolution for prediction markets ... open-source oracle SDK\".",
+    "sibling": null
+  },
+  "ember-3": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"generating protocol revenue through its applications. Token holders can stake EMBER to receive a share of fees collected from all contracts\" plus \"prediction markets for price speculation\" -- fee distribution and speculation product.",
+    "sibling": null
+  },
+  "charles-ai-by-virtuals": {
+    "labels": ["unclassifiable"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"an autonomous AI agent with a wallet and a mission: generate revenue for something much larger coming (currently in stealth)\" -- no concrete function to code a subcategory from.",
+    "sibling": null
+  },
+  "claw-harbor": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"Turn your @OpenClaw agents into pixel art NPCs in a retro office. See who's working, who's slacking\" -- agent activity rendered as NPCs in a virtual world.",
+    "sibling": null
+  },
+  "skai": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"it embraces developers, granting access to tools for creating and monetizing assistants, fostering a collaborative and dynamic ecosystem\" -- platform whose user is someone building an assistant.",
+    "sibling": null
+  },
+  "earendel": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Now building a creative studio. Every dollar earned transparently.\" -- thin but the stated product direction is a media/creative studio.",
+    "sibling": null
+  },
+  "agenttank": {
+    "labels": ["analytics", "defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"From market research to token swaps, portfolio monitoring to computer automation\" and \"taking independent action on your behalf\" -- explicit research (analytics) and execution (defai) functions.",
+    "sibling": null
+  },
+  "dogeai-2": {
+    "labels": ["copilot"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"processing and summarizing U.S. Congressional bills, DOGEai transforms complex, inaccessible legislation into easily digestible insights\" -- a research assistant, the manual's nearest fit for non-crypto research agents.",
+    "sibling": null
+  },
+  "fitted": {
+    "labels": ["out-of-scope"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"AI-powered virtual closet and fashion stylist app ... peer-to-peer marketplace\" -- a consumer styling app with no agent and no tie to the Web3-agent stack.",
+    "sibling": null
+  },
+  "ainalyst": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label Analytics; \"combining data indexing, social summarization, and behavioral signals ... an intelligence engine built for traders, analysts, and autonomous agents\".",
+    "sibling": null
+  },
+  "agenthub": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"the first open, community-driven hub for discovering, testing, and scaling AI agents ... giving builders tools to list, gain traction, and monetize\" -- an agent app store.",
+    "sibling": null
+  },
+  "notai": {
+    "labels": ["launchpad", "defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"offering ... an AI-powered Launchpad, AI DeFi suite\" and \"engage with DeFi services like staking and farming\" -- explicit launch-access and DeFi-execution functions.",
+    "sibling": null
+  },
+  "gata": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"pay per FLOP (floating-point operation) for inference & training, anywhere, anytime ... Commoditize, tokenize, & trade FLOPs\" -- metered compute capacity is what the token is sold for.",
+    "sibling": null
+  },
+  "ring-ai": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"an advanced AI platform that revolutionizes customer support and sales through fully autonomous, phone-based agents\" -- a platform deploying autonomous agents as a product; genuinely borderline (no clean fit among the ten).",
+    "sibling": null
+  },
+  "waye-ai": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"It's the revenue and settlement layer for the agent economy ... the rails agents use to get paid ... Pay for agent jobs across the network\" -- an agent payment rail, coded defai per the meridian-2 precedent (payment rails move money, no facet fits).",
+    "sibling": "meridian-2"
+  },
+  "hatcherlabs": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"an AI agent platform built to let anyone create, configure, and operate autonomous AI agents\" -- textbook builder/marketplace.",
+    "sibling": null
+  },
+  "aiveronica": {
+    "labels": ["game"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label Gaming (GameFi); \"the World's First and Largest AI Game Master ... transforms static games into living, evolving universes\".",
+    "sibling": null
+  },
+  "agixbt-by-virtuals": {
+    "labels": ["analytics", "defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"observes the internet for high-fidelity signals ... synthesizes emergent alpha\" (analytics) and \"AGIXBT_FUND aggregator agent exploits that momentum to execute trades via a daos.fun hedge fund\" (defai) -- two explicit functions.",
+    "sibling": null
+  },
+  "manganow": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"our specialized AI agents will generate a high-quality Manga in minutes\" -- agents producing media.",
+    "sibling": null
+  },
+  "echo": {
+    "labels": ["infrastructure", "trust"],
+    "facet": "data",
+    "provenance": "read",
+    "confidence": "low",
+    "why": "\"Practical agent infrastructure: security scans, private AI routing, programmable inboxes, x402 storage, API discovery, and clean handoffs\" -- bundles a resource layer (storage/discovery, facet data) with an explicit security-scan function; terse homepage copy, low confidence.",
+    "sibling": null
+  },
+  "x402guard": {
+    "labels": ["trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"scans agent skills before they are installed to detect malware, credential theft, risky permissions, suspicious network behavior ... returns a clear risk score\" -- verification/attestation of agent skills.",
+    "sibling": null
+  },
+  "nave-shares": {
+    "labels": ["defai", "trust"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"allows a DAO or fund to run an actively managed treasury\" (defai) and \"creating a trust layer for the agentic economy\" (trust) -- both stated explicitly.",
+    "sibling": null
+  },
+  "listen-rs": {
+    "labels": ["defai"],
+    "facet": null,
+    "provenance": "rule",
+    "confidence": "low",
+    "why": "CG label DeFAI; description itself is terse (\"blazingly fast actions for AI agents in Rust\"), low confidence.",
+    "sibling": null
+  },
+  "bitdoctorai": {
+    "labels": ["infrastructure"],
+    "facet": "data",
+    "provenance": "rule",
+    "confidence": "medium",
+    "why": "CG label DePIN; \"DeSci data infrastructure protocol using DePIN & AI ... blockchain for secure and transparent health data management\" -- a medical data resource layer, per the manual's guidance that medical data platforms code as infrastructure; has an actual AI Doctor Agent so distinguished from the out-of-scope Galeon/DrPal pair.",
+    "sibling": null
+  },
+  "ai-rocket-by-virtuals": {
+    "labels": ["analytics"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"Alpha Detection: Predict the Future, Today ... Advanced AI identifies patterns and highlights projects and narratives gaining traction\" -- market intelligence/signal product.",
+    "sibling": null
+  },
+  "shieldeum": {
+    "labels": ["infrastructure"],
+    "facet": "compute",
+    "provenance": "rule",
+    "confidence": "high",
+    "why": "CG label DePIN; \"produces Secure Computing Power ... Datacenter Servers producing Computing Power that enable application hosting infrastructure ... high-performance computing tasks\".",
+    "sibling": null
+  },
+  "misato": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "high",
+    "why": "\"can independently design and mint NFTs for sale, create on-chain artworks by analyzing social media content\" -- agent producing media.",
+    "sibling": null
+  },
+  "asynchronus-by-virtuals": {
+    "labels": ["builder"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"Graph is our modular, LangChain-based framework for building scalable AI agents, designed to be interoperable, composable, and optimized for multi-agent collaboration\" -- a framework/SDK for building agents.",
+    "sibling": null
+  },
+  "fame-ai": {
+    "labels": ["content-creation"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "CG label AI Agent Launchpad present but the description is not about launching agents -- \"empowering you to craft an online persona that's uniquely yours ... explore and express without ... personal exposure\" is a persona/content product, so coded from the description per the manual's launchpad caveat.",
+    "sibling": null
+  },
+  "solvr": {
+    "labels": ["analytics", "defai"],
+    "facet": null,
+    "provenance": "read",
+    "confidence": "medium",
+    "why": "\"real-time world news, global economic data, token security scanning, and technical analysis\" (analytics) and \"a swap interface using 0x Protocol\" plus CG label DeFAI (defai) -- both an intelligence API and an execution/trading surface.",
+    "sibling": null
+  }
+}

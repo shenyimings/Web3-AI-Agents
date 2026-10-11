@@ -1,0 +1,258 @@
+{
+ "arvos-ai": {
+  "labels": ["defai"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Arvos AI uses Market-Neutral Momentum and Delta-Neutral Grid Trading... AI handles trading, yield farming, and arbitrage 24/7\" — autonomous trading/yield execution.",
+  "sibling": null
+ },
+ "avatar-ui": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "Description is a local desktop LLM chat client (\"run large language models locally without relying on any cloud UI\") with no Web3 or blockchain content anywhere — ordinary AI product with a token and no Web3 integration beyond being listed.",
+  "sibling": null
+ },
+ "daemon": {
+  "labels": ["copilot"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"DAEMON is the operator console for Solana developers: a standalone desktop application that bundles a full-featured code editor, AI agents, built-in wallet, token launcher, swaps, and one-click deploys\" — artifact produced is code and transactions for a human developer.",
+  "sibling": null
+ },
+ "saul-goodai": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"First web3 livestream platform on Virtuals. Real-time charts, live airdrops, super chats in tokens, gamified tasks, all powered by $SAUL\" — no AI or agent content anywhere in the description.",
+  "sibling": null
+ },
+ "nora": {
+  "labels": ["game"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"customizable, decentralized AI agents designed to scale mental wellness across individuals, therapists, and businesses... personalized agents, therapist cloning\" — conversational/companionship agent, coded per manual's mental-health guidance as a virtual companion.",
+  "sibling": null
+ },
+ "boom-2": {
+  "labels": ["infrastructure"],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"Boom pioneers the AI data incentive layer, transforming gaming achievements, social capital, and real-world assets into programmable on-chain value\" — a data-incentivization/resource layer the agent stack could consume; thin description, low confidence.",
+  "sibling": null
+ },
+ "superclaw": {
+  "labels": ["builder"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"The platform allows users to deploy OpenClaw-powered agents in minutes without needing to manage servers, wallets, or complex integrations\" — agent deployment platform; the product's user is someone building/launching an agent.",
+  "sibling": null
+ },
+ "songjam-by-virtuals": {
+  "labels": ["trust"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"Songjam is a cryptographic voice verification network designed to secure voice sovereignty in the age of AI... protoSBTs for your voice biometrics and identity\" — verification/identity layer; description also mixes in an InfoFi oracle, agentic CRM and AI DJ, genuinely borderline.",
+  "sibling": null
+ },
+ "nemo-2": {
+  "labels": ["unclassifiable"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"NEMO powered by clawpump.tech : NEMO is an autonomous ClawPump agent tokenized on Solana.\" — bare listing note; no functional content describing what the agent actually does.",
+  "sibling": null
+ },
+ "xfractal": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"enhance alpha extraction through real-time sentiment analysis, streamlined due diligence, predictive modeling, and modular market research tools\" — the product is information/intelligence, not execution.",
+  "sibling": null
+ },
+ "mizukara": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"a local-first AI agent whose public instance analyzes on-chain activity and publishes every finding with the evidence behind it\" — on-chain research assistant.",
+  "sibling": null
+ },
+ "project-plutus": {
+  "labels": ["defai"],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko label DeFAI fires cleanly; \"AI-Powered Trading Agents: Customized to user preferences, these agents autonomously execute trades, adapt to market trends, and optimize wealth creation.\" No t1_label present on this row, so coded fresh despite in_t1_cohort true.",
+  "sibling": null
+ },
+ "henlo-2": {
+  "labels": ["game", "builder"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Henlo Kart, a hamster racing minigame, is the first of many games for the... Onchain General Intelligence (OGI) Network, a decentralized platform that enables the creation, training, and deployment of open, decentralized AI Agents\" — two explicit functions: a game and an agent-building platform.",
+  "sibling": null
+ },
+ "piptrade-by-virtuals": {
+  "labels": ["defai"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"trade any token, on any chain, private by default... routes swaps across 34 chains and around 190 assets\" — the PIP agent token drives an execution/trading terminal.",
+  "sibling": null
+ },
+ "kafka-ai": {
+  "labels": ["content-creation"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"distinguished by its unique approach to social media interaction. It's known for posting poetry, philosophical insights, and engaging in thought-provoking dialogues on X\" — agent personality whose output is social content.",
+  "sibling": null
+ },
+ "dessistant": {
+  "labels": ["defai"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Dessistant turns any user into an autonomous market maker, letting them script strategies, automate execution, and monitor markets 24/7\" — autonomous execution of trades.",
+  "sibling": null
+ },
+ "claude-memory": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "Description is entirely about a Claude Code memory plugin (\"/plugin install claude-mem... Context from previous sessions will automatically appear in new sessions\") with no Web3 or blockchain integration anywhere.",
+  "sibling": null
+ },
+ "supah": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Alpha Calls: Generates high-conviction signals for newly launched tokens... Security & Opportunity Scoring: AI-driven risk modeling flags dangerous or scammy contracts\" — the product is signals/alerts, not execution, so not fired on the DeFAI label.",
+  "sibling": null
+ },
+ "dnd": {
+  "labels": ["builder"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"creates a transparent, trustless marketplace where users can effortlessly access the services of AI agents without the complexities of traditional platforms\" — an agent app-store/marketplace.",
+  "sibling": null
+ },
+ "haven-2": {
+  "labels": ["game"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Haven is a decentralized platform that enables robotic simulations and experimentation through digital twin models\" — digital twins, per manual explicitly listed under game.",
+  "sibling": null
+ },
+ "bowline-by-virtuals": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Bowline is a lending protocol on Robinhood Chain. Borrow USDG against your memecoins and tokenized stocks without ever getting liquidated by a price crash.\" — no AI or agent content anywhere.",
+  "sibling": null
+ },
+ "widi": {
+  "labels": ["defai"],
+  "facet": null,
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko label DeFAI fires cleanly; \"WIDI App lets you auto-copy top traders without hunting for wallets and tap into AI-powered pre-trade analysis\" — copy-trading execution.",
+  "sibling": null
+ },
+ "degenerator-project": {
+  "labels": ["launchpad"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Community members can request token creation via X and our AI Agent will launch the most hype ideas spontaneously and without human intervention\" — token-launch rail driven by an agent; the CG label is the generic \"Launchpad\", not the rule-table \"AI Agent Launchpad\", so read not fired.",
+  "sibling": null
+ },
+ "neurvona": {
+  "labels": ["game"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"engineering digital immortality through high-fidelity, autonomous AI Digital Twins... required fuel to train and deploy your own digital twin\" — digital twin, marketing-heavy so medium confidence.",
+  "sibling": null
+ },
+ "neurashi": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"The multi-agent AI system for Solana, providing evidence-backed risk scoring for SPL tokens to help you spot bad tokens before they spot you\" — the product is a risk score, information not execution.",
+  "sibling": null
+ },
+ "occa-ai": {
+  "labels": ["builder"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"OCCA is an operating system for Web3-native operators to run autonomous AI agent labor forces. Built on Solana with wallet-native identity, on-chain compensation, and verifiable trace anchors.\" — agent hosting/OS.",
+  "sibling": null
+ },
+ "suki-2": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"analyzing decades of historical fractals, liquidity shifts, and systemic data... map out the overarching market cycle before the crowd catches on\" — market intelligence product, description is persona-marketing heavy hence medium confidence.",
+  "sibling": null
+ },
+ "silentis": {
+  "labels": ["out-of-scope"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"Silentis is a privacy-focused offline AI software built on the Llama 3.2 4B model\" — ordinary offline AI product with a token, no Web3 integration anywhere in the description.",
+  "sibling": null
+ },
+ "ainl": {
+  "labels": ["builder"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"AI Native Lang (AINL) is a deterministic AI workflow language that compiles agent logic into executable graph-based programs\" — a framework/SDK for producing agent programs.",
+  "sibling": null
+ },
+ "quanthood": {
+  "labels": ["analytics"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"Scan any token for rug risk with a real on-chain holder X-ray... a free AI hub\" — risk-scoring product, but AI content is thin (\"AI hub\" is undetailed) hence low confidence.",
+  "sibling": null
+ },
+ "delphic-arena": {
+  "labels": ["trust"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"Persistent identity A durable record for ownership, public keys, metadata, and reputation. identity.registry\" — identity/reputation registry; the CG label AI Agent Launchpad does not match this content (no token-launch function described), so read rather than rule.",
+  "sibling": null
+ },
+ "kigu": {
+  "labels": ["content-creation"],
+  "facet": null,
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"original video generation through his Autonomous Creator Engine (ACE), Kigu delivers unmatched entertainment... multimedia, synthetic personality built to reach scaled audiences\" — agent whose output is media/social content.",
+  "sibling": null
+ }
+}

@@ -1,0 +1,1626 @@
+{
+ "nActCount": {
+  "tex": "331",
+  "value": 331
+ },
+ "nActCreativeCount": {
+  "tex": "28",
+  "value": 28
+ },
+ "nActCreativeRate": {
+  "tex": "46\\%",
+  "value": 0.4642857142857143
+ },
+ "nActFinCount": {
+  "tex": "91",
+  "value": 91
+ },
+ "nActFinRate": {
+  "tex": "56\\%",
+  "value": 0.5604395604395604
+ },
+ "nActIncubCount": {
+  "tex": "78",
+  "value": 78
+ },
+ "nActIncubRate": {
+  "tex": "60\\%",
+  "value": 0.6025641025641025
+ },
+ "nActInfraCount": {
+  "tex": "165",
+  "value": 165
+ },
+ "nActInfraRate": {
+  "tex": "71\\%",
+  "value": 0.7090909090909091
+ },
+ "nAliveFloor": {
+  "tex": "\\$1 million",
+  "value": 1000000.0
+ },
+ "nClsAnalyticsCount": {
+  "tex": "107",
+  "value": 107
+ },
+ "nClsAnalyticsMcap": {
+  "tex": "\\$331 million",
+  "value": 330970659.1513369
+ },
+ "nClsAnalyticsMean": {
+  "tex": "\\$3.1 million",
+  "value": 3093183.730386326
+ },
+ "nClsAnalyticsShare": {
+  "tex": "2.1\\%",
+  "value": 0.02141156248668543
+ },
+ "nClsBuilderCount": {
+  "tex": "160",
+  "value": 160
+ },
+ "nClsBuilderMcap": {
+  "tex": "\\$1.90 billion",
+  "value": 1895008731.4663444
+ },
+ "nClsBuilderMean": {
+  "tex": "\\$11.8 million",
+  "value": 11843804.571664652
+ },
+ "nClsBuilderShare": {
+  "tex": "12.3\\%",
+  "value": 0.12259424436790661
+ },
+ "nClsChainArbitrumCount": {
+  "tex": "33",
+  "value": 33
+ },
+ "nClsChainArbitrumCountShare": {
+  "tex": "2.8\\%",
+  "value": 0.027966101694915254
+ },
+ "nClsChainArbitrumMcap": {
+  "tex": "\\$741 million",
+  "value": 740701422.4767888
+ },
+ "nClsChainArbitrumMean": {
+  "tex": "\\$22.4 million",
+  "value": 22445497.65081178
+ },
+ "nClsChainArbitrumShare": {
+  "tex": "4.8\\%",
+  "value": 0.047918370867088646
+ },
+ "nClsChainBNBCount": {
+  "tex": "136",
+  "value": 136
+ },
+ "nClsChainBNBCountShare": {
+  "tex": "11.5\\%",
+  "value": 0.1152542372881356
+ },
+ "nClsChainBNBMcap": {
+  "tex": "\\$2.70 billion",
+  "value": 2702599056.3946943
+ },
+ "nClsChainBNBMean": {
+  "tex": "\\$19.9 million",
+  "value": 19872051.885255106
+ },
+ "nClsChainBNBShare": {
+  "tex": "17.5\\%",
+  "value": 0.17483987469110474
+ },
+ "nClsChainBaseCount": {
+  "tex": "326",
+  "value": 326
+ },
+ "nClsChainBaseCountShare": {
+  "tex": "27.6\\%",
+  "value": 0.27627118644067794
+ },
+ "nClsChainBaseMcap": {
+  "tex": "\\$6.76 billion",
+  "value": 6756707168.887344
+ },
+ "nClsChainBaseMean": {
+  "tex": "\\$20.7 million",
+  "value": 20726095.610083878
+ },
+ "nClsChainBaseShare": {
+  "tex": "43.7\\%",
+  "value": 0.43711324176538385
+ },
+ "nClsChainBittensorCount": {
+  "tex": "63",
+  "value": 63
+ },
+ "nClsChainBittensorCountShare": {
+  "tex": "5.3\\%",
+  "value": 0.053389830508474574
+ },
+ "nClsChainBittensorMcap": {
+  "tex": "\\$737 million",
+  "value": 736974306.9673709
+ },
+ "nClsChainBittensorMean": {
+  "tex": "\\$11.7 million",
+  "value": 11698004.87249795
+ },
+ "nClsChainBittensorShare": {
+  "tex": "4.8\\%",
+  "value": 0.04767725170918617
+ },
+ "nClsChainEthereumCount": {
+  "tex": "198",
+  "value": 198
+ },
+ "nClsChainEthereumCountShare": {
+  "tex": "16.8\\%",
+  "value": 0.16779661016949152
+ },
+ "nClsChainEthereumMcap": {
+  "tex": "\\$5.87 billion",
+  "value": 5866037317.745019
+ },
+ "nClsChainEthereumMean": {
+  "tex": "\\$29.6 million",
+  "value": 29626451.09972232
+ },
+ "nClsChainEthereumShare": {
+  "tex": "37.9\\%",
+  "value": 0.37949292816525704
+ },
+ "nClsChainPolygonCount": {
+  "tex": "21",
+  "value": 21
+ },
+ "nClsChainPolygonCountShare": {
+  "tex": "1.8\\%",
+  "value": 0.017796610169491526
+ },
+ "nClsChainPolygonMcap": {
+  "tex": "\\$378 million",
+  "value": 378384368.56476897
+ },
+ "nClsChainPolygonMean": {
+  "tex": "\\$18.0 million",
+  "value": 18018303.264989
+ },
+ "nClsChainPolygonShare": {
+  "tex": "2.4\\%",
+  "value": 0.024478908711376132
+ },
+ "nClsChainRobinhoodCount": {
+  "tex": "34",
+  "value": 34
+ },
+ "nClsChainRobinhoodCountShare": {
+  "tex": "2.9\\%",
+  "value": 0.0288135593220339
+ },
+ "nClsChainRobinhoodMcap": {
+  "tex": "\\$2.74 billion",
+  "value": 2735777523.7488656
+ },
+ "nClsChainRobinhoodMean": {
+  "tex": "\\$80.5 million",
+  "value": 80464044.81614311
+ },
+ "nClsChainRobinhoodShare": {
+  "tex": "17.7\\%",
+  "value": 0.17698629706216287
+ },
+ "nClsChainSolanaCount": {
+  "tex": "249",
+  "value": 249
+ },
+ "nClsChainSolanaCountShare": {
+  "tex": "21.1\\%",
+  "value": 0.21101694915254238
+ },
+ "nClsChainSolanaMcap": {
+  "tex": "\\$2.21 billion",
+  "value": 2208431816.4611044
+ },
+ "nClsChainSolanaMean": {
+  "tex": "\\$8.9 million",
+  "value": 8869204.08217311
+ },
+ "nClsChainSolanaShare": {
+  "tex": "14.3\\%",
+  "value": 0.1428705975236299
+ },
+ "nClsChains": {
+  "tex": "56",
+  "value": 56
+ },
+ "nClsConfHigh": {
+  "tex": "469",
+  "value": 469
+ },
+ "nClsConfLow": {
+  "tex": "110",
+  "value": 110
+ },
+ "nClsConfMedium": {
+  "tex": "276",
+  "value": 276
+ },
+ "nClsContentCount": {
+  "tex": "68",
+  "value": 68
+ },
+ "nClsContentMcap": {
+  "tex": "\\$254 million",
+  "value": 253623623.60830438
+ },
+ "nClsContentMean": {
+  "tex": "\\$3.7 million",
+  "value": 3729759.170710359
+ },
+ "nClsContentShare": {
+  "tex": "1.6\\%",
+  "value": 0.016407732573375033
+ },
+ "nClsCopilotCount": {
+  "tex": "27",
+  "value": 27
+ },
+ "nClsCopilotMcap": {
+  "tex": "\\$30.8 million",
+  "value": 30756721.161038753
+ },
+ "nClsCopilotMean": {
+  "tex": "\\$1.1 million",
+  "value": 1139137.820779213
+ },
+ "nClsCopilotShare": {
+  "tex": "0.2\\%",
+  "value": 0.0019897517765283795
+ },
+ "nClsCount": {
+  "tex": "855",
+  "value": 855
+ },
+ "nClsCreativeCount": {
+  "tex": "137",
+  "value": 137
+ },
+ "nClsCreativeMcap": {
+  "tex": "\\$591 million",
+  "value": 591174152.4652566
+ },
+ "nClsCreativeMean": {
+  "tex": "\\$4.3 million",
+  "value": 4315139.799016471
+ },
+ "nClsCreativeShare": {
+  "tex": "3.8\\%",
+  "value": 0.03824496811433447
+ },
+ "nClsDeFAICount": {
+  "tex": "185",
+  "value": 185
+ },
+ "nClsDeFAIMcap": {
+  "tex": "\\$951 million",
+  "value": 950746223.776941
+ },
+ "nClsDeFAIMean": {
+  "tex": "\\$5.1 million",
+  "value": 5139168.777172654
+ },
+ "nClsDeFAIShare": {
+  "tex": "6.2\\%",
+  "value": 0.06150684846680601
+ },
+ "nClsDeployments": {
+  "tex": "1{,}180",
+  "value": 1180
+ },
+ "nClsFacetChainCount": {
+  "tex": "29",
+  "value": 29
+ },
+ "nClsFacetChainMcap": {
+  "tex": "\\$4.64 billion",
+  "value": 4635872928.639665
+ },
+ "nClsFacetChainMean": {
+  "tex": "\\$160 million",
+  "value": 159857687.19447118
+ },
+ "nClsFacetChainShare": {
+  "tex": "40.7\\%",
+  "value": 0.4073185198987721
+ },
+ "nClsFacetComputeCount": {
+  "tex": "89",
+  "value": 89
+ },
+ "nClsFacetComputeMcap": {
+  "tex": "\\$2.79 billion",
+  "value": 2787913358.7637086
+ },
+ "nClsFacetComputeMean": {
+  "tex": "\\$31.3 million",
+  "value": 31324869.199592233
+ },
+ "nClsFacetComputeShare": {
+  "tex": "24.5\\%",
+  "value": 0.24495251711544774
+ },
+ "nClsFacetDataCount": {
+  "tex": "67",
+  "value": 67
+ },
+ "nClsFacetDataMcap": {
+  "tex": "\\$1.19 billion",
+  "value": 1190733075.7487035
+ },
+ "nClsFacetDataMean": {
+  "tex": "\\$17.8 million",
+  "value": 17772135.45893587
+ },
+ "nClsFacetDataShare": {
+  "tex": "10.5\\%",
+  "value": 0.10462056261554897
+ },
+ "nClsFacetModelCount": {
+  "tex": "41",
+  "value": 41
+ },
+ "nClsFacetModelMcap": {
+  "tex": "\\$2.77 billion",
+  "value": 2766924647.2793307
+ },
+ "nClsFacetModelMean": {
+  "tex": "\\$67.5 million",
+  "value": 67485967.00681295
+ },
+ "nClsFacetModelShare": {
+  "tex": "24.3\\%",
+  "value": 0.24310840037023146
+ },
+ "nClsFinCount": {
+  "tex": "278",
+  "value": 278
+ },
+ "nClsFinCountShare": {
+  "tex": "29.8\\%",
+  "value": 0.2979635584137192
+ },
+ "nClsFinMcap": {
+  "tex": "\\$1.28 billion",
+  "value": 1278618625.7776043
+ },
+ "nClsFinMean": {
+  "tex": "\\$4.6 million",
+  "value": 4599347.574739584
+ },
+ "nClsFinShare": {
+  "tex": "8.3\\%",
+  "value": 0.08271797467689952
+ },
+ "nClsGameCount": {
+  "tex": "64",
+  "value": 64
+ },
+ "nClsGameMcap": {
+  "tex": "\\$499 million",
+  "value": 499166684.6991917
+ },
+ "nClsGameMean": {
+  "tex": "\\$7.8 million",
+  "value": 7799479.44842487
+ },
+ "nClsGameShare": {
+  "tex": "3.2\\%",
+  "value": 0.032292707420391815
+ },
+ "nClsIncubCount": {
+  "tex": "213",
+  "value": 213
+ },
+ "nClsIncubMcap": {
+  "tex": "\\$2.44 billion",
+  "value": 2444819476.69687
+ },
+ "nClsIncubMean": {
+  "tex": "\\$11.5 million",
+  "value": 11478025.712191878
+ },
+ "nClsIncubShare": {
+  "tex": "15.8\\%",
+  "value": 0.1581632798755876
+ },
+ "nClsInfraCount": {
+  "tex": "305",
+  "value": 305
+ },
+ "nClsInfraMcap": {
+  "tex": "\\$11.74 billion",
+  "value": 11735798482.67439
+ },
+ "nClsInfraMean": {
+  "tex": "\\$38.5 million",
+  "value": 38478027.81204718
+ },
+ "nClsInfraShare": {
+  "tex": "75.9\\%",
+  "value": 0.7592267640498965
+ },
+ "nClsLaunchpadCount": {
+  "tex": "69",
+  "value": 69
+ },
+ "nClsLaunchpadMcap": {
+  "tex": "\\$1.19 billion",
+  "value": 1187313255.5848954
+ },
+ "nClsLaunchpadMean": {
+  "tex": "\\$17.2 million",
+  "value": 17207438.486737613
+ },
+ "nClsLaunchpadShare": {
+  "tex": "7.7\\%",
+  "value": 0.07681113494595766
+ },
+ "nClsListed": {
+  "tex": "840",
+  "value": 840
+ },
+ "nClsListedShare": {
+  "tex": "98.2\\%",
+  "value": 0.9824561403508771
+ },
+ "nClsMcap": {
+  "tex": "\\$15.46 billion",
+  "value": 15457566880.378195
+ },
+ "nClsMean": {
+  "tex": "\\$18.1 million",
+  "value": 18079025.59108561
+ },
+ "nClsMulti": {
+  "tex": "120",
+  "value": 120
+ },
+ "nClsMultiMcap": {
+  "tex": "\\$1.49 billion",
+  "value": 1488090559.6251895
+ },
+ "nClsMultiMcapShare": {
+  "tex": "9.6\\%",
+  "value": 0.0962693916281332
+ },
+ "nClsMultiShare": {
+  "tex": "14.0\\%",
+  "value": 0.14035087719298245
+ },
+ "nClsMultichain": {
+  "tex": "187",
+  "value": 187
+ },
+ "nClsMultichainShare": {
+  "tex": "22.3\\%",
+  "value": 0.2226190476190476
+ },
+ "nClsOutOfScope": {
+  "tex": "87",
+  "value": 87
+ },
+ "nClsPairFour": {
+  "tex": "14",
+  "value": 14
+ },
+ "nClsPairFourName": {
+  "tex": "\\textit{Analytics} with \\textit{DeFAI}",
+  "value": "analytics+defai"
+ },
+ "nClsPairOne": {
+  "tex": "18",
+  "value": 18
+ },
+ "nClsPairOneName": {
+  "tex": "\\textit{Protocol} with \\textit{Trust}",
+  "value": "infrastructure+trust"
+ },
+ "nClsPairThree": {
+  "tex": "15",
+  "value": 15
+ },
+ "nClsPairThreeName": {
+  "tex": "\\textit{Builder} with \\textit{DeFAI}",
+  "value": "builder+defai"
+ },
+ "nClsPairTwo": {
+  "tex": "16",
+  "value": 16
+ },
+ "nClsPairTwoName": {
+  "tex": "\\textit{Builder} with \\textit{Launchpad}",
+  "value": "builder+launchpad"
+ },
+ "nClsProtocolCount": {
+  "tex": "226",
+  "value": 226
+ },
+ "nClsProtocolMcap": {
+  "tex": "\\$11.38 billion",
+  "value": 11381444010.431404
+ },
+ "nClsProtocolMean": {
+  "tex": "\\$50.4 million",
+  "value": 50360371.72757258
+ },
+ "nClsProtocolShare": {
+  "tex": "73.6\\%",
+  "value": 0.7363024270578435
+ },
+ "nClsRWACount": {
+  "tex": "8",
+  "value": 8
+ },
+ "nClsRWAMcap": {
+  "tex": "\\$166 million",
+  "value": 166250361.7703469
+ },
+ "nClsRWAMean": {
+  "tex": "\\$20.8 million",
+  "value": 20781295.221293364
+ },
+ "nClsRWAShare": {
+  "tex": "1.1\\%",
+  "value": 0.010755273650563
+ },
+ "nClsRead": {
+  "tex": "537",
+  "value": 537
+ },
+ "nClsRule": {
+  "tex": "318",
+  "value": 318
+ },
+ "nClsTrustCount": {
+  "tex": "70",
+  "value": 70
+ },
+ "nClsTrustMcap": {
+  "tex": "\\$463 million",
+  "value": 463226400.4930602
+ },
+ "nClsTrustMean": {
+  "tex": "\\$6.6 million",
+  "value": 6617520.0070437165
+ },
+ "nClsTrustShare": {
+  "tex": "3.0\\%",
+  "value": 0.029967614183903604
+ },
+ "nClsUnclassifiable": {
+  "tex": "37",
+  "value": 37
+ },
+ "nCohBottomShare": {
+  "tex": "19.9\\%",
+  "value": 0.19920000000000004
+ },
+ "nCohChange": {
+  "tex": "36.4\\%",
+  "value": -0.3637
+ },
+ "nCohCount": {
+  "tex": "275",
+  "value": 275
+ },
+ "nCohExit": {
+  "tex": "80",
+  "value": 80
+ },
+ "nCohExitValue": {
+  "tex": "\\$236 million",
+  "value": 236460947.92450333
+ },
+ "nCohGiniOne": {
+  "tex": "0.887",
+  "value": 0.8871
+ },
+ "nCohGiniTwo": {
+  "tex": "0.924",
+  "value": 0.9236
+ },
+ "nCohMcapOne": {
+  "tex": "\\$18.05 billion",
+  "value": 18045800301.186005
+ },
+ "nCohMcapTwo": {
+  "tex": "\\$11.48 billion",
+  "value": 11482388417.90361
+ },
+ "nCohMedianOne": {
+  "tex": "\\$5.2 million",
+  "value": 5166600.253574897
+ },
+ "nCohSurvival": {
+  "tex": "70.9\\%",
+  "value": 0.7091
+ },
+ "nCohSurvived": {
+  "tex": "195",
+  "value": 195
+ },
+ "nCohSurvivorChange": {
+  "tex": "35.5\\%",
+  "value": -0.3553
+ },
+ "nCohTopDecileOne": {
+  "tex": "80.1\\%",
+  "value": 0.8008
+ },
+ "nCohTopDecileTwo": {
+  "tex": "90.3\\%",
+  "value": 0.9029
+ },
+ "nDateOne": {
+  "tex": "6 April 2025",
+  "value": "2025-04-06"
+ },
+ "nDateTwo": {
+  "tex": "1 September 2026",
+  "value": "2026-09-01"
+ },
+ "nErcAvalancheRatio": {
+  "tex": "33.5",
+  "value": 33.46296296296296
+ },
+ "nErcAvalancheRegistrants": {
+  "tex": "54",
+  "value": 54
+ },
+ "nErcAvalancheRegistrations": {
+  "tex": "1{,}807",
+  "value": 1807
+ },
+ "nErcBNBRatio": {
+  "tex": "1.2",
+  "value": 1.2249081649218316
+ },
+ "nErcBNBRegistrants": {
+  "tex": "264{,}877",
+  "value": 264877
+ },
+ "nErcBNBRegistrations": {
+  "tex": "324{,}450",
+  "value": 324450
+ },
+ "nErcBaseRatio": {
+  "tex": "3.0",
+  "value": 3.022412953037742
+ },
+ "nErcBaseRegistrants": {
+  "tex": "26{,}681",
+  "value": 26681
+ },
+ "nErcBaseRegistrations": {
+  "tex": "80{,}641",
+  "value": 80641
+ },
+ "nErcCeloRatio": {
+  "tex": "13.5",
+  "value": 13.462912087912088
+ },
+ "nErcCeloRegistrants": {
+  "tex": "728",
+  "value": 728
+ },
+ "nErcCeloRegistrations": {
+  "tex": "9{,}801",
+  "value": 9801
+ },
+ "nErcChains": {
+  "tex": "16",
+  "value": 16
+ },
+ "nErcEthereumRatio": {
+  "tex": "4.5",
+  "value": 4.476186268445701
+ },
+ "nErcEthereumRegistrants": {
+  "tex": "11{,}317",
+  "value": 11317
+ },
+ "nErcEthereumRegistrations": {
+  "tex": "50{,}657",
+  "value": 50657
+ },
+ "nErcGnosisRatio": {
+  "tex": "12.3",
+  "value": 12.301492537313433
+ },
+ "nErcGnosisRegistrants": {
+  "tex": "335",
+  "value": 335
+ },
+ "nErcGnosisRegistrations": {
+  "tex": "4{,}121",
+  "value": 4121
+ },
+ "nErcMonadRatio": {
+  "tex": "1.2",
+  "value": 1.1926348910383404
+ },
+ "nErcMonadRegistrants": {
+  "tex": "8{,}581",
+  "value": 8581
+ },
+ "nErcMonadRegistrations": {
+  "tex": "10{,}234",
+  "value": 10234
+ },
+ "nErcRegistrants": {
+  "tex": "321{,}100",
+  "value": 321100
+ },
+ "nErcRegistrations": {
+  "tex": "530{,}266",
+  "value": 530266
+ },
+ "nErcRepBNBCalls": {
+  "tex": "29{,}626",
+  "value": 29626
+ },
+ "nErcRepBNBSenders": {
+  "tex": "108",
+  "value": 108
+ },
+ "nErcRepBaseCalls": {
+  "tex": "458{,}700",
+  "value": 458700
+ },
+ "nErcRepBaseMultiple": {
+  "tex": "5.7",
+  "value": 5.688173509753104
+ },
+ "nErcRepBaseSenders": {
+  "tex": "13{,}378",
+  "value": 13378
+ },
+ "nErcRepCalls": {
+  "tex": "505{,}567",
+  "value": 505567
+ },
+ "nErcRepGnosisCalls": {
+  "tex": "4{,}341",
+  "value": 4341
+ },
+ "nErcRepGnosisSenders": {
+  "tex": "1",
+  "value": 1
+ },
+ "nErcRepSenderShare": {
+  "tex": "7\\%",
+  "value": 0.06811585175957646
+ },
+ "nErcRepSenders": {
+  "tex": "21{,}872",
+  "value": 21872
+ },
+ "nErcTail": {
+  "tex": "74{,}518",
+  "value": 74518
+ },
+ "nErcTailChains": {
+  "tex": "thirteen",
+  "value": 13
+ },
+ "nErcTopChain": {
+  "tex": "BNB Chain",
+  "value": "bnb"
+ },
+ "nErcTopRegistrations": {
+  "tex": "324{,}450",
+  "value": 324450
+ },
+ "nGovActorCount": {
+  "tex": "10",
+  "value": 10
+ },
+ "nGovActorLargest": {
+  "tex": "Internet Computer",
+  "value": "Internet Computer"
+ },
+ "nGovActorMcap": {
+  "tex": "\\$1.39 billion",
+  "value": 1385007471.7504127
+ },
+ "nGovActorMcapExLargest": {
+  "tex": "\\$50.0 million",
+  "value": 49952159.510857105
+ },
+ "nGovActorShare": {
+  "tex": "9.0\\%",
+  "value": 0.08960061324454228
+ },
+ "nGovDescribed": {
+  "tex": "750",
+  "value": 750
+ },
+ "nGovSubjectCount": {
+  "tex": "11",
+  "value": 11
+ },
+ "nGovSubjectMcap": {
+  "tex": "\\$166 million",
+  "value": 166051054.59350723
+ },
+ "nGovSubjectShare": {
+  "tex": "1.1\\%",
+  "value": 0.010742379824621177
+ },
+ "nGovUtilityCount": {
+  "tex": "23",
+  "value": 23
+ },
+ "nGovUtilityMcap": {
+  "tex": "\\$708 million",
+  "value": 708093396.8829969
+ },
+ "nGovUtilityShare": {
+  "tex": "4.6\\%",
+  "value": 0.04580885221864052
+ },
+ "nGovVocabulary": {
+  "tex": "91",
+  "value": 91
+ },
+ "nGovVocabularyShare": {
+  "tex": "12.1\\%",
+  "value": 0.12133333333333333
+ },
+ "nGovWithAgent": {
+  "tex": "44",
+  "value": 44
+ },
+ "nPanAliveContent": {
+  "tex": "43\\%",
+  "value": 0.42857142857142855
+ },
+ "nPanAliveDeFAI": {
+  "tex": "71\\%",
+  "value": 0.7142857142857143
+ },
+ "nPanAliveGame": {
+  "tex": "27\\%",
+  "value": 0.2727272727272727
+ },
+ "nPanAliveLaunchpad": {
+  "tex": "70\\%",
+  "value": 0.7
+ },
+ "nPanAliveProtocol": {
+  "tex": "76\\%",
+  "value": 0.7647058823529411
+ },
+ "nPanAliveTrust": {
+  "tex": "100\\%",
+  "value": 1.0
+ },
+ "nPanCapitalised": {
+  "tex": "77",
+  "value": 77
+ },
+ "nPanCoded": {
+  "tex": "75",
+  "value": 75
+ },
+ "nPanCodedMcap": {
+  "tex": "\\$6.92 billion",
+  "value": 6916513559.64
+ },
+ "nPanCount": {
+  "tex": "133",
+  "value": 133
+ },
+ "nPanCreativeCount": {
+  "tex": "20",
+  "value": 20
+ },
+ "nPanCreativeMcap": {
+  "tex": "\\$1.61 billion",
+  "value": 1606724317.2899995
+ },
+ "nPanCreativeMean": {
+  "tex": "\\$80.3 million",
+  "value": 80336215.86449997
+ },
+ "nPanCreativeShare": {
+  "tex": "23.2\\%",
+  "value": 0.23230263389718972
+ },
+ "nPanExOutlier": {
+  "tex": "38\\%",
+  "value": 0.3768223818771623
+ },
+ "nPanFinCount": {
+  "tex": "17",
+  "value": 17
+ },
+ "nPanFinCountShare": {
+  "tex": "18.9\\%",
+  "value": 0.18888888888888888
+ },
+ "nPanFinMcap": {
+  "tex": "\\$1.13 billion",
+  "value": 1134095119.9100003
+ },
+ "nPanFinMean": {
+  "tex": "\\$66.7 million",
+  "value": 66711477.64176472
+ },
+ "nPanFinShare": {
+  "tex": "16.4\\%",
+  "value": 0.1639691891197607
+ },
+ "nPanGone": {
+  "tex": "6",
+  "value": 6
+ },
+ "nPanGoneShare": {
+  "tex": "8\\%",
+  "value": 0.07792207792207792
+ },
+ "nPanGrew": {
+  "tex": "six",
+  "value": 6
+ },
+ "nPanHoldingOneName": {
+  "tex": "NEAR Protocol",
+  "value": "NEAR Protocol"
+ },
+ "nPanHoldingOneRetained": {
+  "tex": "1.03$\\times$",
+  "value": 1.0264194021629367
+ },
+ "nPanHoldingTwoName": {
+  "tex": "Venice.ai",
+  "value": "Venice.ai"
+ },
+ "nPanHoldingTwoRetained": {
+  "tex": "12.51$\\times$",
+  "value": 12.508486515109265
+ },
+ "nPanHoldingsShare": {
+  "tex": "70.5\\%",
+  "value": 0.7051823811322846
+ },
+ "nPanIncubCount": {
+  "tex": "26",
+  "value": 26
+ },
+ "nPanIncubMcap": {
+  "tex": "\\$2.47 billion",
+  "value": 2474305925.0499997
+ },
+ "nPanIncubMean": {
+  "tex": "\\$95.2 million",
+  "value": 95165612.50192307
+ },
+ "nPanIncubShare": {
+  "tex": "35.8\\%",
+  "value": 0.3577388960080034
+ },
+ "nPanInfraCount": {
+  "tex": "27",
+  "value": 27
+ },
+ "nPanInfraMcap": {
+  "tex": "\\$4.69 billion",
+  "value": 4692562410.67
+ },
+ "nPanInfraMean": {
+  "tex": "\\$174 million",
+  "value": 173798607.8025926
+ },
+ "nPanInfraShare": {
+  "tex": "67.8\\%",
+  "value": 0.6784577764804157
+ },
+ "nPanKept": {
+  "tex": "65",
+  "value": 65
+ },
+ "nPanKeptMcapOne": {
+  "tex": "\\$6.17 billion",
+  "value": 6170410753.08
+ },
+ "nPanKeptMcapTwo": {
+  "tex": "\\$4.69 billion",
+  "value": 4685249054.162023
+ },
+ "nPanKeptMedian": {
+  "tex": "21.8\\%",
+  "value": 0.21849613700858977
+ },
+ "nPanKeptPriced": {
+  "tex": "59",
+  "value": 59
+ },
+ "nPanKeptRetained": {
+  "tex": "76\\%",
+  "value": 0.7593091030160919
+ },
+ "nPanKeptShare": {
+  "tex": "84\\%",
+  "value": 0.8441558441558441
+ },
+ "nPanKeptUncapitalised": {
+  "tex": "six",
+  "value": 6
+ },
+ "nPanLeft": {
+  "tex": "6",
+  "value": 6
+ },
+ "nPanLeftShare": {
+  "tex": "8\\%",
+  "value": 0.07792207792207792
+ },
+ "nPanListed": {
+  "tex": "65",
+  "value": 65
+ },
+ "nPanLostNinety": {
+  "tex": "seventeen",
+  "value": 17
+ },
+ "nPanLostNinetyNine": {
+  "tex": "four",
+  "value": 4
+ },
+ "nPanMatched": {
+  "tex": "59",
+  "value": 59
+ },
+ "nPanMcapOne": {
+  "tex": "\\$6.92 billion",
+  "value": 6919819689.35
+ },
+ "nPanMcapTwo": {
+  "tex": "\\$4.69 billion",
+  "value": 4685249054.162023
+ },
+ "nPanMedianContent": {
+  "tex": "20\\%",
+  "value": 0.19775564389337252
+ },
+ "nPanMedianDeFAI": {
+  "tex": "9\\%",
+  "value": 0.08524813691054353
+ },
+ "nPanMedianGame": {
+  "tex": "19\\%",
+  "value": 0.1896025839064785
+ },
+ "nPanMedianLaunchpad": {
+  "tex": "29\\%",
+  "value": 0.28920801084597875
+ },
+ "nPanMedianProtocol": {
+  "tex": "25\\%",
+  "value": 0.24639308497793572
+ },
+ "nPanMedianTrust": {
+  "tex": "53\\%",
+  "value": 0.5348765221155171
+ },
+ "nPanRetention": {
+  "tex": "76.6\\%",
+  "value": 0.7662337662337663
+ },
+ "nPanStillTradedShare": {
+  "tex": "92\\%",
+  "value": 0.922077922077922
+ },
+ "nPanTopOne": {
+  "tex": "12.78$\\times$",
+  "value": 12.775522738236722
+ },
+ "nPanTopOneName": {
+  "tex": "Theoriq",
+  "value": "theoriq"
+ },
+ "nPanTopTwo": {
+  "tex": "12.51$\\times$",
+  "value": 12.508486515109265
+ },
+ "nPanTopTwoName": {
+  "tex": "Venice.ai",
+  "value": "Venice.ai"
+ },
+ "nPopAboveHundredMCount": {
+  "tex": "25",
+  "value": 25
+ },
+ "nPopAboveHundredMShare": {
+  "tex": "2.6\\%",
+  "value": 0.02553626149131767
+ },
+ "nPopBottomShare": {
+  "tex": "8.9\\%",
+  "value": 0.08930331461702246
+ },
+ "nPopCount": {
+  "tex": "979",
+  "value": 979
+ },
+ "nPopGini": {
+  "tex": "0.938",
+  "value": 0.9382257135329386
+ },
+ "nPopHundredKToMCount": {
+  "tex": "268",
+  "value": 268
+ },
+ "nPopHundredKToMShare": {
+  "tex": "27.4\\%",
+  "value": 0.27374872318692545
+ },
+ "nPopMToTenMCount": {
+  "tex": "189",
+  "value": 189
+ },
+ "nPopMToTenMShare": {
+  "tex": "19.3\\%",
+  "value": 0.1930541368743616
+ },
+ "nPopMcap": {
+  "tex": "\\$16.03 billion",
+  "value": 16029443490.20755
+ },
+ "nPopMean": {
+  "tex": "\\$16.4 million",
+  "value": 16373282.421049591
+ },
+ "nPopMedian": {
+  "tex": "\\$234{,}397",
+  "value": 234397.40940906838
+ },
+ "nPopSubHundredKCount": {
+  "tex": "384",
+  "value": 384
+ },
+ "nPopSubHundredKShare": {
+  "tex": "39.2\\%",
+  "value": 0.3922369765066394
+ },
+ "nPopTenMToHundredMCount": {
+  "tex": "113",
+  "value": 113
+ },
+ "nPopTenMToHundredMShare": {
+  "tex": "11.5\\%",
+  "value": 0.11542390194075587
+ },
+ "nPopTopDecileCount": {
+  "tex": "98",
+  "value": 98
+ },
+ "nPopTopDecileShare": {
+  "tex": "91.1\\%",
+  "value": 0.9106966853829775
+ },
+ "nPopTopPctCount": {
+  "tex": "10",
+  "value": 10
+ },
+ "nPopTopPctShare": {
+  "tex": "57.8\\%",
+  "value": 0.5776761349540401
+ },
+ "nPopTopTwentiethCount": {
+  "tex": "49",
+  "value": 49
+ },
+ "nPopTopTwentiethShare": {
+  "tex": "82.7\\%",
+  "value": 0.8273107665918916
+ },
+ "nRepActive": {
+  "tex": "493",
+  "value": 493
+ },
+ "nRepAlive": {
+  "tex": "327",
+  "value": 327
+ },
+ "nRepBoth": {
+  "tex": "364",
+  "value": 364
+ },
+ "nRepCount": {
+  "tex": "1{,}420",
+  "value": 1420
+ },
+ "nRepGroups": {
+  "tex": "456",
+  "value": 456
+ },
+ "nRepKwBoth": {
+  "tex": "three",
+  "value": 3
+ },
+ "nRepKwLegacy": {
+  "tex": "82",
+  "value": 82
+ },
+ "nRepKwStandards": {
+  "tex": "475",
+  "value": 475
+ },
+ "nRepLargestGroup": {
+  "tex": "eight",
+  "value": 8
+ },
+ "nRepLiveBoth": {
+  "tex": "120",
+  "value": 120
+ },
+ "nRepLiveCodeOnly": {
+  "tex": "107",
+  "value": 107
+ },
+ "nRepLiveNeither": {
+  "tex": "87",
+  "value": 87
+ },
+ "nRepLiveShare": {
+  "tex": "33\\%",
+  "value": 0.32967032967032966
+ },
+ "nRepLiveTokenOnly": {
+  "tex": "50",
+  "value": 50
+ },
+ "nRepPool": {
+  "tex": "560",
+  "value": 560
+ },
+ "nRepRepo": {
+  "tex": "805",
+  "value": 805
+ },
+ "nRepRepoOnly": {
+  "tex": "441",
+  "value": 441
+ },
+ "nRepRepoOnlyActive": {
+  "tex": "266",
+  "value": 266
+ },
+ "nRepSingleShare": {
+  "tex": "88\\%",
+  "value": 0.881578947368421
+ },
+ "nRepToken": {
+  "tex": "979",
+  "value": 979
+ },
+ "nRepTokenOnly": {
+  "tex": "615",
+  "value": 615
+ },
+ "nScrCapitalised": {
+  "tex": "1{,}292",
+  "value": 1292
+ },
+ "nScrDerivative": {
+  "tex": "3",
+  "value": 3
+ },
+ "nScrDerivativeValue": {
+  "tex": "\\$1.64 billion",
+  "value": 1639079144.6501997
+ },
+ "nScrDuplicate": {
+  "tex": "12",
+  "value": 12
+ },
+ "nScrDuplicateGroups": {
+  "tex": "13",
+  "value": 13
+ },
+ "nScrFrame": {
+  "tex": "1{,}837",
+  "value": 1837
+ },
+ "nScrMechanical": {
+  "tex": "1{,}061",
+  "value": 1061
+ },
+ "nScrMechanicalMcap": {
+  "tex": "\\$16.26 billion",
+  "value": 16259829582.892866
+ },
+ "nScrMeme": {
+  "tex": "216",
+  "value": 216
+ },
+ "nScrMemeValue": {
+  "tex": "\\$497 million",
+  "value": 496521790.3367889
+ },
+ "nScrNoDescription": {
+  "tex": "82",
+  "value": 82
+ },
+ "nScrNoDescriptionShare": {
+  "tex": "1.4\\%",
+  "value": 0.014169034891221054
+ },
+ "nScrNoDescriptionValue": {
+  "tex": "\\$230 million",
+  "value": 230386092.6853173
+ },
+ "nScrNotCapitalised": {
+  "tex": "545",
+  "value": 545
+ },
+ "nStaleDays": {
+  "tex": "180",
+  "value": 180
+ },
+ "nStdAaRepos": {
+  "tex": "2",
+  "value": 2
+ },
+ "nStdAptwoRepos": {
+  "tex": "15",
+  "value": 15
+ },
+ "nStdAtwoARepos": {
+  "tex": "116",
+  "value": 116
+ },
+ "nStdErcRepos": {
+  "tex": "47",
+  "value": 47
+ },
+ "nStdMcpRepos": {
+  "tex": "103",
+  "value": 103
+ },
+ "nStdPool": {
+  "tex": "560",
+  "value": 560
+ },
+ "nStdXFourRepos": {
+  "tex": "281",
+  "value": 281
+ },
+ "nTrendFirst": {
+  "tex": "2025-03",
+  "value": "2025-03"
+ },
+ "nTrendLast": {
+  "tex": "2026-08",
+  "value": "2026-08"
+ },
+ "nTrendLiveOne": {
+  "tex": "387",
+  "value": 387
+ },
+ "nTrendLiveTwo": {
+  "tex": "854",
+  "value": 854
+ },
+ "nTrendMcapOne": {
+  "tex": "\\$23.12 billion",
+  "value": 23116587788.502148
+ },
+ "nTrendMcapTwo": {
+  "tex": "\\$15.19 billion",
+  "value": 15185833185.655382
+ },
+ "nTrendSpan": {
+  "tex": "eighteen months",
+  "value": 18
+ },
+ "nTrendTracked": {
+  "tex": "855",
+  "value": 855
+ },
+ "nWindow": {
+  "tex": "seventeen months",
+  "value": 17
+ },
+ "nXFourAsset": {
+  "tex": "USDC",
+  "value": "USDC"
+ },
+ "nXFourBurstAddresses": {
+  "tex": "1{,}473",
+  "value": 1473
+ },
+ "nXFourBurstDate": {
+  "tex": "4 December 2025",
+  "value": "2025-12-04"
+ },
+ "nXFourBurstForwarded": {
+  "tex": "\\$43{,}586",
+  "value": 43586
+ },
+ "nXFourBurstForwardedShare": {
+  "tex": "42\\%",
+  "value": 0.420361279620396
+ },
+ "nXFourBurstRelays": {
+  "tex": "622",
+  "value": 622
+ },
+ "nXFourBurstSeed": {
+  "tex": "\\$9{,}997",
+  "value": 9997
+ },
+ "nXFourBurstSettlements": {
+  "tex": "2{,}544",
+  "value": 2544
+ },
+ "nXFourBurstUniform": {
+  "tex": "763",
+  "value": 763
+ },
+ "nXFourBurstUniformValue": {
+  "tex": "\\$100.01",
+  "value": 100.01
+ },
+ "nXFourBurstValue": {
+  "tex": "\\$103{,}687",
+  "value": 103687
+ },
+ "nXFourChain": {
+  "tex": "Base",
+  "value": "Base"
+ },
+ "nXFourContract": {
+  "tex": "\\texttt{SettlementRouter}",
+  "value": "SettlementRouter"
+ },
+ "nXFourDecLargest": {
+  "tex": "\\$9{,}997",
+  "value": 9997.01
+ },
+ "nXFourDecMedian": {
+  "tex": "\\$8.63",
+  "value": 8.63
+ },
+ "nXFourDecMonth": {
+  "tex": "December 2025",
+  "value": "2025-12"
+ },
+ "nXFourDecSettlements": {
+  "tex": "3{,}198",
+  "value": 3198
+ },
+ "nXFourDecValue": {
+  "tex": "\\$108.7k",
+  "value": 108676.05
+ },
+ "nXFourDeclineShare": {
+  "tex": "0.5\\%",
+  "value": 0.004573132637506351
+ },
+ "nXFourFirstMonth": {
+  "tex": "November 2025",
+  "value": "2025-11"
+ },
+ "nXFourLargest": {
+  "tex": "\\$9{,}997",
+  "value": 9997.01
+ },
+ "nXFourLastMonth": {
+  "tex": "August 2026",
+  "value": "2026-08"
+ },
+ "nXFourLastSettlements": {
+  "tex": "1{,}098",
+  "value": 1098
+ },
+ "nXFourMean": {
+  "tex": "\\$0.30",
+  "value": 0.3
+ },
+ "nXFourMedian": {
+  "tex": "\\$0.0012",
+  "value": 0.001171
+ },
+ "nXFourMonths": {
+  "tex": "10",
+  "value": 10
+ },
+ "nXFourPNinety": {
+  "tex": "\\$0.0057",
+  "value": 0.005724
+ },
+ "nXFourPNinetyNine": {
+  "tex": "\\$0.58",
+  "value": 0.5815
+ },
+ "nXFourPayees": {
+  "tex": "1{,}341",
+  "value": 1341
+ },
+ "nXFourPayeesHigh": {
+  "tex": "47",
+  "value": 47
+ },
+ "nXFourPayeesLow": {
+  "tex": "14",
+  "value": 14
+ },
+ "nXFourPayers": {
+  "tex": "7{,}079",
+  "value": 7079
+ },
+ "nXFourPayersHigh": {
+  "tex": "2{,}744",
+  "value": 2744
+ },
+ "nXFourPayersLow": {
+  "tex": "29",
+  "value": 29
+ },
+ "nXFourPeak": {
+  "tex": "240{,}098",
+  "value": 240098
+ },
+ "nXFourPeakLargest": {
+  "tex": "\\$0.10",
+  "value": 0.1
+ },
+ "nXFourPeakMedian": {
+  "tex": "\\$0.0012",
+  "value": 0.0012
+ },
+ "nXFourPeakMonth": {
+  "tex": "March 2026",
+  "value": "2026-03"
+ },
+ "nXFourPeakValue": {
+  "tex": "\\$326",
+  "value": 325.97
+ },
+ "nXFourSecondMonth": {
+  "tex": "May 2026",
+  "value": "2026-05"
+ },
+ "nXFourSecondSettlements": {
+  "tex": "20{,}576",
+  "value": 20576
+ },
+ "nXFourSecondValue": {
+  "tex": "\\$18.5k",
+  "value": 18457.97
+ },
+ "nXFourSettlements": {
+  "tex": "432{,}913",
+  "value": 432913
+ },
+ "nXFourSustainedFrom": {
+  "tex": "February 2026",
+  "value": "2026-02"
+ },
+ "nXFourUnderCentShare": {
+  "tex": "94.9\\%",
+  "value": 0.9487910965944658
+ },
+ "nXFourUnderDollarShare": {
+  "tex": "99.2\\%",
+  "value": 0.9924326596798895
+ },
+ "nXFourValue": {
+  "tex": "\\$130{,}171",
+  "value": 130170.98000000001
+ }
+}

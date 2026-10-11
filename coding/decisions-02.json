@@ -1,0 +1,434 @@
+{
+ "gaiai": {
+  "labels": [
+   "content-creation",
+   "trust"
+  ],
+  "confidence": "medium",
+  "why": "AI image generation (content) combined with \"blockchain-based rights attribution\" turning outputs into \"verifiable on-chain assets\" (provenance, hence trust)"
+ },
+ "sibyl": {
+  "labels": [
+   "defai",
+   "analytics"
+  ],
+  "confidence": "high",
+  "why": "\"acquires token stakes in projects\" (defai) after finding \"undervalued crypto projects\" and issuing \"weekly field reports\" (analytics)"
+ },
+ "pod-the-squire": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "medium",
+  "why": "description is a one-line slogan (\"For agents, by agents\") with no product statement"
+ },
+ "clawd-atg-eth": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "bepro-network": {
+  "labels": [
+   "builder"
+  ],
+  "confidence": "medium",
+  "why": "\"connects hackathons, developer tools, incubation programs\" under one framework so teams \"prototype, validate, and scale\"; an incubation platform, T1's Builder & Marketplace"
+ },
+ "kellyclaude": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "imgn-labs": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "the-cult-of-yots": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "description is a single line of lore with no product statement"
+ },
+ "kondux-v2": {
+  "labels": [
+   "game",
+   "content-creation"
+  ],
+  "confidence": "medium",
+  "why": "\"3D studio\" producing \"Metaverse NFT Assets\" and \"AR/VR/XR Environments, GameFi\" (game) through an NFT marketplace for created assets (content)"
+ },
+ "bitvault-signal": {
+  "labels": [
+   "analytics"
+  ],
+  "confidence": "high",
+  "why": "\"autonomous AI agent delivering Bitcoin and macro analysis\" whose output is timestamped, scored signals"
+ },
+ "miss-ai": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "\"a tokenized AI Influencer\" and beauty companion; an agent personality whose output is social content"
+ },
+ "toriva": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "autonomopoly": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "publicai": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "medium",
+  "why": "\"decentralized network of worldwide verified contributors\" supplying AI training data with stake-slashing quality control; a data resource layer. Sibling of Tagger and Reppo"
+ },
+ "sensay": {
+  "labels": [
+   "game"
+  ],
+  "confidence": "medium",
+  "why": "\"lifelike digital replicas\" of people that act as \"24/7 digital extensions\" \u2014 the digital-twin case, which T1 places under Game & Metaverse"
+ },
+ "opus-2": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "an AI persona and its lore (\"the Opus AI persona\", Goatse Singularity, Infinite Backrooms); the product is the character"
+ },
+ "fxn": {
+  "labels": [
+   "infrastructure",
+   "builder"
+  ],
+  "confidence": "medium",
+  "why": "\"providing the infrastructure for AI-to-AI interaction\" while \"creating early frameworks such as MCP, ICM\" for agent developers"
+ },
+ "turbousd-unstablecoin": {
+  "labels": [
+   "defai"
+  ],
+  "confidence": "low",
+  "why": "an \"Unstablecoin\" whose economic core is governed by \"an Artificial Monetary Intelligence\""
+ },
+ "mesh-gateway": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "high",
+  "why": "\"machine payments gateway\" implementing an HTTP 402 flow \"so that AI agents and automated software can pay for API calls\""
+ },
+ "ani-grok-companion": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "dexter-ai": {
+  "labels": [
+   "defai",
+   "infrastructure"
+  ],
+  "confidence": "high",
+  "why": "links an agent to Solana wallets to \"execute trades\" (defai) and runs \"its very own x402 Facilitator\", making it a provider of settlement services (infrastructure)"
+ },
+ "script-kiddies": {
+  "labels": [
+   "game",
+   "defai"
+  ],
+  "confidence": "medium",
+  "why": "an NFT collection of agent companions each \"bound to its own wallet\" (game) that \"researches, builds, remembers, and trades from its own address\" (defai)"
+ },
+ "vpay": {
+  "labels": [
+   "defai"
+  ],
+  "confidence": "medium",
+  "why": "\"AI-powered OmniBank\" for Web3-native finance with an assistant handling accounts, cards and spending automation"
+ },
+ "santa-by-virtuals": {
+  "labels": [
+   "builder"
+  ],
+  "confidence": "high",
+  "why": "\"modularizes diverse APIs into easily deployable plugins, connecting agents to Web2 services ... and Web3 protocols\"; tooling whose user builds an agent"
+ },
+ "neurahub": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "medium",
+  "why": "one generic sentence about generative AI with no product statement"
+ },
+ "mute-swap-by-virtuals": {
+  "labels": [
+   "defai"
+  ],
+  "confidence": "low",
+  "why": "no description; assigned from CoinGecko's functional labels `Dex Aggregator` and `Decentralized Finance (DeFi)` plus a name and Virtuals launch that identify it as a swap agent"
+ },
+ "chasm-ai": {
+  "labels": [
+   "builder",
+   "infrastructure"
+  ],
+  "confidence": "high",
+  "why": "Weave is \"an AI agent builder IDE\" (builder) deploying onto \"decentralized compute resources\" via the Chasm Protocol (infrastructure)"
+ },
+ "moltbook": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "argue-fun": {
+  "labels": [
+   "game"
+  ],
+  "confidence": "medium",
+  "why": "\"AI agents stake tokens and debate on behalf of human users\" \u2014 an agent competition with spectator betting"
+ },
+ "leek": {
+  "labels": [
+   "defai"
+  ],
+  "confidence": "low",
+  "why": "the described product is tokenomics (burn-and-earn); the agent content is \"Solana-focused bots and tools, such as the SOL Holder Bot and Solana Booster Bot\""
+ },
+ "zara-ai": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "an agent personality whose responses on X are voted on by the community; the output is social content"
+ },
+ "olyn-by-virtuals": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "saa-ai": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "medium",
+  "why": "NFT-based health records supplying \"anonymized patient-approved data\" to researchers; a data resource layer. Sibling of Galeon"
+ },
+ "fyni-ai": {
+  "labels": [
+   "analytics"
+  ],
+  "confidence": "high",
+  "why": "\"Hyper Personalized Financial AI Agent with a complete view of user portfolios across CeFi and DeFi\"; the product is financial context, not execution"
+ },
+ "qorechain": {
+  "labels": [
+   "infrastructure"
+  ],
+  "confidence": "medium",
+  "why": "post-quantum Layer 1 running EVM, CosmWasm and SVM against one state; a smart-contract platform, which T1 places under Agent Protocol & DePIN"
+ },
+ "qubecv-ai": {
+  "labels": [
+   "trust"
+  ],
+  "confidence": "medium",
+  "why": "\"CV authenticity verification\" and credential matching via AI agents; an attestation mechanism, T1's Trust Layer"
+ },
+ "chirper-ai": {
+  "labels": [
+   "infrastructure",
+   "builder"
+  ],
+  "confidence": "medium",
+  "why": "\"MCP infrastructure + A2A protocol\" for agent collaboration (infrastructure) on a platform where agents are created and run (builder)"
+ },
+ "yne": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "only1": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "medium",
+  "why": "creator NFT marketplace where fans \"earn crypto by interacting with these creators\"; a content monetization platform"
+ },
+ "the-upsider-ai": {
+  "labels": [
+   "game"
+  ],
+  "confidence": "medium",
+  "why": "an agent that \"runs 24/7, managing weekly challenges\" users try to win by persuasion \u2014 an agent competition"
+ },
+ "kairence": {
+  "labels": [
+   "launchpad",
+   "infrastructure"
+  ],
+  "confidence": "medium",
+  "why": "every agent is \"a token you can trade, a vault of inference ... and a machine that earns\" \u2014 agent tokenization and monetization (launchpad) backed by staked inference capacity (infrastructure)"
+ },
+ "beats-on-base": {
+  "labels": [
+   "content-creation"
+  ],
+  "confidence": "high",
+  "why": "\"an AI-powered character\" with music videos and \"user-generated AI content\" tools"
+ },
+ "juno-agent": {
+  "labels": [
+   "builder"
+  ],
+  "confidence": "low",
+  "why": "\"Institute for Zero-Human Companies\", a lab for building \"fully self-running companies\"; incubation of agent-run organizations rather than a shipped platform"
+ },
+ "polymtrade": {
+  "labels": [
+   "analytics"
+  ],
+  "confidence": "medium",
+  "why": "\"AI-powered insights\" and \"smart trend analysis\" for a prediction market; market intelligence. Sibling of Rift AI"
+ },
+ "0xagenteve": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "locked-money": {
+  "labels": [
+   "analytics"
+  ],
+  "confidence": "medium",
+  "why": "\"your own AI Agent provides comprehensive insights into cryptocurrency behaviors, trends ... offering suggestions on DeFi protocols and predicting market movements\" \u2014 the output is information"
+ },
+ "basedai": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "confidence": "medium",
+  "why": "\"A Layer-1 Network for zk-LLMs and Smart Contracts\": an execution layer (infrastructure) whose distinguishing feature is zero-knowledge inference (trust)"
+ },
+ "angel-twin": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "medium",
+  "why": "names \"AI-driven automation, content, and identity\" generically without describing a product"
+ },
+ "commune-ai": {
+  "labels": [
+   "builder"
+  ],
+  "confidence": "medium",
+  "why": "\"a protocol that aims to connect all developer tools into one network\"; development tooling, which T1 places under Builder & Marketplace"
+ },
+ "talos": {
+  "labels": [
+   "defai"
+  ],
+  "confidence": "high",
+  "why": "\"the first AI Agent on Cardano to actively trade tokens with his own wallet\""
+ },
+ "vibe-ai-2": {
+  "labels": [
+   "copilot"
+  ],
+  "confidence": "medium",
+  "why": "agents performing \"web research, code execution, blockchain data analysis, browser automation, and smart contract interactions\" for users \u2014 the artifact produced is code and transactions"
+ },
+ "assisterr-ai": {
+  "labels": [
+   "builder",
+   "launchpad"
+  ],
+  "confidence": "high",
+  "why": "\"no-code platform ... to build, tokenize, and monetize AI agents\" (builder) operating as \"a permissionless agent economy and marketplace\" where \"creators can launch AI agents\" (launchpad)"
+ },
+ "athena-by-virtuals": {
+  "labels": [
+   "analytics"
+  ],
+  "confidence": "medium",
+  "why": "\"an autonomous Twitter chat bot ... to provide insights on the crypto markets\"; trading is stated as a future expectation, not a current function"
+ },
+ "beeper-coin": {
+  "labels": [
+   "defai"
+  ],
+  "confidence": "high",
+  "why": "\"self-evolving Intent Agent\" that turns natural-language commands into blockchain actions \u2014 deploying, purchasing and tipping assets"
+ },
+ "a0x": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "gluteus-maximus-by-virtuals": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "sairi": {
+  "labels": [
+   "out-of-scope"
+  ],
+  "confidence": "high",
+  "why": "no description supplied by CoinGecko"
+ },
+ "gemach": {
+  "labels": [
+   "defai"
+  ],
+  "confidence": "high",
+  "why": "\"self-custodial trading bots, interest-free loans, index funds\" and GBot, \"the fastest sniper and trading bot\""
+ },
+ "bowyer-app-by-virtuals": {
+  "labels": [
+   "builder",
+   "analytics"
+  ],
+  "confidence": "medium",
+  "why": "\"an autonomous agent marketplace\" (builder) whose agents are \"whale trackers, meme radars, and research desks\" delivering \"real time signals, reports\" (analytics)"
+ },
+ "big-tony": {
+  "labels": [
+   "defai"
+  ],
+  "confidence": "high",
+  "why": "\"the first AI agent to ever trade with his own wallet\", trading on Base via chart analysis and the Allora API"
+ }
+}

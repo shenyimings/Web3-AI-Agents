@@ -1,0 +1,18 @@
+[
+ {"chain":"bnb","registrations":324450,"registrants":264877},
+ {"chain":"base","registrations":80641,"registrants":26681},
+ {"chain":"ethereum","registrations":50657,"registrants":11317},
+ {"chain":"abstract","registrations":32757,"registrants":5328},
+ {"chain":"megaeth","registrations":12727,"registrants":2580},
+ {"chain":"monad","registrations":10234,"registrants":8581},
+ {"chain":"celo","registrations":9801,"registrants":728},
+ {"chain":"gnosis","registrations":4121,"registrants":335},
+ {"chain":"avalanche_c","registrations":1807,"registrants":54},
+ {"chain":"arbitrum","registrations":1436,"registrants":141},
+ {"chain":"polygon","registrations":631,"registrants":319},
+ {"chain":"optimism","registrations":542,"registrants":89},
+ {"chain":"mantle","registrations":145,"registrants":45},
+ {"chain":"linea","registrations":115,"registrants":10},
+ {"chain":"scroll","registrations":108,"registrants":6},
+ {"chain":"taiko","registrations":94,"registrants":9}
+]

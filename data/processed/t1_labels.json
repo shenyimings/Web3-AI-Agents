@@ -1,0 +1,250 @@
+{
+ "near": [
+  "infrastructure"
+ ],
+ "fetch-ai": [
+  "infrastructure",
+  "builder",
+  "digital-twin"
+ ],
+ "nexo": [
+  "analytics"
+ ],
+ "virtual-protocol": [
+  "infrastructure",
+  "launchpad"
+ ],
+ "singularitynet": [
+  "builder"
+ ],
+ "origintrail": [
+  "trust",
+  "rwa"
+ ],
+ "ai16z": [
+  "builder"
+ ],
+ "alchemist-ai": [
+  "builder"
+ ],
+ "freysa-ai": [
+  "digital-twin"
+ ],
+ "paal-ai": [
+  "defai",
+  "analytics",
+  "content-creation"
+ ],
+ "humans-ai": [
+  "builder",
+  "trust"
+ ],
+ "delysium": [
+  "infrastructure"
+ ],
+ "pha": [
+  "infrastructure",
+  "builder",
+  "trust"
+ ],
+ "wayfinder": [
+  "defai"
+ ],
+ "aixbt": [
+  "analytics"
+ ],
+ "venice-token": [
+  "trust"
+ ],
+ "chaingpt": [
+  "copilot"
+ ],
+ "propy": [
+  "rwa"
+ ],
+ "alethea-artificial-liquid-intelligence-token": [
+  "infrastructure"
+ ],
+ "heyanon": [
+  "defai"
+ ],
+ "tokenbot-2": [
+  "launchpad"
+ ],
+ "autonolas": [
+  "launchpad",
+  "builder"
+ ],
+ "morphware": [
+  "infrastructure"
+ ],
+ "cookie": [
+  "analytics"
+ ],
+ "ai-rig-complex": [
+  "builder"
+ ],
+ "myshell": [
+  "builder"
+ ],
+ "nodeai": [
+  "infrastructure"
+ ],
+ "assemble-protocol": [
+  "analytics"
+ ],
+ "solidus-aitech": [
+  "launchpad",
+  "builder"
+ ],
+ "netmind-token": [
+  "infrastructure"
+ ],
+ "rss3": [
+  "analytics"
+ ],
+ "griffain": [
+  "defai"
+ ],
+ "swarms": [
+  "builder"
+ ],
+ "zerebro": [
+  "content-creation"
+ ],
+ "tars-protocol": [
+  "builder"
+ ],
+ "spectral": [
+  "copilot"
+ ],
+ "openserv": [
+  "builder"
+ ],
+ "spectre-ai": [
+  "analytics"
+ ],
+ "oort": [
+  "infrastructure"
+ ],
+ "swarmnode-ai-2": [
+  "infrastructure"
+ ],
+ "empyreal": [
+  "infrastructure",
+  "builder"
+ ],
+ "botto": [
+  "content-creation"
+ ],
+ "creatorbid": [
+  "launchpad"
+ ],
+ "mind-network": [
+  "trust"
+ ],
+ "orbit-3": [
+  "defai"
+ ],
+ "tao-bot": [
+  "infrastructure",
+  "launchpad"
+ ],
+ "luna-by-virtuals": [
+  "game"
+ ],
+ "bad-idea-ai": [
+  "content-creation"
+ ],
+ "reploy": [
+  "copilot",
+  "builder",
+  "analytics"
+ ],
+ "linqai": [
+  "defai"
+ ],
+ "sensay": [
+  "digital-twin"
+ ],
+ "strawberry-ai": [
+  "analytics"
+ ],
+ "hypergpt": [
+  "builder"
+ ],
+ "trias-token": [
+  "infrastructure"
+ ],
+ "hytopia": [
+  "game"
+ ],
+ "botify": [
+  "builder"
+ ],
+ "dexcheck": [
+  "analytics"
+ ],
+ "super-champs": [
+  "game"
+ ],
+ "max-2": [
+  "analytics"
+ ],
+ "metaverse": [
+  "launchpad",
+  "trust"
+ ],
+ "subquery-network": [
+  "infrastructure",
+  "builder"
+ ],
+ "neuron": [
+  "game"
+ ],
+ "commune-ai": [
+  "infrastructure"
+ ],
+ "top-hat": [
+  "launchpad",
+  "builder"
+ ],
+ "keke-terminal": [
+  "content-creation"
+ ],
+ "sui-agents": [
+  "content-creation"
+ ],
+ "orbofi-ai": [
+  "game",
+  "digital-twin",
+  "content-creation"
+ ],
+ "sharpe-ai": [
+  "analytics"
+ ],
+ "theoriq": [
+  "infrastructure"
+ ],
+ "ai-agent-layer": [
+  "launchpad",
+  "builder",
+  "digital-twin"
+ ],
+ "pillzumi": [
+  "game"
+ ],
+ "ai-powers": [
+  "content-creation"
+ ],
+ "titan-ai": [
+  "copilot"
+ ],
+ "cortex": [
+  "infrastructure",
+  "builder"
+ ],
+ "day-by-day": [
+  "rwa"
+ ]
+}

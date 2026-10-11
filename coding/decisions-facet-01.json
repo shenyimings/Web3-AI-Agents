@@ -1,0 +1,337 @@
+{
+ "venice-token": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "private, on-demand AI inference via API \"for AI agents and developers\" — a compute layer agents run on; facet: \"\"private, reliable, on-demand and perpetual AI inference via Venice.ai's API\" — inference-serving capacity\"",
+  "sibling": null
+ },
+ "kite-2": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "L1 that \"enables AI agents to autonomously transact at scale ... native x402 compatibility\"; payment rails, not a DeFi strategy, so not defai; facet: \"L1 chain that \"enables AI agents to autonomously transact at scale\"\"",
+  "sibling": null
+ },
+ "origintrail": {
+  "labels": [
+   "game",
+   "infrastructure",
+   "rwa"
+  ],
+  "facet": "data",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko category `DePIN`, `Metaverse`, `Real World Assets (RWA)`; facet: \"\"Decentralized Knowledge Graph\" delivering \"trusted knowledge infrastructure\" and \"verifiable Internet of knowledge\"\"",
+  "sibling": null
+ },
+ "quack-ai": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "x402 sign-to-pay relay is agent payment rails; \"verifiable rules\", policy engine and governance modules are a trust layer; facet: \"\"x402 standard enables sign-to-pay, gasless transactions across blockchains\" via a \"facilitator relay system\" — agent settlement/execution layer, no compute/model/data component\"",
+  "sibling": null
+ },
+ "tagger": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"decentralized full-stack AI data solution\" providing collection, labelling and a permissionless data market — a resource layer beneath the agent stack, as DePIN is for compute; facet: \"\"permissionless hub for data collection, labeling, management, and trading\"\"",
+  "sibling": null
+ },
+ "talus": {
+  "labels": [
+   "infrastructure",
+   "builder"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"on-chain execution layer for autonomous and intelligent agents\" and lets \"developers ... launch revenue-generating agents\"; facet: \"\"provides an on-chain execution layer for autonomous and intelligent agents\"; Nexus is \"the foundational layer for the AI and Information Economy\"\"",
+  "sibling": null
+ },
+ "iotex": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko category `DePIN`; facet: \"\"delivered verified, real-time data from the real world to AI systems\"; \"the data, identity, and verification layers\"\"",
+  "sibling": null
+ },
+ "iexec-rlc": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko category `DePIN`, `Oracle`; facet: \"\"privacy-first applications with programmable governance, data protection, and confidential processing\" — a confidential-compute marketplace\"",
+  "sibling": null
+ },
+ "pha": {
+  "labels": [
+   "builder",
+   "infrastructure",
+   "trust"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko category `AI Framework`, `DePIN`, `Oracle`, `Zero Knowledge (ZK)`; facet: \"\"multi-proof system solves the AI execution problem\" via TEE-secured worker compute serving AI-Agent Contracts\"",
+  "sibling": null
+ },
+ "auki-labs": {
+  "labels": [
+   "game",
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "rule",
+  "confidence": "medium",
+  "why": "CoinGecko category `DePIN`, `Metaverse`; facet: \"\"posemesh protocol, a collaborative and decentralized machine perception network\" and \"token economy for exchanging spatial data and compute resources\" — spatial-data layer is the primary product\"",
+  "sibling": null
+ },
+ "cyberconnect": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"the L2 for social\" with \"native Account Abstraction and seedless wallets\" (the agent-account primitive, infrastructure) and decentralized identifiers (trust); facet: \"\"the L2 for social\" shipping its own Layer 2\"",
+  "sibling": null
+ },
+ "morpheusai": {
+  "labels": [
+   "infrastructure",
+   "defai"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"peer-to-peer network of personal general purpose AIs that can execute Smart Contracts on behalf of a user\" — an agent network (infrastructure) whose agents sign transactions from the user's wallet (defai); facet: \"\"peer-to-peer network of personal general purpose AIs\" whose Smart Agents run \"A Large Language Model\" to produce agent decisions — output is a model's answer, not raw machine time\"",
+  "sibling": null
+ },
+ "flock-2": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "decentralised model training and validation network; compute and data layer beneath the agent stack; facet: \"\"decentralised AI model training and validation network... making compute, data contribution, and training composable\" — a training/validation network, per Bittensor-type test\"",
+  "sibling": null
+ },
+ "delysium": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "T1 precedent: coded Agent Protocol & DePIN in Table 1. Blurb alone reads game/metaverse; T1 assignment retained; facet: \"T1-coded DePIN; the T2 blurb (\"AI-powered virtual society\", \"AI Virtual Beings\") gives no resource-layer detail to settle the facet directly\"",
+  "sibling": null
+ },
+ "dolphin-2": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko category `DePIN`; facet: \"\"A Decentralized AI Inference Network\" letting \"GPU owners... repurpose their GPUs\" — inference-serving capacity over rented hardware\"",
+  "sibling": null
+ },
+ "aeon-3": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "\"native settlement infrastructure for the agentic economy\" built on x402, ERC-8004, AP2 and MCP; facet: \"\"native settlement infrastructure for the agentic economy\"... \"bridges Agent-to-Agent (A2A) interactions with real-world settlement\" — agent-native settlement/execution layer, not compute/model/data\"",
+  "sibling": null
+ },
+ "theoriq": {
+  "labels": [
+   "infrastructure",
+   "builder"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "agents \"collaborate in multi-agent swarms\" and \"operate on-chain\" (agent protocol) while developers contribute agents to the network (builder); facet: \"\"ecosystem of autonomous AI agents that... collaborate in multi-agent swarms,\" \"validate each other's outputs,\" rewarding \"developers, users, and data providers\" who contribute agents — coordinates and rewards participants producing agent output\"",
+  "sibling": null
+ },
+ "genius-ai": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "rule",
+  "confidence": "medium",
+  "why": "CoinGecko category `DePIN`; facet: \"\"combines federated learning and decentralized GPU mining to create a... AI/ML network\" — federated learning is a collaborative training process\"",
+  "sibling": null
+ },
+ "octaspace": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko category `DePIN`; facet: \"\"a public cloud platform... GPU marketplace, VPN access, and application deployment\"\"",
+  "sibling": null
+ },
+ "reppo": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "AI training data generated through prediction markets; a data resource layer. Sibling of Tagger and PublicAI; facet: \"explicit: \"AI training data generated through prediction markets; a data resource layer. Sibling of Tagger and PublicAI\"\"",
+  "sibling": null
+ },
+ "gamercoin": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "medium",
+  "why": "CoinGecko category `DePIN`; facet: \"\"Gamers will have many ways to earn GHX trough mining\" on the GamerHash platform — idle-hardware monetization, but the blurb gives almost no product detail\"",
+  "sibling": null
+ },
+ "galeon": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "hyper-structured hospital data with \"Blockchain Swarm Learning\" for decentralized model training; a data resource layer. Sibling of Tagger; facet: \"explicit: \"hyper-structured hospital data... a data resource layer. Sibling of Tagger\"\"",
+  "sibling": null
+ },
+ "o-intelligence-coin": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko category `DePIN`; facet: \"\"O Routing Intelligence capable of handling virtually any task... due to its model-to-model routing intelligence... fine-tunes itself through model-to-model hopping\"\"",
+  "sibling": null
+ },
+ "aergo-2": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "\"AI-native Layer 2\" (infrastructure) providing \"verifiable AI execution\", data verification and model certification (trust); facet: \"\"AI-native Layer 2 network bridging enterprise blockchain with decentralized AI\"\"",
+  "sibling": null
+ },
+ "netmind-token": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "compute",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko category `DePIN`; facet: \"\"leverages the underutilized or idle GPUs of users worldwide, creating a global network of computing power\"\"",
+  "sibling": null
+ },
+ "libertai": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "facet": "compute",
+  "provenance": "read",
+  "confidence": "high",
+  "why": "decentralised inference on Aleph.im (infrastructure) run in \"confidential virtual machines\" for \"verifiable and confidential AI decision-making\" (trust); facet: \"\"decentralized AI platform built on the Aleph.im decentralized cloud network. It combines AI inferences on top of confidential virtual machines\" — inference-serving capacity\"",
+  "sibling": null
+ },
+ "trias-token": {
+  "labels": [
+   "infrastructure",
+   "trust"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "medium",
+  "why": "smart-contract execution platform (infrastructure) whose stated purpose is \"Trustworthy and Reliable Intelligent Autonomous Systems\" and making \"people trust in machines\" (trust); facet: \"\"native-application-compatible smart contract execution platform... define a new-generation all-platform-supported public chain system\"\"",
+  "sibling": null
+ },
+ "rovr-network": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko category `DePIN`; facet: \"\"high-definition, real-time 3D data collection, processing, and storage\"; CoinGecko \"Data Availability\" label\"",
+  "sibling": null
+ },
+ "oort": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "data",
+  "provenance": "rule",
+  "confidence": "medium",
+  "why": "CoinGecko category `DePIN`; facet: \"CoinGecko \"Storage\" label; \"ensures open and community-involved AI development from data collection to model deployment\" via \"a proprietary blockchain-based verification layer\"\"",
+  "sibling": null
+ },
+ "sogni-ai": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "rule",
+  "confidence": "high",
+  "why": "CoinGecko category `DePIN`; facet: \"\"Create AI images, video, music, and more with 200+ models\" — a model marketplace is the layer the token is sold for, per the GPU-hours-plus-model-marketplace boundary rule\"",
+  "sibling": null
+ },
+ "think-protocol": {
+  "labels": [
+   "infrastructure",
+   "builder"
+  ],
+  "facet": "chain",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"modular infrastructure layer\" and the THINK Agent Standard (infrastructure) \"for building, owning, and interacting with autonomous software agents\" (builder); facet: \"\"modular infrastructure layer for building, owning, and interacting with autonomous software agents\" issuing on-chain agent identities (NFIs) — closest to an agent execution/ownership layer, but it ships no chain of its own and the blurb gives no compute/model/data signal\"",
+  "sibling": null
+ },
+ "arc": {
+  "labels": [
+   "infrastructure"
+  ],
+  "facet": "model",
+  "provenance": "read",
+  "confidence": "low",
+  "why": "\"infrastructure layer for high-performance, privacy-first AI models\"; model serving rather than an agent product; facet: \"explicit: \"infrastructure layer for high-performance, privacy-first AI models\"; model serving rather than an agent product\"",
+  "sibling": null
+ }
+}

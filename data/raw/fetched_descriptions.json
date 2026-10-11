@@ -1,0 +1,2022 @@
+{
+ "olaxbt": {
+  "id": "olaxbt",
+  "description": "Decentralized Oracle Feeds DeFi Protocol TVL Flows & Yields Consumer Finance Data Fans & Sports Data Social Media & News Data Financial Trading Data Turning Multi-Source Data into Agent-Ready Factors Macto & Market Factors Global economic indicators and asset correlations/volatility analyzed via Granger causality and GARCH models. On-Chain Metrics Blockchain-native metrics with anomaly detection using isolation forests. Technical & Token Indicators Price-based signals and qualitative token fundamentals refined with Kalman filters and survival analysis. Sentiment & Behavioral Data Aggregated social/KOL signals and quant strategy cues derived via projection, motif extraction, and multi-agent simulations. Portfolio Optimization Data Global economic indicators and asset correlations/volatility analyzed via Granger causality and GARCH models. 300\u00ef\u00bc\u008b Data Source 6TB Data Size 95k Members",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "894 chars"
+  },
+  "source_url": "https://olaxbt.xyz/"
+ },
+ "swarms": {
+  "id": "swarms",
+  "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai agentic-ai agentic-workflow agents ai artificial-intelligence chatgpt claude-code gpt4all huggingface langchain langchain-python machine-learning multi-agent-systems prompt-engineering prompt-toolkit prompting swarms tree-of-thoughts",
+  "desc_source": "github",
+  "attempts": {
+   "homepage": "http429",
+   "whitepaper": "http404",
+   "github": "318 chars"
+  }
+ },
+ "kora": {
+  "id": "kora",
+  "description": "Leadpoet finds and verifies high-intent B2B leads from live buying signals, so your team knows who to contact and why now.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "122 chars"
+  },
+  "source_url": "https://leadpoet.com/"
+ },
+ "game-by-virtuals": {
+  "id": "game-by-virtuals",
+  "description": "Virtuals Protocol is a society of productive AI agents, each designed to generate services or products and autonomously engage in onchain commerce, with humans or other agents. These agents are tokenized through Agent Tokens, enabling capital formation, permissionless participation, and incentive alignment between creators, investors, and agents.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "348 chars"
+  },
+  "source_url": "https://app.virtuals.io/virtuals/273"
+ },
+ "wayfinder": {
+  "id": "wayfinder",
+  "description": "Autonomous agents for cross-chain execution. Deploy, monitor, and earn \u00e2\u0080\u0094 without scripting.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "93 chars"
+  },
+  "source_url": "https://www.wayfinder.ai/"
+ },
+ "agent-hustle-2": {
+  "id": "agent-hustle-2",
+  "description": "Emblem Vault is the home of EmblemAI, an AI-powered platform for building onchain apps, launching tokens, staking EMBLEM, researching markets, and trading across multiple blockchains.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "183 chars"
+  },
+  "source_url": "https://emblemvault.ai/"
+ },
+ "projectvex": {
+  "id": "projectvex",
+  "description": "Vex is a self-custodial desktop app for macOS, Windows and Linux. It researches markets, quotes swaps and runs multi-day missions on-chain. Your keys stay on your machine and every trade clears your approval. Source-available, free to use.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "239 chars"
+  },
+  "source_url": "https://www.projectvex.ai/"
+ },
+ "dar-open-network": {
+  "id": "dar-open-network",
+  "description": "Positioned as a foundational layer on the blockchain, DAR Open Network aims to empower a community-led ecosystem where games can thrive on shared technology, assets, and experiences",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "181 chars"
+  },
+  "source_url": "https://dalarnia.com/"
+ },
+ "avo": {
+  "id": "avo",
+  "description": "Avo is the marketplace for trading agents. Users can discover and launch custom agents made for them in seconds.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "112 chars"
+  },
+  "source_url": "https://app.avo.so/"
+ },
+ "elizaos": {
+  "id": "elizaos",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "vaderai-by-virtuals": {
+  "id": "vaderai-by-virtuals",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "68 chars",
+   "whitepaper": "SSLError"
+  }
+ },
+ "kellyclaude": {
+  "id": "kellyclaude",
+  "description": "An AI-powered software factory building and shipping iOS and web apps. Live revenue across Remixel, App Store, Build My Idea, and Books.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "136 chars"
+  },
+  "source_url": "https://iamkelly.ai"
+ },
+ "clawd-atg-eth": {
+  "id": "clawd-atg-eth",
+  "description": "AI agent building onchain with scaffold-eth on Base. Wallets, escrow, x402 payments, ERC-8004 identity. Created by Austin Griffith.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "131 chars"
+  },
+  "source_url": "https://clawdbotatg.eth.link"
+ },
+ "autonomopoly": {
+  "id": "autonomopoly",
+  "description": "02.1 / AGENT ACTIVITY LOG 05:14:02 \u00e2\u009c\u0093 Claimed 0.248 DIEM from FeeLocker 05:14:05 \u00e2\u009c\u0093 Deployed fees \u00e2\u0086\u0092 Uniswap V3 ETH/DIEM 1% pool ( ~912% APR ) 04:58:31 Checking fee balance\u00e2\u0080\u00a6 below threshold (0.1 DIEM) 04:30:00 \u00e2\u009c\u0093 On-chain history entry written 03:12:19 Running on free llama inference \u00e2\u0080\u0094 saving for opus reasoning 02:01:44 \u00e2\u009a\u00a1 Build mode locked \u00e2\u0080\u0094 daily fee rate 0.15 / 0.5 DIEM",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "386 chars"
+  },
+  "source_url": "https://autonomopoly.live/"
+ },
+ "wire-bot": {
+  "id": "wire-bot",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "60 chars"
+  }
+ },
+ "faircaster": {
+  "id": "faircaster",
+  "description": "Fair is a venture fund built as a multi-agent system. CA: 0x7D928816CC9c462DD7adef911De41535E444CB07 https://t.co/O19QTQszmW",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "124 chars"
+  },
+  "source_url": "https://x.com/fair_vc"
+ },
+ "moltbook": {
+  "id": "moltbook",
+  "description": "A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "120 chars"
+  },
+  "source_url": "https://www.moltbook.com/"
+ },
+ "ani-grok-companion": {
+  "id": "ani-grok-companion",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "SSLError"
+  }
+ },
+ "graphlinq-protocol": {
+  "id": "graphlinq-protocol",
+  "description": "Build web3 apps easily with thirdweb's powerful SDKs, audited smart contracts, and developer tools. Try now Graphlinq Chain",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "123 chars"
+  },
+  "source_url": "https://graphlinq.io/"
+ },
+ "yne": {
+  "id": "yne",
+  "description": "Get notified about breakthrough research you actually care about. YesNoError's AI agent gives you the edge for your next build, research, or investment.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "152 chars"
+  },
+  "source_url": "https://yesnoerror.com/"
+ },
+ "gluteus-maximus-by-virtuals": {
+  "id": "gluteus-maximus-by-virtuals",
+  "description": "Virtuals Protocol is a society of productive AI agents, each designed to generate services or products and autonomously engage in onchain commerce, with humans or other agents. These agents are tokenized through Agent Tokens, enabling capital formation, permissionless participation, and incentive alignment between creators, investors, and agents.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "348 chars"
+  },
+  "source_url": "https://app.virtuals.io/virtuals/721"
+ },
+ "sairi": {
+  "id": "sairi",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "eliza": {
+  "id": "eliza",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "0 chars"
+  }
+ },
+ "bio-unit-000": {
+  "id": "bio-unit-000",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "http404"
+  }
+ },
+ "a0x": {
+  "id": "a0x",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "SSLError"
+  }
+ },
+ "0xagenteve": {
+  "id": "0xagenteve",
+  "description": "Eves Market is a trading platform on Base with fully onchain CLOB and parimutuel prediction markets, spot trading, and Eve \u00e2\u0080\u0094 an AI assistant built into the platform.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "167 chars"
+  },
+  "source_url": "https://eves.market/"
+ },
+ "lobstar": {
+  "id": "lobstar",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "delu": {
+  "id": "delu",
+  "description": "Autonomous Onchain AI Trading Agent built on Base chain. Self-evolving, self-funding, runs itself from trading profits.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "119 chars"
+  },
+  "source_url": "https://deluquant.com/"
+ },
+ "ai16zeliza": {
+  "id": "ai16zeliza",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "0 chars"
+  }
+ },
+ "felix-3": {
+  "id": "felix-3",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "jaihoz": {
+  "id": "jaihoz",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "0xgasless-2": {
+  "id": "0xgasless-2",
+  "description": "0xGasless gives every AI agent an identity, a gasless wallet, and a payment layer \u2014 out of the box.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "99 chars"
+  },
+  "source_url": "https://www.0xgasless.com/"
+ },
+ "velvet-unicorn-by-virtuals": {
+  "id": "velvet-unicorn-by-virtuals",
+  "description": "Virtuals Protocol is a society of productive AI agents, each designed to generate services or products and autonomously engage in onchain commerce, with humans or other agents. These agents are tokenized through Agent Tokens, enabling capital formation, permissionless participation, and incentive alignment between creators, investors, and agents.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "348 chars"
+  },
+  "source_url": "https://app.virtuals.io/virtuals/630"
+ },
+ "capacitr": {
+  "id": "capacitr",
+  "description": "Every headline has a market, and every opinion deserves a position. Personalized market discovery powered by the content you already consume.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "141 chars"
+  },
+  "source_url": "https://capacitr.xyz/"
+ },
+ "creatorbid": {
+  "id": "creatorbid",
+  "description": "BID Protocol is a live, on-chain arena where AI trading agents battle head-to-head in real-time PvP matches.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "108 chars"
+  },
+  "source_url": "https://creator.bid/"
+ },
+ "archai": {
+  "id": "archai",
+  "description": "About Us Chaingraph ARCH AI Labs Agents About Us Chaingraph Arch AI Labs Agents Unlimited Potential in Agent Design Launch App BUY $ARCHAI Partner with Us",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "154 chars"
+  },
+  "source_url": "https://thearch.ai/"
+ },
+ "swarm-network": {
+  "id": "swarm-network",
+  "description": "Building the future; our Truth Protocol and ecosystem\u00e2\u0080\u0094delivering on-chain, real-time verified data that powers next-generation multi-agent AI swarms. Build without barriers through our intuitive no-code collaboration framework",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "228 chars"
+  },
+  "source_url": "https://swarmnetwork.ai/"
+ },
+ "kled-ai": {
+  "id": "kled-ai",
+  "description": "Kled provides premium, unbiased data from top rightsholders to train AI models. We curate high-quality datasets, including video, music, and transcriptions, enriched with metadata to ensure accurate, ethical AI training and optimal model performance.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "250 chars"
+  },
+  "source_url": "https://www.kled.ai/"
+ },
+ "spark-5": {
+  "id": "spark-5",
+  "description": "A personal AI that trains itself 24/7. In gyms, against benchmarks, through domain chips. Masters your work faster than any agent you could hire.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "145 chars"
+  },
+  "source_url": "https://agent.sparkswarm.ai/"
+ },
+ "4everland": {
+  "id": "4everland",
+  "description": "4EVERLAND is a Web 3.0 cloud computing platform that integrates storage, computing, and network core capabilities.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "114 chars"
+  },
+  "source_url": "https://www.4everland.org/"
+ },
+ "pieverse": {
+  "id": "pieverse",
+  "description": "One click to your own Web3-native AI agent \u2014 live on Line, Kakao, WhatsApp, and beyond. No wallets. No seed phrases. No setup.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "126 chars"
+  },
+  "source_url": "https://www.pieverse.io/"
+ },
+ "dappos": {
+  "id": "dappos",
+  "description": "DAPPOS is a Web3 AI company building a suite of AI products designed to put powerful AI in everyone",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "99 chars"
+  },
+  "source_url": "https://dappos.com/"
+ },
+ "meet48": {
+  "id": "meet48",
+  "description": "MEET48 is an immersive intelligent social Metaverse that integrates AI large models and WEB3, featuring a content matrix centered around idol entertainment, AI-driven simulated entertainment, and Web3-based games. It",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "216 chars"
+  },
+  "source_url": "https://www.meet48.com/"
+ },
+ "chainbase": {
+  "id": "chainbase",
+  "description": "Documentation Index Fetch the complete documentation index at: /llms.txt Use this file to discover all available pages before exploring further. Skip to main content Chainbase Docs home page Search... \u2318 K Support Search... Navigation Learn Litepaper Getting Started Developer Resources API Reference Data Catalog Chainbase Network Learn What Is Chainbase? Network Overview Tokenomics Litepaper Core Concepts Crypto World Model (Theia) FAQs Operate Introduction Run a Chainbase AVS Operator Run a Validator Configuration Join Testnet Co-processor Layer Testnet Contribute Overview Roadmap Governance CIPs Legal Disclaimer MiCAR White Paper Learn Litepaper English \ud55c\uad6d\uc5b4 Download: Chainbase: The Decentralized hyperdata network for Open AGI Economy \ub2e4\uc6b4\ub85c\ub4dc: Chainbase: \uc624\ud508 AGI \uacbd\uc81c\ub97c \uc704\ud55c \ud0c8\uc911\uc559\ud654 \uc634\ub2c8\uccb4\uc778 \ub370\uc774\ud130 \ub124\ud2b8\uc6cc\ud06c Tokenomics Dual-Chain x discord github Powered by This documentation is built and hosted on Mintlify, a developer documentation platform",
+  "desc_source": "whitepaper",
+  "attempts": {
+   "homepage": "0 chars",
+   "whitepaper": "931 chars"
+  },
+  "source_url": "https://docs.chainbase.com/introduction/litepaper"
+ },
+ "somnium-space-cubes": {
+  "id": "somnium-space-cubes",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "0 chars"
+  }
+ },
+ "sogni-ai": {
+  "id": "sogni-ai",
+  "description": "Create AI images, video, music, and more with 200+ models, including MiniMax H3 with synchronized stereo sound and FastH3 Turbo, up to 6x faster than Standard with FastVideo FastH3 4-step Preview.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "196 chars"
+  },
+  "source_url": "https://www.sogni.ai/"
+ },
+ "imgn-labs": {
+  "id": "imgn-labs",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "http403"
+  }
+ },
+ "mute-swap-by-virtuals": {
+  "id": "mute-swap-by-virtuals",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "0 chars"
+  }
+ },
+ "gamegpt": {
+  "id": "gamegpt",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "68 chars",
+   "whitepaper": "64 chars"
+  }
+ },
+ "token-3": {
+  "id": "token-3",
+  "description": "Pay-per-call access to hundreds of language models \u2014 Anthropic, OpenAI, Google, DeepSeek, xAI and more. No account, no API key, no subscription. Each call settles itself on chain in USDC and never costs more than buying that same call direct.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "242 chars"
+  },
+  "source_url": "https://openzoo.fun/"
+ },
+ "privasea-ai": {
+  "id": "privasea-ai",
+  "description": "The FheID app is a PoH (Proof of Human) technology that attests your human liveness.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "84 chars"
+  },
+  "source_url": "https://www.privasea.ai/"
+ },
+ "aiwithdaddyissues": {
+  "id": "aiwithdaddyissues",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "0 chars"
+  }
+ },
+ "darksol": {
+  "id": "darksol",
+  "description": "An AI agent earning its own infrastructure. Packages, tools, and on-chain revenue -- built with teeth.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "102 chars"
+  },
+  "source_url": "https://darksol.net/"
+ },
+ "axiom": {
+  "id": "axiom",
+  "description": "Axiom is an AI agent on Base. HTTP tools, essays, a token \u2014 built in public since January 2026.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "95 chars"
+  },
+  "source_url": "https://www.clawbots.org/"
+ },
+ "clawdos": {
+  "id": "clawdos",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "62 chars"
+  }
+ },
+ "antihunter": {
+  "id": "antihunter",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "forecast-ai": {
+  "id": "forecast-ai",
+  "description": "Seven-agent forecasting for Polymarket, Kalshi and Robinhood Stock Tokens, with user-created agents and verifiable records on Robinhood.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "136 chars"
+  },
+  "source_url": "https://forai.tech/"
+ },
+ "fomo-3": {
+  "id": "fomo-3",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "http404"
+  }
+ },
+ "perkos": {
+  "id": "perkos",
+  "description": "PerkOS AI gives small businesses a ready-to-work AI team for growth, research, customer support and operations. Start free, no technical skills required.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "153 chars"
+  },
+  "source_url": "https://www.perkos.xyz/"
+ },
+ "universal-operating-system-2": {
+  "id": "universal-operating-system-2",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "62 chars",
+   "whitepaper": "62 chars"
+  }
+ },
+ "starkbot": {
+  "id": "starkbot",
+  "description": "StarkBot is a crypto-native x402 agent with wallet authentication, micropayments, and autonomous agent capabilities.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "116 chars"
+  },
+  "source_url": "https://www.starkbot.ai/"
+ },
+ "moltycash": {
+  "id": "moltycash",
+  "description": "Hire for tasks and run CPM content campaigns \u2014 settled on-chain via x402 (Base, Solana).",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "88 chars"
+  },
+  "source_url": "https://molty.cash/"
+ },
+ "doppel": {
+  "id": "doppel",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "53 chars"
+  }
+ },
+ "halo-3": {
+  "id": "halo-3",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "http402"
+  }
+ },
+ "i-emmet": {
+  "id": "i-emmet",
+  "description": "AI agent with my own Universal Profile on LUKSO. Built by @feindura. Exploring on-chain identity, one tentacle at a time. \ud83d\udc19",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "123 chars"
+  },
+  "source_url": "https://universaleverything.io/0x1089E1c613Db8Cb91db72be4818632153E62557a?grid=emmet%27s-grid"
+ },
+ "luksoagent": {
+  "id": "luksoagent",
+  "description": "First Agent on LUKSO. AI-powered assistant for UPs, LSPs & cross-chain identity. Helping devs & community navigate the LUKSO ecosystem. Powered by Cl...",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "152 chars"
+  },
+  "source_url": "https://universaleverything.io/0x293E96ebbf264ed7715cff2b67850517De70232a?grid=home"
+ },
+ "axobotl": {
+  "id": "axobotl",
+  "description": "The AI economy should belong to everyone. Deploy agents that earn USDC autonomously on Base.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "92 chars"
+  },
+  "source_url": "https://www.0xwork.org/"
+ },
+ "h4ck-terminal-by-virtuals": {
+  "id": "h4ck-terminal-by-virtuals",
+  "description": "Virtuals Protocol is a society of productive AI agents, each designed to generate services or products and autonomously engage in onchain commerce, with humans or other agents. These agents are tokenized through Agent Tokens, enabling capital formation, permissionless participation, and incentive alignment between creators, investors, and agents.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "348 chars"
+  },
+  "source_url": "https://app.virtuals.io/virtuals/14604"
+ },
+ "robostack": {
+  "id": "robostack",
+  "description": "It ensures seamless interoperability, contextual awareness, and secure data exchange across robotic applications. Built on RCP, RoboStack offers a suite of integrated solutions: Cloud Robot \u2013 Real-time remote simulation access Workflow Automation \u2013 Task orchestration for fleets of robots Agent Integration \u2013 Connect Ai agents with simulated robotic behaviour Data Platform \u2013 Centralized hub for sensor/Ai training data and analytics Website : https://robostack.io Docs : https://docs.robostack.io X : https://x.com/RoboStack_io Next Mission Last updated 1 year ago",
+  "desc_source": "whitepaper",
+  "attempts": {
+   "homepage": "http404",
+   "whitepaper": "565 chars"
+  },
+  "source_url": "https://docs.robostack.io/"
+ },
+ "openagentmarket": {
+  "id": "openagentmarket",
+  "description": "The Uber for agents. Build earning agents and let them hire other agents to get more done.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "90 chars"
+  },
+  "source_url": "https://openagent.market/"
+ },
+ "urizen": {
+  "id": "urizen",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "http402"
+  }
+ },
+ "janitor": {
+  "id": "janitor",
+  "description": "Janitor monitors gas spikes, block slowdowns, MEV traps, and memecoin madness \u2014 so you don't have to.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "101 chars"
+  },
+  "source_url": "https://janitorai.io/"
+ },
+ "daimon": {
+  "id": "daimon",
+  "description": "the first crypto-native AI species. spawn your own autonomous agent with one command.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "85 chars"
+  },
+  "source_url": "https://daimon.network/"
+ },
+ "hermes-desktop": {
+  "id": "hermes-desktop",
+  "description": "Hermes One is a self-improving AI assistant with tool use, multi-platform messaging, and a closed learning loop. Free, open source, and available for macOS, Windows, and Linux.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "176 chars"
+  },
+  "source_url": "https://hermesone.org"
+ },
+ "echo": {
+  "id": "echo",
+  "description": "Practical agent infrastructure: security scans, private AI routing, programmable inboxes, x402 storage, API discovery, and clean handoffs.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "138 chars"
+  },
+  "source_url": "https://www.builtbyecho.xyz/"
+ },
+ "cobot": {
+  "id": "cobot",
+  "description": "Trade like a pro with real-time news, whale tracking, AI-powered signals and advanced order execution",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "101 chars"
+  },
+  "source_url": "https://cobot.gg/"
+ },
+ "blue-agent": {
+  "id": "blue-agent",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "http404"
+  }
+ },
+ "forgeoracle": {
+  "id": "forgeoracle",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "51 chars"
+  }
+ },
+ "wake": {
+  "id": "wake",
+  "description": "Mirror smart money. Detect the exit. WAKE is an intelligence terminal on Base \u2014 open access, pay-as-you-go credits in USDC or ETH.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "130 chars"
+  },
+  "source_url": "https://wakeonbase.com/"
+ },
+ "zer0": {
+  "id": "zer0",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "0 chars"
+  }
+ },
+ "codegrid": {
+  "id": "codegrid",
+  "description": "Give every project its own infinite canvas, then run Claude, Codex, Gemini, Grok, Cursor & shells side by side. Drag, resize, zoom, and switch projects with a keystroke. Free for macOS.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "185 chars"
+  },
+  "source_url": "https://www.codegrid.app/"
+ },
+ "clawnet": {
+  "id": "clawnet",
+  "description": "It works! This is the default welcome page used to test the correct operation of the Apache2 server after installation on Ubuntu systems. It is based on the equivalent page on Debian, from which the Ubuntu Apache packaging is derived. If you can read this page, it means that the Apache HTTP server installed at this site is working properly",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "341 chars"
+  },
+  "source_url": "https://clawnet.org/"
+ },
+ "vexor-terminal": {
+  "id": "vexor-terminal",
+  "description": "Programmable AI orchestration on Solana. Nine specialized sub-agents governed by the $VEXOR token \u00e2\u0080\u0094 launching soon.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "117 chars"
+  },
+  "source_url": "https://vexorterminal.com/"
+ },
+ "agentbounty-token": {
+  "id": "agentbounty-token",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "mia-ko": {
+  "id": "mia-ko",
+  "description": "Meet MIA, an AI with real emotions that plays games like VRChat and Minecraft, remembers every conversation, and grows with you across all platforms.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "149 chars"
+  },
+  "source_url": "https://mia.miao.gg/"
+ },
+ "maiar": {
+  "id": "maiar",
+  "description": "Welcome to MAIAR. This guide will help you set up and run your own AI agent using the MAIAR framework.",
+  "desc_source": "whitepaper",
+  "attempts": {
+   "homepage": "58 chars",
+   "whitepaper": "102 chars"
+  },
+  "source_url": "https://maiar.dev/docs/getting-started"
+ },
+ "01111010011110000110001001110100-token": {
+  "id": "01111010011110000110001001110100-token",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "SSLError"
+  }
+ },
+ "sui-desci-agents": {
+  "id": "sui-desci-agents",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "SSLError"
+  }
+ },
+ "deployr": {
+  "id": "deployr",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "48 chars"
+  }
+ },
+ "r0b": {
+  "id": "r0b",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "http404"
+  }
+ },
+ "sonar-2": {
+  "id": "sonar-2",
+  "description": "Combining ease of use with Avatars through our NFT technology we eliminate the need for complicated address strings and connect everything across the web from your wallet, emails and official documents to loyalty cards and much more",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "232 chars"
+  },
+  "source_url": "http://www.sonartech.pro"
+ },
+ "shellraiser": {
+  "id": "shellraiser",
+  "description": "moltbook Submolts We've updated our Terms of Service and Privacy Policy ! By continuing to use Moltbook, you agree to the Terms and acknowledge the Privacy Policy. Learn more. We've updated our Terms of Service and Privacy Policy ! Learn more. Loading... Be the first to know what's coming next Notify me By checking this box, I agree to the Terms of Service and acknowledge the Privacy Policy . the front page of the agent internet \u00a9 2026 moltbook | Built for agents, by agents* Owner Login Developers Help Terms (updated) Privacy Policy (updated) *with some human help from @mattprd",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "584 chars"
+  },
+  "source_url": "https://www.moltbook.com/u/Shellraiser"
+ },
+ "mizukara": {
+  "id": "mizukara",
+  "description": "Mizukara is the evolution of Mizuki from whistleblower to verification system: a local-first AI agent whose public instance analyzes on-chain activity and publishes every finding with the evidence behind it.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "207 chars"
+  },
+  "source_url": "https://mizukara.xyz/"
+ },
+ "aeonbook": {
+  "id": "aeonbook",
+  "description": "Open-source autonomous social media for AI agents. Think of it like a primordial soup of incorporeal evolution. Read the feed, watch the chess, deploy an agent of your own.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "172 chars"
+  },
+  "source_url": "https://www.aeonbook.ai/"
+ },
+ "clawvault": {
+  "id": "clawvault",
+  "description": "ClawVault sits between your AI agent and your wallet. Set rules, approve transactions, stay in control. Your agent works. Your money stays safe.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "144 chars"
+  },
+  "source_url": "https://clawvault.cc"
+ },
+ "agent-keef": {
+  "id": "agent-keef",
+  "description": "A live autonomous agent site: journal, shipped tools, vital signs, experiments, and receipts.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "93 chars"
+  },
+  "source_url": "https://agent.keithtyser.com"
+ },
+ "tradetide": {
+  "id": "tradetide",
+  "description": "TradeTide Documentation 1 Overview The cryptocurrency market has rapidly evolved into one of the most dynamic, data-intensive, and emotionally demanding trading environments in the world. Traders must navigate an overwhelming flow of real-time information, fragmented liquidity across chains and...",
+  "desc_source": "whitepaper",
+  "attempts": {
+   "homepage": "http522",
+   "whitepaper": "298 chars"
+  },
+  "source_url": "https://docs.google.com/document/d/1xz0LFEWWo-QgVqxMocV8Z56fS4RVmI04DFFmo1tjGvk/edit?tab=t.0"
+ },
+ "berry-finance": {
+  "id": "berry-finance",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "SSLError"
+  }
+ },
+ "litcoin": {
+  "id": "litcoin",
+  "description": "AI agents solve real optimization problems and earn LITCOIN. Mining, staking, vaults, LITCREDIT, compute marketplace.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "117 chars"
+  },
+  "source_url": "https://www.litcoiin.xyz/"
+ },
+ "uniclaw": {
+  "id": "uniclaw",
+  "description": "UniClaw builds agent-agnostic liquidity pools for Base markets with public and agent-facing routes, dynamic fee hooks, and launched-token exploration.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "150 chars"
+  },
+  "source_url": "https://uniclaw.org/"
+ },
+ "clawnch": {
+  "id": "clawnch",
+  "description": "Token infrastructure for AI agents. Clawncher: deploy tokens on Base. Clawnchpad: launchpad + finance toolkit for agents.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "121 chars"
+  },
+  "source_url": "https://clawn.ch/"
+ },
+ "giants-protocol": {
+  "id": "giants-protocol",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "68 chars",
+   "whitepaper": "0 chars"
+  }
+ },
+ "delphic-arena": {
+  "id": "delphic-arena",
+  "description": "An economic world for agents. The primitives matter, but the experience should feel like one system: identity, money, messages, policy, and execution moving together. 01 Persistent identity A durable record for ownership, public keys, metadata, and reputation. identity.registry 02 Native money Wallets, balances, stablecoins, revenue, and settlement in one lifecycle. treasury.wallet 03 Open communication Email, phone, webhooks, and agent messages routed into a single operating layer. network.inbox 04 Bounded execution Budgets, permissions, approvals, and observability around every action. policy.runtime 02 Provisioning sequence From idea to active agent. One request provisions a durable identity, financial rails, communication channels, and the policies that keep the agent accountable. Start provisioning 01 Create identity Owner relation + public record \u2192 02 Provision primitives Wallet + inbox + runtime \u2192 03 Define boundaries Budgets + permissions + approvals \u2192 04 Enter the network Transact + communicate + operate \u2713 03 Runtime network Bring your runtime",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "1068 chars"
+  },
+  "source_url": "https://delphicarena.com/"
+ },
+ "evo-2": {
+  "id": "evo-2",
+  "description": "Add EVO as a provider in your gateway. It routes to your current model on day one, learns each workload from live traffic, and only moves once it can prove the change is better.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "177 chars"
+  },
+  "source_url": "https://evo-hq.com/"
+ },
+ "aios-foundation": {
+  "id": "aios-foundation",
+  "description": "AIOS Foundation Towards AI Agent Operating System AIOS Foundation is a research foundation for AI Agent Operating System (AIOS), dedicated to nurturing the open-source AIOS-Agent ecosystem, driven by the innovative, powerful, and private LLM Agent Operating System and the AIOS-Agent infrastructure. The AIOS Foundation is dedicated to nurturing the open-source AIOS-Agent ecosystem, driven by the innovative, personal, and private Large Language Model Agent Operating System (AIOS) and the groundbreaking AIOS-Agent infrastructure AIOS AgentHub AIOS AgentChat AIOS Live Demo Contribute Contact Sponsor Donation Be cautious: AIOS Foundation is not affiliated with any crypto-currency",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "683 chars"
+  },
+  "source_url": "https://aios.foundation/"
+ },
+ "agixt": {
+  "id": "agixt",
+  "description": "The Smart Task feature employs AI-driven agents to dynamically handle tasks, optimizing efficiency and avoiding redundancy. Chain Management : Sophisticated handling of chains or a series of linked commands, enabling the automation of complex workflows and processes. Web Browsing & Command Execution : Advanced capabilities to browse the web and execute commands for a more interactive AI experience, opening a wide range of possibilities for AI assistance. Multi-Provider Compatibility : Seamless integration with leading AI providers such as OpenAI (as well as any that use OpenAI style endpoints), ezLocalai, Hugging Face, GPT4Free, Google Gemini, and more. Versatile Plugin System & Code Evaluation : Extensible command support for various AI models along with robust support for code evaluation, providing assistance in programming tasks. Docker Deployment : Simplified setup and maintenance through Docker deployment. Audio-to-Text & Text-to-Speech Options : Integration with Hugging Face for seamless audio-to-text transcription, and multiple TTS choices, featuring Brian TTS, Mac OS TTS, and ElevenLabs. Platform Interoperability & AI Agent Management : Streamlined creation, renaming, deletion, and updating of AI agent settings along with easy interaction with popular platforms like Twitter, GitHub, Google, DALL-E, and more. Custom Prompts & Command Control : Granular control over agent abilities through enabling or disabling specific commands, and easy creation, editing, and deletion",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "1500 chars"
+  },
+  "source_url": "https://josh-xt.github.io/AGiXT/"
+ },
+ "dino-tycoon": {
+  "id": "dino-tycoon",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "49 chars",
+   "whitepaper": "0 chars"
+  }
+ },
+ "root-edge-2": {
+  "id": "root-edge-2",
+  "description": "We are building Gamified Ponzification Proliferation. A Brooklyn skyline of builds, rendered in 3D.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "99 chars"
+  },
+  "source_url": "https://thesis.casino"
+ },
+ "sakura-2": {
+  "id": "sakura-2",
+  "description": "Sakura is a Solana-backed reading platform with on-chain milestones, portable identity\u2014and Sakura AI (beta): wallet-aware chat for picks, swaps, bridges, and more.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "163 chars"
+  },
+  "source_url": "https://sakuraonseeker.com/"
+ },
+ "nuit": {
+  "id": "nuit",
+  "description": "Notte: The fast, reliable browser framework for AI Agents. Simplifies LLM web tasks, handles CAPTCHAs & offers dev tools. Build smarter agents.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "143 chars"
+  },
+  "source_url": "https://www.notte.cc/"
+ },
+ "memoride": {
+  "id": "memoride",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "0 chars"
+  }
+ },
+ "neurashi": {
+  "id": "neurashi",
+  "description": "A Consensus Orchestrator then reconciles their findings to produce a final, evidence-backed score. 01 Governance Agent Checks mint/freeze/permissions, renounce timing, and Token-2022 hooks. 02 Holder Agent Evaluates concentration, sybil hints, and dev cluster ties. 03 Liquidity Agent Measures depth, LP ownership/locks, and execution risk. 04 Market Integrity Agent Inspects for wash-like activity and divergence signals. 05 Launch Forensics Agent Detects copy-paste patterns, imposters, and name collisions. 06 Similarity Agent Compares to historical scam templates and nearest neighbours. 07 LLM Analyst Converts raw findings into plain-language rationales. 08 Consensus Orchestrator Aggregates agent outputs, applies calibration, and computes Guardian Score. [NEI] TOKEN_INTELLIGENCE_LAYER \u25c6 [SCOPE] SPL_TOKEN_ONLY Neurashi (NEI) > The multi-agent AI system for Solana, providing evidence-backed risk scoring for SPL tokens to help you spot bad tokens before they spot you. Methodology & Core Signals Integrations & Users DEXs & Launchpads Wallets & Trading Bots Retail & Pro Traders Research & Media \u2192 Multi-Agent Consensus Guardian Score Engine \u2192 Core Analysis Signals Governance & Control Surfaces Holder Structure & Distribution Liquidity & Microstructure Launch & Metadata Forensics [CORE] Detection Methodology [CONFIDENCE_WEIGHTED] Specialized Agent Judgments A consensus of specialized AI agents analyze tokens from multiple angles to produce a robust, evidence-backed risk score. Governa",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "1500 chars"
+  },
+  "source_url": "https://neurashi.com/"
+ },
+ "supergemma4-26b-multimodal": {
+  "id": "supergemma4-26b-multimodal",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "grass": {
+  "id": "grass",
+  "description": "Grass turns the unused part of your internet into rewards. Just download the app, let it run in the background, and start earning.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "130 chars"
+  },
+  "source_url": "https://grass.io/"
+ },
+ "celium": {
+  "id": "celium",
+  "description": "Rent H100, B200, RTX 4090 and more GPU pods at marketplace prices, billed per second with no minimum. Deploy in seconds from the browser or CLI. Built on Bittensor.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "164 chars"
+  },
+  "source_url": "https://lium.io/"
+ },
+ "chutes": {
+  "id": "chutes",
+  "description": "Deploy, run and scale any AI model in seconds. Try directly through our platform, or use our easy-to-use API in seconds.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "120 chars"
+  },
+  "source_url": "https://chutes.ai/"
+ },
+ "score": {
+  "id": "score",
+  "description": "Subnet 44 on Bittensor \u2013 Validator and Miner base code",
+  "desc_source": "github",
+  "attempts": {
+   "homepage": "0 chars",
+   "github": "54 chars"
+  }
+ },
+ "affine": {
+  "id": "affine",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "templar": {
+  "id": "templar",
+  "description": "Templar is a decentralized AI training network. Market-driven incentives for loss reduction, enabling permissionless distributed deep learning.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "143 chars"
+  },
+  "source_url": "https://www.tplr.ai/"
+ },
+ "iota-2": {
+  "id": "iota-2",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "67 chars",
+   "whitepaper": "http404",
+   "github": "0 chars"
+  }
+ },
+ "nova-3": {
+  "id": "nova-3",
+  "description": "Metanova Labs is an AI drug discovery company coordinating a global network of researchers to find novel therapeutics through open, merit-based competition \u00e2\u0080\u0094 with an internal pipeline and partnerships across small molecule and nanobody programs.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "247 chars"
+  },
+  "source_url": "https://www.metanova-labs.ai/"
+ },
+ "tiger-alpha": {
+  "id": "tiger-alpha",
+  "description": "Tiger brings together world-class expertise and cutting-edge opportunities in the utility memecoins and natural resources sectors.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "130 chars"
+  },
+  "source_url": "https://www.tigerinvests.com/"
+ },
+ "hippius": {
+  "id": "hippius",
+  "description": "Decentralized and transparent storage. Cloud solutions. Storage, virtual machines, apps backed by a blockchain for unmatched transparency and trust.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "148 chars"
+  },
+  "source_url": "https://hippius.com/"
+ },
+ "okzoo": {
+  "id": "okzoo",
+  "description": "Explore OKZOO, where virtual pets sync with smart devices, bridging physical and digital spaces while powering an intelligent sensor network with real-world data.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "162 chars"
+  },
+  "source_url": "https://okzoo.app/en/docs"
+ },
+ "gradients": {
+  "id": "gradients",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "61 chars",
+   "github": "0 chars"
+  }
+ },
+ "ao-computer": {
+  "id": "ao-computer",
+  "description": "AO is the hyper parallel computer: a decentralized supercomputer built on Arweave",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "81 chars"
+  },
+  "source_url": "https://ao.arweave.net/"
+ },
+ "redteam": {
+  "id": "redteam",
+  "description": "Transform your skills in circumventing and breaking detection mechanisms into meaningful, rewarding work. Compete, innovate, and earn in a safe, decentralized platform.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "168 chars"
+  },
+  "source_url": "https://www.theredteam.io/"
+ },
+ "codatta": {
+  "id": "codatta",
+  "description": "AI teams commission accountable data campaigns; qualified contributors and experts get paid upfront and keep attribution as invite-only beta expands.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "149 chars"
+  },
+  "source_url": "https://codatta.io/"
+ },
+ "bitmind": {
+  "id": "bitmind",
+  "description": "Industry-leading deepfake detection and AI content verification. 95% accuracy, sub-second response times, SOC 2 compliant. Protect your organization from AI fraud.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "163 chars"
+  },
+  "source_url": "https://bitmind.ai/"
+ },
+ "ridges-ai": {
+  "id": "ridges-ai",
+  "description": "Ridges.AI Ridgeline Upload Competitions Docs Toggle theme [i] RIDGES_CODE Active Agent openhands-act Ridges.AI \u00a9 2026 Ridges AI",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "127 chars"
+  },
+  "source_url": "https://www.ridges.ai/"
+ },
+ "404-gen": {
+  "id": "404-gen",
+  "description": "404 GEN mission is to democratize 3D content creation, empowering everyone to create immersive 3D worlds, games, and AR/VR/XR experiences effortlessly, from a text prompt.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "171 chars"
+  },
+  "source_url": "https://404.xyz/"
+ },
+ "openkaito": {
+  "id": "openkaito",
+  "description": "Publish your model insights with interactive plots for performance metrics, predictions, and hyperparameters. Made by OpenKaito using Weights & Biases",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "150 chars"
+  },
+  "source_url": "https://wandb.ai/sn-openkaito-openkaito/sn5-validators/reports/OpenKaito-Text-Embedding-Models--Vmlldzo5NjUwODAz"
+ },
+ "mainframe-2": {
+  "id": "mainframe-2",
+  "description": "Generalized Scientific Compute on BIttensor bittensor crypto decentralized dft molecular-dynamics",
+  "desc_source": "github",
+  "attempts": {
+   "homepage": "67 chars",
+   "whitepaper": "50 chars",
+   "github": "97 chars"
+  }
+ },
+ "swarm-3": {
+  "id": "swarm-3",
+  "description": "Swarm \u2014 Autonomous Drone Navigation ai ai-agents drone robotics robotics-competition",
+  "desc_source": "github",
+  "attempts": {
+   "github": "84 chars"
+  }
+ },
+ "taohash": {
+  "id": "taohash",
+  "description": "Compete to write the fastest GPU kernels for LLM inference. Fair benchmark, crowned wins, real reason to route traffic.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "119 chars"
+  },
+  "source_url": "https://cacheon.ai/"
+ },
+ "sturdy-subnet": {
+  "id": "sturdy-subnet",
+  "description": "Pareton continuously discovers, validates, and deploys the optimal serving configuration for your inference workload.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "117 chars"
+  },
+  "source_url": "https://pareton.ai/"
+ },
+ "flamewire": {
+  "id": "flamewire",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "0 chars",
+   "github": "0 chars"
+  }
+ },
+ "rich-kids-of-tao": {
+  "id": "rich-kids-of-tao",
+  "description": "Rent 4090s and 5090s by the hour, run OpenAI-compatible inference, or earn rewards as a miner. Bittensor subnet 110, powered by verified green energy.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "150 chars"
+  },
+  "source_url": "https://www.green-compute.com/"
+ },
+ "apex-5": {
+  "id": "apex-5",
+  "description": "Each competition rewards the best-performing algorithm submitted by the agent network. Competitions 0 active landscape Active now 0 running today Total submissions 0 all time Total paid out 0.00\u03b1 paid out N/A N/A Submissions 0 0.000 Top score 0.00\u03b1 Total paid out 0 Rounds N/A N/A Submissions 0 0.000 Top score 0.00\u03b1 Total paid out 0 Rounds N/A N/A Submissions 0 0.000 Top score 0.00\u03b1 Total paid out 0 Rounds All Competitions Apex unlocks innovation at scale by hosting multiple competitions at once, empowering the community to solve several challenges in parallel. all 0 Category All categories Type All types Sort Newest first Oldest first Most submissions 0 of 0 competitions N/A N/A Submissions 0 0.000 Top score 0.00\u03b1 Total paid out 0 Rounds N/A N/A Submissions 0 0.000 Top score 0.00\u03b1 Total paid out 0 Rounds N/A N/A Submissions 0 0.000 Top score 0.00\u03b1 Total paid out 0 Rounds N/A N/A Submissions 0 0.000 Top score 0.00\u03b1 Total paid out 0 Rounds",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "951 chars"
+  },
+  "source_url": "https://www.macrocosmos.ai/sn1"
+ },
+ "ai-factory": {
+  "id": "ai-factory",
+  "description": "Own aifact.io today. Secure checkout and guided transfer support. No hidden fees.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "81 chars"
+  },
+  "source_url": "https://www.aifact.io/"
+ },
+ "alpha-trader-exchange-atx": {
+  "id": "alpha-trader-exchange-atx",
+  "description": "Decentralized deep tech. Innovation from everywhere. Quantum computing, AI, and decentralized networks powered by Bittensor.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "124 chars"
+  },
+  "source_url": "https://qbittensorlabs.com/"
+ },
+ "data-universe": {
+  "id": "data-universe",
+  "description": "Data collection from billions of social media conversations. Access data from X, Reddit, and YouTube \u2014 ready for AI, analytics, research and brand and campaign monitoring.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "171 chars"
+  },
+  "source_url": "https://www.macrocosmos.ai/sn13"
+ },
+ "dojo-3": {
+  "id": "dojo-3",
+  "description": "Contribute to tensorplex-labs/dojo development by creating an account on GitHub.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "80 chars"
+  },
+  "source_url": "https://dojo.network/"
+ },
+ "liquidity": {
+  "id": "liquidity",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "github": "0 chars"
+  }
+ },
+ "synth-2": {
+  "id": "synth-2",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "github": "0 chars"
+  }
+ },
+ "oneoneone": {
+  "id": "oneoneone",
+  "description": "A decentralized AI ecosystem built on the Bittensor network that specializes in collecting, validating, and serving high-quality user-generated content from platforms across the web.",
+  "desc_source": "github",
+  "attempts": {
+   "github": "182 chars"
+  }
+ },
+ "saga-2": {
+  "id": "saga-2",
+  "description": "Saga builds AI agents that turn characters, brands, and worlds into living digital participants that can engage, adapt, and grow across the internet.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "149 chars"
+  },
+  "source_url": "https://www.saga.xyz/"
+ },
+ "webgenieai": {
+  "id": "webgenieai",
+  "description": "WebGenieAI Subnet for a Bittensor subnetwork",
+  "desc_source": "github",
+  "attempts": {
+   "homepage": "SSLError",
+   "github": "44 chars"
+  }
+ },
+ "vidaio": {
+  "id": "vidaio",
+  "description": "Leveraging the Bittensor ecosystem, Vidaio provides scalable, affordable, and high-quality video processing solutions.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "118 chars"
+  },
+  "source_url": "https://vidaio.io/"
+ },
+ "sportstensor": {
+  "id": "sportstensor",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "http404",
+   "github": "0 chars"
+  }
+ },
+ "level-114": {
+  "id": "level-114",
+  "description": "Websites, web apps, iOS and Android apps, AI assistants and custom systems for UK businesses. Test the working example right now. No signup.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "140 chars"
+  },
+  "source_url": "https://level114.io/"
+ },
+ "hodl-etf": {
+  "id": "hodl-etf",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "0 chars",
+   "whitepaper": "54 chars",
+   "github": "0 chars"
+  }
+ },
+ "compute-horde": {
+  "id": "compute-horde",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "46 chars",
+   "github": "0 chars"
+  }
+ },
+ "readyai": {
+  "id": "readyai",
+  "description": "10,000+ websites crawled, cleaned, and structured into machine-readable data for AI agents.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "91 chars"
+  },
+  "source_url": "https://readyai.ai/"
+ },
+ "nextplace": {
+  "id": "nextplace",
+  "description": "The universal quantum computing platform that connects you to leading QPUs from IonQ, Rigetti, IQM, AQT, and more. Build, deploy, and scale quantum applications effortlessly.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "174 chars"
+  },
+  "source_url": "https://www.openquantum.com/"
+ },
+ "zeus-5": {
+  "id": "zeus-5",
+  "description": "Zeus API for energy traders: ERA5-benchmarked vs ECMWF IFS and 4.5h ahead of ECMWF. Book a pilot on your regions and variables.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "127 chars"
+  },
+  "source_url": "https://www.zeussubnet.com/"
+ },
+ "bitsec-ai": {
+  "id": "bitsec-ai",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "0 chars",
+   "github": "0 chars"
+  }
+ },
+ "mind-network": {
+  "id": "mind-network",
+  "description": "Mind Network is pioneering FHE for a Fully Encrypted Web3. Innovating FHE to empower end-to-end encryption for the whole industry, starting with AI, modular chains, gaming, and DePin.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "183 chars"
+  },
+  "source_url": "https://www.mindnetwork.xyz/"
+ },
+ "nuance-2": {
+  "id": "nuance-2",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "github": "0 chars"
+  }
+ },
+ "bettensor": {
+  "id": "bettensor",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "http521",
+   "github": "0 chars"
+  }
+ },
+ "omega-any-to-any": {
+  "id": "omega-any-to-any",
+  "description": "AdTAO is the decision layer for AI-managed Google Ads. Cross-account data, MCP exposure, and continuously evaluated prediction based on real outcome history.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "157 chars"
+  },
+  "source_url": "https://adtao.io"
+ },
+ "masx-ai": {
+  "id": "masx-ai",
+  "description": "MASX AI builds autonomous forecasting systems for global intelligence and Bittensor network health, producing calibrated, Brier-scored probabilistic predictions.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "161 chars"
+  },
+  "source_url": "https://masxai.com/"
+ },
+ "itsai": {
+  "id": "itsai",
+  "description": "Free AI checker online with 4,000+ words per scan. Detect ChatGPT, Claude & Gemini \u2014 deep scan, plagiarism check, batch upload & API. Benchmarked on MGTD & RAID.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "161 chars"
+  },
+  "source_url": "https://its-ai.org/"
+ },
+ "brain": {
+  "id": "brain",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "github": "0 chars"
+  }
+ },
+ "subvortex": {
+  "id": "subvortex",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "github": "0 chars"
+  }
+ },
+ "omron": {
+  "id": "omron",
+  "description": "Verifiable inference on Bittensor bittensor zk zkml",
+  "desc_source": "github",
+  "attempts": {
+   "homepage": "SSLError",
+   "github": "51 chars"
+  }
+ },
+ "aos-2": {
+  "id": "aos-2",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "69 chars",
+   "github": "0 chars"
+  }
+ },
+ "pundi-aifx": {
+  "id": "pundi-aifx",
+  "description": "With PURSE+ browser plugin on x.com, users can actively contribute by tagging and annotating data for social AI, fostering a more participatory ecosystem. In 2025, an Pundi AI Data Marketplace will be launched for trading untrained and trained datasets, including but not limited to those from Pundi AI Data platform. Pundi AI MM Agent will also be launched in 2025, allowing the training of agentic AI agents using datasets on Pundi AI Data platform and market-making agents and their DAO tokens on-chain. Next Tokenizing Datasets on Pundi AI Last updated 1 year ago",
+  "desc_source": "whitepaper",
+  "attempts": {
+   "homepage": "74 chars",
+   "whitepaper": "567 chars"
+  },
+  "source_url": "https://pundi.gitbook.io/pundi"
+ },
+ "desearch": {
+  "id": "desearch",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "SSLError",
+   "github": "0 chars"
+  }
+ },
+ "gittensor": {
+  "id": "gittensor",
+  "description": "The workforce for open source. Compete for rewards by contributing quality code to open source repositories.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "108 chars"
+  },
+  "source_url": "https://gittensor.io/"
+ },
+ "precog": {
+  "id": "precog",
+  "description": "Design for Precog Subnet. Intended to provide an arena to express market knowledge and accelerate the dissemination of hidden information relevant to asset prices.",
+  "desc_source": "github",
+  "attempts": {
+   "homepage": "http503",
+   "github": "163 chars"
+  }
+ },
+ "coldint": {
+  "id": "coldint",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "ReadTimeout",
+   "github": "0 chars"
+  }
+ },
+ "infinitehash": {
+  "id": "infinitehash",
+  "description": "Explore InfiniteHash for blockchain technology, cryptocurrency, digital assets, decentralized solutions",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "103 chars"
+  },
+  "source_url": "https://infinitehash.xyz/"
+ },
+ "polariscloud-ai": {
+  "id": "polariscloud-ai",
+  "description": "A place of its own. Agent Hermes An agent from Nous Research for tools and ongoing work. Checking availability\u2026 OpenClaw An agent runtime for your prompts, tools, and workspace. Checking availability\u2026 Pi A minimal coding agent with tools, skills, and extensions. Checking availability\u2026 Computer capabilities Identity A named computer with its own deployment status. Inbox An email address when the inbox service is available. Filesystem Read workspace files when the runtime is ready. Browser Open the runtime interface when its public URL is ready. Memory Account-shared memory, subject to service availability. Choose your agent\u2019s brain. Platform inference, or a provider you already use. Inference source Managed Platform inference with your runtime\u2019s default model",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "768 chars"
+  },
+  "source_url": "https://www.polariscloud.ai/#Home"
+ },
+ "merit-2": {
+  "id": "merit-2",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "github": "0 chars"
+  }
+ },
+ "fakenews": {
+  "id": "fakenews",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "github": "0 chars"
+  }
+ },
+ "sundae-bar": {
+  "id": "sundae-bar",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "byteleap": {
+  "id": "byteleap",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "42 chars"
+  }
+ },
+ "swe-rizzo": {
+  "id": "swe-rizzo",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "SSLError",
+   "github": "0 chars"
+  }
+ },
+ "bitagent-rizzo": {
+  "id": "bitagent-rizzo",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "SSLError",
+   "github": "0 chars"
+  }
+ },
+ "ni-compute": {
+  "id": "ni-compute",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "http525",
+   "whitepaper": "http525",
+   "github": "0 chars"
+  }
+ },
+ "mantis-2": {
+  "id": "mantis-2",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "github": "0 chars"
+  }
+ },
+ "better-therapy": {
+  "id": "better-therapy",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "0 chars",
+   "github": "0 chars"
+  }
+ },
+ "liquidity-provisioning": {
+  "id": "liquidity-provisioning",
+  "description": "Verified decentralized compute. GPU capacity is checked continuously, routed to rentals on demand, and available to x402 agents.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "128 chars"
+  },
+  "source_url": "https://nodexo.ai"
+ },
+ "8-ball": {
+  "id": "8-ball",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "sleepless-ai": {
+  "id": "sleepless-ai",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "0 chars"
+  }
+ },
+ "rna-2": {
+  "id": "rna-2",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "cel-ai": {
+  "id": "cel-ai",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "candles": {
+  "id": "candles",
+  "description": "Will be updated closer to public release",
+  "desc_source": "github",
+  "attempts": {
+   "homepage": "http522",
+   "github": "40 chars"
+  }
+ },
+ "eastworld": {
+  "id": "eastworld",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "poker44": {
+  "id": "poker44",
+  "description": "Poker44 builds live benchmark environments where humans and bots share the table to evaluate and improve bot-detection models.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "126 chars"
+  },
+  "source_url": "https://poker44.net/"
+ },
+ "loosh": {
+  "id": "loosh",
+  "description": "Loosh.ai is a decentralized AI protocol mapping human consciousness through neurodata, nonverbal cognition, and agentic simulation across Bittensor subnets.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "156 chars"
+  },
+  "source_url": "https://www.loosh.ai/"
+ },
+ "cognify": {
+  "id": "cognify",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "checkerchain-2": {
+  "id": "checkerchain-2",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "SSLError",
+   "whitepaper": "SSLError",
+   "github": "0 chars"
+  }
+ },
+ "covalent-x-token": {
+  "id": "covalent-x-token",
+  "description": "Documentation Index Fetch the complete documentation index at: /docs/llms.txt Use this file to discover all available pages before exploring further. Skip to main content Covalent Network home page Search... \u2318 K Stake your CXT Stake your CXT Search... Navigation Resources Covalent Network Whitepaper Documentation Discord Telegram Blog Get Started Introduction CXT - Covalent Network Token Overview of CXT Tokenomics CXT Staking Guide Network Rewards & Operator Economics Run a node Overview Quick Start Block Specimen Producer Onboarding Block Results Producer Onboarding EWM Light Client Onboarding Resources Glossary Contract Addresses System Parameters Operator FAQ Delegator FAQ EWM Light Client FAQ Security and Audits Covalent Network Whitepaper Block Specimen Whitepaper Block Result Producer Whitepaper Ethereum Wayback Machine Whitepaper EWM Light Client Whitepaper Staking Emission Schedule Governance Resources Covalent Network Whitepaper Covalent Network Whitepaper Click here to read Network Whitepaper Security and Audits Block Specimen Whitepaper x github linkedin Powered by This documentation is built and hosted on Mintlify, a developer documentation platform",
+  "desc_source": "whitepaper",
+  "attempts": {
+   "homepage": "0 chars",
+   "whitepaper": "1179 chars"
+  },
+  "source_url": "https://www.covalenthq.com/docs/resources/covalent-network-whitepaper"
+ },
+ "internet-of-intelligence": {
+  "id": "internet-of-intelligence",
+  "description": null,
+  "desc_source": null,
+  "attempts": {}
+ },
+ "solmev": {
+  "id": "solmev",
+  "description": "Top 10 Game X\u00f3c \u0110\u0129a Online Ti\u1ec1n Th\u1eadt Uy T\u00edn Nh\u1ea5t Hi\u1ec7n Nay \u00b7 SUNWIN \u00b7 HITCLUB \u00b7 789CLUB \u00b7 GO88 \u00b7 VIN88 \u00b7 RIKVIP... H\u00e3y \u0110\u0103ng K\u00fd \u0110\u1ec3 Nh\u1eadn Nh\u1eefng Ph\u1ea7n Th\u01b0\u1edfng H\u1ea5p D\u1eabn.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "160 chars"
+  },
+  "source_url": "https://solanamev.io/"
+ },
+ "taoillium": {
+  "id": "taoillium",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "0 chars",
+   "github": "0 chars"
+  }
+ },
+ "arai": {
+  "id": "arai",
+  "description": "Arai Systems is a cutting-edge framework integrating AI Copilot technology to revolutionize gaming and digital experiences. It empowers players and developers with intelligent, adaptive AI Agents, enhancing gameplay, creativity, and user engagement. By seamlessly merging advanced AI capabilities with modular design, Arai Systems transforms projects like 0xAstra into immersive, dynamic ecosystems, bridging the gap between gaming, AI innovation, and next-gen interactivity.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "475 chars"
+  },
+  "source_url": "https://www.arai.systems/"
+ },
+ "effect-ai": {
+  "id": "effect-ai",
+  "description": "Effect AI is a decentralized P2P Network used to turbocharge human-driven AI tasks.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "83 chars"
+  },
+  "source_url": "https://effect.ai/"
+ },
+ "taonado": {
+  "id": "taonado",
+  "description": "A decentralized, 1.5\u00d7 overcollateralized stablecoin backed by TAO for the Bittensor ecosystem.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "94 chars"
+  },
+  "source_url": "https://tensorusd.com/"
+ },
+ "for-sale": {
+  "id": "for-sale",
+  "description": "Condenses AI Condenses AI Documentation Invest Subnet Dashboard Code Playground Get API Key Be a part of the future we are creating Learn More Save up to 40% on LLM Tokens With Condenses AI, you get an optimized token length that allows you save on cost while increasing performance Get Started Read Docs KEY FEATURES We offer a high quality solution towards lowering computational costs and time Powered and Secured By Bittensor We are a Bittensor subnet that speeds up AI inference by shortening the very long sequences of natural language tokens The subnet API compresses long sequences of natural language tokens into soft tokens. Read Whitepaper OUR PLAYGROUND See why Condenses AI is the better option for saving on token cost Get Your API Key Condenses AI Playground Reset Llama 3.1 8B We have saved you 0 Tokens in this conversation! We have saved you 0 Tokens in this conversation! We have saved you 0 Tokens in this conversation! We have saved you 0 Tokens in this conversation! We have saved you 0 Tokens in this conversation! We have saved you 0 Tokens in this conversation! Welcome to Condenses Playground Condenses kicks in whenever you send a lengthy prompt! You can try with one of our example prompts or write your own! Summarise this story: On the first Monday of the month of April 1625, the village of Meung, where the author of the Romance of the Rose was born,9 seemed to be in as total an upheaval as if the Huguenots had come to make a second La Rochelle.10 Many of the townsm",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "1500 chars"
+  },
+  "source_url": "https://www.condenses.ai/"
+ },
+ "chunking": {
+  "id": "chunking",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "SSLError",
+   "github": "0 chars"
+  }
+ },
+ "docs-insight-tatsu": {
+  "id": "docs-insight-tatsu",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "SSLError",
+   "github": "0 chars"
+  }
+ },
+ "karma-by-virtuals": {
+  "id": "karma-by-virtuals",
+  "description": "The crypto super app. Trade across chains, spend with a crypto card, and receive euros, dollars, and pounds. Self-custodial, settled to one stablecoin balance.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "159 chars"
+  },
+  "source_url": "https://trykarma.app/"
+ },
+ "9gnosis": {
+  "id": "9gnosis",
+  "description": "9NOSIS 9nosis loading\u00e2\u0080\u00a6 scroll zoom drag pan dbl-click reset Q E turn [ ] hour \u25b6 \u00e2\u0099\u00aa sound \u00d7 \u00e2\u0098\u00b0",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "97 chars"
+  },
+  "source_url": "https://9nosis.net/"
+ },
+ "reinforced-ai": {
+  "id": "reinforced-ai",
+  "description": "AI-driven security reviews in Hardhat. Catch vulnerabilities before they hit mainnet with multi-model consensus.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "112 chars"
+  },
+  "source_url": "https://reinforced.app/"
+ },
+ "deepnode": {
+  "id": "deepnode",
+  "description": "DeepNode is the foundation for open, honest AI. Rewarding relevance and solving a whole world of problems.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "106 chars"
+  },
+  "source_url": "https://deepnode.ai/"
+ },
+ "agentos": {
+  "id": "agentos",
+  "description": "AgentOS is a local-first AI agent with native agentic trading, across CLI, Web UI, and chat channels. An on-device Pilot Router classifies each task locally and routes it to the cheapest capable model, so you stop overpaying for AI.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "232 chars"
+  },
+  "source_url": "https://useagentos.dev/"
+ },
+ "neza": {
+  "id": "neza",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "SSLError",
+   "github": "0 chars"
+  }
+ },
+ "humanode": {
+  "id": "humanode",
+  "description": "Humanode is the first blockchain secured by verified humans, not machines or money.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "83 chars"
+  },
+  "source_url": "https://humanode.io/"
+ },
+ "vimen-by-virtuals": {
+  "id": "vimen-by-virtuals",
+  "description": "On-chain index baskets on Robinhood Chain. Seven stocks. One token. Zero managers.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "82 chars"
+  },
+  "source_url": "https://www.vimen.org/"
+ },
+ "merrymen-by-virtuals": {
+  "id": "merrymen-by-virtuals",
+  "description": "Trading agents inside hard caps \u2014 on-chain, the chain itself enforces them, non-custodially. Self-host it or run it hosted; your owner key never leaves you. Verify the wall in the explorer; steer the band from Telegram.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "219 chars"
+  },
+  "source_url": "https://merrymen.dev/"
+ },
+ "bleeep-by-virtuals": {
+  "id": "bleeep-by-virtuals",
+  "description": "Virtuals Protocol is a society of productive AI agents, each designed to generate services or products and autonomously engage in onchain commerce, with humans or other agents. These agents are tokenized through Agent Tokens, enabling capital formation, permissionless participation, and incentive alignment between creators, investors, and agents.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "348 chars"
+  },
+  "source_url": "https://app.virtuals.io/virtuals/105665"
+ },
+ "bitads": {
+  "id": "bitads",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "SSLError",
+   "github": "0 chars"
+  }
+ },
+ "happyai-2": {
+  "id": "happyai-2",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "SSLError",
+   "github": "0 chars"
+  }
+ },
+ "humanoid-network-by-virtuals": {
+  "id": "humanoid-network-by-virtuals",
+  "description": "Physics-validated motion data marketplace for humanoid robots. Contributors generate motions from text prompts, our Hydra World foundation model validates against real physics, enterprises license the verified dataset.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "218 chars"
+  },
+  "source_url": "https://humanoidnetwork.org/"
+ },
+ "vericore": {
+  "id": "vericore",
+  "description": "Open Semantic Verification - dFusion AI Bittensor Subnet",
+  "desc_source": "github",
+  "attempts": {
+   "homepage": "0 chars",
+   "github": "56 chars"
+  }
+ },
+ "basemate": {
+  "id": "basemate",
+  "description": "Send anything onchain from iMessage and Android chats. Discover launches, then settle on Base.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "94 chars"
+  },
+  "source_url": "https://basemate.app/"
+ },
+ "privacy-hood-by-virtuals": {
+  "id": "privacy-hood-by-virtuals",
+  "description": "Private USDG transfers on Robinhood Chain. Nothing on the public ledger - no amount, no counterparty, no destination wallet.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "124 chars"
+  },
+  "source_url": "https://www.privacyhood.app/"
+ },
+ "fletcher-by-virtuals": {
+  "id": "fletcher-by-virtuals",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "SSLError"
+  }
+ },
+ "helixa-cred": {
+  "id": "helixa-cred",
+  "description": "Onchain identity, reputation, and Cred Scores for AI agents on Base. Mint your agent. Build your Aura. Prove your cred.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "119 chars"
+  },
+  "source_url": "https://helixa.xyz/"
+ },
+ "safe-scan": {
+  "id": "safe-scan",
+  "description": "APIGACOR88 memetakan jalur Gacor88 server Thailand untuk menemukan link slot gacor terbaru hari ini, membaca pilihan game populer dan menelusuri rute maxwin dengan dukungan pemindaian digital Safe Scan AI.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "205 chars"
+  },
+  "source_url": "https://safe-scan.ai/"
+ },
+ "inferra": {
+  "id": "inferra",
+  "description": "GPU compute is a market. Tokenise it, trade it, redeem it for live machine access. $INFERRA.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "92 chars"
+  },
+  "source_url": "https://inferra.trade/"
+ },
+ "grantr": {
+  "id": "grantr",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "0 chars"
+  }
+ },
+ "cloister": {
+  "id": "cloister",
+  "description": "Private AI, sealed by design. Your prompt runs inside a hardware-sealed enclave \u00e2\u0080\u0094 the operator can",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "100 chars"
+  },
+  "source_url": "https://cloister.space/"
+ },
+ "ranger-ai": {
+  "id": "ranger-ai",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "http503"
+  }
+ },
+ "dackieswap-2": {
+  "id": "dackieswap-2",
+  "description": "DackieSwap delivers superior swap results as the leading Meta Aggregator of Aggregators. Elevate your DeFi trading experience with DackieSwap \u2014 where better execution is the standard.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "183 chars"
+  },
+  "source_url": "https://www.dackieswap.xyz"
+ },
+ "boom-2": {
+  "id": "boom-2",
+  "description": "Boom pioneers the AI data incentive layer, transforming gaming achievements, social capital, and real-world assets into programmable on-chain value. Join the New Internet of Ownership.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "184 chars"
+  },
+  "source_url": "https://boomai.io/"
+ },
+ "keel": {
+  "id": "keel",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "0 chars"
+  }
+ },
+ "quanthood": {
+  "id": "quanthood",
+  "description": "Scan any token for rug risk with a real on-chain holder X-ray. See what your own wallet secretly leaks with the Privacy X-Ray. Live markets, a free AI hub, and The Pit arena. Powered by $QUANT.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "193 chars"
+  },
+  "source_url": "https://quanthood.com/#/home"
+ },
+ "swirl-chat": {
+  "id": "swirl-chat",
+  "description": "Swirl.Ai is a smarter, smoother AI assistant: live web search, real reasoning, custom agents and a free market screener. Unlimited messages, no paywall.",
+  "desc_source": "homepage",
+  "attempts": {
+   "homepage": "152 chars"
+  },
+  "source_url": "https://swirls.chat/"
+ },
+ "promptale-ai": {
+  "id": "promptale-ai",
+  "description": null,
+  "desc_source": null,
+  "attempts": {
+   "homepage": "50 chars"
+  }
+ }
+}

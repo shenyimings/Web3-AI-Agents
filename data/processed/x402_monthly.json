@@ -1,0 +1,12 @@
+[
+ {"month":"2025-11","settlements":4563,"payers":39,"payees":39,"usd":527.86},
+ {"month":"2025-12","settlements":3198,"payers":1477,"payees":1216,"usd":108676.05},
+ {"month":"2026-01","settlements":30,"payers":17,"payees":10,"usd":278.88},
+ {"month":"2026-02","settlements":105340,"payers":1880,"payees":32,"usd":1398.32},
+ {"month":"2026-03","settlements":240098,"payers":2744,"payees":28,"usd":325.97},
+ {"month":"2026-04","settlements":44988,"payers":654,"payees":39,"usd":362.67},
+ {"month":"2026-05","settlements":20576,"payers":419,"payees":47,"usd":18457.97},
+ {"month":"2026-06","settlements":9019,"payers":193,"payees":19,"usd":93.88},
+ {"month":"2026-07","settlements":4003,"payers":105,"payees":20,"usd":38.94},
+ {"month":"2026-08","settlements":1098,"payers":29,"payees":14,"usd":10.44}
+]

@@ -1,0 +1,74 @@
+{
+ "classified": 855,
+ "with_description": 750,
+ "governance_vocabulary": 91,
+ "governance_with_agent": 44,
+ "token_utility": {
+  "n": 23,
+  "ids": [
+   "virtual-protocol",
+   "cookie",
+   "humans-ai",
+   "kuvi",
+   "xeleb-protocol",
+   "theoriq",
+   "think-protocol",
+   "arc",
+   "gemach",
+   "anita-ai",
+   "starly-the-star-guide",
+   "carv",
+   "druid-ai",
+   "hive-protocol-2",
+   "misato",
+   "morphware",
+   "neutaro",
+   "sealcoin",
+   "shogun",
+   "theta-token",
+   "vana",
+   "x402guard",
+   "xiiid"
+  ],
+  "mcap_usd": 708093396.8829969,
+  "share": 0.04580885221864052
+ },
+ "agent_as_actor": {
+  "n": 10,
+  "ids": [
+   "autonolas",
+   "ai16z",
+   "thirdfy",
+   "sentismai",
+   "chirper-ai",
+   "agixbt-by-virtuals",
+   "internet-computer",
+   "juliaos",
+   "owockibot",
+   "qudeai-framework"
+  ],
+  "mcap_usd": 1385007471.7504127,
+  "largest": "Internet Computer",
+  "mcap_ex_largest_usd": 49952159.510857105,
+  "share": 0.08960061324454228
+ },
+ "agent_as_subject": {
+  "n": 11,
+  "ids": [
+   "quack-ai",
+   "odei",
+   "pha",
+   "newton-protocol",
+   "uomi",
+   "covenant-foundation",
+   "ember-3",
+   "gitlawb",
+   "nave-shares",
+   "robo-token-2",
+   "victorai-by-virtuals"
+  ],
+  "mcap_usd": 166051054.59350723,
+  "share": 0.010742379824621177
+ },
+ "total_mcap_usd": 15457566880.378195
+}

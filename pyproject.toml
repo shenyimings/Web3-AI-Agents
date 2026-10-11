@@ -1,0 +1,11 @@
+[project]
+name = "bcra-artifact"
+version = "0.1.0"
+description = "Data collection and analysis pipeline for the BCRA revision of Web3 x AI Agents"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.32.3",
+    "pandas>=2.2.3",
+    "matplotlib>=3.11.1",
+    "seaborn>=0.13.2",
+]
